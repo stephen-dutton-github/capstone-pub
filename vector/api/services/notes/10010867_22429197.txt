@@ -1,0 +1,32 @@
+Patient Information:
+- Patient ID: 10010867
+- Admission ID: 22429197
+- Patient Name: Mateusz Kowalski
+- Patient Age: 28
+
+Initial Diagnosis:
+Based on clinical presentation and laboratory findings, the primary concern is a severe respiratory infection due to viral etiology.
+
+History of Present Illness (HPI):
+Mateusz Kowalski, a 28-year-old male, presented with a high-grade fever, productive cough, and shortness of breath persisting for five days. He denies any history of similar symptoms in the past or recent travel. His occupation involves working with large crowds in an urban environment.
+
+Past Medical History (PMH):
+No significant medical history reported by the patient or noted from available records. He is not vaccinated against COVID-19, citing misconceptions about vaccine safety.
+
+Medications:
+Currently on no specific treatment regimen, as the primary focus is symptomatic management to alleviate symptoms and support respiratory function.
+
+Family History (FH):
+No immediate family members have significant medical conditions reported.
+
+Social History (SH):
+Patient reports poor adherence to infection control guidelines due to misinformation. He has multiple social contacts daily and does not use face coverings in public spaces.
+
+Physical Examination (PE):
+Vital signs show tachypnea, tachycardia, and elevated temperature. Lung examination reveals decreased breath sounds with diffuse crackles bilaterally, indicative of interstitial involvement. Oxygen saturation is low at room air.
+
+Initial Diagnosis:
+A severe respiratory viral infection, characterized by pneumonia-like clinical presentation with potential for progression due to current social behaviors and vaccination status.
+
+Plan (Treatment & Management):
+Initiate empiric antibiotic coverage for suspected bacterial superinfection, given the severity and duration of symptoms. Implement supportive care measures, including oxygen supplementation as needed. Educate patient on the risks associated with misinformation regarding COVID-19 vaccines and provide resources for accurate information. Arrange for close follow-up in one week or sooner if condition deteriorates.

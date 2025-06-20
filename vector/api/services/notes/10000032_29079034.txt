@@ -1,0 +1,34 @@
+Patient Information:
+- Patient ID: 10000032
+- Admission ID: 29079034
+- Patient Name: Aarav Sharma
+- Patient Age: 52 years old
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of significant fluid loss and altered cardiovascular status, leading to decreased peripheral perfusion.
+
+History of Present Illness (HPI):
+Aarav Sharma, a 52-year-old male, was admitted to the hospital following an emergency department visit. He reported experiencing persistent dizziness upon standing and lightheadedness. The patient denied any chest pain or shortness of breath but expressed concerns regarding his blood pressure fluctuations throughout the day.
+
+Past Medical History (PMH):
+Aarav has a significant medical history including hypertension, chronic kidney disease stage 3, and hyperlipidemia, all currently managed with medication. He underwent an endoscopy procedure two days prior to admission, during which he received conscious sedation.
+
+Medications:
+Current medications include lisinopril for hypertension, atorvastatin for hyperlipidemia, and irbesartan as an antihypertensive agent. The patient also takes folic acid supplements due to a history of hyperuricemia.
+
+Family History (FH):
+Aarav's family history reveals a first-degree relative with coronary artery disease and a second-degree relative with hypertension.
+
+Social History (SH):
+The patient denies any alcohol or tobacco use and is married with two children. He works as an engineer and reports adherence to his medication regimen.
+
+Physical Examination (PE):
+Vital signs upon admission showed a blood pressure of 90/60 mmHg, heart rate of 95 beats per minute, respiratory rate of 16 breaths per minute, temperature of 98.6°F, and oxygen saturation at 99% on room air. Physical examination noted dry mucous membranes, decreased skin turgor, and orthostatic hypotension. There were no signs of acute distress or cardiac failure.
+
+Initial Diagnosis:
+The patient's symptoms and physical findings are suggestive of volume depletion secondary to recent procedural fluid shifts and potential medication-induced vasodilation. The decrease in blood pressure is significant given his history of chronic hypertension, chronic kidney disease stage 3, and recent endoscopy with sedation.
+
+Plan (Treatment & Management):
+Aarav Sharma will be managed with aggressive intravenous hydration to address volume depletion and monitor for any signs of fluid overload due to underlying chronic kidney disease. A vasopressor may be considered if there is persistent symptomatic hypotension. Blood pressure monitoring will be conducted frequently, along with electrolyte panel and renal function tests to reassess his condition. Education regarding the importance of postural changes and hydration will also be provided.
+
+It is essential for the healthcare team to closely monitor this patient as he has multiple comorbidities that complicate both diagnosis and treatment.

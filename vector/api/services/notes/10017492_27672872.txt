@@ -1,0 +1,32 @@
+Patient Information:
+- Patient ID: 10017492
+- Admission ID: 27672872
+- Patient Name: Sebastian Müller
+- Patient Age: 84
+
+Initial Diagnosis:
+The patient presents with symptoms consistent with a severe respiratory infection, characterized by fever, productive cough, and shortness of breath. Laboratory results indicate an elevated white blood cell count, C-reactive protein levels, and a positive test for a highly contagious viral pathogen.
+
+History of Present Illness (HPI):
+Sebastian Müller, an 84-year-old male, reports experiencing increasing dyspnea over the past five days. He also notes a non-productive cough that began approximately ten days ago. The patient denies any recent travel or contact with infected individuals but admits to living in a long-term care facility where several residents have recently contracted respiratory illnesses.
+
+Past Medical History (PMH):
+The patient has a significant history of chronic obstructive pulmonary disease (COPD) and congestive heart failure. He is currently on multiple medications, including tiotropium, salmeterol/fluticasone, furosemide, and spironolactone. His last influenza vaccination was administered three months ago.
+
+Medications:
+As per his PMH, the patient is currently taking tiotropium, salmeterol/fluticasone, furosemide, and spironolactone for COPD and CHF management. Due to his current illness, an antiviral medication has been added to his regimen pending confirmation of his diagnosis.
+
+Family History (FH):
+No immediate family members are known to have any significant medical conditions related to respiratory illnesses or cardiovascular diseases.
+
+Social History (SH):
+The patient resides in a long-term care facility where multiple residents have recently contracted respiratory infections. The facility reports implementing enhanced infection control measures, including increased cleaning protocols and isolation precautions for affected individuals.
+
+Physical Examination (PE):
+Vital signs show an elevated temperature of 38°C (100.4°F) and tachypnea at 24 breaths per minute. Respiratory examination reveals bilateral coarse crackles and scattered wheezes. Cardiovascular examination shows a regular rate with no murmurs, rubs, or gallops.
+
+Initial Diagnosis:
+The patient's presentation and lab results are suggestive of severe respiratory illness due to a highly contagious viral pathogen, characterized by systemic inflammatory response and multi-organ involvement including pulmonary and cardiovascular systems.
+
+Plan (Treatment & Management):
+The management plan includes aggressive monitoring and supportive care in the ICU setting. Antiviral therapy has been initiated pending confirmation of the diagnosis via PCR test. The patient will receive supplemental oxygen as needed to maintain adequate oxygen saturation levels. His current medications for COPD and CHF will continue, with adjustments made as necessary based on his response to treatment. Infection control measures within the facility are being escalated due to suspected community transmission.

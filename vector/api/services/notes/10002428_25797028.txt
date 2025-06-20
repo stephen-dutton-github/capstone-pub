@@ -1,0 +1,50 @@
+Patient Information:
+- Patient ID: 10002428
+- Admission ID: 25797028
+- Patient Name: Jiahao Chen
+- Patient Age: 80 years old
+
+Initial Diagnosis:
+Based on the presented symptoms and clinical findings, the primary concern is a potential cardiovascular etiology.
+
+History of Present Illness (HPI):
+Mr. Jiahao Chen, an 80-year-old male, was brought to the emergency department by family members after experiencing a sudden loss of consciousness while walking in his home. He reported no prior warning signs or symptoms before this event. The patient regained consciousness after approximately two minutes without any residual neurological deficits.
+
+Past Medical History (PMH):
+- Hypertension
+- Chronic atrial fibrillation
+- Coronary artery disease with previous myocardial infarction
+- Moderate aortic stenosis
+- Hyperlipidemia
+
+Medications:
+- Metoprolol succinate 25 mg daily for heart rate control in atrial fibrillation
+- Warfarin 5 mg daily for stroke prevention in atrial fibrillation
+- Amlodipine besylate 10 mg daily for hypertension management
+- Aspirin 81 mg daily for cardiovascular protection
+
+Family History (FH):
+- Maternal grandmother died of congestive heart failure; no other family history of cardiac events noted.
+
+Social History (SH):
+- Lives independently, ambulatory with a cane due to orthopedic issues from a previous fall.
+- No recent travel or exposure to infectious diseases reported.
+
+Physical Examination (PE):
+- General: Alert and oriented, no acute distress
+- Cardiovascular: Rate 90 bpm regular; rhythm irregular, grade II ejection systolic murmur at the left sternal border
+- Respiratory: Clear to auscultation bilaterally; no wheezes, rales, or rhonchi noted
+- Neurological: Oriented x3, no focal deficits observed
+
+Initial Diagnosis:
+Given the patient's advanced age and extensive cardiovascular history, the primary consideration is a cardiac event leading to syncope. Differential diagnoses include orthostatic hypotension and arrhythmia.
+
+Plan (Treatment & Management):
+1. Admit for observation and monitoring.
+2. Perform a 12-lead EKG and continuous telemetry to assess for any arrhythmic events.
+3. Order echocardiogram to evaluate the current status of heart valves, particularly aortic stenosis.
+4. Consult cardiology for further evaluation and management.
+5. Ensure hydration and consider fluid bolus if orthostatic blood pressure drops significantly during assessment.
+6. Monitor vital signs closely, especially heart rate and rhythm.
+
+The patient will be educated about potential cardiac events and advised to avoid ambulating alone until a more definitive diagnosis is made and appropriate interventions are initiated.

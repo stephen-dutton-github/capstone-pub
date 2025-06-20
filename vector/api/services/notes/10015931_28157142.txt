@@ -1,0 +1,32 @@
+Patient Information:
+Patient ID: 10015931
+Admission ID: 28157142
+Patient Name: Muhammad Iqbal
+Patient Age: 87
+
+Initial Diagnosis:
+The patient presents with signs and symptoms suggestive of severe respiratory infection, characterized by fever, cough, dyspnea, and hypoxia.
+
+History of Present Illness (HPI):
+Muhammad Iqbal, an 87-year-old male, was brought to the emergency department by family due to concerns for worsening respiratory status. The onset of his current illness began approximately one week ago with mild cough and low-grade fever. Over the past few days, symptoms have escalated to include increasing shortness of breath and oxygen saturation has decreased significantly.
+
+Past Medical History (PMH):
+The patient has a history of hypertension, diabetes mellitus type 2, and ischemic heart disease. He is currently under treatment for these conditions with appropriate medications.
+
+Medications:
+Metformin, Lisinopril, Amlodipine, Aspirin
+
+Family History (FH):
+No significant family medical history reported.
+
+Social History (SH):
+The patient lives alone and has limited mobility due to his age and previous falls. He occasionally socializes with family members but avoids large gatherings as he is not comfortable in crowded spaces.
+
+Physical Examination (PE):
+Vital signs: Temperature 38.5°C, Heart rate 90 bpm, Respiratory rate 24 breaths per minute, Oxygen saturation 88% on room air. General appearance: Elderly male appears lethargic with significant respiratory distress. Auscultation of the lungs reveals bilateral diffuse rhonchi and reduced breath sounds.
+
+Initial Diagnosis:
+The clinical presentation is consistent with a severe community-acquired pneumonia due to viral etiology, given his age, comorbidities, and current social exposure history.
+
+Plan (Treatment & Management):
+Initiate empiric antibiotic therapy targeting common bacterial pathogens associated with community-acquired pneumonia. Administer antiviral medication considering the suspected viral cause. Provide supplemental oxygen and consider noninvasive ventilation based on respiratory status. Monitor vital signs closely and arrange for follow-up imaging studies including chest X-ray or CT scan to assess extent of lung involvement. Educate patient and family about disease process, treatment expectations, and importance of social distancing to prevent further transmission.

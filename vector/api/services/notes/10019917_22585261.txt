@@ -1,0 +1,32 @@
+Patient Information:
+- Patient ID: 10019917
+- Admission ID: 22585261
+- Patient Name: Elena Garcia
+- Patient Age: 44
+
+Initial Diagnosis:
+Based on clinical findings and diagnostic tests, the patient presents with systemic symptoms suggestive of disseminated granulomatous disease.
+
+History of Present Illness (HPI):
+Elena Garcia, a 44-year-old female, presented to the emergency department with complaints of fatigue, night sweats, weight loss over several months, and intermittent fevers. She reports feeling generally unwell for approximately three months, with worsening symptoms leading to her current admission.
+
+Past Medical History (PMH):
+The patient has no significant past medical history, including no previous infections or chronic diseases. She has not received any vaccinations in the last ten years and has never traveled internationally since 2015.
+
+Medications:
+No medications were reported at the time of admission.
+
+Family History (FH):
+The patient's family history is unremarkable with no reported cases of tuberculosis or other infectious diseases.
+
+Social History (SH):
+Ms. Garcia works as an elementary school teacher in a local public school and reports no occupational exposures to potential pathogens. She denies any recreational drug use or alcohol abuse. Her social interactions are limited, and she has been living alone for the last three years since separating from her spouse.
+
+Physical Examination (PE):
+The patient appears tired but is alert and oriented. Vital signs show elevated body temperature of 38°C, heart rate at 110 bpm, respiratory rate at 20 breaths per minute, and blood pressure at 100/70 mmHg. Pulmonary examination reveals crackles in both lung bases with diminished breath sounds. Abdominal examination shows mild tenderness in the right upper quadrant without guarding or rebound. Peripheral lymphadenopathy is noted. Neurological exam is normal.
+
+Initial Diagnosis:
+The clinical presentation, along with chest X-ray findings of bilateral miliary opacities and elevated serum ACE levels, suggests a systemic granulomatous disease likely caused by Mycobacterium species infection.
+
+Plan (Treatment & Management):
+The patient will be started on antituberculous therapy following confirmation of the diagnosis. Isolation precautions are implemented due to potential infectiousness. Supportive care including hydration and nutrition will also be provided. Further diagnostic tests, such as PCR for Mycobacteria and culture of respiratory secretions, are pending. The Infectious Disease team has been consulted, and a multidisciplinary approach involving Pulmonology and Primary Care will guide ongoing management.

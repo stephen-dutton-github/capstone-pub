@@ -1,0 +1,35 @@
+Patient Information:
+- Patient ID: 10005866
+- Admission ID: 20364112
+- Patient Name: Bao Nguyen
+- Patient Age: 57 years old
+
+Initial Diagnosis:
+The patient presents with signs and symptoms suggestive of a perforated peptic ulcer.
+
+History of Present Illness (HPI):
+Bao Nguyen, a 57-year-old male, reports severe abdominal pain localized to the epigastric region, which has been persistent for three days. The pain initially started as a dull ache but has progressively intensified and is now accompanied by nausea, vomiting, and generalized discomfort. He denies any recent fever or chills. 
+
+Past Medical History (PMH):
+The patient has a history of hypertension, hyperlipidemia, and chronic kidney disease stage III. He has been non-compliant with his medication regimen for these conditions.
+
+Medications:
+As per the PMH, the patient was prescribed atorvastatin 20 mg daily, lisinopril 10 mg daily, and metformin 500 mg twice daily. It is unclear if he has been adherent to this treatment plan.
+
+Family History (FH):
+The family history reveals a significant incidence of gastrointestinal issues, including peptic ulcers in his father and maternal uncle.
+
+Social History (SH):
+Bao works as an accountant and reports consuming two to three cups of coffee each day. He denies alcohol use or tobacco consumption but admits to smoking marijuana occasionally during the weekends.
+
+Physical Examination (PE):
+Upon examination, Bao appears dehydrated and uncomfortable due to pain. Vital signs include a blood pressure of 90/60 mmHg, heart rate of 110 bpm, respiratory rate of 20 breaths per minute, and oxygen saturation at 95% on room air. Abdominal examination reveals diffuse tenderness without palpable masses or bowel sounds. 
+
+Initial Diagnosis:
+Based on the clinical presentation and findings, an initial diagnosis is considered for a perforated peptic ulcer secondary to non-adherence to antacid medications and possible genetic predisposition from family history.
+
+Plan (Treatment & Management):
+The patient will be admitted under gastroenterology services and managed with intravenous fluids for dehydration and pain control. A nasogastric tube will be inserted, and gastric contents analyzed for signs of bleeding or perforation. Antibiotic therapy will be initiated to prevent infection. Surgical consultation is pending for further evaluation and possible intervention.
+
+Follow-up:
+The patient's compliance with the medication regimen and lifestyle modifications including diet, caffeine intake, and potential smoking cessation will be addressed by a social worker and dietitian during his hospital stay.

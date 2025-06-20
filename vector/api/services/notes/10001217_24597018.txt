@@ -1,0 +1,34 @@
+Patient Information:
+- Patient ID: 10001217
+- Admission ID: 24597018
+- Patient Name: Fatima Al-Zahra
+- Patient Age: 55 years old
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of a severe central nervous system infection. Clinical signs and symptoms include fever, headache, neck stiffness, photophobia, and altered mental status.
+
+History of Present Illness (HPI):
+Fatima Al-Zahra is a 55-year-old female who was admitted to the hospital following an emergency department visit due to sudden onset of fever, severe headache, nausea, vomiting, photophobia, and progressive confusion. She reported no recent history of trauma but did mention intermittent episodes of dizziness over the past week.
+
+Past Medical History (PMH):
+The patient has a history of hypertension, type 2 diabetes mellitus, and hyperlipidemia, all well-controlled with medications prescribed by her primary care physician. No known allergies to medications were reported.
+
+Medications:
+Her current medications include atorvastatin 20 mg daily, lisinopril 10 mg daily, metformin extended-release 1000 mg twice daily, and glyburide 5 mg in the morning.
+
+Family History (FH):
+The patient's family history is notable for her mother having suffered from recurrent infections in early adulthood.
+
+Social History (SH):
+Fatima Al-Zahra lives with her husband and two adult children. She works as a part-time office administrator. She denies any recent travel or contact with individuals with similar symptoms.
+
+Physical Examination (PE):
+On examination, she was alert but disoriented to time and place. Vital signs revealed an elevated temperature of 38.4°C, heart rate at 100 bpm, blood pressure at 110/70 mmHg, respiratory rate at 18 breaths per minute, and oxygen saturation at 95% on room air. Neurological examination showed nuchal rigidity, positive Kernig's sign, and photophobia.
+
+Initial Diagnosis:
+Based on clinical presentation and physical findings, an intracranial infection is strongly suspected, with differential diagnoses including meningitis or encephalitis.
+
+Plan (Treatment & Management):
+Immediate management will include broad-spectrum antibiotics to cover potential bacterial pathogens and empiric antifungal coverage due to the patient's immunocompromising factors. Intravenous fluids and analgesics for symptom relief will be administered as needed. A head CT scan without contrast has been ordered to evaluate for any structural abnormalities, followed by a lumbar puncture if no contraindications are identified. Continuous monitoring of vital signs and neurological status is essential.
+
+Further diagnostic workup may include blood cultures, CSF analysis, and imaging studies depending on initial findings and response to treatment. The patient will be educated about her condition and the importance of adherence to the prescribed regimen. Follow-up with her primary care physician will be arranged upon discharge for ongoing management of hypertension, diabetes, and hyperlipidemia.

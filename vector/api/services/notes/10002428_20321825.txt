@@ -1,0 +1,37 @@
+Patient Information:
+- Patient ID: 10002428
+- Admission ID: 20321825
+- Patient Name: Jiahao Chen
+- Patient Age: 80 years old
+
+Initial Diagnosis:
+Based on presenting symptoms and initial assessments, the primary concern is a severe breathing difficulty with recent onset.
+
+History of Present Illness (HPI):
+Jiahao Chen, an 80-year-old male, presented to the emergency department with worsening shortness of breath over the past three days. The patient reports that he has been increasingly fatigued while performing daily activities and experienced noticeable dyspnea at rest. He denies any fever or cough but admits to a recent upper respiratory infection treated with oral antibiotics.
+
+Past Medical History (PMH):
+Jiahao Chen's medical history includes hypertension, chronic kidney disease stage 3, hyperlipidemia, and previous pneumonia one year ago. He is currently on lisinopril for blood pressure control, atorvastatin for cholesterol management, and metformin for type II diabetes mellitus.
+
+Medications:
+The patient continues to take lisinopril 20 mg daily, atorvastatin 80 mg daily, and metformin 1000 mg twice daily. He recently completed a course of amoxicillin-clavulanate for an upper respiratory infection.
+
+Family History (FH):
+The patient's family history includes hypertension in his mother and diabetes mellitus in his father. There is no known familial predisposition to lung disease or chronic obstructive pulmonary disease (COPD).
+
+Social History (SH):
+Jiahao Chen is a retired factory worker, lives alone, and reports that he smokes one pack of cigarettes daily for over 50 years. He denies any significant alcohol intake.
+
+Physical Examination (PE):
+Vital signs include blood pressure at 140/90 mmHg, heart rate at 110 bpm, respiratory rate at 30 breaths per minute, temperature at 98°F, and oxygen saturation at 88% on room air. Chest examination reveals bilateral coarse crackles with increased resonance to percussion over both lung fields. No wheezes or rhonchi are noted.
+
+Initial Diagnosis:
+The patient presents with acute hypoxemia, likely due to an underlying pulmonary condition exacerbated by his long history of smoking and recent respiratory infection. Differential diagnoses include pneumonia, chronic obstructive pulmonary disease (COPD) exacerbation, heart failure with preserved ejection fraction, and pneumothorax.
+
+Plan (Treatment & Management):
+- Immediate oxygen therapy via nasal cannula to correct hypoxemia.
+- Obtain chest X-ray for evaluation of potential lung pathology.
+- Initiate treatment with broad-spectrum antibiotics considering recent infection history.
+- Consider non-invasive ventilation support if symptoms worsen.
+- Consult pulmonology for further assessment and management.
+- Continue current medications, monitor vital signs closely, and reassess in 24 hours or sooner if the patient's condition deteriorates.

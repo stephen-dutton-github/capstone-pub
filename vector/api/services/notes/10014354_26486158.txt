@@ -1,0 +1,40 @@
+Patient Information:
+- Patient ID: 10014354
+- Admission ID: 26486158
+- Patient Name: Min-Jun Kim
+- Patient Age: 60 years old
+
+Initial Diagnosis:
+- Severe respiratory illness characterized by hypoxia, fever, and infiltrates on chest radiograph.
+
+History of Present Illness (HPI):
+Min-Jun Kim presented to the emergency department with a three-day history of progressive cough, dyspnea at rest, and recent onset of hemoptysis. He reported no prior similar episodes and denied any travel outside his locality within the past month.
+
+Past Medical History (PMH):
+The patient has an extensive history of chronic conditions, including diabetes mellitus type 2, hypertension, hyperlipidemia, and asthma. There is also a documented history of smoking for over three decades with a pack-year history exceeding 30.
+
+Medications:
+At present, the patient is taking metformin for diabetes control, lisinopril for blood pressure regulation, simvastatin for lipid management, and formoterol/flexotide combination inhaler for asthma control. He recently completed an antibiotic course following a urinary tract infection.
+
+Family History (FH):
+The family history reveals significant cardiovascular disease among his immediate relatives.
+
+Social History (SH):
+The patient resides alone in an urban setting, works as an office worker, and denies any alcohol or illicit substance use. He reports adherence to prescribed medications but admits to occasional non-compliance due to forgetfulness.
+
+Physical Examination (PE):
+- Vital signs: Temperature 38.5°C, heart rate 115 bpm, respiratory rate 26 breaths per minute, blood pressure 145/90 mmHg.
+- General appearance: Appears fatigued and short of breath at rest with minimal use of accessory muscles for respiration.
+- Respiratory system: Lungs reveal diffuse rhonchi and fine crackles bilaterally, more pronounced in the lower lobes. No pleural friction rub detected.
+- Cardiovascular system: Tachycardic but no murmurs or extra heart sounds noted.
+
+Initial Diagnosis:
+Given the clinical presentation and laboratory results (not explicitly stated), a severe respiratory illness secondary to viral infection is suspected. The patient's extensive history of chronic conditions, smoking history, and exposure risk factors increase his likelihood for complications from this infection.
+
+Plan (Treatment & Management):
+- Initiate broad-spectrum antimicrobial therapy targeting both bacterial and atypical pathogens.
+- Start supplemental oxygen to maintain adequate oxygen saturation levels.
+- Administer supportive care measures including fluids and antipyretics as needed.
+- Arrange for chest X-ray and blood work to further evaluate the extent of infection and organ function status.
+- Initiate isolation precautions given the suspected infectious etiology.
+- Monitor vital signs closely and reassess regularly in consultation with the pulmonology and infectious disease teams.

@@ -1,0 +1,38 @@
+Patient Information:
+- Patient ID: 10014354
+- Admission ID: 22502504
+- Patient Name: Min-Jun Kim
+- Patient Age: 60 years old
+
+Initial Diagnosis:
+The patient presents with acute respiratory symptoms, fever, and hypoxia. The clinical presentation suggests an infectious etiology.
+
+History of Present Illness (HPI):
+Min-Jun Kim is a 60-year-old male who was admitted to the emergency department after experiencing progressively worsening cough, chest pain, and shortness of breath for three days. He also reports fatigue and a low-grade fever of 38°C. The patient denies any recent travel or known exposures but confirms adherence to recommended public health guidelines.
+
+Past Medical History (PMH):
+The patient has hypertension under control with losartan 50 mg daily and aspirin 81 mg daily for secondary prevention. No history of smoking, chronic obstructive pulmonary disease, or immunocompromised state. Last influenza vaccination was six months ago.
+
+Medications:
+- Losartan 50 mg once daily
+- Aspirin 81 mg once daily
+
+Family History (FH):
+The patient's family history includes a first-degree relative with chronic kidney disease but no significant respiratory diseases.
+
+Social History (SH):
+The patient is married and retired, living in an urban area. He participates in moderate physical activity three times weekly and follows local public health guidelines to prevent COVID-19 transmission.
+
+Physical Examination (PE):
+Vital signs: Temperature 38°C, pulse 100 bpm, blood pressure 125/70 mm Hg, oxygen saturation 88% on room air. Respiratory exam reveals crackles bilaterally in the lower lobes. Lungs are tender on palpation. Cardiovascular exam shows no murmurs or abnormal heart sounds. The rest of the physical examination is unremarkable.
+
+Initial Diagnosis:
+The patient's clinical presentation and radiographic findings suggest a viral pneumonia with complications including hypoxemia and pulmonary infiltrates, consistent with severe acute respiratory illness.
+
+Plan (Treatment & Management):
+- Initiate empiric antimicrobial therapy targeting common bacterial pathogens in community-acquired pneumonia.
+- Provide supplemental oxygen to maintain SpO2 ≥ 90%.
+- Monitor vital signs closely and reassess need for mechanical ventilation if oxygenation deteriorates further.
+- Obtain reverse transcription polymerase chain reaction testing for suspected viral etiologies.
+- Educate the patient on disease transmission risks and preventive measures.
+- Arrange for follow-up with primary care physician once stabilized and discharged.

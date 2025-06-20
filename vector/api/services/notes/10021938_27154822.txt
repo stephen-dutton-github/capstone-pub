@@ -1,0 +1,32 @@
+Patient Information:
+- Patient ID: 10021938
+- Admission ID: 27154822
+- Patient Name: Kojo Boateng
+- Patient Age: 65
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of a disseminated infectious process involving multiple organ systems, including pulmonary, gastrointestinal, and musculoskeletal systems.
+
+History of Present Illness (HPI):
+Mr. Boateng reports experiencing progressive fatigue over the past three months, accompanied by recurrent fevers, night sweats, and weight loss. He has also noticed occasional joint pain in his hands and feet, as well as episodes of gastrointestinal distress characterized by diarrhea and abdominal tenderness.
+
+Past Medical History (PMH):
+The patient has a significant history of immunosuppression due to chronic renal disease on hemodialysis. He is also a former smoker with a 30 pack-year history. There are no previous hospitalizations or surgeries noted in his medical record.
+
+Medications:
+Current medications include erythropoietin, iron supplements, and antacids for gastritis. The patient has been non-compliant with prescribed antihypertensive therapy due to side effects.
+
+Family History (FH):
+No significant family history reported by the patient.
+
+Social History (SH):
+The patient is married and lives with his spouse in a densely populated urban area with known high rates of tuberculosis.
+
+Physical Examination (PE):
+Vital signs show tachycardia, fever, and mild hypoxia. The patient appears fatigued but oriented to person, place, and time. Pulmonary examination reveals bilateral crackles consistent with interstitial disease. Abdominal palpation indicates mild tenderness in the lower quadrants without guarding or rebound. Musculoskeletal examination shows no erythema or swelling, though joint pain is reported by the patient.
+
+Initial Diagnosis:
+The clinical presentation and findings suggest a disseminated infectious process involving multiple organ systems, likely due to an opportunistic pathogen given the patient's immunocompromised state.
+
+Plan (Treatment & Management):
+Initiate broad-spectrum antibiotics while awaiting further diagnostic workup results. Consider empirical antitubercular therapy pending confirmation by culture or PCR of Mycobacterium tuberculosis. Consult infectious disease for management and pulmonary specialists for assessment of lung involvement. Ensure compliance with medication regimen and monitor closely for potential side effects. Provide supportive care as needed, including pain management and nutritional support. Educate patient on the importance of adherence to treatment recommendations.

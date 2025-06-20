@@ -1,0 +1,38 @@
+Patient Information:
+- Patient ID: 10016742
+- Admission ID: 29281842
+- Patient Name: Grace Mugabe
+- Patient Age: 58 years old
+
+Initial Diagnosis:
+The patient presents with acute respiratory distress and fever. Given the current pandemic situation, a differential diagnosis includes viral pneumonia.
+
+History of Present Illness (HPI):
+Grace Mugabe, a 58-year-old female, was admitted to the hospital after experiencing persistent cough, high-grade fever, shortness of breath for three days, and progressive worsening of symptoms. She also reported recent travel history from an area with heightened community transmission rates and close contact with multiple individuals displaying similar respiratory symptoms.
+
+Past Medical History (PMH):
+The patient has a history of hypertension, managed with ACE inhibitors and calcium channel blockers. No known allergies to medications were reported.
+
+Medications:
+- Lisinopril 20 mg daily
+- Amlodipine 10 mg daily
+
+Family History (FH):
+No immediate family members have been diagnosed with COVID-19 or similar respiratory infections. There is a notable family history of hypertension and diabetes mellitus type II in first-degree relatives.
+
+Social History (SH):
+Grace Mugabe reports compliance with mask-wearing in public settings, frequent handwashing, and social distancing measures. She is an indoor worker at a large office building, where coworkers have been reporting respiratory symptoms similar to her own.
+
+Physical Examination (PE):
+- Vital signs: Temperature 102°F, heart rate 110 bpm, respiratory rate 28/min, blood pressure 150/90 mmHg.
+- General appearance: Alert and oriented, appears acutely ill with tachypnea.
+- Lung examination: Bilateral crackles noted in the lower lung fields. Breath sounds are diminished on auscultation, particularly at the right base.
+
+Initial Diagnosis:
+Given the clinical presentation and risk factors, the likely diagnosis is viral pneumonia, potentially due to a highly contagious respiratory pathogen prevalent in the community. Further diagnostic workup includes chest X-ray and laboratory tests for inflammatory markers and viral antigens.
+
+Plan (Treatment & Management):
+- Initiate supportive care including oxygen supplementation as needed.
+- Administer intravenous antibiotics targeting typical bacterial pathogens causing secondary infections while awaiting results of viral testing.
+- Monitor closely for progression or improvement in respiratory symptoms and initiate antiviral therapy if COVID-19 is confirmed by further diagnostic tests.
+- Educate the patient on the importance of completing the prescribed treatment regimen, maintaining good hand hygiene, and avoiding close contact with others to prevent transmission.

@@ -1,0 +1,64 @@
+Patient Information:
+ 
+Patient ID: 10004457
+Admission ID: 23251352
+Patient Name: Olivia Smith
+Patient Age: 65
+
+
+Initial Diagnosis:
+
+The primary assessment based on available data and clinical findings suggests chronic, progressive cardiac valvular disease affecting both the mitral and aortic valves.
+
+
+History of Present Illness (HPI):
+
+Olivia Smith presents with complaints of increasing shortness of breath at rest and during exertion over the past 6 months. She has noted persistent palpitations and fatigue. Her symptoms have worsened despite taking medications for her condition. Recently, she experienced an exacerbation requiring urgent medical attention.
+
+
+Past Medical History (PMH):
+
+Olivia Smith has a history of hypertension, hyperlipidemia, and type II diabetes mellitus. She has been under treatment with antihypertensive agents and statins, along with insulin for glycemic control. She also has a documented history of chronic atrial fibrillation, which has been managed with warfarin.
+
+
+Medications:
+
+Antihypertensives: Amlodipine 10 mg daily
+Statins: Atorvastatin 80 mg daily
+Insulin (as needed) for diabetes management
+Warfarin for atrial fibrillation
+
+
+Family History (FH):
+
+Her mother died from congestive heart failure and her father had a myocardial infarction at age 70. Olivia has one sibling who is currently healthy.
+
+
+Social History (SH):
+
+Olivia Smith is a retired teacher living alone. She denies smoking or alcohol use but admits to consuming two cups of coffee daily. She engages in light physical activities.
+
+
+Physical Examination (PE):
+
+Vital signs: Blood pressure 110/80 mm Hg, heart rate 70 bpm
+Cardiovascular examination:
+- Heart sounds reveal loud S1 and S2 with audible holosystolic murmur at the apex and diastolic rumbling sound along the left sternal border consistent with mitral regurgitation and possible calcification. 
+- Aortic component of S2 diminished, suggesting aortic valve involvement.
+- The patient appeared dyspneic during examination.
+
+
+Initial Diagnosis:
+
+The clinical findings and patient's history are indicative of chronic valvular disease involving both the mitral and aortic valves, complicated by atrial fibrillation and co-existing comorbidities (hypertension, hyperlipidemia, diabetes mellitus).
+
+
+Plan (Treatment & Management):
+
+1. Continue current medications for hypertension, lipid management, diabetes control, and anticoagulation therapy.
+2. Arrange for echocardiography to assess the extent of valvular involvement and evaluate left ventricular function.
+3. Refer to a cardiologist for further evaluation and potential intervention given her worsening symptoms despite medical management.
+4. Discuss lifestyle modifications including dietary adjustments and physical activity guidance with the patient.
+5. Educate Olivia Smith on signs of worsening heart failure or arrhythmias and when to seek immediate care.
+
+This plan will be reviewed and updated based on additional diagnostic findings and consultation outcomes.

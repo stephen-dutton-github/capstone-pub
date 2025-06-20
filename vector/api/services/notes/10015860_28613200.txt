@@ -1,0 +1,32 @@
+Patient Information:
+- Patient ID: 10015860
+- Admission ID: 28613200
+- Patient Name: Zara Malik
+- Patient Age: 53 years old
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of a severe lower respiratory tract infection, including fever, cough, and dyspnea. Imaging studies reveal bilateral infiltrates consistent with pulmonary disease.
+
+History of Present Illness (HPI):
+Zara Malik, a 53-year-old female, reports experiencing worsening shortness of breath over the past four days, accompanied by a high-grade fever and persistent dry cough. She also notes associated symptoms such as chest pain and fatigue.
+
+Past Medical History (PMH):
+The patient has no significant past medical history to report. She does not use any regular medications or have any known allergies.
+
+Medications:
+Upon admission, the patient was started on empiric antibiotic therapy to cover community-acquired pneumonia due to concerns for bacterial superinfection. She is also receiving supplemental oxygen via nasal cannula at 2 liters per minute.
+
+Family History (FH):
+The patient's family history includes a father who passed away from chronic obstructive pulmonary disease (COPD). There are no other significant familial medical conditions reported.
+
+Social History (SH):
+Zara Malik reports that she has been self-isolating for the past seven days due to exposure to an individual with known respiratory symptoms, consistent with COVID-19 infection. She denies any recent travel or contact with individuals from areas affected by outbreaks.
+
+Physical Examination (PE):
+The patient appears fatigued and is afebrile at 37°C. Respiratory rate is elevated at 24 breaths per minute, with an oxygen saturation of 88% on room air. Auscultation reveals diffuse crackles in both lung fields, more pronounced in the lower lobes. No murmurs or other abnormal heart sounds were noted.
+
+Initial Diagnosis:
+The patient's clinical presentation and imaging findings are suggestive of a severe respiratory infection complicated by possible viral pneumonia. The patient's recent self-isolation due to potential COVID-19 exposure necessitates ongoing vigilance for progression into a more severe form of pulmonary disease.
+
+Plan (Treatment & Management):
+Continue monitoring oxygen saturation levels closely and adjust supplemental oxygen as needed to maintain appropriate saturations. The patient will continue on empiric antibiotic therapy until further diagnostic results confirm or refute bacterial superinfection. Consider additional testing for COVID-19 based on clinical suspicion given her recent self-isolation. Provide supportive care measures, including hydration and rest, and monitor for any signs of respiratory failure requiring intubation. Educate the patient on infection control practices to prevent transmission to healthcare providers and other patients. Arrange for a social work consultation to assist with communication about the nature of her illness and ongoing management needs.

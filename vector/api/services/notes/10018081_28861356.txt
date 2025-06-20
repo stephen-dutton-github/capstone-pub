@@ -1,0 +1,33 @@
+Patient Information:
+- Patient ID: 10018081
+- Admission ID: 28861356
+- Patient Name: Maya Kapoor
+- Patient Age: 79
+
+Initial Diagnosis:
+The patient presents with acute respiratory symptoms and systemic inflammatory response. The clinical presentation raises concerns for severe respiratory infection.
+
+History of Present Illness (HPI):
+Maya Kapoor, a 79-year-old female, reports experiencing cough, fever, dyspnea, and fatigue for the past four days. She denies any known contact with COVID-19 positive individuals or travel history in the last three months. However, she did attend a large indoor gathering approximately one month ago.
+
+Past Medical History (PMH):
+The patient has a history of hypertension, controlled with losartan 50 mg daily, and hyperlipidemia managed by simvastatin 40 mg nightly. She is an ex-smoker with a significant smoking history spanning over four decades but quit 15 years ago. The patient also has a history of mild chronic obstructive pulmonary disease (COPD).
+
+Medications:
+- Losartan 50 mg daily
+- Simvastatin 40 mg nightly
+
+Family History (FH):
+The patient's family history is notable for her husband being recently hospitalized for COVID-related complications.
+
+Social History (SH):
+The patient lives alone, has no known close contacts with confirmed cases of COVID-19. She is currently under home quarantine following attendance at the large indoor gathering one month ago.
+
+Physical Examination (PE):
+Vital signs show tachypnea (28 breaths per minute), hypoxia with an oxygen saturation level of 88%, and a fever of 38°C. Physical examination reveals crackles in bilateral lower lung fields, decreased tactile fremitus over the right hemithorax, increased resonance noted on percussion, and diminished breath sounds in the right middle lobe.
+
+Initial Diagnosis:
+Based on clinical presentation, laboratory results, and imaging studies, the primary diagnosis is severe community-acquired pneumonia with respiratory failure likely secondary to viral infection. Differential diagnoses include atypical pneumonia or sepsis.
+
+Plan (Treatment & Management):
+The patient will be admitted under isolation protocols to a dedicated COVID-19 unit for close monitoring. Treatment will include oxygen supplementation via nasal cannula, hydration through IV fluids, and antiviral therapy targeting suspected etiologic agents based on local prevalence patterns. Close monitoring of respiratory status, vital signs, and laboratory parameters will be essential. The patient's family will be kept informed regarding her clinical status via phone due to her current quarantine protocol. Follow-up consultations with pulmonology and infectious disease specialists are planned to further refine management strategies.

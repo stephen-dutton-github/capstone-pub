@@ -1,0 +1,32 @@
+Patient Information:
+- Patient ID: 10018501
+- Admission ID: 28479513
+- Patient Name: Imani Williams
+- Patient Age: 83 years old
+
+Initial Diagnosis:
+The patient presents with acute respiratory symptoms, fevers, and persistent cough.
+
+History of Present Illness (HPI):
+Imani Williams is an 83-year-old female who was referred for evaluation by her primary care physician due to worsening respiratory symptoms over the past week. She reports a productive cough with yellowish sputum, accompanied by intermittent high-grade fever. The patient denies any history of recent travel or close contact with individuals known to have infectious diseases.
+
+Past Medical History (PMH):
+The patient has a significant medical history including hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). She is currently on metformin for diabetes management and uses inhalers for COPD as prescribed. There are no recent changes in her medication regimen.
+
+Medications:
+Metformin 500 mg twice daily; inhalational corticosteroids, bronchodilators, and anticholinergics as needed
+
+Family History (FH):
+No immediate family members have reported similar respiratory symptoms or confirmed COVID-19 cases.
+
+Social History (SH):
+The patient lives alone in a supportive living facility with regular access to healthcare services. She reports adhering to recommended precautions during the pandemic, such as social distancing and wearing face coverings when required.
+
+Physical Examination (PE):
+On examination, Imani appears dehydrated but is alert and oriented. Vital signs show an elevated temperature of 38.2°C, blood oxygen saturation at 92% on room air, and a respiratory rate of 20 breaths per minute. Lung auscultation reveals bilateral crackles consistent with interstitial lung disease; there are no clear wheezes or rhonchi indicative of asthma. The remainder of her examination is unremarkable.
+
+Initial Diagnosis:
+Based on the clinical presentation and diagnostic workup, this patient has a severe respiratory infection likely due to an atypical pathogen, complicated by underlying COPD and comorbidities such as hypertension and diabetes mellitus type 2.
+
+Plan (Treatment & Management):
+The patient will be admitted for further evaluation including COVID-19 testing. Treatment will include supportive care with hydration and supplemental oxygen as needed to maintain adequate oxygen saturation. Antibiotics will be initiated pending culture results, and antiviral medications may be considered if COVID-19 is confirmed. The treatment plan also includes close monitoring of her respiratory status due to the presence of bilateral crackles suggesting possible pneumonia. Regular updates on her clinical condition will be provided to her primary care physician for continued management.

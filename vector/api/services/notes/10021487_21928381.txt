@@ -1,0 +1,34 @@
+Patient Information:
+- Patient ID: 10021487
+- Admission ID: 21928381
+- Patient Name: Jason Edwards
+- Patient Age: 43
+
+Initial Diagnosis:
+The patient presents with systemic symptoms suggestive of a widespread infectious process, including fever, night sweats, weight loss, and generalized body ache.
+
+History of Present Illness (HPI):
+Jason Edwards, a 43-year-old male, reports experiencing persistent fevers over the past month, accompanied by significant night sweats and unintentional weight loss. He describes fatigue as the most debilitating symptom, impacting his daily activities. The patient denies any recent travel or exposure to known infectious agents but has a history of living in an area with high tuberculosis prevalence.
+
+Past Medical History (PMH):
+The patient has no significant past medical history, except for a routine physical examination performed six months ago at which he was deemed healthy and fit for work.
+
+Medications:
+Upon admission, the patient is not currently taking any prescription medications.
+
+Family History (FH):
+The patient's family history includes a first-degree relative with a known history of tuberculosis. The relative underwent treatment successfully without complications.
+
+Social History (SH):
+Jason Edwards works as an accountant in a busy firm. He reports no significant changes in his lifestyle recently but admits to limited physical activity due to persistent fatigue. He denies any use of tobacco or alcohol products.
+
+Physical Examination (PE):
+On examination, Jason appears cachectic and fatigued. Vital signs show elevated body temperature at 38.5°C, tachycardia with a heart rate of 110 bpm, and mild hypoxemia with oxygen saturation at 92% on room air. Lungs are clear to auscultation bilaterally, but there is mild diffuse crackles in both lower lobes suggestive of interstitial involvement. No lymphadenopathy or hepatosplenomegaly noted.
+
+Initial Diagnosis:
+Based on the clinical presentation and physical examination findings, a differential diagnosis includes disseminated bacterial infection, viral infections (such as cytomegalovirus), and granulomatous diseases like sarcoidosis or tuberculosis-like disease due to the endemic area of origin. The patient's travel history and family history support an infectious etiology.
+
+Plan (Treatment & Management):
+The management plan will involve initiating broad-spectrum antibiotics while awaiting culture results, including blood cultures, sputum cultures, and biopsy if indicated. An infectious diseases consultation is recommended for further evaluation, especially considering the epidemiological risk factors and patient's symptoms. The patient will be monitored closely for signs of clinical deterioration or improvement, adjusting treatment as needed based on test results and specialist recommendations.
+
+The plan also includes arranging occupational health support to facilitate any necessary absence from work due to illness and to ensure compliance with infection control measures at his workplace, as he may pose a risk of transmission if tuberculosis is confirmed.

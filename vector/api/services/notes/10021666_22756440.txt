@@ -1,0 +1,47 @@
+Patient Information:
+- Patient ID: 10021666
+- Admission ID: 22756440
+- Patient Name: Hana Novak
+- Patient Age: 87 years old
+
+Initial Diagnosis:
+The primary clinical concern for this patient upon admission is an acute respiratory condition characterized by diffuse pulmonary infiltrates and systemic symptoms.
+
+History of Present Illness (HPI):
+Hana Novak, a non-smoker and retired teacher, presented to the emergency department with a three-week history of progressive cough, fever, night sweats, and unintentional weight loss. The patient reports no recent travel or exposure to known infectious agents but mentions increased contact with an elderly relative recently diagnosed with tuberculosis.
+
+Past Medical History (PMH):
+- Hypertension
+- Diabetes mellitus type 2
+- Chronic kidney disease stage III
+- Previous pneumonia treated successfully three years ago
+
+Medications:
+- Hydrochlorothiazide for hypertension
+- Metformin for diabetes management
+- Allopurinol due to gout
+- Amoxicillin-clavulanate (currently discontinued)
+
+Family History (FH):
+- Elderly relative diagnosed with tuberculosis recently
+
+Social History (SH):
+- Retired teacher, lives alone, active in community events
+- No alcohol or substance abuse reported
+
+Physical Examination (PE):
+- Vital signs: Temperature 38.6°C, pulse 100 bpm, blood pressure 145/90 mmHg, respiratory rate 24/min, oxygen saturation 93% on room air
+- General: Alert and oriented, appears acutely ill
+- Respiratory: Bilateral coarse crackles noted on lung auscultation
+- Cardiovascular: Regular rate and rhythm with no murmurs or gallops
+- Abdominal: Soft, non-tender, no organomegaly
+
+Initial Diagnosis:
+The clinical presentation strongly suggests an infectious etiology, particularly in the context of contact with a known tuberculosis case. Differential diagnoses include community-acquired pneumonia, atypical pneumonia, or reactivation of latent tuberculosis.
+
+Plan (Treatment & Management):
+- Initiate empiric antibiotic therapy targeting both gram-positive and anaerobic organisms for presumed community-acquired pneumonia
+- Order chest X-ray, CT scan of the chest, and sputum cultures to identify causative organism and rule out atypical pneumonia
+- Consult infectious disease for evaluation of potential tuberculosis exposure and initiation of preventive therapy if indicated
+- Monitor vital signs closely and provide supportive care as needed
+- Continue current medications for chronic conditions while reassessing after diagnostic results are available

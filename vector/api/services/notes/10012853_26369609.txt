@@ -1,0 +1,29 @@
+Patient Information:
+- Patient ID: 10012853
+- Admission ID: 26369609
+- Patient Name: Noor El-Sayed
+- Patient Age: 91
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of a lower respiratory tract infection, evidenced by dyspnea on exertion and productive cough. Laboratory tests reveal elevated inflammatory markers and imaging studies indicate bilateral infiltrates consistent with pulmonary edema.
+
+History of Present Illness (HPI):
+Noor El-Sayed is an elderly female who has been experiencing increasing shortness of breath over the past five days. She reports a non-productive cough that started approximately one week ago, worsening to produce sputum in the last two days. She denies fever and chest pain but notes general malaise.
+
+Past Medical History (PMH):
+The patient has a history of hypertension managed with lisinopril 10 mg daily, hyperlipidemia treated with atorvastatin 20 mg daily, and chronic obstructive pulmonary disease (COPD) previously managed with salmeterol-fluticasone inhaler. She underwent a right pneumonectomy for lung cancer three years ago.
+
+Medications:
+Lisinopril 10 mg daily; Atorvastatin 20 mg daily; Salmeterol-Fluticasone inhaler as needed.
+
+Family History (FH):
+The patient's family history is significant for cardiovascular disease and diabetes mellitus.
+
+Social History (SH):
+Noor El-Sayed lives alone and has a history of non-compliance with her COPD medications. She reports no recent travel or exposure to sick contacts, but has been attending community events recently.
+
+Physical Examination:
+Vital signs show tachypnea and hypoxia. The patient appears in mild respiratory distress with use of accessory muscles for breathing. Auscultation reveals coarse rhonchi bilaterally. Oxygen saturation is low at 88% on room air.
+
+Plan (Treatment & Management):
+The management plan will include oxygen supplementation, antipyretics, and antibiotics targeting community-acquired pneumonia. The patient's vital signs will be monitored closely, and she will receive regular assessments for worsening respiratory status or other complications of pneumonia such as sepsis. Contact tracing will be initiated given her recent attendance at community events to identify potential close contacts who may require quarantine or testing. The healthcare team will also address non-compliance with COPD medications and consider pulmonary rehabilitation referral once stabilized.

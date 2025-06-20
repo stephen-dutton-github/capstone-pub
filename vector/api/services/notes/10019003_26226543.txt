@@ -1,0 +1,45 @@
+Patient Information:
+- Patient ID: 10019003
+- Admission ID: 26226543
+- Patient Name: Amir Ahmadi
+- Patient Age: 65
+
+Initial Diagnosis:
+The patient presents with severe respiratory distress and altered mental status.
+
+History of Present Illness (HPI):
+Amir Ahmadi, a 65-year-old male, was brought to the emergency department by family members due to increased shortness of breath and disorientation. He reports no fever or chills but has experienced coughing and fatigue for several days prior to presentation. The patient denies any recent travel history outside of his local community.
+
+Past Medical History (PMH):
+The patient has a history of chronic obstructive pulmonary disease (COPD), hypertension, hyperlipidemia, and osteoarthritis. He is currently on inhalers as prescribed for COPD management and takes enalapril, lisinopril, rosuvastatin, and celecoxib for his other conditions.
+
+Medications:
+- Inhalers (as needed) for COPD
+- Enalapril 10 mg daily
+- Lisinopril 20 mg daily
+- Rosuvastatin 20 mg daily
+- Celecoxib 200 mg daily
+
+Family History (FH):
+The patient's family history is non-contributory to his current presentation.
+
+Social History (SH):
+The patient lives alone and has no known exposure to COVID-19 cases. He primarily socializes within his local community but has not attended any large gatherings recently.
+
+Physical Examination (PE):
+Vital signs show tachypnea, tachycardia, and hypoxemia. Respiratory examination reveals bilateral rales and rhonchi with decreased breath sounds in the lower lobes. Cardiovascular examination shows normal heart sounds without murmurs. Neurological examination indicates disorientation but is otherwise unremarkable.
+
+Initial Diagnosis:
+Based on clinical presentation and vital signs, the primary concern is severe respiratory distress likely due to a viral pneumonia complicated by underlying COPD. The patient's altered mental status could be secondary to hypoxia or an acute confusional state related to infection.
+
+Plan (Treatment & Management):
+The management plan includes:
+
+- Initiate supplemental oxygen therapy to correct hypoxemia
+- Administer broad-spectrum antibiotics pending further diagnostic workup, including sputum culture and PCR testing for common respiratory pathogens
+- Continue current COPD medications and consider corticosteroids if indicated by future results
+- Monitor vital signs closely and provide supportive care as needed
+- Consult pulmonology and infectious disease specialists for further management
+- Educate patient and family about the severity of his illness, treatment plan, and importance of isolation to prevent transmission
+
+The patient will be admitted to a designated COVID-19 ward with negative pressure rooms for close monitoring and treatment.

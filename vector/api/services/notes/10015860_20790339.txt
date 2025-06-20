@@ -1,0 +1,50 @@
+Patient Information:
+- Patient ID: 10015860
+- Admission ID: 20790339
+- Patient Name: Zara Malik
+- Patient Age: 53
+
+Initial Diagnosis:
+- Respiratory tract infection with severe pulmonary infiltrates and hypoxemia
+
+History of Present Illness (HPI):
+Zara Malik, a 53-year-old female, presented to the emergency department with complaints of cough, fever, and shortness of breath for four days. The patient reported worsening symptoms over the past day, necessitating her immediate visit. No prior hospitalizations or ICU admissions were noted.
+
+Past Medical History (PMH):
+- Hypertension
+- Hyperlipidemia
+- Non-insulin-dependent diabetes mellitus
+- Chronic obstructive pulmonary disease (COPD) with mild to moderate severity
+
+Medications:
+- Metoprolol 25 mg daily for hypertension
+- Simvastatin 20 mg daily for hyperlipidemia
+- Glipizide 5 mg twice daily for non-insulin-dependent diabetes mellitus
+- Symbicort 160/4.5 mcg b.i.d. for COPD
+
+Family History (FH):
+- Mother died from heart disease; father deceased due to lung cancer
+- One sibling with hypertension, another with type II diabetes
+
+Social History (SH):
+- Non-smoker
+- Lives alone
+- Cooks at home for herself and others occasionally
+- No recent travel or close contact with known COVID-19 cases reported
+
+Physical Examination:
+- General: alert, oriented x3, mild dyspnea on exertion
+- Respiratory: decreased breath sounds in bilateral lower lobes; rales audible over left base
+- Cardiovascular: heart rate 90 bpm, blood pressure 130/80 mm Hg, no murmurs or gallops
+- Other systems unremarkable
+
+Initial Diagnosis:
+The patient's clinical presentation and investigations (chest X-ray and arterial blood gas) are indicative of a severe respiratory tract infection. The differential diagnosis includes bacterial pneumonia secondary to COPD exacerbation versus viral pneumonia potentially complicated by COVID-19.
+
+Plan (Treatment & Management):
+- Initiate broad-spectrum antibiotic therapy pending further diagnostic results
+- Administer supplemental oxygen as needed for hypoxemia
+- Monitor vital signs closely and reassess respiratory status frequently
+- Consult infectious disease for potential COVID-19 testing given the clinical suspicion based on current epidemiological context
+- Ensure patient is informed about her treatment plan and any necessary measures to prevent transmission of infection
+- Arrange for close monitoring in a dedicated isolation unit

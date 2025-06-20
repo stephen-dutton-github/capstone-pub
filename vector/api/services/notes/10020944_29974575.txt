@@ -1,0 +1,32 @@
+Patient Information:
+- Patient ID: 10020944
+- Admission ID: 29974575
+- Patient Name: Tahmina Rahimi
+- Patient Age: 72 years old
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of a disseminated granulomatous disease, characterized by widespread involvement of multiple organs. The clinical picture includes systemic symptoms such as fever, night sweats, and weight loss, along with non-specific respiratory complaints.
+
+History of Present Illness (HPI):
+Tahmina Rahimi, a 72-year-old female, was referred from her primary care physician due to persistent symptoms over the past three months. She reports experiencing high fevers up to 102°F, night sweats, and unintentional weight loss of five pounds. Additionally, she has complained about feeling fatigued and has noticed new-onset cough with shortness of breath on exertion.
+
+Past Medical History (PMH):
+The patient has a history of hypertension, type II diabetes mellitus, and chronic kidney disease stage III. She completed her pneumococcal vaccination series but is currently not up-to-date on influenza vaccinations.
+
+Medications:
+Tahmina Rahimi is currently taking metformin for diabetes management, lisinopril for hypertension, and losartan for kidney protection.
+
+Family History (FH):
+Her family history includes a first-degree relative with tuberculosis (TB).
+
+Social History (SH):
+The patient denies smoking or alcohol use. She lives in a close-knit community with multiple family members, some of whom have recently traveled abroad to areas with high TB prevalence.
+
+Physical Examination (PE):
+On examination, Tahmina appears pale and fatigued but is well-appeased in no acute distress. Vital signs show fever at 101.5°F, heart rate slightly elevated at 90 bpm, respiratory rate at 20 breaths per minute, blood pressure within normal limits at 120/80 mmHg, and oxygen saturation at 92% on room air. Lung exam reveals scattered rales bilaterally; cardiac exam is unremarkable.
+
+Initial Diagnosis:
+Based on the clinical presentation and physical examination findings, an infectious disease workup has been initiated. The patient's symptoms and history suggest a highly infectious granulomatous process with multi-organ involvement, possibly related to her family travel history and living situation.
+
+Plan (Treatment & Management):
+Further diagnostic tests are pending including sputum samples for acid-fast bacilli and serum interferon-gamma release assays to rule out TB. Given the high suspicion for TB, broad-spectrum antibiotics have been started empirically while awaiting results. The patient will be admitted for close monitoring and isolation precautions until further notice. A consultation with infectious disease has been requested for expert guidance in management. Education regarding TB transmission and precautions has been provided to both Tahmina and her family members.

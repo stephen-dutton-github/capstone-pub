@@ -1,0 +1,46 @@
+Patient Information:
+- Patient ID: 10019003
+- Admission ID: 27525946
+- Patient Name: Amir Ahmadi
+- Patient Age: 65 years old
+
+Initial Diagnosis:
+Based on clinical presentation and diagnostic test results, the patient is suspected to have a severe respiratory infection secondary to viral exposure.
+
+History of Present Illness (HPI):
+The patient reports experiencing high-grade fever, persistent cough, dyspnea at rest, chest pain, and fatigue for three days prior to admission. He denies any recent travel history or contact with known COVID-19 cases. His symptoms have progressively worsened despite self-administered over-the-counter medications.
+
+Past Medical History (PMH):
+The patient has a significant medical history of hypertension, chronic obstructive pulmonary disease (COPD), and type 2 diabetes mellitus. He was last seen by his primary care physician for routine follow-up two months ago and reported being compliant with all prescribed medications.
+
+Medications:
+- Metoprolol succinate 25 mg daily
+- Salmeterol inhaler twice daily
+- Fluticasone inhaler twice daily
+- Insulin glargine 30 units daily
+- Aspirin 81 mg daily
+
+Family History (FH):
+The patient's family history includes a first-degree relative with a history of cardiovascular disease.
+
+Social History (SH):
+The patient is widowed, retired, and lives alone in an assisted living facility. He has limited mobility due to COPD but is able to perform activities of daily living with assistance. He reports no recent social contacts due to pandemic restrictions.
+
+Physical Examination (PE):
+Vital signs: Temperature 102.5°F, pulse 110 bpm, blood pressure 140/80 mmHg, respiratory rate 28/min, oxygen saturation 88% on room air.
+- General appearance: Fatigued, anxious
+- Respiratory: Clear to auscultation bilaterally except for coarse crackles noted in the left lower lobe
+- Cardiovascular: Regular rate and rhythm, no murmurs
+- Abdomen: Soft, non-tender
+- Extremities: No edema
+
+Laboratory Results:
+Preliminary blood tests reveal elevated white blood cell count (13,000/μL), C-reactive protein (12.5 mg/dl), D-dimer (1.2 μg/femtoliter), and lactic acid (3 mmol/L). Chest X-ray shows diffuse infiltrates and ground glass opacities in both lungs.
+
+Plan (Treatment & Management):
+- Initiate broad-spectrum antibiotics targeting common respiratory pathogens, pending further diagnostic results.
+- Administer antiviral medications as per COVID-19 treatment guidelines if confirmed by PCR test.
+- Provide supplemental oxygen to maintain SpO2 > 92%.
+- Monitor vital signs and symptoms closely for any deterioration or improvement.
+- Engage multidisciplinary team including infectious disease consultants and pulmonologists for ongoing management.
+- Educate patient on the importance of isolation precautions in preventing further transmission.

@@ -1,0 +1,36 @@
+Patient Information:
+- Patient ID: 10002930
+- Admission ID: 20282368
+- Patient Name: Amara Okafor
+- Patient Age: 48 years old
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of an unspecified mood disorder, characterized by fluctuating affective states and emotional lability. The specific nature of the mood disturbance cannot be discerned due to lack of detailed history or clinical evaluation at this time.
+
+History of Present Illness (HPI):
+Amara Okafor is a 48-year-old female who has been experiencing intermittent feelings of sadness, irritability, and anxiety for several months. She reports difficulty concentrating and low energy levels, which vary in intensity throughout the day. There are no clear triggers identified by the patient that consistently precipitate these symptoms.
+
+Past Medical History (PMH):
+No history of mood disorders or other psychiatric conditions reported. The patient has a history of mild hypertension managed with medication for several years but denies any recent exacerbations.
+
+Medications:
+Current medications include lisinopril 10 mg daily and hydrochlorothiazide 25 mg daily for hypertension management.
+
+Family History (FH):
+No known family history of mood disorders or other psychiatric conditions reported by the patient.
+
+Social History (SH):
+The patient is married, works part-time as a teacher, and denies any significant stressors at home or work. Social support appears adequate with regular interactions with friends and close relatives. She reports occasional alcohol use but no substance abuse history.
+
+Physical Examination (PE):
+No acute distress noted upon initial evaluation. Vital signs are stable, and general appearance suggests normal hydration and nutritional status.
+
+Initial Diagnosis:
+The patient's clinical presentation is suggestive of an unspecified mood disorder, pending further psychiatric assessment to clarify the specific subtype.
+
+Plan (Treatment & Management):
+- Refer the patient for a comprehensive psychiatric evaluation by a specialist.
+- Continue current antihypertensive regimen without adjustment at this time.
+- Provide patient education regarding potential side effects of medications and importance of adherence.
+- Encourage the patient to maintain regular follow-up appointments with her primary care physician for ongoing management of hypertension.
+- Schedule an appointment for the patient to meet with a social worker or counselor, as needed, to address any psychosocial stressors that may be contributing to her symptoms.

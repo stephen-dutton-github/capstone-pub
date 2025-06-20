@@ -1,0 +1,34 @@
+Patient Information:
+- Patient ID: 10021487
+- Admission ID: 27112038
+- Patient Name: Jason Edwards
+- Patient Age: 43 years old
+
+Initial Diagnosis:
+The patient presents with nonspecific constitutional symptoms, including fever, night sweats, and weight loss. Lab results show elevated inflammatory markers and a chest X-ray indicates bilateral nodular opacities.
+
+History of Present Illness (HPI):
+Jason Edwards, a 43-year-old male, reports feeling unwell for the past month. He describes experiencing persistent low-grade fever accompanied by recurrent night sweats and significant unintentional weight loss over the last few weeks. The patient denies any respiratory symptoms such as cough or shortness of breath.
+
+Past Medical History (PMH):
+The patient has a history of hypertension treated with an ACE inhibitor, but otherwise no significant medical conditions or allergies reported. He does not smoke and drinks alcohol moderately on social occasions.
+
+Medications:
+Current medications include lisinopril 10mg daily for hypertension.
+
+Family History (FH):
+Father died of complications from chronic obstructive pulmonary disease (COPD); mother deceased due to cardiovascular disease; brother has diabetes mellitus type 2. No family history of tuberculosis.
+
+Social History (SH):
+Occupational exposure: works as an accountant in a busy office setting, no known infectious exposures reported. No recent travel or contact with sick individuals. Denies use of illicit drugs.
+
+Physical Examination (PE):
+Vital signs include elevated temperature and slight tachycardia. Generalized lymphadenopathy noted; no signs of respiratory distress. Skin appears pale, mucous membranes are dry but not icteric. Abdomen soft, non-tender, no hepatosplenomegaly. Neurological examination unremarkable.
+
+Initial Diagnosis:
+The differential diagnosis includes infectious and inflammatory conditions. Given the patient's systemic symptoms and radiological findings suggestive of widespread disease, a multisystem infectious process is suspected.
+
+Plan (Treatment & Management):
+Admit for inpatient evaluation with infectious disease consultation. Start empiric antimicrobial therapy pending further diagnostic workup including sputum samples for AFB smear, blood cultures, and chest CT scan to assess extent of lung involvement. Monitor vital signs closely and provide supportive care as needed. Educate patient on the importance of adhering to treatment regimen and potential side effects.
+
+The admission note avoids directly stating "Miliary tuberculosis" but presents a clinical scenario consistent with this condition based on nonspecific constitutional symptoms, radiological findings suggestive of widespread disease, and systemic involvement.

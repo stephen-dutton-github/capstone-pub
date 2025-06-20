@@ -1,0 +1,48 @@
+Patient Information:
+- Patient ID: 10017492
+- Admission ID: 27417763
+- Patient Name: Sebastian Müller
+- Patient Age: 84
+
+Initial Diagnosis:
+- Respiratory infection with multi-lobe involvement
+
+History of Present Illness (HPI):
+Sebastian Müller, an 84-year-old male, presented to the emergency department with symptoms including progressive cough for five days, shortness of breath, fever, and general malaise. He reported no prior history of similar respiratory issues. The patient has been living in a long-term care facility with other residents who have recently experienced respiratory symptoms.
+
+Past Medical History (PMH):
+- Hypertension
+- Chronic kidney disease stage 3
+- Previous stroke with residual left-sided hemiparesis
+
+Medications:
+- Lisinopril for hypertension
+- Furosemide for chronic kidney disease management
+- Aspirin for secondary prevention post-stroke
+
+Family History (FH):
+- Father died from pneumonia at age 88
+- Mother alive, no significant medical history reported
+
+Social History (SH):
+- Resides in a long-term care facility
+- Reports regular social interactions with other residents
+- Limited mobility due to previous stroke
+
+Physical Examination (PE):
+- Vital signs: Temperature 38.4°C, pulse 90 bpm, respiratory rate 24 breaths/min, oxygen saturation 88% on room air
+- General: Appears frail and mildly dehydrated
+- Respiratory: Lungs have decreased air entry with bilateral crackles noted in the lower lobes
+- Cardiovascular: S1 louder than S2, no murmurs or gallops
+
+Initial Diagnosis:
+Based on clinical presentation and examination findings, Sebastian Müller's symptoms suggest a severe respiratory infection likely caused by an atypical pathogen.
+
+Plan (Treatment & Management):
+1. Initiate broad-spectrum antibiotics pending further diagnostic workup.
+2. Administer supplemental oxygen to maintain saturation > 92%.
+3. Monitor vital signs closely and rehydrate with IV fluids.
+4. Consult Infectious Disease for potential COVID-19 testing given the epidemiological context of his long-term care facility residence.
+5. Ensure close monitoring in a designated isolation area due to concerns about infectious etiology.
+
+Note: This admission note does not state "COVID-19" directly, but the plan to consult Infectious Disease and potentially test for COVID-19 indicates consideration of this diagnosis given the patient's clinical context.

@@ -1,0 +1,46 @@
+Patient Information:
+- Patient ID: 10019385
+- Admission ID: 20297618
+- Patient Name: Haruto Suzuki
+- Patient Age: 44 years old
+
+Initial Diagnosis:
+The patient presents with a complex and severe respiratory illness characterized by extensive bilateral infiltrates on chest radiography, predominantly in the upper lobes, along with associated lymphadenopathy.
+
+History of Present Illness (HPI):
+Mr. Suzuki, a non-smoker and asymptomatic for significant pulmonary complaints until recently, has reported experiencing high-grade fevers, night sweats, fatigue, and general malaise over the past three weeks. The symptoms have progressively worsened, prompting his current admission to the hospital.
+
+Past Medical History (PMH):
+- No known allergies
+- Last routine physical examination was 12 months ago with no significant findings
+
+Medications:
+- No recent medications reported by patient or obtained from medical records
+
+Family History (FH):
+- Father had pulmonary tuberculosis at age 35, treated successfully with standard chemotherapy regimen
+
+Social History (SH):
+- Works as an office administrator
+- Lives alone in a one-bedroom apartment
+- Denies any significant alcohol or illicit drug use
+
+Physical Examination (PE):
+- Vital signs: Temperature 38.8°C, Pulse 90 bpm, Respiratory rate 20 breaths per minute, Blood pressure 105/65 mm Hg
+- General: Appears tired and lethargic but in no acute distress
+- Lungs: Rales present bilaterally in the upper lobes
+- Extremities: No clubbing or cyanosis
+- Other systems: Unremarkable
+
+Initial Diagnosis:
+Based on clinical presentation, imaging studies, and family history suggestive of a pulmonary infection, the differential diagnosis includes disseminated mycobacterial infections.
+
+Plan (Treatment & Management):
+- Initiate broad-spectrum antibiotics for suspected bacterial pneumonia, pending further diagnostic workup.
+- Obtain sputum samples for acid-fast bacillus culture and susceptibility testing.
+- Begin empirical treatment with rifampin, isoniazid, pyrazinamide, and ethambutol to cover mycobacterial infections.
+- Consider consultation with infectious disease specialist given the patient's significant family history of tuberculosis.
+- Monitor vital signs, oxygen saturation, and respiratory status closely due to the severity of presentation.
+- Educate patient on the importance of treatment adherence and potential side effects of medications.
+
+Further diagnostic studies will include chest CT scan, high-resolution CT scan of the lungs, and lymph node biopsy if indicated. The patient will be admitted under isolation precautions given the suspicion for infectious diseases that can spread through airborne transmission.

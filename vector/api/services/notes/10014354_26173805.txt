@@ -1,0 +1,32 @@
+Patient Information:
+- Patient ID: 10014354
+- Admission ID: 26173805
+- Patient Name: Min-Jun Kim
+- Patient Age: 60 years old
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of a severe respiratory infection, characterized by fever, cough, and dyspnea. The clinical findings and laboratory results indicate a possible viral etiology.
+
+History of Present Illness (HPI):
+Min-Jun Kim, a 60-year-old male, was brought to the emergency department by his family due to worsening respiratory symptoms over the past three days. He reports experiencing high fever (up to 39°C), non-productive cough, and shortness of breath on exertion. The onset of these symptoms followed a recent trip overseas.
+
+Past Medical History (PMH):
+The patient has no significant medical history except for well-controlled hypertension and type 2 diabetes mellitus.
+
+Medications:
+The patient is currently taking losartan 50 mg daily for hypertension and metformin 850 mg twice daily for diabetes management. No antibiotics or antivirals have been initiated yet due to the uncertainty of the etiology.
+
+Family History (FH):
+There is no known family history of respiratory illnesses or immunodeficiency disorders.
+
+Social History (SH):
+The patient recently traveled internationally, visiting countries with high community transmission rates for COVID-19. He has not self-isolated upon returning and socialized with multiple contacts since his return.
+
+Physical Examination (PE):
+Vital signs reveal a fever of 38.5°C, respiratory rate of 20 breaths per minute, oxygen saturation at 88% on room air, and blood pressure is 125/70 mmHg. Lung auscultation shows bilateral diffuse crackles consistent with pulmonary infiltrates. No other significant findings were noted.
+
+Initial Diagnosis:
+Based on the clinical presentation and laboratory data, the initial assessment suggests a severe respiratory viral infection, possibly related to recent travel history in areas with high community transmission rates for COVID-19.
+
+Plan (Treatment & Management):
+The patient will be admitted under isolation precautions due to suspected infectious etiology. Broad-spectrum antibiotics and antivirals have been initiated pending further testing results. Supportive care including oxygen supplementation and fluid management is being provided. A chest X-ray and blood cultures were taken for further evaluation. The infectious diseases team has been consulted, and contact tracing with public health authorities has been initiated due to the travel history. Regular monitoring of vital signs and respiratory status will continue, along with daily reassessment by the attending physician.

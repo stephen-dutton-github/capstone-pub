@@ -1,0 +1,32 @@
+Patient Information:
+- Patient ID: 10016742
+- Admission ID: 28506150
+- Patient Name: Grace Mugabe
+- Patient Age: 58 years old
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of an acute respiratory infection, including fever, cough, and shortness of breath. 
+
+History of Present Illness (HPI):
+Grace Mugabe, a 58-year-old female, reports a recent onset of symptoms beginning three days ago, which have progressively worsened. The patient describes a low-grade fever that escalated to chills and profuse sweating, accompanied by an unproductive cough and increasing shortness of breath. Additionally, she has experienced malaise and myalgias.
+
+Past Medical History (PMH):
+Grace Mugabe has no significant past medical history, including no known respiratory conditions or previous hospitalizations for similar illnesses. She is currently not taking any medications.
+
+Medications:
+No medications have been prescribed at this time due to the recent onset of symptoms.
+
+Family History (FH):
+The patient's family history is unremarkable for respiratory conditions or COVID-19-like illnesses.
+
+Social History (SH):
+Grace Mugabe denies any known contact with individuals who have recently traveled or tested positive for COVID-19. She has been practicing social distancing and wearing a mask in public settings since the beginning of the pandemic.
+
+Physical Examination (PE):
+Vital signs include a temperature of 38°C, blood pressure at 110/70 mmHg, heart rate at 90 bpm, respiratory rate at 24/min, and oxygen saturation at 88% on room air. The patient appears anxious but is alert and oriented. Lungs are auscultated to reveal bilateral coarse crackles consistent with interstitial involvement. There are no other remarkable findings on physical examination.
+
+Initial Diagnosis:
+Based on clinical presentation and physical examination, the primary concern includes a severe respiratory infection potentially related to COVID-19.
+
+Plan (Treatment & Management):
+Initiate supportive care including hydration, antipyretics for fever control, and oxygen supplementation as needed. Schedule chest imaging for further evaluation and consult infectious disease specialists if COVID-19 is confirmed or suspected based on imaging results. Educate the patient on isolation precautions and ensure compliance with respiratory hygiene practices to prevent transmission. Monitor vital signs closely and prepare for possible escalation of care if symptoms worsen or new complications arise.

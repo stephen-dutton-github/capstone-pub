@@ -1,0 +1,45 @@
+Patient Information:
+- Patient ID: 10020786
+- Admission ID: 23488445
+- Patient Name: Oscar Fernandez
+- Patient Age: 86
+
+Initial Diagnosis:
+Evaluating pulmonary symptoms in an elderly male with recent travel history and immunocompromised state.
+
+History of Present Illness (HPI):
+Oscar Fernandez, an 86-year-old Hispanic male, presents with a one-week history of fever, night sweats, and progressive shortness of breath. He reports feeling fatigued and losing weight over the past month. Mr. Fernandez recently returned from a trip to Central America, where he visited rural areas and stayed in close quarters with local residents.
+
+Past Medical History (PMH):
+- Chronic obstructive pulmonary disease (COPD) for 10 years
+- Diabetes mellitus type 2 for 8 years
+- Hypertension for 6 years
+- Previous myocardial infarction (MI)
+- Currently on aspirin, metformin, and lisinopril
+
+Medications:
+No new medications were added during the hospital admission.
+
+Family History (FH):
+Father died of lung cancer. Mother deceased due to stroke.
+
+Social History (SH):
+Smoker with a 40-pack-year history. Denies alcohol use. Employed as a mechanic until retirement three years ago. Married, lives with his wife in a two-bedroom apartment.
+
+Physical Examination (PE):
+- General: Appears cachectic and dehydrated.
+- Respiratory: Crackles heard bilaterally; minimal effort required for speech due to shortness of breath.
+- Cardiovascular: Regular rhythm, grade 2/6 systolic ejection murmur.
+- Extremities: Clubbing noted in fingers.
+
+Initial Diagnosis:
+Based on clinical presentation and travel history, consider infectious etiology likely related to recent travel. Differential includes atypical pneumonia or disseminated infection secondary to immunocompromised state.
+
+Plan (Treatment & Management):
+- Initiate broad-spectrum antibiotics covering potential atypical pathogens.
+- Order chest X-ray, sputum culture, blood cultures, and comprehensive metabolic panel.
+- Consult infectious disease for further evaluation and management.
+- Monitor vital signs closely due to concern for sepsis.
+- Educate patient on importance of hydration and rest.
+
+Note: The admission note does not directly state "Miliary tuberculosis," as per the guidelines provided. However, it describes symptoms and circumstances that may raise suspicion for this condition, without explicitly naming it.

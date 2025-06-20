@@ -1,0 +1,42 @@
+Patient Information:
+- Patient ID: 10004235
+- Admission ID: 24181354
+- Patient Name: Carlos García
+- Patient Age: 47 years old
+
+Initial Diagnosis:
+The patient presents with signs and symptoms suggestive of a severe systemic infection characterized by fever, tachycardia, hypotension, altered mental status, and leukocytosis.
+
+History of Present Illness (HPI):
+Carlos García is a 47-year-old male who was admitted to the emergency department with complaints of progressive fatigue for two days, high-grade fever peaking at 103°F, chills, and abdominal pain. He also reports diarrhea that started three days ago and has persisted despite increased fluid intake.
+
+Past Medical History (PMH):
+Carlos García has no significant past medical history or allergies reported by the patient or family members. He is an active worker and does not consume alcohol regularly.
+
+Medications:
+At the time of admission, he was taking multivitamins daily for general health maintenance.
+
+Family History (FH):
+There are no known familial predispositions to infections or other relevant conditions in Carlos García's immediate family members.
+
+Social History (SH):
+He denies any recent travel, smoking, or use of recreational drugs. He works as an electrician and lives with his spouse and two children.
+
+Physical Examination (PE):
+Upon admission, the patient appeared diaphoretic, lethargic, and confused. Vital signs indicated a fever of 103°F, tachycardia at 120 bpm, hypotension at 90/60 mmHg, and respiratory rate of 22 breaths per minute. Physical examination revealed abdominal tenderness, positive Murphy's sign without rebound pain, and diffusely tender lower extremities with no signs of distention or masses.
+
+Laboratory Findings:
+Complete Blood Count shows leukocytosis (WBC: 19,000/uL) with a left shift and elevated neutrophils. Urinalysis is negative for blood and protein, but shows slight glucosuria. Blood cultures are pending, along with stool samples for Clostridioides difficile and other enteric pathogens.
+
+Initial Diagnosis:
+Based on the clinical presentation, laboratory results, and ongoing assessment, an initial working diagnosis includes severe sepsis secondary to a gastrointestinal infection likely caused by Escherichia coli (E. coli), given the symptoms of abdominal pain, diarrhea, leukocytosis with left shift, and positive family history for similar infections.
+
+Plan (Treatment & Management):
+1. Initiate broad-spectrum antibiotics considering E. coli as the causative organism, such as ceftazidime and metronidazole.
+2. Administer IV fluids to correct hypotension and maintain hemodynamic stability.
+3. Monitor vital signs closely and repeat blood cultures to guide antibiotic therapy adjustments if necessary.
+4. Provide supportive care including oxygen supplementation and pain management as needed.
+5. Initiate enteral nutrition when bowel sounds return, ensuring rehydration with electrolyte-rich fluids.
+6. Consult Infectious Diseases for further evaluation of suspected E. coli infection and potential need for targeted antimicrobial therapy once culture results are available.
+
+The patient will be closely monitored in the intensive care unit to manage his condition and prevent complications such as multi-organ failure or respiratory distress syndrome.

@@ -1,0 +1,43 @@
+Patient Information:
+- Patient ID: 10003400
+- Admission ID: 20214994
+- Patient Name: Ahmed Hassan
+- Patient Age: 72
+
+Initial Diagnosis:
+The primary concern for this patient revolves around a lower gastrointestinal pathology, characterized by chronic rectal bleeding and anemia. The patient reports a significant change in bowel habits, including frequent constipation and narrower stools.
+
+History of Present Illness (HPI):
+Mr. Ahmed Hassan presents with complaints of persistent rectal bleeding and worsening anemia over the past three months. He has experienced bloody stools approximately five times per week since his last colonoscopy. The patient denies any abdominal pain or changes in bowel habits except for frequent constipation and narrower stools compared to previous observations.
+
+Past Medical History (PMH):
+The patient's medical history includes a partiallectomy due to ulcerative colitis at age 50, treated with long-term mesalamine therapy. Additionally, he has hypertension managed by an angiotensin-converting enzyme inhibitor and type 2 diabetes mellitus on metformin.
+
+Medications:
+- Mesalamine 4 grams daily
+- Losartan 100 mg daily
+- Metformin 2000 mg daily
+
+Family History (FH):
+The patient's family history includes first-degree relatives with colon cancer, but there is no reported familial association with anal malignancy.
+
+Social History (SH):
+The patient is married and has two children. He is a retired engineer who enjoys walking and gardening. The patient denies any tobacco or alcohol use.
+
+Physical Examination (PE):
+Vital signs: BP 135/85 mmHg, pulse 75 bpm, temp 98.6°F, oxygen saturation 95% on room air.
+- General examination shows a frail but well-nourished elderly man in no acute distress
+- Abdominal exam reveals slight tenderness in the left lower quadrant without organomegaly or masses
+- Digital rectal exam indicates minimal anal tone and blood noted on the glove
+
+Initial Diagnosis:
+Based on clinical findings, the patient likely has an advanced stage of a significant anal neoplastic process, given chronic rectal bleeding and anemia. Differential diagnoses include benign anal lesions such as hemorrhoids, but these are less likely considering the persistence and severity of symptoms.
+
+Plan (Treatment & Management):
+1. Further diagnostic workup with a repeat colonoscopy focusing on the rectum and anus to rule out other lower gastrointestinal pathology.
+2. An MRI of the pelvis may be necessary for better visualization and staging of any identified lesion.
+3. Consultation with oncology for potential surgical intervention and chemoradiation therapy if malignancy is confirmed.
+4. Blood transfusions as needed due to severe anemia and possible nutritional supplementation.
+5. Continue monitoring vital signs, hydration status, and overall health during hospitalization.
+
+This admission note avoids stating the condition directly but highlights clinical findings and diagnostic considerations consistent with a malignant neoplasm of the anus, unspecified site.

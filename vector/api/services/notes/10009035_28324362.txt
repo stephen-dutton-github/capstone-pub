@@ -1,0 +1,35 @@
+Patient Information:
+- Patient ID: 10009035
+- Admission ID: 28324362
+- Patient Name: Arjun Singh
+- Patient Age: 28 years old
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of a severe respiratory illness, characterized by high fever, persistent cough, and shortness of breath. The clinical picture is consistent with an acute respiratory infection.
+
+History of Present Illness (HPI):
+Arjun Singh, a 28-year-old male, reports experiencing high-grade fever for the past three days, accompanied by a productive cough that has been worsening over time. He also complains of significant shortness of breath and difficulty breathing, which have escalated to the point where he is now requiring supplemental oxygen.
+
+Past Medical History (PMH):
+The patient's medical history includes mild asthma, controlled with an inhaler as needed. No other significant past medical conditions or surgeries were reported by the patient.
+
+Medications:
+The patient has been taking his prescribed asthma medication regularly and reports no issues with adherence. Currently, he is being treated with supplemental oxygen and supportive care in the hospital setting.
+
+Family History (FH):
+There is no known family history of respiratory illnesses or any other significant medical conditions that could contribute to this current presentation.
+
+Social History (SH):
+The patient resides in an urban area with moderate air pollution levels. He works as a healthcare worker in a community health center and has been exposed to multiple patients during the recent surge of acute respiratory infections in his community.
+
+Physical Examination (PE):
+- Vital signs: Elevated temperature, tachypnea, and oxygen saturation at 88% on room air.
+- Respiratory: Crackles noted on auscultation over bilateral lower lobes. Lung fields are indistinct due to underlying infiltrates.
+- Cardiovascular: Heart sounds normal, no murmurs.
+- General: Patient appears anxious and fatigued.
+
+Initial Diagnosis:
+Based on the clinical presentation and findings from the physical examination, the patient is suspected to have a severe respiratory infection with bilateral pneumonia-like symptoms. The differential diagnosis includes viral or atypical bacterial pneumonia due to recent community outbreaks.
+
+Plan (Treatment & Management):
+The patient will be managed in an isolation room with strict infection control protocols. He will continue receiving supplemental oxygen and will undergo further diagnostic workup, including chest X-ray and blood tests. Antibiotic therapy may be initiated pending culture results, and supportive care will include fluid management and antipyretics for fever. The healthcare team will closely monitor his respiratory status and adjust treatment as necessary. The patient's asthma medication regimen will continue as prescribed to control any underlying asthma symptoms.

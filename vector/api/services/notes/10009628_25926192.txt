@@ -1,0 +1,38 @@
+Patient Information:
+- Patient ID: 10009628
+- Admission ID: 25926192
+- Patient Name: Kwame Mensah
+- Patient Age: 58
+
+Initial Diagnosis:
+Acute respiratory distress with underlying bilateral infiltrates suggestive of viral pneumonia.
+
+History of Present Illness (HPI):
+Kwame Mensah, a 58-year-old male, presented to the emergency department with complaints of progressive shortness of breath and fever for four days. He reports feeling generally unwell, with associated chills and body aches. There is no history of recent travel or contact with anyone known to have COVID-19.
+
+Past Medical History (PMH):
+Notable for hypertension, hyperlipidemia, and chronic kidney disease stage III. He has had an influenza vaccination this season.
+
+Medications:
+Current medications include losartan 50 mg daily, atorvastatin 20 mg daily, and amlodipine 5 mg daily for hypertension; simvastatin 10 mg daily for hyperlipidemia; and metformin 500 mg twice daily for diabetes mellitus type II. He denies any use of immunosuppressive medications.
+
+Family History (FH):
+Non-contributory for infectious diseases or immunodeficiency disorders.
+
+Social History (SH):
+Works as a security guard at a local hospital, attends church services regularly, and reports no recent travel history outside the city. Smokes one pack of cigarettes daily for 30 years but denies any alcohol consumption.
+
+Physical Examination (PE):
+Vital signs show tachypnea with an oxygen saturation level of 88% on room air, blood pressure is 110/70 mmHg, and temperature is 38°C. Physical examination reveals bilateral crackles in the lungs and no other significant abnormalities noted.
+
+Initial Diagnosis:
+The patient's clinical presentation and imaging findings are consistent with viral pneumonia complicated by acute respiratory distress syndrome (ARDS). Differential diagnoses could include bacterial pneumonia or influenza given the current epidemiological context.
+
+Plan (Treatment & Management):
+The management plan includes:
+- Initiation of empiric antibiotic therapy to cover common pathogens causing pneumonia.
+- Antiviral treatment targeting known respiratory viruses, including COVID-19.
+- Supportive care measures such as oxygen supplementation and fluid management to address ARDS.
+- Monitoring for potential deterioration in clinical status.
+- Isolation precautions will be implemented due to the high suspicion of infectious etiology.
+- Regular reassessment by the pulmonology team given the complexity of his presentation.

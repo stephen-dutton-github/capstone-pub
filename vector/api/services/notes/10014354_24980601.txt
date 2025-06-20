@@ -1,0 +1,32 @@
+Patient Information:
+- Patient ID: 10014354
+- Admission ID: 24980601
+- Patient Name: Min-Jun Kim
+- Patient Age: 60 years old
+
+Initial Diagnosis:
+The patient presents with severe respiratory symptoms, including cough and dyspnea, and a high-grade fever. The clinical suspicion is for an acute respiratory infection due to a viral etiology.
+
+History of Present Illness (HPI):
+Min-Jun Kim, a 60-year-old male, reports experiencing worsening shortness of breath over the past four days, accompanied by a productive cough. He also mentions a high fever, which began two days ago and has persisted despite antipyretic use at home. The patient denies any recent travel or contact with known COVID-19 cases but admits to attending social gatherings recently.
+
+Past Medical History (PMH):
+The patient has a history of hypertension and hyperlipidemia, both managed with appropriate medications. He does not have any significant past surgical history.
+
+Medications:
+Current medications include atorvastatin 20 mg daily and lisinopril 10 mg daily for hypertension and hyperlipidemia. The patient also takes acetaminophen 325 mg every four hours as needed for fever relief.
+
+Family History (FH):
+There is no known family history of respiratory illnesses or autoimmune diseases.
+
+Social History (SH):
+The patient works in a non-medical office setting and has been attending social gatherings with co-workers recently. He reports no smoking history and consumes alcohol occasionally.
+
+Physical Examination (PE):
+Vital signs show tachypnea, elevated heart rate, and oxygen saturation at 88% on room air. Lung auscultation reveals coarse crackles bilaterally. The patient appears febrile but is alert and oriented. Other systemic examinations are unremarkable.
+
+Initial Diagnosis:
+Given the clinical presentation, laboratory tests including chest X-ray and nasopharyngeal swab for respiratory viruses have been ordered to assist in establishing a definitive diagnosis.
+
+Plan (Treatment & Management):
+The patient will be admitted for close monitoring and supportive care. Antibiotics have not yet been initiated due to the suspected viral etiology, but will be reconsidered if bacterial superinfection is indicated by subsequent tests. The patient will receive supplemental oxygen as needed to maintain adequate saturation levels. Fluid management will also be closely monitored, with adjustments made based on clinical response. Follow-up will include repeat chest X-rays and a thorough review of laboratory results once available.

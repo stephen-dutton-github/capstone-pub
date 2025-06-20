@@ -1,0 +1,32 @@
+Patient Information:
+- Patient ID: 10014354
+- Admission ID: 22741225
+- Patient Name: Min-Jun Kim
+- Patient Age: 60
+
+Initial Diagnosis:
+The patient presents with respiratory symptoms and evidence of lower respiratory tract infection based on imaging studies.
+
+History of Present Illness (HPI):
+Mr. Kim, a 60-year-old male, reports a 4-day history of cough productive of yellow sputum, progressive dyspnea, and fever peaking at 38°C. He denies any recent travel or exposure to known COVID-19 cases but acknowledges participating in gatherings with multiple attendees. He has not been vaccinated against influenza or COVID-19.
+
+Past Medical History (PMH):
+The patient has a history of type II diabetes mellitus, hypertension, and hyperlipidemia. He is currently on metformin, lisinopril, and simvastatin. No recent antibiotic use reported.
+
+Medications:
+Metformin 500 mg PO BID, Lisinopril 10 mg PO daily, Simvastatin 20 mg PO nightly
+
+Family History (FH):
+Father deceased from coronary artery disease; mother alive with hypertension. One sibling has a history of chronic obstructive pulmonary disease.
+
+Social History (SH):
+Mr. Kim is married, employed as an accountant, and lives in a densely populated urban area. He reports smoking half a pack of cigarettes daily for the past 30 years but denies alcohol use.
+
+Physical Examination (PE):
+Vital signs: Temperature 37.9°C, Blood Pressure 125/80 mmHg, Heart Rate 90 bpm, Respiratory Rate 24/min, Oxygen Saturation 93% on room air. Generalized appearance of fatigue and lethargy. No rhonchi or wheezing on lung auscultation. Chest radiograph shows bilateral infiltrates.
+
+Initial Diagnosis:
+Based on clinical presentation, imaging studies, and risk factors, the primary assessment is an acute respiratory infection complicated by the presence of multiple comorbidities.
+
+Plan (Treatment & Management):
+The patient will be started on broad-spectrum antibiotics pending further microbiological results to guide therapy. Supportive care includes fluid management, oxygen supplementation as needed, antipyretics for fever control, and continuation of current medications with close monitoring for potential complications. Referral to pulmonology and infectious disease specialists is planned for multidisciplinary management. Education provided regarding the importance of vaccination against COVID-19 and influenza given his risk profile and recent gatherings.

@@ -1,0 +1,32 @@
+Patient Information:
+- Patient ID: 10015860
+- Admission ID: 22416954
+- Patient Name: Zara Malik
+- Patient Age: 53
+
+Initial Diagnosis:
+Elevated respiratory rate, fever, and hypoxia prompting further investigation.
+
+History of Present Illness (HPI):
+Ms. Zara Malik, a 53-year-old female, presented to the emergency department with complaints of worsening cough, high-grade fever, and shortness of breath persisting for five days. She denies any recent travel or contact with known COVID-19 cases but mentions being exposed to someone who recently tested positive for a respiratory illness.
+
+Past Medical History (PMH):
+No significant past medical history noted; patient is not immunocompromised and has no chronic lung diseases.
+
+Medications:
+Pre-admission medications include paracetamol for fever reduction and albuterol inhaler as needed for cough exacerbation.
+
+Family History (FH):
+Patient reports her spouse recently tested positive for a respiratory illness, but denies other family members being infected or showing symptoms.
+
+Social History (SH):
+Patient is married with two children, both in good health. She works remotely from home due to the current pandemic restrictions and has limited social interactions outside of immediate family members.
+
+Physical Examination (PE):
+Vital signs show tachypnea (respiratory rate 24/min) and fever (38.5°C). Lung examination reveals bilateral crackles consistent with interstitial pneumonia. Oxygen saturation is low at 88% on room air, necessitating supplemental oxygen administration. No signs of respiratory distress are evident.
+
+Initial Diagnosis:
+Based on clinical presentation and laboratory findings, the primary diagnosis includes a viral pneumonia possibly secondary to recent exposure to someone with a respiratory illness. Differential diagnoses include community-acquired pneumonia or influenza.
+
+Plan (Treatment & Management):
+The patient has been started on broad-spectrum antibiotics pending further culture results to cover potential bacterial co-infection. Oxygen therapy via nasal cannula at 2 L/min was initiated, and her oxygen saturation improved to 92% with supplemental oxygen. Antiviral treatment will be considered based on the results of additional testing for COVID-19 and other respiratory viruses. The patient's symptoms are being monitored closely in an isolation room, and she is advised to rest and drink plenty of fluids. Education regarding infection control measures has been provided to both the patient and her family members to prevent further transmission within their household. Follow-up includes a repeat chest X-ray and complete blood count after 48 hours to monitor disease progression.

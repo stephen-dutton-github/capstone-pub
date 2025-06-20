@@ -1,0 +1,44 @@
+Patient Information:
+- Patient ID: 10004457
+- Admission ID: 28723315
+- Patient Name: Olivia Smith
+- Patient Age: 65 years old
+
+Initial Diagnosis:
+Based on preliminary evaluation, the patient presents with symptoms suggestive of cardiac issues related to valvular dysfunction. Specific diagnosis has not been confirmed yet.
+
+History of Present Illness (HPI):
+Olivia Smith, a 65-year-old female, was admitted with complaints of progressive dyspnea over the past month and fatigue for several weeks. She denies chest pain or palpitations but reports occasional orthopnea. The patient has a history of hypertension managed with atenolol.
+
+Past Medical History (PMH):
+- Hypertension
+- Mild chronic kidney disease stage 2
+- Hyperlipidemia
+
+Medications:
+- Atenolol 25 mg daily for hypertension
+
+Family History (FH):
+- Mother died from congestive heart failure
+- Brother has a history of myocardial infarction
+
+Social History (SH):
+- Non-smoker, occasional alcohol consumption
+- Engaged in regular physical activity until onset of symptoms
+
+Physical Examination (PE):
+- Vital signs: BP 140/90 mmHg, HR 70 bpm, RR 18 breaths/min, SpO2 94% on room air
+- General appearance: Well-nourished, alert patient, no acute distress
+- Cardiovascular: S1 and S2 heart sounds are prominent; a systolic murmur is noted at the right upper sternal border
+
+Initial Diagnosis:
+Based on clinical presentation and physical examination findings, valvular heart disease is suspected. Further diagnostic workup including echocardiography and cardiac biomarkers is planned to confirm the diagnosis.
+
+Plan (Treatment & Management):
+1. Order an urgent transthoracic echocardiogram.
+2. Initiate continuous ECG monitoring to rule out acute ischemia or arrhythmias.
+3. Administer supplemental oxygen if SpO2 falls below 92%.
+4. Manage hypertension with current medication (atenolol) and adjust as necessary based on blood pressure readings.
+5. Consult cardiology for further evaluation and management once echocardiogram results are available.
+
+The patient and family will be kept informed of all findings and treatment decisions. Education regarding the signs and symptoms of worsening heart failure will also be provided to ensure early detection of complications.

@@ -1,0 +1,3 @@
+subject_id,llm_diagnosis,cnn_diagnosis,llm_confidence,icd_code,icd_version,icd_description,multimodal,diagnosis_correct
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+10014729,Covid-19,"[{'predicted_class': 'Covid', 'confidence': 0.5059}]",0.5059,J1282,10,Pneumonia due to COVID-19,True,True

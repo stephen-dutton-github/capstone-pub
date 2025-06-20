@@ -1,0 +1,38 @@
+Patient Information:
+- Patient ID: 10023239
+- Admission ID: 21759936
+- Patient Name: Nora Johansen
+- Patient Age: 29 years old
+
+Initial Diagnosis:
+The patient presents with systemic symptoms suggestive of a multisystem infectious process, including fever, night sweats, and weight loss.
+
+History of Present Illness (HPI):
+Nora Johansen, a 29-year-old female, reports experiencing intermittent high fevers over the past four weeks, accompanied by significant fatigue, persistent night sweats, and unintentional weight loss of approximately 10 pounds. She denies any localizing symptoms such as cough or chest pain but notes recent onset of joint pain and swelling in her hands.
+
+Past Medical History (PMH):
+The patient has no significant past medical history to report. She is not immunocompromised and has no known allergies.
+
+Medications:
+Nora Johansen has been taking over-the-counter analgesics for symptom relief, including ibuprofen and acetaminophen, with minimal improvement.
+
+Family History (FH):
+There is no family history of tuberculosis or other infectious diseases reported by the patient.
+
+Social History (SH):
+The patient is a nonsmoker, not pregnant, and has no history of intravenous drug use. She recently traveled to Central America for two weeks but denies exposure to sick contacts during this time.
+
+Physical Examination:
+Vital signs: Temperature 102°F, heart rate 115 bpm, respiratory rate 24 breaths per minute, blood pressure 95/60 mmHg.
+General: Appears ill with notable pallor and diaphoresis. No lymphadenopathy or hepatosplenomegaly noted.
+Respiratory: Lungs are clear to auscultation bilaterally without wheezes, rales, or rhonchi.
+Cardiovascular: Tachycardic but regular rhythm, no murmurs detected.
+Musculoskeletal: Swelling and tenderness in both hands with limited range of motion.
+
+Initial Diagnosis:
+Based on the clinical presentation and systemic symptoms, a differential diagnosis includes infectious etiologies such as tuberculosis, endocarditis, or septic arthritis. The absence of localized respiratory symptoms and negative sputum Gram stain make bacterial pneumonia less likely.
+
+Plan (Treatment & Management):
+The patient will undergo further diagnostic workup including blood cultures, joint aspirate for synovial fluid analysis, and a chest X-ray. Given the risk profile suggested by her symptoms, treatment with empiric antimicrobial therapy will be initiated pending culture results. Consultation with infectious disease specialists is recommended to guide appropriate management based on initial findings.
+
+The patient has been counseled regarding the importance of reporting any new or worsening symptoms immediately and has been advised about potential side effects of the medications she will receive. Follow-up appointments have been scheduled for ongoing assessment and adjustment of treatment as needed.

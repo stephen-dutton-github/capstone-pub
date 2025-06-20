@@ -1,0 +1,33 @@
+Patient Information:
+- Patient ID: 10014354
+- Admission ID: 29600294
+- Patient Name: Min-Jun Kim
+- Patient Age: 60
+
+Initial Diagnosis:
+The patient presents with acute respiratory distress and fever, characterized by rapid breathing rate and low oxygen saturation levels.
+
+History of Present Illness (HPI):
+The patient reports experiencing symptoms for the past five days. Initially, he developed a dry cough, followed by chills, muscle pain, and high-grade fever. His condition rapidly deteriorated as he began to experience difficulty breathing and shortness of breath at rest. He has not been able to keep food or liquids down for two days due to nausea and vomiting.
+
+Past Medical History (PMH):
+The patient's medical history includes hypertension and diabetes mellitus type 2, both well-controlled on current medications. No prior respiratory conditions or relevant surgeries have been reported.
+
+Medications:
+- Metformin 850 mg twice daily
+- Amlodipine 5 mg once daily
+
+Family History (FH):
+There is no significant family history of pulmonary diseases.
+
+Social History (SH):
+The patient has been complying with COVID-19 protocols, wearing a mask indoors and outdoors whenever social distancing cannot be maintained. He has not traveled recently and has limited contact with others due to his underlying conditions.
+
+Physical Examination (PE):
+Vital signs: Temperature 38.2°C, Pulse rate 110 bpm, Respiratory rate 28 breaths per minute, Blood pressure 125/80 mmHg, Oxygen saturation 88% on room air. General appearance shows signs of distress with use of accessory muscles during breathing. Lungs are hyper-resonant to percussion and diminished in auscultation bilaterally, indicating possible lung consolidation.
+
+Initial Diagnosis:
+The clinical presentation suggests a severe acute respiratory infection, likely secondary to an atypical pathogen due to the rapid progression and lack of direct exposure to COVID-19-positive individuals.
+
+Plan (Treatment & Management):
+Initiate broad-spectrum antibiotics considering potential bacterial superinfection in addition to antiviral therapy. Provide oxygen supplementation with close monitoring of blood gases and adjust as needed. Administer IV fluids and consider nutritional support given current inability to keep food down. Arrange for a chest X-ray and further diagnostic tests like sputum analysis or PCR for respiratory pathogens. Consult pulmonology for possible ICU transfer if clinical status deteriorates.

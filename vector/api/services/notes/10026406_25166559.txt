@@ -1,0 +1,32 @@
+Patient Information:
+- Patient ID: 10026406
+- Admission ID: 25166559
+- Patient Name: Imani Okafor
+- Patient Age: 45 years old
+
+Initial Diagnosis:
+The primary concern for this patient at admission is an acute respiratory infection characterized by fever, cough, and dyspnea.
+
+History of Present Illness (HPI):
+Imani Okafor presents with a one-week history of progressive cough productive of yellowish sputum, high-grade fever, and shortness of breath. The symptoms have worsened over time despite taking over-the-counter medications and rest. She denies any recent travel or known exposure to anyone with similar symptoms.
+
+Past Medical History (PMH):
+Imani has no significant past medical history except for hypertension that is well-controlled with medication. She has not had a flu shot this season.
+
+Medications:
+Current medications include losartan 50 mg daily and paracetamol as needed for fever.
+
+Family History (FH):
+There is no family history of respiratory disease or immunodeficiency disorders.
+
+Social History (SH):
+Imani works as a healthcare provider and lives with her spouse and two children. She reports smoking half a pack of cigarettes per day but denies alcohol use.
+
+Physical Examination (PE):
+Vital signs show elevated temperature (38.5°C), heart rate of 110 bpm, respiratory rate of 24 breaths per minute, and oxygen saturation at 88% on room air. General appearance shows signs of mild distress. Lung examination reveals bilateral crackles in the lower lobes, more prominent on the left side. There are no other abnormal findings.
+
+Initial Diagnosis:
+Based on clinical presentation and physical examination findings, a diagnosis of lower respiratory tract infection is made, complicated by the presence of pneumonia-like symptoms. Differential diagnoses include viral pneumonia versus bacterial pneumonia.
+
+Plan (Treatment & Management):
+Initiate treatment with intravenous antibiotics pending further investigations to identify the causative organism. Administer supportive care including fluids and oxygen supplementation as needed. Chest X-ray will be performed to assess lung involvement. Educate Imani about the importance of completing her course of antibiotics and advise smoking cessation for overall health improvement. Arrange follow-up appointment in one week or sooner if symptoms worsen.

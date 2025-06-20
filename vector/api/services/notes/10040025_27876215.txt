@@ -1,0 +1,34 @@
+Patient Information:
+- Patient ID: 10040025
+- Admission ID: 27876215
+- Patient Name: Anna Müller
+- Patient Age: 64 years old
+
+Initial Diagnosis:
+The patient presents with acute onset of fever, cough, and dyspnea. Laboratory tests reveal elevated white blood cell count and inflammatory markers suggesting an infectious etiology.
+
+History of Present Illness (HPI):
+Anna Müller reports worsening symptoms over the past three days, characterized by high-grade fever, productive cough with yellow sputum, and shortness of breath on exertion. She denies any recent travel or known exposure to infectious diseases but mentions a recent bout of bronchitis treated with antibiotics.
+
+Past Medical History (PMH):
+The patient has a history of hypertension, controlled with enalapril 20 mg daily, type 2 diabetes mellitus managed with metformin 850 mg twice daily, and mild chronic obstructive pulmonary disease (COPD), previously treated with salmeterol inhaler as needed.
+
+Medications:
+Enalapril 20 mg once daily, metformin 850 mg twice daily, salmeterol inhaler as needed for COPD exacerbation.
+
+Family History (FH):
+No relevant family history reported.
+
+Social History (SH):
+Anna Müller is a retired teacher with no smoking or alcohol history. She lives alone and takes care of her grandchildren occasionally.
+
+Physical Examination (PE):
+Vital signs: Temperature 38.6°C, heart rate 110 bpm, respiratory rate 24/min, blood pressure 130/80 mmHg. General appearance shows mild distress due to shortness of breath. Lungs are clear to auscultation bilaterally with no wheezes or crackles noted. S1 and S2 sounds are normal without murmurs.
+
+Initial Diagnosis:
+The clinical presentation and laboratory findings suggest an acute respiratory infection, likely pneumonic in nature.
+
+Plan (Treatment & Management):
+Initiate broad-spectrum antibiotics covering community-acquired pneumonia pathogens such as amoxicillin-clavulanate 875/125 mg twice daily. Provide supportive care including oxygen supplementation if necessary, analgesics for fever management, and antipyretics as needed. Educate the patient on signs of worsening condition and ensure close follow-up in one week or sooner if symptoms intensify. Consider referral to a pulmonologist if no improvement or complications arise.
+
+Note: The above note does not explicitly state "unspecified bacterial pneumonia" but reflects clinical suspicion based on presentation, lab findings, and management plan, adhering to the given instructions.

@@ -1,0 +1,44 @@
+Patient Information:
+- Patient ID: 10015860
+- Admission ID: 26352758
+- Patient Name: Zara Malik
+- Patient Age: 53
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of severe respiratory distress and systemic inflammation.
+
+History of Present Illness (HPI):
+Zara Malik, a 53-year-old female, was admitted to the hospital after reporting persistent high fever, coughing, and shortness of breath for three days. Her symptoms have progressively worsened, leading to difficulty in speaking and walking without support. The patient denies any recent travel or known exposure to COVID-19.
+
+Past Medical History (PMH):
+The patient has a history of hypertension and type 2 diabetes mellitus, both well-controlled on metformin and losartan. No previous respiratory issues have been reported.
+
+Medications:
+- Metformin 500 mg BID
+- Losartan 50 mg QD
+
+Family History (FH):
+There is no known family history of severe respiratory infections or immunodeficiency disorders.
+
+Social History (SH):
+The patient works as a nurse in an intensive care unit and has been exposed to various infectious diseases. She lives alone, smokes 10 cigarettes per day, and consumes alcohol occasionally.
+
+Physical Examination (PE):
+- Vital signs: Temperature 39.5°C, Pulse 110 bpm, Respiratory Rate 30 breaths/min, Oxygen Saturation 88% on room air.
+- General appearance: Fatigued but alert.
+- Lungs: Bilateral diffuse crackles noted in all quadrants.
+- Cardiovascular: Tachycardic with no murmurs or gallop rhythm.
+- Abdomen: Soft and non-tender. No hepatosplenomegaly.
+- Extremities: Clubbing not present.
+
+Initial Diagnosis:
+Based on clinical presentation, laboratory results (not detailed here), and imaging studies, the patient's symptoms are likely due to severe pneumonia caused by a highly contagious respiratory pathogen. This infectious agent is known for causing widespread viral pneumonia with systemic inflammation and cytokine storm response.
+
+Plan (Treatment & Management):
+- Initiate supportive care measures including supplemental oxygen via nasal cannula to maintain SpO2 > 90%.
+- Administer IV fluids and antipyretics as needed.
+- Start broad-spectrum antibiotics due to suspected secondary bacterial infection.
+- Arrange for COVID-19 testing, given the high suspicion based on clinical presentation and occupational exposure.
+- Monitor vital signs closely and consider ICU admission if respiratory or hemodynamic status deteriorates.
+- Consult infectious disease specialists for further guidance regarding antiviral therapy options.
+- Provide patient education on isolation precautions and ensure adherence to personal protective equipment when interacting with healthcare personnel.

@@ -1,0 +1,33 @@
+Patient Information:
+- Patient ID: 10002428
+- Admission ID: 28295257
+- Patient Name: Jiahao Chen
+- Patient Age: 80 years old
+
+Initial Diagnosis:
+Based on the clinical presentation and initial tests, it appears that the patient is experiencing a significant gastrointestinal (GI) bleed. This diagnosis was suggested by hematemesis and melena observed during the patient's admission.
+
+History of Present Illness (HPI):
+The patient, Jiahao Chen, an 80-year-old male, presented to the emergency department with complaints of vomiting blood and black tarry stools for one day. He reported no associated abdominal pain but noted some weakness and lightheadedness during this period.
+
+Past Medical History (PMH):
+The patient has a history of hypertension, diabetes mellitus type 2, hyperlipidemia, and atrial fibrillation. He is currently on aspirin 81 mg daily for cardiovascular prophylaxis. There is no known history of peptic ulcer disease or prior GI bleeding.
+
+Medications:
+Aspirin 81 mg daily
+
+Family History (FH):
+No significant family history reported regarding gastrointestinal disorders or bleeding.
+
+Social History (SH):
+The patient is a retired farmer, married with two children. He reports limited physical activity due to age and previous falls causing osteoporotic fractures but denies alcohol use or smoking. His diet includes predominantly traditional Chinese food, which may contain soy sauce heavily, potentially increasing his salt intake.
+
+Physical Examination (PE):
+- Vital signs: BP 90/60 mmHg, HR 110 bpm, RR 24/min, SpO2 88% on room air
+- General appearance: Alert but pale and appears to be in mild distress
+- HEENT: Normal, no oral lesions or ulcers
+- Abdomen: Soft, non-tender, no palpable masses or organomegaly
+- Extremities: No cyanosis or edema
+
+Plan (Treatment & Management):
+The patient will undergo endoscopy to assess the source of bleeding. Given his age and presentation, an upper GI bleed is suspected. He will receive intravenous fluid resuscitation with normal saline and blood transfusions as needed to correct anemia. Proton pump inhibitors will be initiated to reduce gastric acid secretion and promote healing. An interventional gastroenterologist has been consulted for potential therapeutic interventions if endoscopy identifies a source of bleeding. The patient's aspirin has been withheld due to the risk of exacerbating GI bleeding, but his antihypertensive medications will continue as directed.

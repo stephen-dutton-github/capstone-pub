@@ -1,0 +1,33 @@
+Patient Information:
+- Patient ID: 10021312
+- Admission ID: 28829452
+- Patient Name: Anika Biswas
+- Patient Age: 55 years old
+
+Initial Diagnosis:
+Preliminary assessment suggests a complex respiratory condition with multi-system involvement.
+
+History of Present Illness (HPI):
+Anika Biswas, a 55-year-old female, presented to the emergency department complaining of persistent fever for three weeks and intermittent cough for six weeks. She also reported fatigue, night sweats, and recent weight loss over the past two months. There is no history of travel or contact with known tuberculosis cases.
+
+Past Medical History (PMH):
+Anika has a history of hypertension managed with losartan 50 mg daily and dyslipidemia treated with atorvastatin 20 mg daily. She had a left lung lobectomy for adenocarcinoma three years ago, which was staged as T1N0M0.
+
+Medications:
+- Losartan 50 mg daily
+- Atorvastatin 20 mg daily
+
+Family History (FH):
+No significant family history of tuberculosis or other autoimmune disorders reported.
+
+Social History (SH):
+Anika is a non-smoker and lives alone. She works as an accountant, engaging in sedentary work most of the time.
+
+Physical Examination (PE):
+Vital signs show temperature 38°C, heart rate 90 bpm, blood pressure 120/70 mmHg, respiratory rate 20 breaths per minute, and oxygen saturation at 94% on room air. General examination reveals pallor and emaciation. Respiratory system assessment shows decreased lung sounds in the left upper lobe area with bilateral diffuse rales. Cardiovascular examination indicates normal heart sounds without murmurs or gallops. Abdominal examination reveals mild hepatosplenomegaly.
+
+Initial Diagnosis:
+Based on clinical presentation, imaging studies including chest X-ray and CT scan suggest a disseminated granulomatous disease affecting multiple organs, particularly the lungs, liver, spleen, and lymph nodes. Differential diagnoses include reactivation of latent tuberculosis, sarcoidosis, or other granulomatous diseases.
+
+Plan (Treatment & Management):
+Admit Anika Biswas for further evaluation including QuantiFERON-TB Gold test, sputum samples for acid-fast bacilli smear and culture, and possibly bronchoscopy. Initiate empirical treatment considering potential infectious causes while awaiting test results. Consult pulmonology, infectious disease, and oncology for multidisciplinary management. Educate the patient about her condition and the importance of adhering to the proposed treatment plan. Arrange for social services support due to potential functional impairment and isolation.

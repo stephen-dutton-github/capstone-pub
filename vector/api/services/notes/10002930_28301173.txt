@@ -1,0 +1,37 @@
+Patient Information:
+- Patient ID: 10002930
+- Admission ID: 28301173
+- Patient Name: Amara Okafor
+- Patient Age: 48 years old
+
+Initial Diagnosis:
+Based on the clinical evaluation and information provided, the primary concern appears to be a severe depressive episode characterized by significant functional impairment.
+
+History of Present Illness (HPI):
+The patient reports experiencing persistent feelings of sadness, hopelessness, and an inability to enjoy activities that were once pleasurable. These symptoms have been ongoing for several months and have escalated in severity over time. The patient describes having difficulty sleeping due to racing thoughts and anxiety, which has led to fatigue during the day. She also reports weight loss of approximately 10 pounds within the past few weeks.
+
+Past Medical History (PMH):
+There is no history of psychosis or mania reported. The patient has a family history of depression, as her mother had major depressive disorder (MDD). No other significant medical conditions were noted during the intake process.
+
+Medications:
+No medications have been prescribed at this point due to recent admission, but the patient's history includes previous treatment with selective serotonin reuptake inhibitors (SSRIs) that were discontinued due to side effects.
+
+Family History (FH):
+The patient's mother had major depressive disorder (MDD).
+
+Social History (SH):
+The patient is married and has two children. She works as a part-time teacher, which she describes as having become increasingly difficult due to her current symptoms. The patient reports no significant substance use or abuse history.
+
+Physical Examination (PE):
+No acute physical findings were noted during the initial assessment.
+
+Initial Diagnosis:
+Major depressive affective disorder, recurrent episode, severe, without psychotic features.
+
+Plan (Treatment & Management):
+- Initiate a trial of a new SSRI medication after discussing potential side effects and benefits.
+- Refer to psychiatric consultation for further evaluation and management plan.
+- Recommend cognitive-behavioral therapy (CBT) as an adjunctive treatment to address depressive symptoms and enhance coping skills.
+- Monitor for any worsening or new symptoms, particularly given the history of discontinuation due to medication side effects.
+- Provide education regarding the importance of adherence to prescribed medications and therapy.
+- Schedule follow-up appointments with both primary care physician and psychiatrist within one week.

@@ -1,0 +1,32 @@
+Patient Information:
+- Patient ID: 10010867
+- Admission ID: 22950920
+- Patient Name: Mateusz Kowalski
+- Patient Age: 28
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of an acute respiratory infection characterized by fever, cough, and shortness of breath. The clinical picture indicates a severe inflammatory response in the lungs.
+
+History of Present Illness (HPI):
+Mateusz Kowalski, a 28-year-old male, reports experiencing worsening fatigue for several days before admission. Recently, he has developed high-grade fever, persistent dry cough, and difficulty breathing. These symptoms have progressed rapidly over three days, prompting his immediate family to seek medical attention.
+
+Past Medical History (PMH):
+The patient has no significant past medical history. He is not immunocompromised and denies any chronic illnesses or allergies.
+
+Medications:
+No specific medications were administered prior to admission. Over-the-counter pain relievers such as paracetamol were used for fever management at home.
+
+Family History (FH):
+There is no family history of respiratory diseases reported by the patient.
+
+Social History (SH):
+The patient is a non-smoker, does not consume alcohol excessively, and has maintained good hygiene practices recently. He lives with roommates who have been unwell in recent weeks but denies any direct contact or exposure to infectious agents.
+
+Physical Examination (PE):
+Vital signs show tachypnea, tachycardia, and hypoxemia. Physical examination reveals fine crackles throughout the bilateral lung fields on auscultation. There is no evidence of cyanosis or clubbing. The patient appears acutely ill but is alert and oriented.
+
+Initial Diagnosis:
+The clinical presentation suggests an acute viral pneumonia with secondary bacterial infection, complicated by severe inflammation and respiratory distress.
+
+Plan (Treatment & Management):
+Immediate management will include oxygen supplementation to maintain adequate saturation levels. Intravenous fluids will be administered for hydration and to support the patient's cardiovascular system. Antiviral therapy and empiric antibiotic treatment will be initiated based on current guidelines. The patient will be isolated to prevent nosocomial transmission, and contact tracing will be conducted among roommates. Continuous monitoring of respiratory status and vital signs is essential. Consultation with infectious disease specialists and pulmonologists is recommended for comprehensive management.

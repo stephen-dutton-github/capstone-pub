@@ -1,0 +1,36 @@
+Patient Information:
+- Patient ID: 10003400
+- Admission ID: 26467376
+- Patient Name: Ahmed Hassan
+- Patient Age: 72
+
+Initial Diagnosis:
+The patient presents with palpitations and shortness of breath.
+
+History of Present Illness (HPI):
+Ahmed Hassan, a 72-year-old male, reports experiencing frequent palpitations for the past week. He also notes increased shortness of breath during exertion. There is no associated chest pain or dizziness.
+
+Past Medical History (PMH):
+The patient has a history of hypertension, hyperlipidemia, and chronic atrial enlargement.
+
+Medications:
+Current medications include metoprolol 50 mg twice daily, atorvastatin 40 mg once daily, lisinopril 20 mg daily, and furosemide 80 mg in the morning.
+
+Family History (FH):
+The patient's family history includes a first-degree relative with atrial fibrillation.
+
+Social History (SH):
+The patient is a retired physician who lives alone. He denies smoking or alcohol consumption.
+
+Physical Examination (PE):
+Vital signs show a heart rate of 118 bpm, blood pressure 150/90 mmHg, and oxygen saturation at 93% on room air. Cardiac examination reveals an irregularly irregular rhythm, with no murmurs, rubs, or gallops noted. Lung sounds are clear bilaterally.
+
+Initial Diagnosis:
+The patient's symptoms and physical findings suggest a likely diagnosis of atrial flutter or fibrillation given his known history of chronic atrial enlargement and family history. Further evaluation is needed to confirm the diagnosis and assess for any associated complications such as congestive heart failure or pulmonary hypertension.
+
+Plan (Treatment & Management):
+- Order an EKG and echocardiogram to evaluate cardiac rhythm and structure.
+- Continue current medications until further evaluation.
+- Schedule a cardiology consult for comprehensive management.
+- Educate patient on recognizing symptoms of worsening heart failure, particularly shortness of breath at rest.
+- Discuss lifestyle modifications such as reducing stress, maintaining regular exercise, and managing blood pressure.

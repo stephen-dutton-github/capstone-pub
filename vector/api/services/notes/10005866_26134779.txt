@@ -1,0 +1,44 @@
+Patient Information:
+- Patient ID: 10005866
+- Admission ID: 26134779
+- Patient Name: Bao Nguyen
+- Patient Age: 57
+
+Initial Diagnosis:
+Indirect signs of a possible gastrointestinal obstruction. Symptoms include nausea, vomiting, abdominal pain and tenderness, as well as distension.
+
+History of Present Illness (HPI):
+Bao Nguyen, a 57-year-old male, presents with complaints of intermittent nausea, vomiting, and abdominal pain for the past three days. The patient describes the pain as crampy and localized to the right lower quadrant. He also reports some degree of distention, particularly noticeable in the mid-abdomen.
+
+Past Medical History (PMH):
+The patient has a history of hypertension, managed with an ACE inhibitor. No significant gastrointestinal complaints or surgeries noted in the past.
+
+Medications:
+Enalapril 20mg daily for hypertension
+
+Family History (FH):
+No known familial predispositions to gastrointestinal disorders.
+
+Social History (SH):
+The patient is married and works as an accountant. He reports no recent travel, new food intake, or medications other than his current antihypertensive agent.
+
+Physical Examination (PE):
+- Vital signs: BP 125/80 mmHg, pulse 72 bpm, temperature 98.2°F
+- General: Alert and oriented; appears uncomfortable but in no acute distress.
+- HEENT: Normocephalic, atraumatic. No jaundice or scleral icterus.
+- Abdomen: Mild distension with localized tenderness in the right lower quadrant. Bowel sounds are diminished in intensity and frequency. No signs of peritonitis.
+
+Initial Diagnosis:
+Based on clinical presentation and physical findings suggestive of partial intestinal obstruction, unspecified as to cause.
+
+Plan (Treatment & Management):
+- Order abdominal X-ray to assess for bowel obstruction.
+- Monitor vital signs closely.
+- Provide antiemetic medication as needed for nausea and vomiting.
+- Manage pain with oral analgesics.
+- Arrange for surgical consultation based on imaging results.
+- Advise the patient to avoid solid foods until further notice and maintain hydration status.
+- Educate the patient about the importance of compliance with treatment recommendations.
+
+Next Steps:
+Awaiting abdominal X-ray results and surgical consult. Continue monitoring vital signs, pain, and nausea levels closely.

@@ -1,0 +1,38 @@
+Patient Information:
+- Patient ID: 10007795
+- Admission ID: 27962747
+- Patient Name: Nikolai Petrov
+- Patient Age: 53 years old
+
+Initial Diagnosis:
+Abdominal pain, elevated lipase levels, and imaging findings suggestive of pancreatic pathology.
+
+History of Present Illness (HPI):
+Nikolai Petrov, a 53-year-old male, presented to the emergency department with complaints of worsening abdominal pain radiating to his back for the past week. The patient reports the pain as constant and severe, with no alleviating or aggravating factors noted. He denies any associated symptoms such as nausea, vomiting, fever, or jaundice.
+
+Past Medical History (PMH):
+- Hypertension
+- Hyperlipidemia
+- Type 2 diabetes mellitus managed with insulin therapy
+
+Medications:
+Metformin, Insulin glargine, Amlodipine, Atorvastatin
+
+Family History (FH):
+No immediate family members reported to have pancreatic disorders. However, there is a maternal uncle who suffered from pancreatitis in his late fifties.
+
+Social History (SH):
+The patient is a retired engineer with no known history of alcohol abuse or smoking. He reports an otherwise normal diet without any significant changes recently.
+
+Physical Examination:
+- Vital signs: BP 130/80 mm Hg, pulse 70 bpm, temperature 37°C
+- Abdominal examination reveals diffuse tenderness without guarding or rebound. No palpable masses noted.
+- Hepatomegaly present with a mild increase in right upper quadrant tenderness
+
+Initial Diagnosis:
+The clinical presentation and laboratory findings suggest an inflammatory pancreatic process, likely complicated by the development of pseudocysts.
+
+Plan (Treatment & Management):
+Admit for observation and further evaluation including abdominal CT scan to assess the extent of pancreatic involvement. Initiate IV hydration and pain management with morphine. Consult gastroenterology for possible endoscopic ultrasound-guided drainage or surgical intervention if indicated based on imaging results. Continue monitoring vital signs, fluid status, and laboratory values closely.
+
+Note: The direct statement of "Cyst and pseudocyst of pancreas" is avoided to maintain the mystery condition as per instructions.

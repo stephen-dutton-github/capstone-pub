@@ -1,0 +1,35 @@
+Patient Information:
+- Patient ID: 10014729
+- Admission ID: 28889419
+- Patient Name: Leah Goldberg
+- Patient Age: 21
+
+Initial Diagnosis:
+The patient presents with respiratory symptoms including cough, fever, and dyspnea. A chest X-ray reveals bilateral infiltrates consistent with acute lung injury.
+
+History of Present Illness (HPI):
+Leah Goldberg is a young female who reports onset of symptoms three days ago. She describes her cough as productive and notes associated fevers. The patient also complains of increasing shortness of breath, which has progressed despite rest at home. She denies any known exposure to respiratory illnesses recently but admits to close contact with a friend who was diagnosed with an unspecified respiratory infection approximately one week prior.
+
+Past Medical History (PMH):
+The patient has no significant past medical history and is not currently taking any medications.
+
+Medications:
+No current medications listed due to PMH of no significant health issues.
+
+Family History (FH):
+Mother died from metastatic cancer at age 48, father alive with hypertension. No known family history of respiratory conditions.
+
+Social History (SH):
+The patient lives alone in an apartment and works remotely as a graphic designer. She denies smoking or alcohol use but does admit to occasional marijuana use. She was fully vaccinated against influenza this season.
+
+Physical Examination (PE):
+- Vital Signs: Temperature 102°F, Pulse 110 bpm, Respiratory rate 28/min, Oxygen saturation 88% on room air.
+- General: Appears mildly ill, in no acute distress.
+- HEENT: No nasal discharge or congestion. Throat appears erythematous without exudates.
+- Lungs: Diffuse bilateral rales and rhonchi, increased respiratory effort.
+
+Initial Diagnosis:
+Based on clinical presentation and imaging studies, an acute lung injury with possible viral etiology is suspected.
+
+Plan (Treatment & Management):
+The patient will be started on supplemental oxygen therapy to correct hypoxemia. Broad-spectrum antibiotics will be initiated pending further testing for bacterial or atypical pathogens. Given the possibility of a viral infection, antiviral therapy will also be considered based on test results. The patient will undergo COVID-19 PCR testing and serology. She will be educated on respiratory hygiene practices and isolation precautions to prevent transmission to others. Continuous monitoring of vital signs and oxygen saturation will be performed. Follow-up with infectious disease for evaluation and management as needed.

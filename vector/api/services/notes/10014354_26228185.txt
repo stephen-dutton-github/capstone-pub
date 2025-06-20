@@ -1,0 +1,32 @@
+Patient Information:
+- Patient ID: 10014354
+- Admission ID: 26228185
+- Patient Name: Min-Jun Kim
+- Patient Age: 60 years old
+
+Initial Diagnosis:
+Based on current symptoms and test results, an infectious lung disease is suspected. The patient presents with typical signs of respiratory distress and elevated inflammatory markers.
+
+History of Present Illness (HPI):
+The patient reports recent onset of fever, cough, shortness of breath, and fatigue. These symptoms began approximately five days ago and have progressively worsened. The patient has been self-isolating at home but sought medical attention due to increased difficulty breathing.
+
+Past Medical History (PMH):
+No known significant past medical history was provided by the patient during admission. 
+
+Medications:
+No current medications were reported, as the patient has been self-isolating and not accessing outpatient care recently.
+
+Family History (FH):
+Not applicable or provided at this time.
+
+Social History (SH):
+The patient is a resident of an area currently experiencing widespread community transmission of a respiratory virus. The patient confirmed adherence to local public health guidelines for social distancing but reported limited contact with healthcare services due to COVID-19 concerns.
+
+Physical Examination (PE):
+Upon examination, the patient appears lethargic and has tachypnea, with oxygen saturation levels below 90% on room air. Auscultation reveals bilateral lower lobe crackles. The patient's body temperature is elevated, around 38°C.
+
+Initial Diagnosis:
+The patient's clinical presentation and recent community exposure strongly suggest a viral pneumonia caused by an emerging respiratory pathogen. Further diagnostic testing is necessary to confirm the exact etiology of the infection.
+
+Plan (Treatment & Management):
+Initiate supportive care measures such as oxygen supplementation and hydration. Conduct further diagnostic tests including PCR for suspected pathogens, chest X-ray, and blood work. Consult infectious disease specialists to assist in managing the case and initiating appropriate antiviral treatment if indicated. Ensure adherence to personal protective equipment guidelines for healthcare workers caring for this patient due to potential airborne transmission risks.

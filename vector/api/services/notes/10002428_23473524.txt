@@ -1,0 +1,42 @@
+Patient Information:
+- Patient ID: 10002428
+- Admission ID: 23473524
+- Patient Name: Jiahao Chen
+- Patient Age: 80 years old
+
+Initial Diagnosis:
+The primary concern for Mr. Chen's admission is a severe infection characterized by fever, chills, and hypotension. The patient presents with a respiratory tract infection that has progressed to bacteremia.
+
+History of Present Illness (HPI):
+Mr. Chen, an 80-year-old male, was admitted to the hospital after experiencing increasing shortness of breath, productive cough, and high-grade fever for five days. He reports a recent episode of pneumonia treated three weeks ago with antibiotics, which resolved. Currently, he is unable to sit upright without assistance due to extreme weakness.
+
+Past Medical History (PMH):
+- Hypertension
+- Type 2 diabetes mellitus
+- Chronic obstructive pulmonary disease (COPD)
+- Previous hospitalization for community-acquired pneumonia treated with azithromycin
+
+Medications:
+- Current medications include metformin and lisinopril for type 2 diabetes and hypertension, respectively. He also takes a combination inhaler containing salmeterol/fluticasone for COPD management.
+
+Family History (FH):
+No significant family medical history reported by the patient or available in his medical records.
+
+Social History (SH):
+Mr. Chen is widowed, lives alone, and has limited mobility due to arthritis. His social support includes a home health aide who assists him with daily living activities.
+
+Physical Examination (PE):
+- Vital signs: Temperature 38°C, blood pressure 90/60 mmHg, heart rate 110 bpm
+- Respiratory: Dyspneic at rest, audible wheezing and crackles in the bilateral lower lobes. Oxygen saturation is 88% on room air.
+- Cardiovascular: Tachycardia with no murmurs or gallops heard.
+- General: Appears lethargic, weak.
+
+Initial Diagnosis:
+The primary diagnosis considered for Mr. Chen's current condition includes a severe infection due to Gram-negative bacteria, likely Pseudomonas aeruginosa, complicated by his immunocompromised state from COPD and diabetes. The patient's recent history of pneumonia and ongoing respiratory symptoms raise concerns about ventilator-associated pneumonia or hospital-acquired infection.
+
+Plan (Treatment & Management):
+- Administer broad-spectrum intravenous antibiotics including a carbapenem such as meropenem, given the risk of multidrug-resistant organisms.
+- Provide supportive care with oxygen supplementation to maintain adequate saturation levels and fluid management to correct hypotension.
+- Monitor vital signs closely and reassess frequently for signs of deterioration or improvement.
+- Consult infectious disease for guidance on antibiotic stewardship due to his high-risk profile.
+- Involve the respiratory therapy team for possible intubation if respiratory status worsens.

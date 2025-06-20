@@ -1,0 +1,44 @@
+Patient Information:
+- Patient ID: 10023771
+- Admission ID: 20044587
+- Patient Name: Ismail Erdogan
+- Patient Age: 70 years old
+
+Initial Diagnosis:
+The patient presents with signs and symptoms suggestive of a systemic, disseminated infection characterized by diffuse nodular lesions in multiple organs.
+
+History of Present Illness (HPI):
+Ismail Erdogan is a 70-year-old male who was brought to the emergency department by his family due to fatigue, night sweats, weight loss over several weeks, and progressive difficulty breathing. He reports no fever or cough but has experienced persistent, unremitting weakness.
+
+Past Medical History (PMH):
+The patient has a history of type II diabetes mellitus, hypertension, and chronic obstructive pulmonary disease (COPD). He is currently on metformin, enalapril, and salmeterol/fluticasone inhalers. There are no known allergies to medications.
+
+Medications:
+- Metformin 500 mg PO BID for type II diabetes
+- Enalapril 10 mg PO daily for hypertension
+- Salmeterol/fluticasone 50/250 mcg via Diskus twice a day for COPD
+
+Family History (FH):
+The patient's father and paternal uncle both died from lung diseases. No other family history of tuberculosis or autoimmune disorders is known.
+
+Social History (SH):
+Mr. Erdogan has lived in Turkey all his life and retired as an accountant. He enjoys reading, playing chess, and spending time with his grandchildren. He denies any significant alcohol intake or tobacco use.
+
+Physical Examination (PE):
+Vital signs: BP 90/60 mmHg, pulse 100 bpm, RR 24 breaths per minute, oxygen saturation 88% on room air, temperature 97°F. General appearance shows the patient to be cachectic and pale.
+- Respiratory: Crackles in bilateral lung bases; diminished breath sounds over both lower lobes with increased fremitus.
+- Cardiovascular: Tachycardia; no murmurs or gallops.
+- Abdominal: No tenderness, hepatosplenomegaly noted.
+- Extremities: Clubbing present.
+
+Initial Diagnosis:
+Given the clinical presentation and imaging studies (not provided in this note), a working diagnosis of miliary tuberculosis with secondary pulmonary fibrosis is considered based on the radiographic findings. Differential diagnoses include other causes of disseminated infections or autoimmune disorders, such as sarcoidosis or rheumatoid arthritis.
+
+Plan (Treatment & Management):
+- Admit to the hospital for isolation precautions and further diagnostic workup.
+- Initiate broad-spectrum antibiotics pending culture results.
+- Consult infectious disease team for tuberculosis management guidelines and possible antituberculous therapy.
+- Monitor vital signs closely, with consideration for oxygen support as needed.
+- Provide nutritional support due to malnutrition.
+- Coordinate with pulmonology for assessment of lung function and potential need for steroids.
+- Educate patient and family about the diagnosis and treatment plan.

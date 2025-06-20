@@ -1,0 +1,36 @@
+Patient Information:
+- Patient ID: 10015860
+- Admission ID: 22413744
+- Patient Name: Zara Malik
+- Patient Age: 53 years old
+
+Initial Diagnosis:
+Acute respiratory failure secondary to severe pulmonary infiltration and hypoxia.
+
+History of Present Illness (HPI):
+Zara Malik, a 53-year-old female, presented with a 4-day history of fever, cough, and shortness of breath. She reported worsening symptoms over the past 48 hours, including increased difficulty breathing at rest. She denies any prior travel outside the country or contact with known COVID-19 cases.
+
+Past Medical History (PMH):
+The patient has no significant medical history, except for an annual influenza vaccination.
+
+Medications:
+Currently on ceftriaxone and azithromycin for presumed community-acquired pneumonia.
+
+Family History (FH):
+No known family history of respiratory or infectious diseases.
+
+Social History (SH):
+Ms. Malik is a non-smoker, works as an office administrator, and lives with her husband who also works in the same building. She reports adherence to hand hygiene and social distancing measures.
+
+Physical Examination (PE):
+Vital signs show tachypnea (25 breaths per minute), tachycardia (110 beats per minute), hypoxemia (SpO2 84% on room air), and fever (102°F). Physical examination reveals diffuse crackles over bilateral lung fields, and no other abnormalities noted.
+
+Initial Diagnosis:
+Severe pneumonia with acute respiratory failure likely due to an atypical infectious agent given the rapid progression despite antibiotic treatment. Differential diagnosis includes influenza, Legionella, or Mycoplasma pneumoniae.
+
+Plan (Treatment & Management):
+- Continue current antibiotics (ceftriaxone and azithromycin) while monitoring for efficacy.
+- Initiate high-flow nasal cannula oxygen therapy to manage hypoxemia.
+- Order chest X-ray and blood cultures to identify causative organism, if not already identified by PCR tests.
+- Consult pulmonology for further management options based on culture results and clinical response.
+- Educate the patient and family about the need for isolation precautions given the suspected infectious etiology.

@@ -1,0 +1,40 @@
+Patient Information:
+- Patient ID: 10006580
+- Admission ID: 24159665
+- Patient Name: Aya Yamada
+- Patient Age: 63 years old
+
+Initial Diagnosis:
+Based on symptoms and preliminary tests, the patient presents with neurological and endocrine abnormalities suggestive of an unspecified neoplastic process affecting both systems.
+
+History of Present Illness (HPI):
+Aya Yamada, a 63-year-old female, was admitted with complaints of recent onset of numbness and tingling in her left hand and leg. She also reports increased fatigue, weight gain over the past few months despite unchanged dietary habits, and occasional syncopal episodes. These symptoms have been progressively worsening over time.
+
+Past Medical History (PMH):
+No previous history of malignancy or neurological disorders. The patient has a history of controlled hypertension and type 2 diabetes mellitus.
+
+Medications:
+- Metformin for type 2 diabetes
+- Amlodipine for hypertension
+- Aspirin for cardiovascular prophylaxis
+
+Family History (FH):
+No family history of cancer or neurological diseases reported.
+
+Social History (SH):
+The patient is married, lives with her husband. She retired as a teacher four years ago and enjoys gardening in her free time. No known substance abuse or smoking history.
+
+Physical Examination (PE):
+- Neurological: Decreased sensation in the left hand and leg, with increased reflexes. Mild ataxia noted.
+- Endocrine: Signs of hyperthyroidism include tachycardia, tremors, and warm, moist skin. No palpable neck masses or thyroid nodules detected.
+
+Initial Diagnosis:
+The patient's clinical presentation and preliminary findings suggest an underlying neoplastic process affecting both the nervous system (likely central) and endocrine glands (suggestive of hyperthyroidism). Differential diagnoses include a paraneoplastic syndrome associated with an occult malignancy or a primary brain tumor with secondary endocrine dysfunction.
+
+Plan (Treatment & Management):
+1. Order comprehensive metabolic panel, complete blood count, and thyroid function tests.
+2. Request imaging studies including MRI of the brain and neck to assess for structural abnormalities and possible metastasis.
+3. Consult neurology and endocrinology for further evaluation and management.
+4. Initiate supportive care with antihyperthyroid medications as needed based on lab results.
+5. Educate patient and family about the findings, potential diagnoses, and ongoing treatment plan.
+6. Arrange follow-up appointments in one week to review imaging results and adjust the treatment plan accordingly.

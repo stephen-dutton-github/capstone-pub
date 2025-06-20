@@ -1,0 +1,39 @@
+Patient Information:
+- Patient ID: 10002930
+- Admission ID: 28477649
+- Patient Name: Amara Okafor
+- Patient Age: 48 years old
+
+Initial Diagnosis:
+Based on presenting symptoms and observations, the primary concern is an acute mental health crisis characterized by severe behavioral disturbances.
+
+History of Present Illness (HPI):
+The patient was brought to the emergency department by a concerned family member due to sudden changes in behavior. Amara has reported auditory hallucinations, increased anxiety, paranoia, and disorganized thinking over the past week. She denies any history of substance abuse but admits to recent stress related to work and personal relationships.
+
+Past Medical History (PMH):
+No previous psychiatric diagnoses or hospitalizations noted. The patient has a history of hypertension, well-managed with medication at home.
+
+Medications:
+- Amlodipine 10 mg daily for hypertension
+- No psychotropic medications
+
+Family History (FH):
+Mother had bipolar disorder; father deceased due to cardiac arrest. No other immediate family members reported with psychiatric conditions.
+
+Social History (SH):
+Divorced, lives alone, works as an accountant. Reports increased stressors related to work and personal relationships recently.
+
+Physical Examination (PE):
+- General: Alert but agitated
+- Psychiatric: Thought process is disorganized; speech is rapid and pressured
+- Vital signs within normal limits
+
+Initial Diagnosis:
+The clinical presentation suggests a severe mental health crisis, possibly exacerbated by recent stressors. Differential diagnoses include acute psychosis, mood disorder with psychotic features, or substance-induced psychosis (though no history of drug use reported).
+
+Plan (Treatment & Management):
+- Administer haloperidol 5 mg IV for immediate behavioral control
+- Start olanzapine 10 mg PO as a loading dose followed by an adjusted maintenance regimen based on response and side effects
+- Initiate supportive care with benzodiazepines as needed for anxiety
+- Arrange for psychiatric evaluation within 24 hours to confirm diagnosis and develop long-term management strategy
+- Provide education to family regarding the nature of the patient's condition, treatment options, and importance of follow-up care

@@ -1,0 +1,39 @@
+Patient Information:
+- Patient ID: 10025463
+- Admission ID: 27327816
+- Patient Name: Thiago Oliveira
+- Patient Age: 66 years old
+
+Initial Diagnosis:
+Based on the presenting symptoms and diagnostic tests, an assessment for disseminated granulomatous infection is considered.
+
+History of Present Illness (HPI):
+Thiago Oliveira, a 66-year-old male, presented to the emergency department with complaints of progressive fatigue over the past month. He also reports experiencing night sweats, unexplained weight loss of approximately 8 kg over three months, and intermittent fever episodes peaking at 38°C. Notably, he has no prior history of tuberculosis or significant travel.
+
+Past Medical History (PMH):
+The patient has a history of hypertension, well-managed with losartan 50 mg daily, hyperlipidemia treated with simvastatin 20 mg once daily, and type 2 diabetes mellitus controlled by metformin extended-release 1000 mg twice daily. He denies any recent infections or surgeries.
+
+Medications:
+Current medications include losartan 50 mg daily, simvastatin 20 mg once daily, and metformin extended-release 1000 mg twice daily.
+
+Family History (FH):
+The patient's family history is notable for a first-degree relative with tuberculosis treated successfully several years ago. There are no other significant familial diseases reported.
+
+Social History (SH):
+Thiago Oliveira lives alone in an urban setting. He reports no smoking, moderate alcohol intake, and regular physical activity. He works as an office clerk.
+
+Physical Examination:
+Vital signs show hypotension (BP 90/60 mmHg), tachycardia (HR 110 bpm), low-grade fever (37.5°C), and increased respiratory rate at 22 breaths per minute. Physical examination reveals fine, mottled skin lesions on the trunk and extremities, mild non-productive cough, and no lymphadenopathy or hepatosplenomegaly.
+
+Initial Diagnosis:
+The clinical presentation coupled with imaging findings suggestive of pulmonary involvement and the presence of disseminated granulomatous disease in other organs such as the liver, spleen, and bone marrow necessitate further evaluation to rule out a systemic mycobacterial infection.
+
+Plan (Treatment & Management):
+- Initiate broad-spectrum antibiotics while awaiting specific anti-tuberculosis therapy.
+- Obtain sputum specimens for acid-fast bacilli smears and cultures, blood cultures, and tissue biopsies from affected organs. 
+- Consult infectious disease specialists for further management and potential isolation precautions.
+- Monitor vital signs closely and provide supportive care as needed.
+- Educate the patient about the nature of his symptoms and the importance of adherence to treatment once it is started.
+- Arrange follow-up appointments in one week or sooner if symptoms worsen.
+
+This plan will guide further evaluation and management while ensuring infection control measures are taken, given the possibility of a contagious disease.

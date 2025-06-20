@@ -1,0 +1,43 @@
+Patient Information:
+- Patient ID: 10021938
+- Admission ID: 23112364
+- Patient Name: Kojo Boateng
+- Patient Age: 65 years old
+
+Initial Diagnosis:
+The primary assessment indicates a systemic granulomatous disease with disseminated nodular lesions and pulmonary involvement. 
+
+History of Present Illness (HPI):
+Kojo Boateng, a 65-year-old male, presented to the emergency department with complaints of persistent high-grade fever, night sweats, generalized fatigue, and weight loss over the past two months. He also reports coughing up blood occasionally.
+
+Past Medical History (PMH):
+The patient has a history of hypertension, diabetes mellitus type II, and asthma. He is currently on antihypertensive medications (lisinopril 10 mg daily) and insulin for diabetes management. No history of significant travel or contact with tuberculosis patients.
+
+Medications:
+- Lisinopril 10 mg orally once daily
+- Insulin as needed for blood sugar control
+
+Family History (FH):
+No immediate family members with similar illnesses reported.
+
+Social History (SH):
+The patient is married, retired, and has two adult children. He lives in an urban area and reports no recent travel or exposure to tuberculosis patients.
+
+Physical Examination (PE):
+Vital signs: Temperature 39°C, Blood Pressure 130/80 mmHg, Pulse 100 bpm, Respiratory Rate 24/min, Oxygen Saturation 88% on room air.
+- General: Appears ill, diaphoretic, and in no acute distress
+- HEENT: Normocephalic, atraumatic. No lymphadenopathy noted. Oral mucosa dry, pale.
+- Respiratory: Bilateral crackles heard in all lung fields; rhonchi present over both lower lobes.
+- Cardiovascular: Regular rate and rhythm, grade 1/6 systolic murmur at the apex.
+- Abdomen: Soft, non-tender, no organomegaly. Hepatosplenomegaly not appreciated.
+
+Initial Diagnosis:
+The clinical presentation and physical examination findings suggest a systemic granulomatous disease with pulmonary involvement and possible disseminated infection. The presence of hemoptysis and extensive lung infiltrates raises concern for an infectious etiology, specifically mycobacterial in origin.
+
+Plan (Treatment & Management):
+- Initiate empiric antimicrobial therapy covering both bacterial and atypical pathogens.
+- Obtain a chest X-ray and high-resolution CT scan of the lungs to assess extent of pulmonary involvement.
+- Perform sputum induction and culture to identify causative organism(s).
+- Start respiratory support with oxygen supplementation as needed for hypoxemia.
+- Consult infectious disease for further evaluation and management based on microbiological results.
+- Monitor vital signs closely, especially temperature, and reassess the patient's clinical status frequently.

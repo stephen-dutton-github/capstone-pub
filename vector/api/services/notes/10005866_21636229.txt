@@ -1,0 +1,37 @@
+Patient Information:
+Patient ID: 10005866, Admission ID: 21636229, Patient Name: Bao Nguyen, Age: 57 years.
+
+Initial Diagnosis:
+Abdominal pain and distension, low-grade fever.
+
+History of Present Illness (HPI):
+The patient is a 57-year-old male presenting with a one-week history of increasing abdominal pain and distension. The pain is described as constant and localized to the lower abdomen. The patient also reports associated symptoms of nausea and vomiting for two days. There is no reported recent travel or contact with sick persons.
+
+Past Medical History (PMH):
+The patient has a significant surgical history, including multiple abdominal surgeries over the past 10 years due to recurrent diverticulitis. He also has a history of chronic obstructive pulmonary disease (COPD) and type II diabetes mellitus, both well-controlled with current medications.
+
+Medications:
+Metformin for diabetes management, ipratropium inhaler and salmeterol inhaler for COPD, and ciprofloxacin started two days ago for suspected urinary tract infection due to dysuria.
+
+Family History (FH):
+Not applicable in this scenario as no family history was reported by the patient during intake.
+
+Social History (SH):
+The patient is a retired construction worker with no recent travel or contact with sick persons. He smokes 10 cigarettes daily and consumes two alcoholic drinks weekly.
+
+Physical Examination (PE):
+General: Alert, oriented, but appears mildly anxious.
+Vital Signs: Temperature 38°C (100.4°F), Heart Rate 90 bpm, Respiratory Rate 18 breaths per minute, Blood Pressure 110/70 mmHg.
+Abdomen: Distended with diffuse tenderness, particularly in the lower quadrants. No visible abdominal masses or rash. Mild ascites noted on ultrasound.
+
+Initial Diagnosis:
+The clinical presentation and physical examination findings suggest a postoperative complication related to previous abdominal surgeries, likely complicated by an underlying infectious process as evidenced by low-grade fever and recent antibiotic use for suspected urinary tract infection.
+
+Plan (Treatment & Management):
+1. Continue monitoring vital signs closely.
+2. Administer intravenous fluids and consider bowel rest with nasogastric suction if needed.
+3. Consult Gastroenterology for further evaluation and management, possibly including diagnostic laparoscopy or CT scan of the abdomen.
+4. Monitor abdominal pain and distension closely for any signs of worsening or new symptoms.
+5. Continue current medications for COPD and diabetes but reassess after full evaluation by Gastroenterology.
+
+The patient has been informed about the potential need for further surgical intervention and given instructions to report any changes in his condition immediately.

@@ -1,0 +1,45 @@
+Patient Information:
+- Patient ID: 10014078
+- Admission ID: 25809882
+- Patient Name: Saanvi Desai
+- Patient Age: 60 years old
+
+Initial Diagnosis:
+The patient presents with acute respiratory symptoms, fever, and hypoxia. The primary concern is a severe lower respiratory tract infection secondary to a viral etiology.
+
+History of Present Illness (HPI):
+Saanvi Desai, a 60-year-old female, was admitted for progressive dyspnea over the past three days, accompanied by productive cough, high-grade fever, and fatigue. She denies any recent travel or exposure to known cases but reports attending multiple social gatherings in the past two weeks.
+
+Past Medical History (PMH):
+The patient has no significant medical history except a mild case of hypertension treated with losartan 50 mg daily. She is up-to-date on all vaccinations including influenza and pneumococcus.
+
+Medications:
+- Losartan 50 mg orally once daily
+- Acetaminophen 325 mg every 4 hours as needed for fever
+
+Family History (FH):
+Her family history includes diabetes mellitus in her mother but no respiratory diseases or immunocompromised conditions.
+
+Social History (SH):
+Saanvi is a retired school teacher, currently living with her husband. She participates in community gatherings and enjoys socializing regularly. There are no known smoking or alcohol use habits.
+
+Physical Examination (PE):
+- Vital signs: Temperature 38°C, Pulse 110 bpm, Respiratory rate 24/min, Oxygen saturation on room air 88%, Blood pressure 120/70 mmHg
+- General: Alert, oriented but appears tired and weak
+- HEENT: No nasal discharge or conjunctival pallor. Lungs: Bilateral coarse crackles noted in the lower zones of both lungs. Heart: Rate regular, no murmurs, rubs, or gallops. Abdomen: Soft, non-tender, no hepatosplenomegaly.
+- Extremities: No edema or cyanosis
+- Neurological: Oriented to time, place, and person; cranial nerves II-XII intact.
+
+Initial Diagnosis:
+Based on clinical presentation, laboratory tests, and imaging studies, Saanvi Desai's primary diagnosis is a severe community-acquired pneumonia likely caused by SARS-CoV-2, given her symptoms and exposure risk profile. Further diagnostic workup includes COVID-19 PCR test and chest CT scan.
+
+Plan (Treatment & Management):
+- Initiate supportive care with supplemental oxygen to maintain SpO2 > 92%
+- Administer IV antibiotics targeting common respiratory pathogens pending further culture results
+- Begin antiviral treatment if confirmed COVID-19 positive by PCR
+- Continue monitoring vital signs, including temperature and oxygen saturation closely
+- Provide education on the importance of self-isolation and hand hygiene practices to prevent transmission
+- Arrange for a social worker consultation due to patient's exposure risk profile and family concerns.
+
+Follow-up:
+The team will reassess the patient daily in the intensive care unit. Further consultations with infectious disease specialists are planned as needed based on evolving clinical findings and test results.

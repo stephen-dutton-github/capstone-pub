@@ -1,0 +1,41 @@
+Patient Information:
+- Patient ID: 10001725
+- Admission ID: 25563031
+- Patient Name: Sofia Rossi
+- Patient Age: 46 years old
+
+Initial Diagnosis:
+The patient presents with difficulty initiating urinary flow and a sensation of incomplete bladder emptying.
+
+History of Present Illness (HPI):
+Sofia Rossi, a 46-year-old female, reports that she has been experiencing recurrent episodes of urinary retention over the past three months. She describes difficulty in initiating the urine stream and a feeling of incomplete bladder emptying despite her regular voiding attempts. These symptoms have significantly impacted her quality of life, causing anxiety and discomfort.
+
+Past Medical History (PMH):
+The patient has a history of obesity, hypertension, and hyperlipidemia. She is currently on atorvastatin 80 mg daily and lisinopril 20 mg twice daily. No prior surgical or urological interventions have been documented.
+
+Medications:
+Atorvastatin 80 mg daily, Lisinopril 20 mg twice daily
+
+Family History (FH):
+There is no known family history of urinary issues or similar conditions reported by the patient.
+
+Social History (SH):
+The patient works as an accountant and has a sedentary lifestyle. She denies smoking, alcohol consumption, or illicit drug use. She reports that she is married with two children and lives in a suburban area.
+
+Physical Examination (PE):
+- Vital signs: BP 125/75 mmHg, Pulse 70 bpm
+- General examination: Well-nourished, well-developed female in no acute distress.
+- Genitourinary: No visible abnormalities upon inspection of the external genitalia. Pelvic exam was conducted showing mild tenderness on bimanual palpation but no significant masses or lesions noted.
+
+Initial Diagnosis:
+The primary assessment for this patient is likely related to obstructive uropathy, considering her symptoms and medical history.
+
+Plan (Treatment & Management):
+1. Order urinalysis and urine culture to rule out infection.
+2. Schedule a pelvic ultrasound to evaluate for any anatomical abnormalities such as cystocele or rectocele that could contribute to urinary retention.
+3. Consider referral to urology for further evaluation, especially if imaging suggests bladder outlet obstruction.
+4. Educate the patient on bladder training techniques and strategies to manage symptoms until specialist assessment can be arranged.
+5. Continue current medications unless contraindicated by new findings or interventions.
+
+Follow-up:
+The patient will be contacted within one week to review test results and discuss any necessary adjustments in her treatment plan based on specialist feedback.

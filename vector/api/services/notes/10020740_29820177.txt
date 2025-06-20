@@ -1,0 +1,38 @@
+Patient Information:
+- Patient ID: 10020740
+- Admission ID: 29820177
+- Patient Name: Omar Farah
+- Patient Age: 56 years old
+
+Initial Diagnosis:
+- The patient presents with systemic symptoms suggestive of a disseminated infectious process.
+
+History of Present Illness (HPI):
+- Omar Farah, a 56-year-old male, reports feeling progressively unwell for the past three weeks. He describes fatigue, intermittent fever, night sweats, and unintentional weight loss of approximately 5 kg during this period. The patient also notes that his cough has persisted despite taking over-the-counter medications.
+
+Past Medical History (PMH):
+- Chronic obstructive pulmonary disease (COPD), managed with bronchodilators; history of smoking (40 pack-years); hypertension, controlled with an angiotensin-converting enzyme inhibitor.
+
+Medications:
+- Salmeterol 50 mcg inhaler twice daily; tiotropium 18 mcg inhalation once daily; lisinopril 20 mg orally daily.
+- Over-the-counter: Diphenhydramine 25 mg every four hours as needed for cough relief.
+
+Family History (FH):
+- No significant family history reported for infectious diseases or immunodeficiency syndromes.
+
+Social History (SH):
+- Omar is divorced, lives alone, and works as a retired mechanic. He reports compliance with his prescribed medications but admits to occasional alcohol use. No recent travel or contact with tuberculosis patients noted.
+
+Physical Examination (PE):
+- General: Alert and oriented, appears acutely ill.
+- Respiratory: Bilateral diffuse crackles noted on auscultation; rhonchi audible in the right lung base.
+- Cardiovascular: Tachycardia present at 110 bpm; grade II systolic ejection murmur heard over the aortic area. No jugular venous distension.
+- Abdomen: Soft, non-tender, no hepatosplenomegaly.
+
+Initial Diagnosis:
+Based on clinical presentation and radiological findings (not explicitly stated but implied), an infectious process affecting multiple organ systems is suspected.
+
+Plan (Treatment & Management):
+- Initiate diagnostic workup for potential disseminated infection including blood cultures, sputum cultures, and chest imaging with CT scan.
+- Consult Infectious Diseases for further evaluation of suspected pulmonary pathogen; consider antimicrobial coverage pending culture results.
+- Hospitalize for close monitoring and supportive care including fluid management, antipyretics, and pain control as needed.

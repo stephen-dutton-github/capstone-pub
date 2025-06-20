@@ -1,0 +1,36 @@
+Patient Information:
+- Patient ID: 10010471
+- Admission ID: 21322534
+- Patient Name: Mei Zhang
+- Patient Age: 89
+
+Initial Diagnosis:
+The patient presents with symptoms indicative of a severe respiratory infection, characterized by fever, cough, and shortness of breath. Given the current pandemic context and the patient's advanced age, there is a high suspicion for an infectious etiology that has been widely reported in recent months.
+
+History of Present Illness (HPI):
+Mei Zhang, a 89-year-old female, was admitted to the hospital after experiencing progressive respiratory symptoms over the past five days. She reports a fever peaking at 102°F, persistent dry cough, and worsening dyspnea upon exertion. The patient denies any recent travel history or contact with individuals displaying similar symptoms.
+
+Past Medical History (PMH):
+The patient has a significant medical history including hypertension, diabetes mellitus type 2, chronic kidney disease stage 3, and dementia. She is currently on medications for hypertension and diabetes management and uses an inhaler for mild asthma symptoms.
+
+Medications:
+- Amlodipine 10 mg daily
+- Metformin extended-release 1000 mg twice daily
+- Albuterol inhaler as needed for asthma
+
+Family History (FH):
+The patient's family history includes a significant prevalence of chronic diseases such as hypertension, diabetes mellitus, and coronary artery disease.
+
+Social History (SH):
+Mei Zhang is a widowed retired teacher who lives alone. She has limited mobility due to her advanced age and dementia but receives regular home visits from a caregiver. She does not smoke or consume alcohol regularly.
+
+Physical Examination (PE):
+Upon examination, the patient appears fatigued and dyspneic at rest. Vital signs show elevated body temperature at 102°F, heart rate of 110 bpm, respiratory rate of 26/min, and oxygen saturation at 88% on room air. Auscultation reveals bilateral diffuse crackles with decreased breath sounds in both lung fields. There is no peripheral edema noted.
+
+Initial Diagnosis:
+Based on the clinical presentation and risk factors, there is a strong suspicion for an infectious etiology potentially linked to recent viral outbreaks. Further diagnostic workup, including respiratory analysis, chest X-ray, and blood cultures, will be conducted.
+
+Plan (Treatment & Management):
+The patient has been admitted for inpatient monitoring and supportive care. Antibiotic therapy will be initiated based on culture results pending further evaluation. Oxygen supplementation is being administered via nasal cannula to maintain adequate oxygen saturation levels. Intravenous fluids are provided for hydration due to anticipated fever management and potential dehydration from dyspnea. A pulmonology consult has been requested, and the patient's primary care physician has been notified about her hospitalization.
+
+The healthcare team will continue to monitor Mei Zhang closely with the aim of managing her symptoms effectively while maintaining vigilance for any clinical deterioration.

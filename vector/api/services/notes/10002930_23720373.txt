@@ -1,0 +1,32 @@
+Patient Information:
+- Patient ID: 10002930
+- Admission ID: 23720373
+- Patient Name: Amara Okafor
+- Patient Age: 48 years old
+
+Initial Diagnosis:
+The patient presents with acute behavioral disturbances characterized by disorganized speech, unusual motor behaviors, and significant mood swings. These symptoms have persisted over a period of weeks without an identifiable precipitating event or substance use.
+
+History of Present Illness (HPI):
+Amara Okafor, a 48-year-old female, was brought to the emergency department by her family due to escalating behavioral issues at home. She has been described as displaying rapid mood swings, agitation, and unusual behaviors including repetitive gestures and altered motor activity. The onset of these symptoms occurred approximately eight weeks ago without any identifiable triggers or substance use.
+
+Past Medical History (PMH):
+The patient has a history of hypertension and mild depression, both well-managed on medication. No past psychiatric history is noted in her medical records.
+
+Medications:
+Current medications include amlodipine 5 mg daily for hypertension and fluoxetine 20 mg daily for mild depression.
+
+Family History (FH):
+There is no significant family history of psychiatric disorders reported by the patient or her family members. 
+
+Social History (SH):
+The patient lives with her husband and two children in a stable environment. She is an employed professional and has no known substance use issues. Recent life stressors include minor work-related conflicts and family disagreements, but these events did not precede the onset of her current symptoms.
+
+Physical Examination (PE):
+The patient appears well-nourished and hydrated. Vital signs are within normal limits except for elevated blood pressure at 145/90 mm Hg. Neurological examination shows no focal deficits. Behavioral assessment indicates disorganized speech patterns, altered motor activity, and significant mood instability.
+
+Initial Diagnosis:
+Based on the clinical presentation, a primary psychiatric disorder is suspected, characterized by disorganized behavior and affective instability without any identifiable substance use or physiological precipitant.
+
+Plan (Treatment & Management):
+The patient will be admitted for further evaluation and stabilization under close observation. A comprehensive psychiatric assessment will be conducted to explore possible etiologies of her symptoms including organic causes, personality disorders, mood disorders, or schizophrenia spectrum disorders. Appropriate psychotropic medications will be initiated after consultation with a psychiatry team member. The family will receive psychoeducation regarding the patient's condition and supportive measures for managing behavioral disturbances at home. Follow-up appointments will be scheduled to reassess symptomatology and treatment efficacy.

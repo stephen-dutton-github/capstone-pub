@@ -1,0 +1,38 @@
+Patient Information:
+- Patient ID: 10023117
+- Admission ID: 21607814
+- Patient Name: Hassan Bouazizi
+- Patient Age: 53 years old
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of a disseminated infectious disease, characterized by weight loss, night sweats, and systemic complaints such as fatigue and low-grade fever.
+
+History of Present Illness (HPI):
+Mr. Bouazizi reports experiencing persistent unexplained weight loss over the past three months, accompanied by night sweats and persistent low-grade fever for one month. He denies any history of cough or hemoptysis but mentions generalized body aches and feeling tired most of the time. The patient is originally from Morocco and has recently moved to the United States.
+
+Past Medical History (PMH):
+No significant past medical history reported by the patient, and he denies any known allergies.
+
+Medications:
+None documented at this time.
+
+Family History (FH):
+Father had pulmonary tuberculosis in his 40s; however, no other family members have a history of tuberculosis or other infectious diseases.
+
+Social History (SH):
+Recently moved to the United States from Morocco. Works as an accountant and denies smoking or alcohol consumption.
+
+Physical Examination (PE):
+Vital signs show a temperature of 37.8°C, heart rate at 80 bpm, respiratory rate at 18 breaths per minute, and blood pressure is within normal limits. Physical examination reveals pallor of the skin and mucous membranes with a generalized body ache on palpation. No abnormalities were noted in the lungs or abdomen on auscultation.
+
+Initial Diagnosis:
+Based on clinical presentation and history, a diagnosis of disseminated infection is considered, pending further diagnostic workup including sputum and blood cultures, chest radiograph, abdominal ultrasound, and other relevant serologies. The possibility of an exogenous infectious disease versus an endogenous reactivation is being entertained given the patient's travel history and family medical history.
+
+Plan (Treatment & Management):
+- Initiate contact precautions as a precautionary measure.
+- Order sputum cultures to rule out pulmonary tuberculosis and abdominal ultrasound to assess for any intra-abdominal pathology.
+- Conduct chest radiograph to evaluate for possible pulmonary involvement if indicated by culture results or clinical suspicion.
+- Obtain blood cultures to identify the causative organism.
+- Initiate empirical antibiotic therapy pending further diagnostic results. Consider antituberculous medications based on sputum culture results and overall clinical presentation.
+- Schedule follow-up appointment within one week to review additional test results and reassess treatment plan as needed.
+- Educate patient regarding the importance of adherence to prescribed treatments, possible side effects, and signs and symptoms that should prompt immediate medical attention.

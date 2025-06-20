@@ -1,0 +1,50 @@
+Patient Information:
+- Patient ID: 10006053
+- Admission ID: 22942076
+- Patient Name: Javier Martínez
+- Patient Age: 52
+
+Initial Diagnosis:
+The patient presents with altered mental status, characterized by disorientation, confusion, and lethargy.
+
+History of Present Illness (HPI):
+Javier Martínez, a 52-year-old male, was admitted to the hospital after being found unresponsive at home. He has had multiple hospitalizations in the past year due to chronic liver disease complications. He reports experiencing increasing fatigue and confusion over the last two weeks.
+
+Past Medical History (PMH):
+- Chronic liver disease secondary to hepatitis C with cirrhosis
+- Previous episodes of hepatic encephalopathy (as suggested by history)
+- Hypertension
+- Diabetes mellitus type 2
+
+Medications:
+- Antiviral medication for hepatitis C, discontinued due to treatment failure
+- Propranolol for hypertension management
+- Insulin and metformin for diabetes control
+- Lactulose and rifaximin prophylaxis for hepatic encephalopathy prevention
+
+Family History (FH):
+- Father died from liver cirrhosis complications at age 60
+- Brother has chronic hepatitis C infection without progression to cirrhosis
+
+Social History (SH):
+- Active alcohol user with a history of heavy drinking (over 14 drinks/week) until two years ago, when he reduced intake due to medical advice.
+- Works as an accountant in a shared office space.
+
+Physical Examination (PE):
+- Vital signs: Temperature 98.4°F, Blood pressure 110/70 mmHg, Pulse 90 bpm, Respiratory rate 18 breaths per minute
+- General appearance: Disheveled, slightly disoriented, and confused.
+- Neurological examination: Confusion, decreased consciousness level (Glasgow Coma Scale score of 13/15)
+- Hepatojugular reflux present, indicating significant portal hypertension.
+
+Initial Diagnosis:
+Given the patient's history and clinical presentation, the primary concern is a complication related to his chronic liver disease. The altered mental status suggests a potential metabolic encephalopathy secondary to his underlying liver condition.
+
+Plan (Treatment & Management):
+- Administer IV fluids with electrolyte monitoring
+- Obtain serum ammonia levels and consider lumbar puncture for cerebrospinal fluid analysis if indicated
+- Continue lactulose and rifaximin, considering adjustment in dose or frequency based on response
+- Consider consultation with gastroenterology for further evaluation of liver disease progression and potential for liver transplantation.
+- Monitor vital signs closely, especially given the patient's history of hypertension and diabetes.
+- Provide supportive care, including psychological support due to cognitive impairment.
+
+The above plan aims at stabilizing the patient while investigating the cause of his altered mental status and managing potential complications from his chronic liver disease.

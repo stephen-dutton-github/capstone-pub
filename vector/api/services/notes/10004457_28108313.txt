@@ -1,0 +1,44 @@
+Patient Information:
+- Patient ID: 10004457
+- Admission ID: 28108313
+- Patient Name: Olivia Smith
+- Patient Age: 65 years old
+
+Initial Diagnosis:
+Based on imaging studies, the patient presents with significant narrowing and blockage of the right carotid artery.
+
+History of Present Illness (HPI):
+Olivia Smith, a 65-year-old female, was admitted to the hospital after experiencing transient episodes of left-sided weakness, slurred speech, and dizziness over the past week. She denies any recent trauma or infections.
+
+Past Medical History (PMH):
+Ms. Smith has a history of hypertension, hyperlipidemia, and type 2 diabetes mellitus. She has been on antihypertensive medications, statins, and oral hypoglycemic agents for several years.
+
+Medications:
+- Amlodipine 10 mg daily
+- Atorvastatin 80 mg daily
+- Metformin 1000 mg twice daily
+
+Family History (FH):
+Her family history includes early-onset cardiovascular disease in her father and mother.
+
+Social History (SH):
+Ms. Smith is a retired teacher, married with two children, and lives independently. She reports no current smoking or alcohol use but has a sedentary lifestyle due to arthritis.
+
+Physical Examination (PE):
+- Vital signs: Blood pressure 145/90 mm Hg, pulse 70 bpm
+- Neurological examination: Mild left-sided hemiparesis, mild dysarthria, and reduced reflexes in the left leg
+- Carotid auscultation: Bruit noted over the right carotid artery
+- Other findings: No signs of stroke or acute ischemic attack
+
+Initial Diagnosis:
+The primary diagnosis is cerebrovascular disease due to significant narrowing and blockage of the right internal carotid artery. Differential diagnoses include transient ischemic attacks (TIAs) and stroke.
+
+Plan (Treatment & Management):
+- Initiate antiplatelet therapy with aspirin 81 mg daily
+- Start clopidogrel 75 mg daily for one month, followed by single antiplatelet therapy with aspirin or prasugrel
+- Order follow-up imaging studies to assess the extent of carotid artery disease and suitability for revascularization
+- Consult vascular surgery for possible carotid endarterectomy
+- Advise lifestyle modifications including diet, exercise, and stress management
+- Schedule follow-up appointments with primary care physician and cardiologist
+
+The patient will be monitored in a telemetry unit for any further neurological deterioration.

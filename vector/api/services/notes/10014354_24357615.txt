@@ -1,0 +1,32 @@
+Patient Information:
+- Patient ID: 10014354
+- Admission ID: 24357615
+- Patient Name: Min-Jun Kim
+- Patient Age: 60 years old
+
+Initial Diagnosis:
+The patient presents with acute respiratory failure and elevated inflammatory markers. The clinical presentation is consistent with a severe viral respiratory infection.
+
+History of Present Illness (HPI):
+Min-Jun Kim, a 60-year-old male, was brought to the emergency department after experiencing shortness of breath, fever, chills, and cough for five days. He reports worsening symptoms over time, requiring supplemental oxygen at home. The patient has been isolated since his symptoms onset due to concerns about potential contagion.
+
+Past Medical History (PMH):
+The patient has a history of hypertension and hyperlipidemia, both managed with appropriate medications. No recent travel or known exposures to infectious diseases have been reported.
+
+Medications:
+Current medications include lisinopril 20mg daily and atorvastatin 40mg daily. No antibiotics or antivirals were started pre-hospital due to the patient's isolation status.
+
+Family History (FH):
+There is no immediate family history of respiratory illnesses or infectious diseases that would suggest a genetic predisposition or known exposures.
+
+Social History (SH):
+The patient is a non-smoker and has limited social interactions outside of his family. He works from home as an accountant.
+
+Physical Examination (PE):
+Vital signs show tachypnea, hypoxia, and fever. The patient appears fatigued but is alert and oriented to time, place, and person. Chest auscultation reveals bilateral crackles consistent with consolidation, particularly in the left lower lobe. Laboratory tests indicate elevated C-reactive protein and procalcitonin levels.
+
+Initial Diagnosis:
+Based on clinical presentation and laboratory findings, the initial diagnosis includes severe community-acquired pneumonia complicated by acute respiratory distress syndrome (ARDS).
+
+Plan (Treatment & Management):
+The patient will be admitted to the ICU for close monitoring and management with supplemental oxygen, broad-spectrum antibiotics, and supportive care. COVID-19 testing will be performed given the current pandemic and the clinical suspicion of a viral etiology. A consultation with infectious disease specialists is recommended to guide further treatment decisions based on test results. The patient's family has been informed about his condition and the measures being taken for his care.

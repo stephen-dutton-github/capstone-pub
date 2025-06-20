@@ -1,0 +1,51 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python Debugger: Current File",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${file}",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Python Debugger: Embedding Generator",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "api.services.embedding_manager",
+      "console": "integratedTerminal",
+      "python": "/usr/local/bin/python3.12"
+    },
+    {
+      "name": "Python Debugger: Notes Generator",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "api.services.notes_manager",
+      "console": "integratedTerminal",
+      "python": "/usr/local/bin/python3.12"
+    },
+    {
+      "name": "Python Debugger: All Diagnosis",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "api.services.diagnosis_manager",
+      "console": "integratedTerminal",
+      "python": "/usr/local/bin/python3.12"
+    },
+    {
+      "name": "Attach to Uvicorn",
+      "type": "debugpy",
+      "request": "attach",
+      "connect": {
+        "host": "localhost",
+        "port": 5678
+      },
+      "pathMappings": [
+        {
+          "localRoot": "${workspaceFolder}",
+          "remoteRoot": "/app"
+        }
+      ]
+    }
+  ]
+}

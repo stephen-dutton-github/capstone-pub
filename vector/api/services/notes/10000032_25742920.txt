@@ -1,0 +1,37 @@
+Patient Information:
+Patient ID: 10000032
+Admission ID: 25742920
+Patient Name: Aarav Sharma
+Patient Age: 52 years old
+
+Initial Diagnosis:
+Based on clinical findings and laboratory results, the primary concern is a chronic hepatobiliary condition characterized by elevated liver enzymes, jaundice, and splenomegaly.
+
+History of Present Illness (HPI):
+Aarav Sharma, a 52-year-old male, presented with complaints of persistent fatigue, abdominal discomfort, and yellowing of the skin and eyes for the past three months. He has also experienced episodes of diarrhea, particularly after meals. There is no mention of hepatic encephalopathy or acute gastrointestinal bleeding.
+
+Past Medical History (PMH):
+The patient has a history of hypertension managed with an ACE inhibitor. No previous hospitalizations for liver-related issues have been reported.
+
+Medications:
+Current medications include lisinopril 10 mg daily and aspirin 81 mg daily for cardiovascular health management.
+
+Family History (FH):
+There is no known family history of liver disease or other significant hereditary conditions.
+
+Social History (SH):
+Aarav Sharma reports drinking alcohol occasionally, approximately two to three glasses per week. He denies any intravenous drug use or tattooing. He has a non-smoking status and works as an accountant in an office setting.
+
+Physical Examination (PE):
+Vital signs are stable. The patient appears jaundiced with scleral icterus and mild palmar pallor. Abdominal examination reveals hepatomegaly, moderate splenomegaly, and no tenderness or guarding. Other findings include bilateral ankle edema and mild pitting.
+
+Laboratory Results:
+Liver function tests show significantly elevated AST (250 U/L), ALT (300 U/L), GGT (500 U/L) and bilirubin levels (total: 6 mg/dL, direct: 3 mg/dL). Viral hepatitis serologies are positive for hepatitis C antibody and RNA; HCV genotype is determined to be 1a. Complete blood count indicates mild anemia (Hb 11 g/dL), and coagulation profile shows slightly elevated INR.
+
+Initial Diagnosis:
+Chronic hepatobiliary disease secondary to hepatitis C infection, without hepatic encephalopathy or acute gastrointestinal bleeding.
+
+Plan (Treatment & Management):
+The management plan includes referral to a hepatologist for comprehensive evaluation and treatment planning. Initiate antiviral therapy targeting hepatitis C (direct-acting antivirals) and monitor liver function tests and viral loads regularly. Address anemia with iron supplementation if indicated and manage hypertension with continuation of lisinopril, adjusting the dose as needed based on blood pressure readings. Educate the patient about alcohol intake moderation to prevent further liver damage. Schedule follow-up appointments for ongoing assessment and management.
+
+The patient has been advised to avoid alcohol consumption completely to allow for better response to antiviral therapy and to slow disease progression. Compliance with medication adherence will be closely monitored, along with regular blood tests to track his viral load and liver function.

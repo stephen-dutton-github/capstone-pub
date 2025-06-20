@@ -1,0 +1,32 @@
+Patient Information:
+- Patient ID: 10012853
+- Admission ID: 20457729
+- Patient Name: Noor El-Sayed
+- Patient Age: 91 years old
+
+Initial Diagnosis:
+The patient presents with respiratory symptoms including fever, cough, and shortness of breath. The clinical presentation is suggestive of a severe lower respiratory tract infection.
+
+History of Present Illness (HPI):
+Noor El-Sayed, a 91-year-old female, was admitted to the hospital due to worsening symptoms over five days. She has experienced high-grade fever, productive cough with yellow sputum, and progressive dyspnea despite self-medication at home. No recent travel history or close contact with COVID-19 positive individuals were reported.
+
+Past Medical History (PMH):
+Noor has a significant medical history of hypertension, hyperlipidemia, chronic kidney disease stage III, and osteoporosis. She is currently on lisinopril, atorvastatin, and calcium supplements. Last influenza vaccination was received six months ago.
+
+Medications:
+Upon admission, Noor was started on intravenous ceftriaxone for presumed bacterial pneumonia, considering her immunocompromised state due to advanced age and chronic diseases. Dexamethasone was initiated as a steroid pulse therapy to address potential inflammation.
+
+Family History (FH):
+No significant family history of respiratory or infectious diseases reported.
+
+Social History (SH):
+The patient lives alone in an assisted living facility with minimal social interactions, adheres to recommended infection control measures including mask-wearing and hand hygiene. No recent activities that could precipitate her current illness were noted.
+
+Physical Examination (PE):
+Vital signs on admission showed tachypnea, oxygen saturation at 88% on room air, and fever of 38.5°C. Auscultation revealed bilateral basal crackles. Chest X-ray indicated multifocal infiltrates in both lungs.
+
+Initial Diagnosis:
+Given her clinical presentation, age, and underlying comorbidities, the patient's condition is likely a severe respiratory infection with potential complications related to immunocompromised status.
+
+Plan (Treatment & Management):
+Continue intravenous antibiotics, monitor for improvement or worsening of symptoms. Initiate supplemental oxygen as needed based on arterial blood gas results. Regular monitoring of vital signs and laboratory tests including complete blood count, renal function, and electrolytes is essential. Consider consultation with infectious disease specialists if no improvement within three days or evidence of superinfection. Educate the patient and facility staff about infection control measures to prevent nosocomial transmission.

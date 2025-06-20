@@ -1,0 +1,35 @@
+Patient Information:
+- Patient ID: 10024043
+- Admission ID: 24717014
+- Patient Name: Lena Schneider
+- Patient Age: 67
+
+Initial Diagnosis:
+The patient presents with multisystem symptoms including generalized fatigue, night sweats, intermittent fever, and weight loss. Laboratory results indicate elevated inflammatory markers and abnormal chest radiograph findings suggestive of diffuse lung lesions.
+
+History of Present Illness (HPI):
+Lena Schneider is a 67-year-old female presenting to the emergency department with complaints of persistent fatigue and recurrent fever over the past two months. She reports significant night sweats, unexplained weight loss, and muscle weakness. The patient denies any recent travel or exposure to infectious diseases but notes an increase in coughing recently.
+
+Past Medical History (PMH):
+Lena has a history of hypertension for which she takes losartan 50 mg daily. She also has a past surgical history of hysterectomy performed six years ago due to endometrial cancer, currently in remission. No prior pulmonary or infectious diseases have been reported.
+
+Medications:
+- Losartan 50 mg once daily
+
+Family History (FH):
+The patient's mother and two siblings had tuberculosis in the past; however, she denies any known exposure recently.
+
+Social History (SH):
+Lena is a retired schoolteacher, lives alone, and has no current employment. She reports regular physical activity but no smoking or alcohol use. Her diet consists mainly of locally sourced fruits and vegetables.
+
+Physical Examination (PE):
+Vital signs: Temperature 37.8°C, heart rate 90 bpm, respiratory rate 20/min, blood pressure 125/75 mm Hg.
+General examination shows pallor, diaphoresis, and poor skin turgor. Respiratory examination reveals bilateral crackles in the lungs, with decreased breath sounds in the right lower lobe. Lymphadenopathy is noted in cervical and axillary areas. Cardiac examination is unremarkable.
+
+Initial Diagnosis:
+Based on clinical presentation and investigations, an infectious etiology with pulmonary involvement is suspected. The differential diagnosis includes atypical pneumonia or a disseminated infection secondary to immune dysfunction.
+
+Plan (Treatment & Management):
+Initiate broad-spectrum antibiotics pending further diagnostic evaluations including sputum culture and PCR for common respiratory pathogens. Arrange for a thoracic CT scan to assess lung parenchyma more accurately. Consult pulmonology and infectious disease specialists for further management. Ensure appropriate isolation precautions are in place given the high suspicion of an infectious etiology.
+
+Further diagnostic workup, including TB testing (PPD, IGRA), will be completed as part of the infection workup to rule out tuberculosis, considering her family history. Provide supportive care including fluids and nutritional supplements due to weight loss and fatigue. Educate patient on isolation precautions to prevent transmission.

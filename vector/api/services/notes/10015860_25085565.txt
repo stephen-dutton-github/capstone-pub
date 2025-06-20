@@ -1,0 +1,32 @@
+Patient Information:
+- Patient ID: 10015860
+- Admission ID: 25085565
+- Patient Name: Zara Malik
+- Patient Age: 53 years old
+
+Initial Diagnosis:
+The patient presents with respiratory symptoms and fever.
+
+History of Present Illness (HPI):
+Zara Malik is a 53-year-old female who was referred to the hospital by her primary care physician due to worsening cough, dyspnea, and high-grade fever for five days. She denies any recent travel history but reports close contact with an individual recently diagnosed with COVID-19.
+
+Past Medical History (PMH):
+Zara has a significant past medical history of hypertension, hyperlipidemia, and Type 2 diabetes mellitus. She is up-to-date on her vaccinations, including the influenza vaccine this season. Her last pneumonia episode was three years ago, treated with antibiotics.
+
+Medications:
+She is currently taking metformin for diabetes, lisinopril for hypertension, and atorvastatin for hyperlipidemia. No new medications were added before admission.
+
+Family History (FH):
+Zara's family history includes her spouse who recently tested positive for COVID-19.
+
+Social History (SH):
+Zara lives with her spouse and an adult child in a single-family home. She reports that she has been adherent to all prescribed medications and maintains regular follow-ups with her primary care physician. She is non-smoker, consumes alcohol occasionally, and engages in moderate physical activity.
+
+Physical Examination:
+Vital signs show tachypnea at 22 breaths per minute, fever of 39°C (102°F), blood pressure at 110/70 mmHg, heart rate at 100 beats per minute, and oxygen saturation at 88% on room air. General appearance shows fatigue and respiratory distress. Lung auscultation reveals bilateral diffuse crackles. Chest X-ray indicates bilateral airspace consolidation consistent with pneumonia.
+
+Initial Diagnosis:
+Based on clinical presentation and imaging studies, the patient is suspected to have severe lower respiratory tract infection secondary to viral exposure likely due to COVID-19.
+
+Plan (Treatment & Management):
+The plan includes isolation precautions per CDC guidelines for COVID-19, initiation of supplemental oxygen via nasal cannula, antipyretics for fever control, and broad-spectrum antibiotics targeting both bacterial pneumonia and possible viral co-infection. Further diagnostic tests such as RT-PCR for SARS-CoV-2 will be conducted to confirm the diagnosis. The patient will be closely monitored in a negative-pressure isolation room by the Infectious Disease team. Regular follow-ups with the primary care physician are advised post-discharge for ongoing management of her chronic conditions and close monitoring for any further complications related to COVID-19.

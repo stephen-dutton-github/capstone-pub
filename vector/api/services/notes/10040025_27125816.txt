@@ -1,0 +1,32 @@
+Patient Information:
+- Patient ID: 10040025
+- Admission ID: 27125816
+- Patient Name: Anna Müller
+- Patient Age: 64
+
+Initial Diagnosis:
+Based on clinical presentation and diagnostic tests, the patient is diagnosed with a severe respiratory infection characterized by fever, cough, and elevated inflammatory markers.
+
+History of Present Illness (HPI):
+Anna Müller, a 64-year-old female, presented to the emergency department complaining of sudden onset high-grade fever, productive cough, and shortness of breath. She reports worsening symptoms over the past five days, including chest pain and increasing dyspnea on exertion. The patient denies any history of recent travel or known exposure to infectious diseases.
+
+Past Medical History (PMH):
+Anna Müller has a history of hypertension, hyperlipidemia, and chronic obstructive pulmonary disease (COPD) stage II. She is currently not compliant with her prescribed COPD medications due to cost concerns.
+
+Medications:
+The patient's current medications include lisinopril for hypertension, atorvastatin for hyperlipidemia, and a rescue inhaler (salbutamol) for acute asthma symptoms. There are no recent changes to her medication regimen reported by the patient or noted in her medical records.
+
+Family History (FH):
+Anna Müller's family history is unremarkable for any significant respiratory illnesses or autoimmune diseases.
+
+Social History (SH):
+The patient lives alone, and there have been no reports of close contact with anyone displaying similar symptoms recently. She has not traveled outside the country within the last three months.
+
+Physical Examination (PE):
+On examination, Anna Müller appears tired and anxious. Vital signs show a temperature of 102°F, heart rate of 110 bpm, respiratory rate of 28 breaths per minute, blood pressure at 140/90 mm Hg. Auscultation of the lungs reveals bilateral lower lobe crackles with decreased breath sounds over the right lower lobe. Oxygen saturation is 88% on room air, dropping to 82% after exertion.
+
+Initial Diagnosis:
+Based on clinical presentation and diagnostic tests (Chest X-ray showing patchy infiltrates in both lower lobes, blood cultures pending), the patient is diagnosed with an acute respiratory infection likely caused by a bacterial pathogen. Differential diagnoses include viral pneumonia or other atypical pneumonias. The severity of symptoms suggests possible complications such as respiratory failure.
+
+Plan (Treatment & Management):
+Anna Müller will be admitted to the hospital for close monitoring and supportive care. Treatment will begin with broad-spectrum antibiotics, pending culture results, and corticosteroids to manage inflammation and prevent further exacerbation of COPD. Oxygen therapy will be initiated to maintain adequate saturation levels (>90%). Pain management with acetaminophen or NSAIDs as needed will also be provided. Education regarding medication adherence and potential complications will be reinforced by the care team. Social work consultation will assist in addressing cost concerns related to her medication regimen.

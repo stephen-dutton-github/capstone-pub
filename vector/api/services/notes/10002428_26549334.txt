@@ -1,0 +1,50 @@
+Patient Information:
+- Patient ID: 10002428
+- Admission ID: 26549334
+- Patient Name: Jiahao Chen
+- Patient Age: 80 years old
+
+Initial Diagnosis:
+The patient presents with a traumatic event, evidenced by symptoms such as headaches, dizziness, and nausea. Although not explicitly stated in the information provided, these symptoms are consistent with an unspecified injury to the head.
+
+History of Present Illness (HPI):
+Jiahao Chen, an 80-year-old male, was brought to the emergency department following a fall at home. He complains of severe headaches, dizziness upon standing, and episodes of nausea. The patient denies any loss of consciousness or amnesia but reports feeling generally weak and unsteady on his feet.
+
+Past Medical History (PMH):
+The patient has a history of hypertension, hyperlipidemia, and benign prostatic hyperplasia (BPH). He is currently taking lisinopril 10 mg daily, atorvastatin 20 mg daily, and finasteride 5 mg daily. There are no known allergies to medications.
+
+Medications:
+- Lisinopril 10 mg PO daily
+- Atorvastatin 20 mg PO daily
+- Finasteride 5 mg PO daily
+
+Family History (FH):
+The patient's family history includes a significant cardiovascular component, with his father having suffered from coronary artery disease and heart failure.
+
+Social History (SH):
+Jiahao Chen lives alone in an assisted living facility. He has limited mobility due to a previous right hip replacement surgery. The patient reports that he is independent in daily activities but requires assistance with ambulation due to his hip condition.
+
+Physical Examination (PE):
+Vital signs:
+- Blood pressure: 140/90 mm Hg
+- Heart rate: 80 bpm
+- Respiratory rate: 20 breaths per minute
+- Temperature: 98.6°F
+
+Neurological examination:
+- Alert and oriented, no focal deficits observed
+- Cranial nerves II-XII intact
+
+Skull examination:
+- No visible scalp lacerations or swelling
+- No signs of bruising or ecchymosis around the eyes
+
+Initial Diagnosis:
+Based on the patient's symptoms and physical examination findings, an unspecified injury to the head is strongly suspected. Although there are no objective findings indicating intracranial hemorrhage or skull fracture, these possibilities cannot be entirely ruled out at this time.
+
+Plan (Treatment & Management):
+The patient will remain under observation for any potential complications from his head injury. He will undergo a CT scan of the brain to rule out intracranial pathology and confirm the diagnosis. Pain management will be addressed with acetaminophen 325 mg every four hours as needed, and he will receive antiemetic medication (ondansetron) for nausea relief.
+
+The patient's current medications will continue as prescribed, and adjustments will be made based on any findings from his diagnostic imaging or lab work. He will also have a follow-up with a neurologist and possibly a rehabilitation specialist to address his mobility issues and prevent further falls.
+
+Discharge instructions will include avoiding strenuous activities, ensuring a safe living environment, and using assistive devices for ambulation as needed. The patient is advised to report any new symptoms or worsening of current symptoms immediately to his healthcare provider.

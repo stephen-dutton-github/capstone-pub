@@ -1,0 +1,34 @@
+Patient Information:
+- Patient ID: 10008287
+- Admission ID: 22168393
+- Patient Name: Emma Brown
+- Patient Age: 43
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of a complex intracranial vascular anomaly characterized by multiple nodular lesions involving various cranial structures.
+
+History of Present Illness (HPI):
+Emma Brown, a 43-year-old female, was referred to the neurology department following recent imaging studies indicating abnormal vascular formations within her brain. The patient reports experiencing intermittent headaches, mild dizziness upon standing, and occasional blurred vision over the past few months. No significant change in her symptoms was noted prior to this period.
+
+Past Medical History (PMH):
+No previous neurological or psychiatric diagnoses were reported by Emma Brown. However, she has a history of hypertension, which is currently managed with lisinopril 20mg daily.
+
+Medications:
+- Lisinopril 20 mg daily
+
+Family History (FH):
+Emma's family history includes no known neurovascular disorders; however, her mother had high blood pressure and diabetes mellitus.
+
+Social History (SH):
+The patient works as a librarian and has no significant social or recreational activities that would contribute to her current condition. She smokes occasionally but denies alcohol consumption.
+
+Physical Examination (PE):
+Upon examination, Emma Brown appeared well-nourished and in no acute distress. Vital signs were within normal limits. Neurological exam revealed no focal deficits; however, subtle cranial nerve palsies were noted during head positioning changes.
+
+Initial Diagnosis:
+Based on imaging studies and clinical presentation, the primary diagnosis is a vascular malformation affecting multiple intracranial structures, leading to symptoms suggestive of increased intracranial pressure and cranial nerve compression.
+
+Plan (Treatment & Management):
+A multidisciplinary team meeting was held to discuss Emma Brown's case. The plan includes referral to neurosurgery for potential surgical intervention given the risk of neurological deterioration. She will be scheduled for a comprehensive evaluation with imaging and possible biopsy if indicated. Continuous monitoring in the hospital setting is recommended due to her hypertension history and risk factors for complications related to surgery.
+
+A detailed educational session about her condition, treatment options, and potential outcomes was provided to Emma Brown and her family to ensure understanding and compliance with the proposed management plan.

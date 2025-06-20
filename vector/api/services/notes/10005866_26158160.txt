@@ -1,0 +1,38 @@
+Patient Information:
+- Patient ID: 10005866
+- Admission ID: 26158160
+- Patient Name: Bao Nguyen
+- Patient Age: 57
+
+Initial Diagnosis:
+Based on the clinical presentation and diagnostic findings, an abdominal mass is suspected without specific mention of obstruction or gangrene.
+
+History of Present Illness (HPI):
+The patient presents with a palpable abdominal bulge noted at the umbilical region. This has been progressively enlarging over the past three months. The patient denies any associated pain, fever, or changes in bowel habits. He reports feeling generally well and has not noticed any other new symptoms.
+
+Past Medical History (PMH):
+No significant medical history reported by the patient. He is a former smoker with cessation 10 years ago and maintains regular physical activity. There are no known allergies to medications.
+
+Medications:
+None currently prescribed or taken.
+
+Family History (FH):
+No immediate family members with similar conditions reported by the patient.
+
+Social History (SH):
+The patient resides in a small apartment, works as an accountant, and engages in light exercise regularly. He denies alcohol consumption.
+
+Physical Examination (PE):
+- General: Well-appearing male, alert and oriented.
+- Vital Signs: Stable with no signs of distress.
+- Abdomen: Soft, non-tender. A visible bulge is noted at the umbilical area, easily reducible on palpation. No signs of inflammation or infection.
+
+Initial Diagnosis:
+The clinical presentation suggests an uncomplicated umbilical hernia. This diagnosis is based on the patient's age and sex, which are consistent with typical risk factors for this condition, along with the physical findings described in the PE section.
+
+Plan (Treatment & Management):
+- Continue monitoring the abdominal mass as it is currently asymptomatic.
+- Recommend lifestyle modifications to support overall health and potential reduction of hernia size: increase fiber intake to prevent constipation, maintain regular exercise, avoid heavy lifting or straining.
+- Consider surgical consultation if there is any change in symptoms, such as pain, swelling, redness, or inability to reduce the mass. A surgical repair may be warranted at that time.
+
+The patient has been advised of these findings and recommendations and agrees with the management plan. Follow-up appointments will be scheduled as needed based on symptomatology and consultation decisions.

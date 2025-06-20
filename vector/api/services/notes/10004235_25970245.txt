@@ -1,0 +1,37 @@
+Patient Information:
+- Patient ID: 10004235
+- Admission ID: 25970245
+- Patient Name: Carlos García
+- Patient Age: 47 years old
+
+Initial Diagnosis:
+Indirectly indicating a diagnosis of Malignant neoplasm of gallbladder through presenting symptoms and test results.
+
+History of Present Illness (HPI):
+Carlos García, a 47-year-old male, presents with complaints of persistent right upper quadrant pain radiating to the back for six months. The patient reports that the pain has worsened over time, becoming constant and accompanied by nausea and vomiting. He denies any history of jaundice or fever. Recently, he experienced an unintentional weight loss of 10 pounds in three months.
+
+Past Medical History (PMH):
+The patient has a history of hypertension, managed with losartan 50 mg daily, and hyperlipidemia treated with atorvastatin 20 mg daily. He also reports smoking one pack of cigarettes per day for over ten years but denies alcohol consumption or use of recreational drugs.
+
+Medications:
+- Losartan 50 mg orally once a day
+- Atorvastatin 20 mg orally once a day
+
+Family History (FH):
+The patient's mother died from pancreatic cancer at age 58. His father died from myocardial infarction at age 65. There is no known family history of gallbladder disease.
+
+Social History (SH):
+Carlos García works as an accountant and describes his occupation as sedentary. He lives with his wife and two teenage children in a suburban area. He reports limited physical activity due to his job, but he tries to exercise occasionally on weekends.
+
+Physical Examination:
+Vital signs are within normal limits. Abdominal examination reveals tenderness in the right upper quadrant without palpable masses or organomegaly. Laboratory tests show elevated liver enzymes (ALT 160 U/L, AST 140 U/L), and imaging studies including ultrasound reveal a thickened gallbladder wall and enlarged lymph nodes around the hepatic hilum.
+
+Initial Diagnosis:
+Based on clinical presentation, laboratory findings, and imaging results, a primary consideration is a malignant tumor affecting the gallbladder. The patient's symptoms of pain, nausea, vomiting, unintentional weight loss, and elevated liver enzymes correlate with this suspicion. Further diagnostic tests including CT scan and biopsy are planned to confirm the diagnosis.
+
+Plan (Treatment & Management):
+The plan includes:
+- Obtaining a contrast-enhanced CT scan of the abdomen to further evaluate the gallbladder and surrounding structures.
+- Scheduling an endoscopic ultrasound guided fine needle aspiration (EUS-FNA) for tissue sampling from the suspected mass in order to determine histopathology.
+- Consulting oncology for potential surgical intervention and chemotherapeutic management if a malignant diagnosis is confirmed.
+- Admitting the patient for further evaluation, treatment planning, and supportive care. Educating the patient about the nature of his symptoms and the proposed diagnostic and therapeutic strategies. Ensuring follow-up appointments are scheduled post-discharge to monitor response to treatment.

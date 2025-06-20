@@ -1,0 +1,38 @@
+Patient Information:
+- Patient ID: 10007795
+- Admission ID: 25135483
+- Patient Name: Nikolai Petrov
+- Patient Age: 53
+
+Initial Diagnosis:
+The patient presents with severe epigastric pain radiating to the back, accompanied by nausea and vomiting. He reports a history of consuming large amounts of alcohol over the past few days.
+
+History of Present Illness (HPI):
+Nikolai Petrov, a 53-year-old male, was brought to the emergency department complaining of severe epigastric pain that has persisted for approximately three hours. The patient describes the pain as sharp and constant, radiating to his back. He also reports episodes of nausea and vomiting throughout the day.
+
+Past Medical History (PMH):
+No significant medical history was reported by the patient or obtained through available records.
+
+Medications:
+No medications were mentioned during the initial assessment.
+
+Family History (FH):
+No relevant family history provided at this time.
+
+Social History (SH):
+The patient admits to a heavy alcohol intake over the past few days. He reports consuming approximately two liters of vodka in a 24-hour period prior to admission.
+
+Physical Examination (PE):
+- General: Patient appears in acute distress, tachycardic with a heart rate of 105 bpm and hypertensive at 165/90 mmHg.
+- Abdomen: Tenderness noted in the epigastric region. No visible scars or signs of peritonitis observed.
+
+Initial Diagnosis:
+The clinical presentation strongly suggests an acute inflammatory process affecting the pancreas, likely secondary to alcohol abuse. The absence of other significant medical history and family background supports this hypothesis.
+
+Plan (Treatment & Management):
+- Administer IV fluids for hydration and pain management.
+- Initiate nasogastric suction to decompress the stomach.
+- Monitor vital signs closely due to potential for cardiovascular complications.
+- Arrange for abdominal ultrasound or CT scan to confirm diagnosis and assess severity.
+- Consult gastroenterology for further evaluation and management, including possible admission to a higher-level care unit if necessary.
+- Begin patient education regarding alcohol cessation and its impact on health.

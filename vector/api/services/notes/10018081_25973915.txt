@@ -1,0 +1,53 @@
+Patient Information:
+- Patient ID: 10018081
+- Admission ID: 25973915
+- Patient Name: Maya Kapoor
+- Patient Age: 79
+
+Initial Diagnosis:
+- Respiratory distress with diffuse infiltrates on chest radiograph and hypoxemia
+
+History of Present Illness (HPI):
+Maya Kapoor, a 79-year-old female, presented to the emergency department with complaints of cough, fever, and shortness of breath for three days. She reported increased difficulty breathing over this time period, particularly during exertion.
+
+Past Medical History (PMH):
+- Hypertension
+- Diabetes mellitus type 2
+- Chronic obstructive pulmonary disease (COPD) 
+- Previous myocardial infarction
+- Dementia
+
+Medications:
+- Ramipril for hypertension
+- Metformin and insulin glargine for diabetes mellitus type 2
+- Tiotropium bromide for COPD
+- Low-dose aspirin
+- Bisoprolol for post-myocardial infarction management 
+
+Family History (FH):
+- Mother died of stroke at age 75
+- Father died of cancer at age 80
+
+Social History (SH):
+- Lives alone with assistance from home healthcare aides due to dementia
+- Non-smoker
+- No recent travel outside the country or exposure to sick contacts reported.
+
+Physical Examination (PE):
+- General: alert and oriented, but slightly disoriented to time and place; mild dyspnea at rest.
+- Respiratory: bilateral coarse crackles throughout lung fields; oxygen saturation on room air 88%.
+- Cardiovascular: tachycardia with heart rate of 110 bpm; no murmurs, rubs, or gallops.
+- Abdomen: soft, non-tender, no organomegaly
+- Extremities: cool and clubbed, bilateral basal rales
+
+Initial Diagnosis:
+The clinical presentation is consistent with an acute respiratory infection secondary to a viral pathogen. The imaging findings support this assessment. Differential diagnoses include community-acquired pneumonia (CAP) or influenza.
+
+Plan (Treatment & Management):
+- Initiate broad-spectrum antimicrobial therapy targeting common pathogens associated with severe infections in the elderly, including Streptococcus pneumoniae and Legionella pneumophila.
+- Administer supplemental oxygen to maintain SpO2 above 90% via nasal cannula.
+- Place on contact precautions given the viral nature of her infection.
+- Monitor vital signs closely, particularly respiratory status.
+- Consult infectious disease for further evaluation and management.
+- Arrange for daily nursing assessments due to dementia.
+- Educate patient and family on infection control measures and signs to watch for that would necessitate immediate medical attention.

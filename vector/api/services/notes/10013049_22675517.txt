@@ -1,0 +1,35 @@
+Patient Information:
+- Patient ID: 10013049
+- Admission ID: 22675517
+- Patient Name: Youssef Al-Fayed
+- Patient Age: 52 years old
+
+Initial Diagnosis:
+- Respiratory infection with bilateral infiltrates on chest X-ray suggestive of viral etiology
+
+History of Present Illness (HPI):
+Youssef Al-Fayed, a 52-year-old male, presented to the emergency department with complaints of high-grade fever, cough, and shortness of breath for four days. He reports worsening symptoms leading to increased dyspnea on exertion and difficulty in lying supine due to pleuritic chest pain. He denies any prior history of similar symptoms or known exposure to COVID-19-positive individuals.
+
+Past Medical History (PMH):
+The patient has a history of hypertension, type 2 diabetes mellitus, hyperlipidemia, and gout. He is currently on metformin, lisinopril, atorvastatin, and allopurinol. No recent travel or significant medical procedures noted.
+
+Medications:
+- Continue current medications: Metformin, Lisinopril, Atorvastatin, Allopurinol
+
+Family History (FH):
+No immediate family members with similar symptoms or known COVID-19 exposure reported by the patient.
+
+Social History (SH):
+The patient is married and lives with his spouse. He works as an accountant in a private firm and has limited contact outside of work and home. No recent social events or gatherings reported.
+
+Physical Examination (PE):
+Vital signs: Temperature 39°C, blood pressure 120/80 mmHg, heart rate 90 bpm, respiratory rate 24/min, oxygen saturation 88% on room air. Physical examination revealed bilateral crackles in the lungs, dry mucous membranes, and mild tachycardia.
+
+Plan (Treatment & Management):
+- Initiate empiric broad-spectrum antibiotic therapy given initial suspicion of bacterial superinfection.
+- Provide supportive care with supplemental oxygen and fluids as needed to maintain adequate hydration.
+- Monitor vital signs closely for any signs of deterioration.
+- Consider COVID-19 testing if symptoms persist or worsen, especially considering the current pandemic context.
+- Continue monitoring laboratory results including complete blood count (CBC), C-reactive protein (CRP), and arterial blood gas (ABG) analysis to guide further treatment decisions.
+
+The patient has been admitted to the hospital for close monitoring and management. Further updates will be provided as more information becomes available regarding COVID-19 status or other pertinent findings.

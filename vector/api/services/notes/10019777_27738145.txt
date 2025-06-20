@@ -1,0 +1,34 @@
+Patient Information:
+- Patient ID: 10019777
+- Admission ID: 27738145
+- Patient Name: Samuel Okello
+- Patient Age: 51
+
+Initial Diagnosis:
+The patient presents with systemic symptoms and imaging findings suggestive of disseminated granulomatous disease, characterized by diffuse bilateral pulmonary opacities on chest radiograph and high-resolution CT scan.
+
+History of Present Illness (HPI):
+Samuel Okello is a 51-year-old male who reports a recent onset of fatigue, night sweats, and weight loss over the past three months. He also notes a history of cough with occasional hemoptysis. His symptoms have progressed despite treatment for presumed community-acquired pneumonia at an outside facility.
+
+Past Medical History (PMH):
+The patient has a history of hypertension, well-controlled on losartan 50 mg daily. No previous respiratory issues were reported until this recent episode.
+
+Medications:
+- Losartan 50 mg daily
+
+Family History (FH):
+No significant family medical history reported.
+
+Social History (SH):
+The patient is an immigrant from East Africa and works as a laborer. He reports limited access to healthcare resources in his home country. He has been living in the United States for five years, where he maintains employment but struggles with language barriers.
+
+Physical Examination (PE):
+Vital signs show tachypnea and mild tachycardia. The patient appears fatigued but is alert and oriented. Pulmonary examination reveals bilateral fine crackles, more prominent at the bases of both lungs. There are no other significant findings on physical examination.
+
+Initial Diagnosis:
+The clinical presentation and imaging studies suggest a granulomatous disease with pulmonary dissemination, likely due to a mycobacterial infection given the patient's travel history and occupational exposure. Differential diagnoses include atypical pneumonia or fungal infections secondary to immunosuppression, though these are less likely given current evidence.
+
+Plan (Treatment & Management):
+The patient will be admitted for further diagnostic evaluation, including sputum samples for acid-fast bacilli (AFB) smear and culture, as well as bronchoscopy with biopsy if indicated. He will receive empirical treatment with a broad-spectrum antibiotic regimen pending culture results to cover both bacterial and mycobacterial infections.
+
+Additional consultations will include infectious disease specialists for management of potential mycobacterial infection and pulmonology for evaluation of pulmonary symptoms. Patient education will focus on understanding his illness, the importance of adherence to prescribed treatments, and resources available for language support during hospitalization. Social work services have been requested to assess for any other needs that may impact care or discharge planning.

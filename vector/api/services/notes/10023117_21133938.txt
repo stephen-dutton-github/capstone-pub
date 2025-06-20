@@ -1,0 +1,37 @@
+Patient Information:
+- Patient ID: 10023117
+- Admission ID: 21133938
+- Patient Name: Hassan Bouazizi
+- Patient Age: 53 years old
+
+Initial Diagnosis:
+The patient presents with respiratory symptoms, fever, and fatigue. Imaging studies suggest bilateral pulmonary infiltrates with multiple small nodules, indicative of a widespread infection.
+
+History of Present Illness (HPI):
+Hassan Bouazizi, a 53-year-old male, reports experiencing persistent cough, fevers peaking at 102°F, night sweats, and general malaise for the past six weeks. He denies any travel history within the last year but mentions increased exposure to crowds due to his occupation as a street vendor.
+
+Past Medical History (PMH):
+The patient has no significant past medical history except for hypertension managed with losartan 50 mg daily and an incidental finding of mildly elevated serum eosinophil count during a routine health checkup one year ago. He denies any prior infections, allergies, or immunocompromising conditions.
+
+Medications:
+- Losartan 50 mg daily
+- Acetaminophen as needed for fever
+
+Family History (FH):
+The patient's family history is non-contributory to the current presentation. There is no known tuberculosis in his immediate family.
+
+Social History (SH):
+Hassan Bouazizi lives with his wife and two children in a densely populated urban area. He works as a street vendor selling fruits and vegetables, often exposing himself to crowds and possible airborne pathogens. He reports occasional alcohol consumption but denies illicit drug use or smoking.
+
+Physical Examination (PE):
+Vital signs: Temperature 101.4°F, blood pressure 127/82 mmHg, heart rate 90 bpm, respiratory rate 20 breaths per minute. General examination reveals malaise, and lung auscultation shows scattered crackles in bilateral lower lobes. No lymphadenopathy or hepatosplenomegaly is noted.
+
+Initial Diagnosis:
+The clinical presentation combined with imaging findings suggests a widespread pulmonary infection characterized by small nodules and bilateral infiltrates. Differential diagnoses include granulomatous diseases such as sarcoidosis, fungal infections like histoplasmosis, and atypical pneumonia.
+
+Plan (Treatment & Management):
+The patient will be started on broad-spectrum antibiotics covering Gram-positive, Gram-negative, and atypical organisms pending further diagnostic workup. A sputum sample has been collected for mycobacterial culture and acid-fast bacillus smear. Chest computed tomography (CT) with contrast will be repeated to assess disease progression and response to treatment. The patient will be isolated in a negative pressure room as a precautionary measure against potential infectious spread.
+
+Further diagnostic tests including complete blood count, serum chemistries, electrolytes, and liver function tests will be conducted to evaluate the extent of illness and identify any complications such as renal impairment or hepatic dysfunction. A consultation with an infectious disease specialist is planned for the next available slot.
+
+The patient and family have been counseled about the need for isolation precautions and potential infectious spread. They have expressed understanding and compliance with the recommended interventions. The importance of adherence to medication regimen and follow-up appointments has also been emphasized.

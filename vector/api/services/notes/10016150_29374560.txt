@@ -1,0 +1,42 @@
+Patient Information:
+- Patient ID: 10016150
+- Admission ID: 29374560
+- Patient Name: Sarah Anderson
+- Patient Age: 69 years old
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of severe lower respiratory tract infection characterized by fever, persistent cough, and dyspnea.
+
+History of Present Illness (HPI):
+Sarah Anderson, a 69-year-old female, was admitted to the hospital after experiencing worsening shortness of breath over the past five days. She reports a non-productive cough for one week and developed fevers peaking at 102°F two days prior to admission. She denies any history of recent travel or contact with known COVID-19 cases.
+
+Past Medical History (PMH):
+The patient has a history of hypertension, hyperlipidemia, and mild chronic obstructive pulmonary disease (COPD). She is an active smoker with a 40 pack-year history. She underwent left mastectomy for breast cancer two years ago and completed adjuvant chemotherapy and radiation.
+
+Medications:
+- Metoprolol tartrate 25 mg daily for hypertension
+- Atorvastatin 20 mg daily for hyperlipidemia
+- Salmeterol inhaler twice daily as needed for COPD
+- Prednisone tapering dose due to previous cancer treatment
+
+Family History (FH):
+Her mother died from stroke at age 75, and her father died from lung cancer. Her younger brother has chronic obstructive pulmonary disease (COPD).
+
+Social History (SH):
+The patient is married with two children, both living in separate households. She works as an administrative assistant in a non-healthcare setting and reports wearing masks when interacting with coworkers due to the ongoing COVID-19 pandemic.
+
+Physical Examination (PE):
+Vital signs show hypoxia with oxygen saturation at 88% on room air and fever of 100°F. Respiratory examination reveals bilateral rales and rhonchi, more pronounced in the left lower lobe. Cardiovascular examination is unremarkable. The remainder of the physical exam is non-specific for other underlying acute issues.
+
+Initial Diagnosis:
+The patient's symptoms and physical findings suggest severe respiratory infection likely secondary to viral etiology given her age, comorbidities, and current community prevalence.
+
+Plan (Treatment & Management):
+- Initiate broad-spectrum antibiotics due to clinical suspicion of bacterial superinfection.
+- Provide supplemental oxygen via nasal cannula at 2L/min with continuous pulse oximetry monitoring.
+- Administer antipyretics as needed for fever control.
+- Initiate bronchodilator therapy and corticosteroid taper given her COPD history.
+- Consult pulmonology for further management and consideration of antiviral therapy given her symptoms' severity and the current COVID-19 pandemic in the community.
+
+Follow-up:
+Continue monitoring vital signs and respiratory status closely. Educate patient on disease process, treatment expectations, and importance of adherence to prescribed therapies. Arrange follow-up appointment with primary care provider post-discharge for ongoing management of hypertension, hyperlipidemia, and COPD, as well as reassessment of her cancer survivorship plan.

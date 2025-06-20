@@ -1,0 +1,44 @@
+Patient Information:
+- Patient ID: 10014354
+- Admission ID: 27494880
+- Patient Name: Min-Jun Kim
+- Patient Age: 60 years old
+
+Initial Diagnosis:
+Based on clinical and radiographic findings, the primary assessment suggests a severe respiratory infection.
+
+History of Present Illness (HPI):
+Min-Jun Kim, a 60-year-old male, presented with high-grade fever, chills, and persistent cough for five days. The patient reported shortness of breath and muscle aches. He denied any recent travel history or contact with known COVID-19 cases but acknowledged attending social gatherings recently.
+
+Past Medical History (PMH):
+The patient has no significant medical history except for mild hypertension managed with losartan 50 mg daily. He is non-smoker, not obese, and reports regular exercise.
+
+Medications:
+Losartan 50 mg once daily
+
+Family History (FH):
+There are no known immediate family members with COVID-19 or other respiratory infections.
+
+Social History (SH):
+The patient recently attended a large social gathering in the community and engaged in contact sports. He works as an office worker.
+
+Physical Examination (PE):
+Vital signs: T 39°C, HR 115 bpm, BP 130/80 mmHg, RR 25 breaths per minute, SpO2 88% on room air.
+- General: Appears mildly dehydrated and fatigued.
+- Respiratory: Bilateral coarse crackles noted in lung fields, most pronounced at the right base. Decreased breath sounds with wheezing over the lower lobes bilaterally.
+- Cardiovascular: Regular rate and rhythm, no murmurs or gallops.
+- Abdomen: Soft, non-tender, normoactive bowel sounds.
+- Neurological: Alert and oriented, no focal deficits.
+
+Initial Diagnosis:
+Acute respiratory infection with bilateral pneumonia due to possible viral etiology. Differential diagnosis includes influenza and other community-acquired pathogens.
+
+Plan (Treatment & Management):
+Admit patient for inpatient management.
+- Initiate broad-spectrum antibiotics pending further microbiology results.
+- Provide supplemental oxygen to maintain SpO2 > 90%.
+- Administer intravenous fluids for hydration.
+- Monitor vital signs closely, especially respiratory rate and oxygen saturation levels.
+- Conduct COVID-19 testing as per hospital protocol.
+- Engage with infection control team for appropriate isolation precautions.
+- Consider consultation with pulmonology or infectious diseases based on culture results.

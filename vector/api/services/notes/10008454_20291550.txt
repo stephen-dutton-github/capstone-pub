@@ -1,0 +1,32 @@
+Patient Information:
+- Patient ID: 10008454
+- Admission ID: 20291550
+- Patient Name: Lucía Hernández
+- Patient Age: 26 years old
+
+Initial Diagnosis:
+The patient presents with severe lower extremity trauma characterized by obvious deformity and significant swelling. Initial radiographic studies reveal a high-energy injury involving the femur, with comminuted fractures and extensive soft tissue damage.
+
+History of Present Illness (HPI):
+Lucía Hernández was involved in a motor vehicle accident approximately 2 hours prior to admission. She reports immediate pain and inability to bear weight on her affected leg following the incident. No loss of consciousness or other head injuries were reported.
+
+Past Medical History (PMH):
+The patient has no significant past medical history, including no previous orthopedic issues or surgeries.
+
+Medications:
+No medications administered at this time.
+
+Family History (FH):
+There is no relevant family history provided in this note.
+
+Social History (SH):
+Lucía Hernández is a student and lives with her parents. She denies any substance abuse, tobacco use, or alcohol consumption.
+
+Physical Examination (PE):
+The patient appears acutely distressed but calm. Vital signs indicate mild hypovolemia due to external hemorrhage from the wound. The right lower extremity shows significant bruising and swelling around the midsection of the thigh, with obvious deformity of the femur. No neurovascular deficits are noted at this time.
+
+Initial Diagnosis:
+The primary diagnosis is a severe traumatic injury to the femur involving comminuted fractures with extensive soft tissue damage.
+
+Plan (Treatment & Management):
+The patient has been referred to orthopedic surgery for urgent evaluation and possible internal fixation or external fixation, depending on the severity of the fracture and associated soft tissue injuries. Pain management will include opioids as needed, along with regional nerve blocks for postoperative pain control. Intravenous antibiotics have been started due to open wounds and potential contamination risk. The patient's orthopedic consult is expected within 30 minutes. Regular monitoring of vital signs, including serial hemoglobin levels, will be conducted to manage her hypovolemia.

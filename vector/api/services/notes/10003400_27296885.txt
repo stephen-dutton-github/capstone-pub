@@ -1,0 +1,48 @@
+Patient Information:
+- Patient ID: 10003400
+- Admission ID: 27296885
+- Patient Name: Ahmed Hassan
+- Patient Age: 72 years old
+
+Initial Diagnosis:
+Probable dementia with behavioral disturbances, ruled out delirium due to lack of acute features.
+
+History of Present Illness (HPI):
+Ahmed Hassan, a 72-year-old male, presents with a 3-month history of confusion, disorientation, and memory impairment. The patient reports difficulty recognizing family members and navigating his way in familiar environments. Additionally, he has exhibited behavioral disturbances such as agitation and aggression.
+
+Past Medical History (PMH):
+- Hypertension
+- Type 2 diabetes mellitus
+- Chronic kidney disease stage III
+- Coronary artery disease with prior myocardial infarction
+
+Medications:
+- Lisinopril 20mg daily for hypertension
+- Metformin 1000mg twice daily for type 2 diabetes mellitus
+- Furosemide 40mg daily as needed for fluid overload
+- Aspirin 81mg daily for coronary artery disease prevention
+
+Family History (FH):
+- Father deceased from heart disease at age 70
+- Mother alive, aged 75 with hypertension and osteoporosis
+
+Social History (SH):
+- Retired laborer with no formal education beyond elementary school
+- Lives alone in a one-bedroom apartment, receives occasional assistance from neighbors
+- Socially isolated, no known support system
+
+Physical Examination:
+- General: Alert but disoriented, able to follow simple commands. Appears anxious and agitated.
+- Neurological: Gait unsteady, slow speech with long latency between responses to questions. No focal deficits noted on motor or sensory examination.
+
+Initial Diagnosis:
+Based on the patient's age, medical history, and clinical presentation, a primary consideration is dementia as evidenced by cognitive impairment and behavioral disturbances. Delirium has been ruled out due to lack of acute features such as sleep disturbance, inattention, and fluctuating levels of consciousness. Other encephalopathy remains a possibility given his comorbidities.
+
+Plan (Treatment & Management):
+- Comprehensive neurological evaluation including MRI brain imaging and lumbar puncture to rule out infectious etiologies.
+- Cognitive assessment using standardized tools like MMSE and clock drawing test.
+- Initiate cholinesterase inhibitor therapy pending confirmation of dementia diagnosis.
+- Manage behavioral disturbances with risperidone 0.5mg twice daily, titrating as needed based on response and side effects.
+- Encourage family education about the patient's condition to improve support at home.
+- Arrange for a social worker consultation to address social isolation and potential benefits from adult day care programs.
+- Continue current medications for chronic conditions and monitor for medication-related side effects in relation to cognitive decline.

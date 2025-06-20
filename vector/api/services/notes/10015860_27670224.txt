@@ -1,0 +1,35 @@
+Patient Information:
+- Patient ID: 10015860
+- Admission ID: 27670224
+- Patient Name: Zara Malik
+- Patient Age: 53 years old
+
+Initial Diagnosis:
+The patient presented with severe respiratory symptoms, including cough and dyspnea, which are indicative of a lower respiratory tract infection.
+
+History of Present Illness (HPI):
+Zara Malik is a 53-year-old female who was admitted to the hospital after experiencing increasing shortness of breath over the past five days. She reports a non-productive cough that began approximately one week ago and has been worsening. She also describes fevers and body aches, which started three days prior to admission.
+
+Past Medical History (PMH):
+The patient's medical history includes hypertension and type 2 diabetes mellitus, both of which are well-controlled with ongoing medications. No history of smoking or significant alcohol consumption.
+
+Medications:
+- Lisinopril for hypertension
+- Metformin for type 2 diabetes mellitus
+
+Family History (FH):
+There is no known family history of respiratory diseases.
+
+Social History (SH):
+Zara lives alone and works as a nurse in a long-term care facility. She reports that she has been taking precautions to minimize exposure to potential COVID-19 cases, including frequent handwashing, wearing personal protective equipment at work, and avoiding social gatherings. However, she recently attended her granddaughter's birthday party, which had around 20 guests.
+
+Physical Examination (PE):
+On admission, Zara was found to be febrile with a body temperature of 38°C (100°F). Respiratory rate was elevated at 24 breaths per minute, and oxygen saturation was noted to be 88% on room air. Auscultation revealed bilateral diffuse crackles in the lungs, more pronounced in the left lower zone. Heart sounds were normal with no murmurs or gallops. No peripheral edema or skin changes noted.
+
+Initial Diagnosis:
+Based on her clinical presentation and recent exposure history, a primary consideration is an infection secondary to SARS-CoV-2.
+
+Plan (Treatment & Management):
+The patient will be placed in isolation and receive supportive care for respiratory symptoms, including oxygen supplementation and hydration. A chest X-ray has been ordered to further evaluate lung pathology. In addition, testing for COVID-19 will be performed promptly, along with a complete blood count, electrolyte panel, and coagulation profile.
+
+The treatment plan includes monitoring of vital signs closely, administration of antipyretics as needed for fever control, and maintaining hydration status with IV fluids. If confirmed to have COVID-19 infection, appropriate antiviral therapy may be considered in consultation with infectious disease specialists. Education regarding isolation precautions and adherence to respiratory hygiene will also be provided.

@@ -1,0 +1,42 @@
+Patient Information:
+- Patient ID: 10022281
+- Admission ID: 29642388
+- Patient Name: Layla Mansour
+- Patient Age: 84
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of an infectious process characterized by low-grade fever, night sweats, and progressive weight loss over the past three months. Laboratory tests reveal elevated inflammatory markers and a lymphocytopenic profile.
+
+History of Present Illness (HPI):
+Layla Mansour, an 84-year-old female, reports feeling increasingly unwell over the past three months. She describes intermittent low-grade fever, night sweats, and unintentional weight loss. There is no reported history of recent travel or exposure to anyone with similar symptoms.
+
+Past Medical History (PMH):
+The patient has a significant past medical history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). She is currently managed on antihypertensive medications, oral hypoglycemics, and bronchodilators. The last immunization was a pneumococcal vaccine two years ago.
+
+Medications:
+- Metoprolol tartrate 25 mg daily
+- Amlodipine besylate 5 mg daily
+- Gliclazide 40 mg twice daily
+- Insulin aspart, 10 units subcutaneously before meals
+- Albuterol 2.5 mg via inhalation every four hours PRN for COPD symptoms
+
+Family History (FH):
+The patient's family history is unremarkable; there is no known history of tuberculosis or other infectious diseases.
+
+Social History (SH):
+Layla lives alone in a senior housing complex and reports limited mobility due to her age and existing medical conditions. She has regular interactions with home healthcare aides who assist with daily living activities.
+
+Physical Examination (PE):
+- Vital signs: Temperature 37.5°C, heart rate 85 bpm, respiratory rate 20 breaths per minute, blood pressure 130/80 mmHg
+- General appearance: Alert and oriented, no acute distress
+- Respiratory system: Mild inspiratory crackles noted in bilateral lower lung fields
+- Cardiovascular system: Regular rhythm, grade 1/6 systolic murmur at the left sternal border
+- Abdominal examination: Soft, non-tender, no organomegaly
+
+Initial Diagnosis:
+Based on clinical presentation and laboratory findings suggestive of an infectious process with systemic involvement, differential diagnoses include disseminated fungal infections or a bacterial sepsis syndrome. However, the need for further diagnostic workup is indicated due to the patient's complex medical history and atypical symptoms.
+
+Plan (Treatment & Management):
+Initiate empiric antifungal therapy pending further diagnostic workup including sputum culture with AFB staining and PCR for fungi. Begin broad-spectrum antibiotic coverage given the possibility of bacterial sepsis. Consult infectious disease for evaluation and guidance on the appropriate duration of antimicrobial therapy based on ongoing investigations.
+
+Monitor vital signs closely, and provide supportive care as needed to manage symptoms and prevent complications. Ensure hydration and nutrition through enteral feeds or parenteral nutrition if required. Schedule follow-up appointments for repeat laboratory tests and reassessment of treatment efficacy. Educate the patient and her home healthcare aides about signs of worsening illness and encourage adherence to prescribed treatments.

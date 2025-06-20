@@ -1,0 +1,47 @@
+Patient Information:
+- Patient ID: 10021312
+- Admission ID: 25020332
+- Patient Name: Anika Biswas
+- Patient Age: 55 years old
+
+Initial Diagnosis:
+The patient presents with a complex and multi-systemic inflammatory disease characterized by the formation of small, millet-like lesions throughout various organs. The clinical presentation suggests a granulomatous infection disseminated through hematogenous spread.
+
+History of Present Illness (HPI):
+Anika Biswas, a 55-year-old female, reports progressive fatigue over three weeks, accompanied by night sweats and weight loss. She also describes experiencing generalized body pain and intermittent fevers. The patient has not been compliant with her prescribed medications for hypertension and hyperlipidemia.
+
+Past Medical History (PMH):
+- Hypertension, currently uncontrolled
+- Hyperlipidemia, currently untreated
+- No history of tuberculosis or other immunodeficiency disorders
+
+Medications:
+- ACE inhibitor (not specified) for hypertension
+- Statin (not specified) for hyperlipidemia
+
+Family History (FH):
+- Father had chronic respiratory issues, possibly emphysema
+- Mother deceased from unknown causes at age 70
+
+Social History (SH):
+- Works as a teacher in a local school
+- No known travel history outside the country within the last year
+- Non-smoker and does not consume alcohol regularly
+
+Physical Examination (PE):
+- Vital signs: Temperature 38.2°C, Blood Pressure 125/80 mmHg, Pulse 90 bpm, Respiratory Rate 20 breaths/min, Oxygen Saturation 95% on room air
+- General examination: Slightly pale, no cyanosis or clubbing
+- Cardiovascular: Regular rhythm with grade II ejection systolic murmur at the left sternal border
+- Respiratory: Crackles heard in bilateral lower lung fields, clear to auscultation elsewhere
+- Abdominal: Soft, non-tender, no organomegaly
+- Skin: Mottled hyperpigmented lesions noted over multiple body areas
+
+Initial Diagnosis:
+Based on clinical presentation and physical examination findings, the primary suspicion is a systemic infection causing disseminated granulomatous disease. Differential diagnoses include sarcoidosis or other forms of atypical mycobacterial infections.
+
+Plan (Treatment & Management):
+- Admit to an isolation room with standard contact precautions
+- Initiate high-dose anti-tubercular therapy (ATT), pending further diagnostic workup
+- Consult pulmonology and infectious disease specialists for multidisciplinary management
+- Order comprehensive laboratory tests including complete blood count, liver function tests, renal function tests, and chest X-ray
+- Monitor vital signs closely and provide supportive care as needed

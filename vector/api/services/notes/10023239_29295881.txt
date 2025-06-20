@@ -1,0 +1,36 @@
+Patient Information:
+- Patient ID: 10023239
+- Admission ID: 29295881
+- Patient Name: Nora Johansen
+- Patient Age: 29 years old
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of a systemic infection. Laboratory results and radiographic imaging indicate the presence of widespread, small nodules throughout both lungs.
+
+History of Present Illness (HPI):
+Nora Johansen, a 29-year-old female, was admitted to the hospital with complaints of fatigue, low-grade fever, night sweats, and weight loss over several weeks. She reports these symptoms have been progressively worsening despite self-medication with over-the-counter pain relievers.
+
+Past Medical History (PMH):
+The patient has no significant past medical history.
+
+Medications:
+The patient was taking paracetamol for symptom relief prior to admission but reported minimal improvement in her condition.
+
+Family History (FH):
+No relevant family medical history reported by the patient.
+
+Social History (SH):
+Nora Johansen is a healthcare worker and reports that she recently completed a six-month rotation at an international aid organization. She denies any illicit drug use, alcohol consumption, or smoking.
+
+Physical Examination (PE):
+The patient appears tired but in no acute distress. Vital signs are stable with a low-grade fever (37.8°C). Lungs show bilateral diffuse rhonchi on auscultation. No lymphadenopathy is noted. The remainder of the physical examination is unremarkable.
+
+Initial Diagnosis:
+Based on clinical and radiographic findings, an infectious etiology with a systemic dissemination pattern is suspected. Differential diagnoses include disseminated fungal infection or viral pneumonia, considering her recent travel history and work in international settings.
+
+Plan (Treatment & Management):
+- Initiate broad-spectrum antimicrobial therapy to cover potential pathogens.
+- Order additional diagnostic tests including sputum cultures, blood cultures, and CT imaging of the chest for further evaluation.
+- Consult Infectious Disease for possible tuberculosis or fungal infection.
+- Ensure isolation precautions are in place due to the suspected infectious nature of her illness.
+- Monitor vital signs closely and provide supportive care as needed.

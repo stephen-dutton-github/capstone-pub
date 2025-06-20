@@ -1,0 +1,38 @@
+Patient Information:
+- Patient ID: 10004720
+- Admission ID: 22081550
+- Patient Name: Chukwuemeka Nwosu
+- Patient Age: 61
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of aspiration pneumonia, including cough, chest pain, dyspnea, and fever.
+
+History of Present Illness (HPI):
+Chukwuemeka Nwosu, a 61-year-old male, was admitted to the hospital with complaints of persistent cough, pleuritic chest pain, shortness of breath, and high-grade fever for three days. He reports that his symptoms began following an episode where he experienced food and liquids entering his airway during sleep.
+
+Past Medical History (PMH):
+The patient has a history of hypertension, diabetes mellitus type 2, and chronic obstructive pulmonary disease (COPD). He is currently on medications including metformin for diabetes, ramipril for hypertension, and salmeterol/fluticasone for COPD management.
+
+Medications:
+- Metformin
+- Ramipril
+- Salmeterol/fluticasone
+
+Family History (FH):
+There is no significant family history provided in the patient's records.
+
+Social History (SH):
+The patient denies smoking or alcohol use. He works as a laborer and reports frequent bending and lifting at work, which may contribute to his respiratory symptoms.
+
+Physical Examination (PE):
+On examination, the patient appears dyspneic with tachypnea (respiratory rate 26/min) and fever (38.5°C). Lungs are auscultated to reveal bilateral coarse crackles at the bases. There is diminished breath sounds in the right lower lobe.
+
+Initial Diagnosis:
+The patient's presentation and examination findings are consistent with aspiration pneumonia, likely secondary to inhalation of food and vomit during sleep.
+
+Plan (Treatment & Management):
+- Initiate broad-spectrum antibiotics targeting both aerobic Gram-negative and anaerobic organisms.
+- Provide supportive care including oxygen therapy and hydration.
+- Monitor vital signs closely and consider intubation if respiratory status worsens.
+- Educate the patient on strategies to prevent aspiration, such as elevating the head of his bed and avoiding large meals close to bedtime.
+- Arrange for follow-up with a pulmonologist to evaluate COPD management in light of recent symptoms.

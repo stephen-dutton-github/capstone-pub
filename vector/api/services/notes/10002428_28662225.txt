@@ -1,0 +1,36 @@
+Patient Information:
+Patient ID: 10002428
+Admission ID: 28662225
+Patient Name: Jiahao Chen
+Patient Age: 80 years old
+
+Initial Diagnosis:
+The patient presents with symptoms indicative of systemic infection, including fever, chills, tachycardia, and hypotension.
+
+History of Present Illness (HPI):
+Jiahao Chen, an 80-year-old male, was admitted to the hospital after being found unresponsive at home by his family. Upon arrival, he reported feeling weak and experiencing generalized body pain for two days prior. He also noted loss of appetite and a decrease in oral intake during that period.
+
+Past Medical History (PMH):
+The patient has a significant history of recurrent urinary tract infections (UTIs) over the past five years. These infections have been treated with various antibiotics, including broad-spectrum agents. Additionally, he reports a recent hospitalization for pneumonia managed with intravenous vancomycin and cefepime.
+
+Medications:
+At home, Jiahao was taking warfarin 2 mg daily due to a history of atrial fibrillation and mechanical heart valve replacement.
+
+Family History (FH):
+No significant family medical history reported by the patient or available records.
+
+Social History (SH):
+The patient lives alone in an assisted living facility. He has limited mobility and uses a walker for ambulation, which contributes to his recurrent UTIs due to incomplete bladder emptying. There is no history of alcohol or tobacco use.
+
+Physical Examination (PE):
+Upon examination, Jiahao appears diaphoretic and lethargic. Vital signs reveal tachycardia at 110 bpm and hypotension with a blood pressure of 90/60 mmHg. He has diffuse body tenderness without localized areas of infection. Respiratory rate is normal at 16 breaths per minute, but oxygen saturation is low at 92% on room air.
+
+Lab Results:
+Complete Blood Count (CBC) shows leukocytosis with a left shift and elevated neutrophil count at 14,500 cells/mm3 (normal range: 2,000-8,000 cells/mm3). Blood cultures are pending. Other relevant lab values include C-reactive protein (CRP) at 12 mg/dL (normal <1 mg/dL), indicating significant inflammation.
+
+Plan (Treatment & Management):
+Given the patient's clinical presentation and lab results suggestive of a severe infection, broad-spectrum antibiotic therapy has been initiated with vancomycin and piperacillin-tazobactam. Intravenous fluid resuscitation is ongoing to manage hypotension. Continuous cardiac monitoring and oxygen supplementation have also been instituted.
+
+Further diagnostic workup includes obtaining chest X-ray and abdominal ultrasound to evaluate for potential sources of infection other than the urinary tract, as well as a CT scan of the abdomen and pelvis if needed. The healthcare team will closely monitor vital signs and lab results to adjust treatment as necessary based on culture results and clinical response.
+
+The patient has been informed about his condition, current treatments, and planned investigations. Family members have been engaged in care planning discussions and are kept updated regarding progress.

@@ -1,0 +1,32 @@
+Patient Information:
+- Patient ID: 10020740
+- Admission ID: 25826145
+- Patient Name: Omar Farah
+- Patient Age: 56
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of a disseminated infectious disease, characterized by widespread granulomatous lesions in multiple organs.
+
+History of Present Illness (HPI):
+Omar Farah is a 56-year-old male who reports a several-week history of intermittent fever, night sweats, and unintentional weight loss. He also notes malaise and general weakness without specific pain or joint inflammation. These symptoms have persisted despite treatment for presumed viral upper respiratory infections.
+
+Past Medical History (PMH):
+The patient has no significant past medical history except for routine check-ups and vaccinations. He denies any previous episodes of tuberculosis, HIV, or other chronic illnesses.
+
+Medications:
+The patient was recently treated with over-the-counter antivirals and analgesics without relief from his symptoms.
+
+Family History (FH):
+There is no reported family history of infectious diseases or autoimmune conditions that could contribute to the current presentation.
+
+Social History (SH):
+Omar Farah lives alone and works in an office environment. He reports occasional travel for business but denies any recent international trips. He practices good hygiene, including frequent handwashing and mask-wearing during the pandemic.
+
+Physical Examination (PE):
+Vital signs indicate a mild elevation in temperature (99.5°F), heart rate slightly above normal at 90 bpm, and blood pressure within normal limits. Physical examination reveals no obvious lymphadenopathy or respiratory distress. Skin examination shows subtle rashes in axillary regions with tender lymph nodes. Chest auscultation indicates scattered crackles bilaterally, particularly in the lower lobes.
+
+Initial Diagnosis:
+The clinical presentation along with imaging studies suggest a granulomatous disease affecting multiple organs, characterized by small, millet-like lesions (miliary pattern).
+
+Plan (Treatment & Management):
+Further diagnostic tests are needed to confirm the suspected diagnosis. Initiate empirical treatment for tuberculosis while awaiting culture results from bronchoalveolar lavage and blood samples. Arrange for a dermatology consult given the skin findings, which may be related or unrelated to the primary condition. Ensure patient education on disease transmission, importance of adherence to therapy, and contact tracing if necessary. Schedule follow-up appointments for monitoring response to treatment and managing any complications.

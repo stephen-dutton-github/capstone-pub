@@ -1,0 +1,50 @@
+Patient Information:
+- Patient ID: 10014354
+- Admission ID: 26013492
+- Patient Name: Min-Jun Kim
+- Patient Age: 60 years old
+
+Initial Diagnosis:
+- Suspected severe respiratory infection, likely viral origin.
+
+History of Present Illness (HPI):
+- The patient presented with symptoms starting three days ago. He reported fever, cough, and dyspnea on exertion. He also complained of chest pain and fatigue.
+- The patient denies any recent travel history or exposure to known COVID-19 cases.
+
+Past Medical History (PMH):
+- Hypertension
+- Hyperlipidemia
+- Type 2 diabetes mellitus
+- Previous smoker with a 20 pack-year history
+- No previous pulmonary diseases or allergies noted
+
+Medications:
+- Amlodipine for hypertension
+- Simvastatin for hyperlipidemia
+- Metformin and insulin for type 2 diabetes mellitus
+
+Family History (FH):
+- Mother died from breast cancer at age 65; father deceased due to coronary artery disease at age 72. No history of respiratory diseases.
+
+Social History (SH):
+- Lives with his spouse in a one-bedroom apartment. He works as an accountant and has been telecommuting since the pandemic began. Denies any recent social gatherings or close contact with others.
+
+Physical Examination (PE):
+- Vital signs show tachycardia (102/min) and tachypnea (28/min). Blood oxygen saturation is 88% on room air.
+- General examination reveals fatigue, but no acute distress noted.
+- Respiratory system: bilateral crackles in the lungs on auscultation. No wheezing or rhonchi present.
+- Cardiovascular examination shows normal heart sounds with no murmurs.
+
+Initial Diagnosis:
+The patient's presentation is consistent with a severe respiratory infection, likely viral origin, given his risk factors and symptoms.
+
+Plan (Treatment & Management):
+- Order chest X-ray to evaluate for pneumonia or other lung abnormalities.
+- Initiate empiric antibiotic therapy considering bacterial superinfection possibilities.
+- Administer supportive care including oxygen supplementation as needed.
+- Monitor vital signs closely and consider ICU transfer if respiratory status deteriorates.
+- Consult infectious disease team for further evaluation.
+- Educate the patient on infection control measures to prevent transmission.
+- Ensure follow-up with primary care physician post-discharge.
+
+Note: The actual diagnosis has not been confirmed, but based on clinical presentation, it is strongly suspected that this patient has pneumonia due to COVID-19.

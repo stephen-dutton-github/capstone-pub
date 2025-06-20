@@ -1,0 +1,42 @@
+Patient Information:
+- Patient ID: 10002930
+- Admission ID: 23688993
+- Patient Name: Amara Okafor
+- Patient Age: 48
+
+Initial Diagnosis:
+- Psychiatric condition, characterized by low mood, anhedonia, and changes in appetite and sleep patterns.
+
+History of Present Illness (HPI):
+The patient reports a progressive decline in mood over the past three months, which has significantly affected her daily functioning. She describes feeling "empty" and disconnected from previously enjoyable activities. Additionally, she has experienced weight loss due to reduced appetite and difficulty sleeping despite increased nighttime awakenings. The onset of symptoms was gradual with no identifiable trigger.
+
+Past Medical History (PMH):
+- Hypertension
+- Mild asthma
+- Previous treatment for anxiety disorder with selective serotonin reuptake inhibitors (SSRIs), discontinued two years ago due to side effects
+
+Medications:
+- Currently taking Ramipril 10mg daily for hypertension and Fluticasone inhaler as needed for mild asthma symptoms.
+
+Family History (FH):
+- Mother diagnosed with major depressive disorder; father deceased from a stroke.
+- Two siblings, both healthy without psychiatric conditions.
+
+Social History (SH):
+- Divorced, no children
+- Works part-time as an accountant
+- Engages in yoga twice weekly and enjoys reading
+
+Physical Examination (PE):
+- General appearance: Appropriate for age and gender, well-groomed, appropriate hygiene
+- Psychiatric evaluation: Depressed mood, blunted affect, decreased interest in previously enjoyable activities. No overt psychosis or suicidal ideation observed.
+
+Plan (Treatment & Management):
+- Initiate antidepressant therapy with a serotonin-norepinephrine reuptake inhibitor (SNRI) due to previous adverse effects from SSRIs.
+- Recommend cognitive-behavioral therapy (CBT) sessions twice weekly for 12 weeks to address depressive symptoms and improve coping strategies.
+- Schedule follow-up appointments in two weeks to assess response to treatment and adjust as necessary.
+- Educate patient on lifestyle modifications, such as regular exercise, healthy diet, and adequate sleep hygiene.
+- Provide resources for support groups and community counseling services.
+- Monitor blood pressure and asthma control during psychiatric treatment.
+
+The diagnosis made by the healthcare provider will be apparent through the analysis of the presented information without directly stating it in the text.

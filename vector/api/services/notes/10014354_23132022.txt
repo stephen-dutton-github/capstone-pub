@@ -1,0 +1,32 @@
+Patient Information:
+- Patient ID: 10014354
+- Admission ID: 23132022
+- Patient Name: Min-Jun Kim
+- Patient Age: 60 years old
+
+Initial Diagnosis:
+The patient presents with severe respiratory symptoms and elevated inflammatory markers.
+
+History of Present Illness (HPI):
+Min-Jun Kim, a 60-year-old male, was admitted to the hospital after experiencing worsening cough, high fever, and shortness of breath for five days. He reports feeling unwell since his return from an international trip two weeks ago. The patient denies any significant past medical history.
+
+Past Medical History (PMH):
+No known allergies or prior illnesses reported.
+
+Medications:
+Currently not on any medications.
+
+Family History (FH):
+No family history of respiratory diseases or other relevant conditions reported.
+
+Social History (SH):
+The patient has been traveling internationally recently and admits to attending gatherings with others while abroad. He lives alone and works as an office clerk, involving little physical activity.
+
+Physical Examination (PE):
+Vital signs: Temperature 103°F, heart rate 110 bpm, respiratory rate 30/min, blood pressure 140/90 mmHg. General appearance shows signs of distress due to dyspnea. Lungs reveal coarse crackles and decreased breath sounds in bilateral lower lobes. Chest X-ray indicates bilateral infiltrates consistent with acute pulmonary process.
+
+Initial Diagnosis:
+The patient's symptoms and clinical presentation suggest an infectious etiology, possibly related to recent international travel and exposure to large gatherings. Laboratory tests pending include PCR for respiratory pathogens and complete blood count.
+
+Plan (Treatment & Management):
+Initiate isolation precautions until further notice based on potential infectious agent. Administer broad-spectrum antibiotics and antivirals as per protocol once infection is identified. Provide supplemental oxygen via nasal cannula as needed for oxygen saturation. Monitor vital signs closely, with particular attention to respiratory status and inflammatory markers. Educate the patient about the importance of isolation and adherence to prescribed therapies. Arrange for follow-up appointments post-discharge.

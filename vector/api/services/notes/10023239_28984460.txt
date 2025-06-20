@@ -1,0 +1,41 @@
+Patient Information:
+- Patient ID: 10023239
+- Admission ID: 28984460
+- Patient Name: Nora Johansen
+- Patient Age: 29
+
+Initial Diagnosis:
+Pulmonary infiltrates with diffuse micronodules and bilateral hilar lymphadenopathy
+
+History of Present Illness (HPI):
+Nora Johansen, a 29-year-old female, presented with a chief complaint of progressive dyspnea on exertion over the past three months. She also reports a recent history of intermittent low-grade fever and night sweats. The patient denies any cough or hemoptysis.
+
+Past Medical History (PMH):
+The patient has no significant past medical history apart from mild asthma, well-controlled with inhaled corticosteroids and bronchodilators.
+
+Medications:
+- Fluticasone propionate/salmeterol inhaler 250/50 mcg twice daily
+- Montelukast 10 mg once daily
+
+Family History (FH):
+No known significant family history of tuberculosis or any other respiratory conditions.
+
+Social History (SH):
+Nora Johansen is a non-smoker, does not consume alcohol regularly. She lives with her partner and works as an accountant in a multinational firm. No recent travel outside the country was reported.
+
+Physical Examination (PE):
+- General: Alert and oriented, no acute distress.
+- Respiratory: Lungs clear to auscultation bilaterally; no wheezes or crackles noted.
+- Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+- Extremities: No clubbing, cyanosis, or edema.
+
+Initial Diagnosis:
+The primary impression based on radiographic findings and clinical presentation is a granulomatous lung disease. Differential diagnoses include sarcoidosis, lymphoma, or an infectious etiology given the systemic symptoms of fever and night sweats.
+
+Plan (Treatment & Management):
+- Order high-resolution computed tomography (CT) scan of chest to better delineate pulmonary infiltrates.
+- Initiate empirical anti-tuberculosis therapy pending further diagnostic workup.
+- Schedule a bronchoscopy with bronchoalveolar lavage for cytology and culture.
+- Monitor vital signs closely, particularly temperature, given the systemic symptoms.
+- Provide supportive care including oxygen supplementation as needed.
+- Educate the patient on the importance of medication adherence and potential side effects of anti-tuberculosis therapy.

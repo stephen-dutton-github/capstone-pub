@@ -1,0 +1,34 @@
+Patient Information:
+- Patient ID: 10020306
+- Admission ID: 26332470
+- Patient Name: Wei Fang
+- Patient Age: 74
+
+Initial Diagnosis:
+The primary concern for this patient is a systemic infection with widespread dissemination. The clinical presentation and laboratory findings suggest a granulomatous disease affecting multiple organ systems.
+
+History of Present Illness (HPI):
+Wei Fang, a 74-year-old, presented with complaints of fatigue, weight loss over three months, fever, night sweats, and dry cough persisting for two weeks. The patient also reports myalgia, arthralgia, and a recent history of mild respiratory distress requiring supplemental oxygen.
+
+Past Medical History (PMH):
+The patient has no known significant past medical history, with the exception of hypertension treated with an ACE inhibitor. No previous episodes of infections or malignancies reported.
+
+Medications:
+Current medications include ramipril 5 mg daily for hypertension.
+
+Family History (FH):
+There is a noted family history of chronic pulmonary disease in first-degree relatives but no history of tuberculosis.
+
+Social History (SH):
+Wei Fang lives alone, smokes socially, and consumes alcohol occasionally. The patient denies any recent travel or contact with individuals suspected of having infectious diseases.
+
+Physical Examination (PE):
+Vital signs show tachypnea (respiratory rate 22/min), hypoxemia (O2 saturation 88% on room air), and mild fever (38°C). Physical examination reveals bilateral diffuse rales, dry crackles in the lower lung zones. No lymphadenopathy or hepatosplenomegaly noted.
+
+Initial Diagnosis:
+The clinical presentation is suggestive of a granulomatous disease affecting multiple organ systems with widespread dissemination. Initial diagnostic tests indicate high levels of inflammatory markers and a positive interferon gamma release assay for latent tuberculosis infection (LTBI).
+
+Plan (Treatment & Management):
+Immediate management will focus on supportive care with oxygen supplementation, hydration, and monitoring vital signs closely. Antituberculous therapy (ATT) is indicated given the suspicion of LTBI and potential active disease based on clinical findings and diagnostic results. The patient will be started on a standard ATT regimen after consultation with an infectious diseases specialist.
+
+The patient's response to treatment will be monitored closely through follow-up appointments and repeat laboratory tests, including chest X-rays and sputum cultures. Education regarding the importance of adherence to ATT and potential side effects will be provided.

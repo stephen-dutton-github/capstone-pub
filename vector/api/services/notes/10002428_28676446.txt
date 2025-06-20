@@ -1,0 +1,47 @@
+Patient Information:
+- Patient ID: 10002428
+- Admission ID: 28676446
+- Patient Name: Jiahao Chen
+- Patient Age: 80 years old
+
+Initial Diagnosis:
+- The patient presents with severe pain in the left hip area, difficulty ambulating without support, and a history of recent fall.
+
+History of Present Illness (HPI):
+- The patient reports experiencing significant pain localized to the left hip region following a slip on wet ground two days ago. Since then, he has been unable to bear weight or walk independently.
+- The pain worsens with any attempts at ambulation and is described as a sharp, shooting sensation.
+
+Past Medical History (PMH):
+- Hypertension
+- Diabetes mellitus type 2
+- Previous left total knee replacement (TKR) for osteoarthritis
+- Nonsteroidal anti-inflammatory drug (NSAID) intolerance due to gastrointestinal issues
+
+Medications:
+- Current: Glyburide 5 mg daily, Lisinopril 10 mg daily, Rosuvastatin 20 mg daily, Aspirin 81 mg daily (with caution due to NSAID intolerance)
+- Recent prescriptions: Gabapentin 300 mg three times a day for neuropathic pain management
+
+Family History (FH):
+- Mother deceased from coronary artery disease; father deceased from stroke
+- Two siblings with hypertension and diabetes mellitus type 2
+
+Social History (SH):
+- Lives alone in a one-story house with modifications for mobility issues
+- Denies smoking, alcohol use, or illicit drug use
+- Engages in occasional light physical activity such as walking in the community
+
+Physical Examination (PE):
+- General: Alert and oriented, no acute distress
+- Musculoskeletal: Significant tenderness to palpation over the left hip joint with limited range of motion; unable to bear weight on the affected leg
+- Neurological: Normal strength and sensation in lower extremities without focal deficits
+
+Initial Diagnosis:
+- Based on clinical presentation and examination findings, a high index of suspicion is raised for an occult fracture around the hip area.
+
+Plan (Treatment & Management):
+- Obtain immediate radiographs of the left hip to confirm or rule out any fractures.
+- If confirmed, consider surgical intervention depending on fracture type and patient's overall medical condition. Consult orthopedic surgery for evaluation.
+- Continue pain management with alternative medications as needed due to NSAID intolerance.
+- Ensure close monitoring of vital signs and manage any acute issues that may arise from this injury.
+- Educate the patient and family about the importance of weight-bearing restrictions until further assessment by orthopedics.
+- Arrange for physical therapy consultation post-surgery or confirmation of fracture to address mobility limitations.

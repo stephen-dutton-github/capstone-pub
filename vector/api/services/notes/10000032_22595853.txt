@@ -1,0 +1,35 @@
+Patient Information:
+- Patient ID: 10000032
+- Admission ID: 22595853
+- Patient Name: Aarav Sharma
+- Patient Age: 52 years old
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of liver cirrhosis, including ascites, splenomegaly, and variceal bleeding.
+
+History of Present Illness (HPI):
+Aarav Sharma, a 52-year-old male, reports recurrent episodes of melena and hematemesis over the past three months. He has also noticed generalized abdominal swelling and discomfort for the same duration. There is no history of recent travel or known exposure to infectious agents.
+
+Past Medical History (PMH):
+The patient has a significant medical history of hepatitis B infection diagnosed 20 years ago, treated with antiviral therapy at that time. He denies any history of alcohol abuse or other substance use disorders.
+
+Medications:
+His current medications include furosemide and spironolactone for volume management, and propranolol for variceal prophylaxis. He also takes a multivitamin daily as per his primary care physician's recommendation due to malabsorption secondary to liver dysfunction.
+
+Family History (FH):
+There is no known family history of liver disease or other hereditary conditions.
+
+Social History (SH):
+Aarav Sharma works as an accountant and denies any recreational drug use. He has a supportive spouse and two children, who report that he adheres well to his prescribed medication regimen.
+
+Physical Examination (PE):
+Vital signs are within normal limits. The patient appears mildly cachectic with pitting edema in the lower extremities. Abdominal examination reveals significant distension, tender hepatomegaly, and splenomegaly. No signs of jaundice or encephalopathy are noted at this time.
+
+Initial Diagnosis:
+The clinical presentation, along with relevant medical history and physical findings, suggest advanced liver disease likely due to chronic hepatitis B infection complicated by portal hypertension.
+
+Plan (Treatment & Management):
+- Continue current medications for volume management and variceal prophylaxis.
+- Initiate endoscopic evaluation for potential band ligation or sclerotherapy of esophageal varices.
+- Refer to hepatology for further assessment and possible liver transplantation evaluation given the progressive nature of his disease.
+- Educate patient on signs of worsening portal hypertension, including increasing ascites, encephalopathy, or recurrent variceal bleeding.

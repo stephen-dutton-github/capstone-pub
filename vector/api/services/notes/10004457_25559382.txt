@@ -1,0 +1,31 @@
+Patient Information:
+Patient ID: 10004457, Admission ID: 25559382. The patient is Olivia Smith, a 65-year-old female.
+
+Initial Diagnosis:
+The primary concern for this patient's admission is the presence of severe chest pain, suggestive of myocardial ischemia. Differential diagnoses include acute coronary syndrome and chronic stable angina.
+
+History of Present Illness (HPI):
+Olivia Smith presented to the emergency department with severe, retrosternal chest pain radiating to her left arm, persisting for approximately 30 minutes prior to arrival. The patient reports this episode as significantly different from previous episodes, which she describes as typical exertional angina responsive to nitroglycerine.
+
+Past Medical History (PMH):
+The patient has a history of hypertension, hyperlipidemia, and Type II diabetes mellitus, all managed with current medications. She also has a significant surgical history including cholecystectomy 10 years ago and right hemiparesis due to an ischemic stroke six months prior.
+
+Medications:
+Current medications include metoprolol tartrate for hypertension, atorvastatin for hyperlipidemia, and insulin glargine for diabetes. Additionally, the patient uses nitroglycerin sublingually as needed for angina.
+
+Family History (FH):
+The patient's father had a history of coronary artery disease leading to myocardial infarction at age 68.
+
+Social History (SH):
+Olivia Smith reports that she is married and has two children. She smokes one pack of cigarettes per day but denies the use of alcohol or illicit drugs. She recently retired from her job as an administrative assistant after 30 years.
+
+Physical Examination (PE):
+Vital signs: Blood pressure 145/80 mmHg, heart rate 95 bpm with a regular rhythm and no murmurs. Respiratory rate is 18 breaths per minute without use of accessory muscles. Cardiac examination reveals tachycardia with a grade II ejection systolic murmur at the left sternal border. Lung fields are clear bilaterally. Abdomen is soft, non-tender with no hepatosplenomegaly. Extremities show evidence of right hemiparesis.
+
+Initial Diagnosis:
+Based on clinical presentation and risk factors, the likely diagnosis is myocardial ischemia due to atherosclerotic heart disease affecting native coronary arteries. Differential diagnoses include acute coronary syndrome versus chronic stable angina exacerbated by recent stressors.
+
+Plan (Treatment & Management):
+The patient will undergo continuous ECG monitoring and serial cardiac biomarkers including troponin. She will receive sublingual nitroglycerine as needed for pain relief and aspirin 325 mg daily to reduce platelet aggregation. A stat echocardiogram will be performed to assess ventricular function and identify any regional wall motion abnormalities indicative of ischemia. A coronary angiography will be scheduled if the initial management proves insufficient.
+
+Further consultations with cardiology are recommended given the patient's significant risk factors, recent history of stroke, and current unstable symptoms. The importance of smoking cessation should also be emphasized during her hospital stay as part of a comprehensive cardiovascular risk reduction strategy.

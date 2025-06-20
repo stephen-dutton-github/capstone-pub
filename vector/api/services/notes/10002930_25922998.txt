@@ -1,0 +1,41 @@
+Patient Information:
+- Patient ID: 10002930
+- Admission ID: 25922998
+- Patient Name: Amara Okafor
+- Patient Age: 48 years old
+
+Initial Diagnosis:
+Based on the patient's clinical presentation, the primary concern is a substance use disorder characterized by symptoms suggestive of withdrawal.
+
+History of Present Illness (HPI):
+The patient reports experiencing tremors, anxiety, and insomnia for the past 3 days. She denies any history of similar episodes in the past but admits to having consumed alcohol daily for the past 20 years. The patient states she has been attempting to cut down on her drinking over the last month without success.
+
+Past Medical History (PMH):
+The patient's medical record reveals no significant past illnesses or allergies, although there is a history of hypertension treated with antihypertensive medication.
+
+Medications:
+Current medications include lisinopril 20 mg daily and hydrochlorothiazide 25 mg daily for hypertension. No recent changes in medication noted.
+
+Family History (FH):
+The patient's family history includes relatives with substance use disorders, but no specific details regarding alcohol dependence are recorded.
+
+Social History (SH):
+The patient is married and has two children. She works full-time as an administrative assistant. Socially, she admits to drinking alcohol daily for the past 20 years. Recently, she has been attending Alcoholics Anonymous meetings but reports minimal support from her partner due to his own substance use issues.
+
+Physical Examination (PE):
+Vital signs show elevated blood pressure at 165/90 mmHg and tachycardia with a heart rate of 110 bpm. The patient appears anxious and agitated. She has prominent tremors in all limbs, and her speech is pressured. There are no focal neurological deficits noted.
+
+Initial Diagnosis:
+The clinical presentation suggests alcohol withdrawal syndrome (AWS). This diagnosis takes into account the patient's history of chronic heavy alcohol use, recent attempts to cut down without success, and current symptoms consistent with AWS such as tremors, anxiety, insomnia, elevated blood pressure, tachycardia, and agitation. 
+
+Plan (Treatment & Management):
+The management plan will include:
+
+1. Initiate treatment for AWS according to guidelines for benzodiazepine therapy.
+2. Monitor vital signs closely due to the presence of hypertension and tachycardia.
+3. Provide supportive care including hydration, electrolyte repletion, and nutritional support as needed.
+4. Schedule follow-up appointments with a substance abuse counselor and consider referral to an addiction treatment program for comprehensive management.
+5. Educate the patient on the importance of adherence to medication regimen, lifestyle modifications, and support systems such as Alcoholics Anonymous.
+6. Address social determinants that may impact treatment compliance, including lack of partner support and potential domestic stressors.
+
+The healthcare team will continue to monitor the patient's progress closely and adjust the treatment plan as necessary based on clinical response and any new findings during the hospital stay.

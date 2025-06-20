@@ -1,0 +1,40 @@
+Patient Information:
+- Patient ID: 10025463
+- Admission ID: 24470193
+- Patient Name: Thiago Oliveira
+- Patient Age: 66 years old
+
+Initial Diagnosis:
+Based on clinical findings and laboratory results, the initial diagnosis includes a severe infectious process involving multiple organ systems.
+
+History of Present Illness (HPI):
+The patient presented with progressive fatigue, night sweats, fever, weight loss over two months, and recent onset of coughing. He also reports experiencing joint pain and backache for several weeks. The patient denies any history of tuberculosis or exposure to infectious diseases.
+
+Past Medical History (PMH):
+The patient has a significant medical history including diabetes mellitus type 2, hypertension, and hyperlipidemia. He is currently on metformin, losartan, and atorvastatin. There are no records indicating previous lung disease or respiratory infections.
+
+Medications:
+- Metformin
+- Losartan
+- Atorvastatin
+
+Family History (FH):
+No immediate family members have a history of tuberculosis or other infectious diseases.
+
+Social History (SH):
+The patient is a retired engineer living alone. He occasionally travels for business and has visited South America in the last six months.
+
+Physical Examination (PE):
+Vital signs show tachycardia with a heart rate of 112 bpm, low-grade fever of 38°C, blood pressure at 110/80 mmHg, and oxygen saturation at 92% on room air. Respiratory examination reveals crackles in bilateral lower lobes with diminished breath sounds. The patient has mild lymphadenopathy in the cervical region. Cardiovascular examination shows no murmurs or gallop rhythm. Abdominal exam is unremarkable.
+
+Laboratory results indicate elevated white blood cell count, CRP levels, and ESR. Chest radiograph and CT scan reveal bilateral diffuse opacities suggestive of a systemic infection. Sputum analysis pending further evaluation.
+
+Initial Diagnosis:
+The clinical presentation and diagnostic imaging findings suggest a disseminated infectious disease involving the lungs, lymph nodes, and possibly other organs. Differential diagnoses include viral or atypical pneumonia with possible secondary bacterial infections.
+
+Plan (Treatment & Management):
+- Start empirical antibiotic therapy to cover for both bacterial and mycobacterial organisms.
+- Initiate antipyretics for fever management.
+- Monitor vital signs closely due to tachycardia.
+- Consider consultation with pulmonology and infectious disease specialists.
+- Further diagnostic tests including sputum culture, bronchoscopy if needed, and biopsies should be performed as soon as possible.

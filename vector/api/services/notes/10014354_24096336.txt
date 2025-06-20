@@ -1,0 +1,37 @@
+Patient Information:
+- Patient ID: 10014354
+- Admission ID: 24096336
+- Patient Name: Min-Jun Kim
+- Patient Age: 60 years old
+
+Initial Diagnosis:
+The primary concern is an acute respiratory illness with systemic symptoms. The patient's clinical presentation suggests a severe viral pneumonia complicated by secondary bacterial infection.
+
+History of Present Illness (HPI):
+Min-Jun Kim, a 60-year-old male, presented to the emergency department with complaints of high fever, productive cough, dyspnea on exertion, and fatigue persisting for five days. The patient reports no known contact with COVID-19 positive individuals but admits frequent travel in recent weeks.
+
+Past Medical History (PMH):
+The patient has a history of hypertension, hyperlipidemia, and chronic obstructive pulmonary disease (COPD), which is currently well-controlled. He also has a history of smoking but quit three years ago.
+
+Medications:
+The patient takes lisinopril 10 mg daily for hypertension, simvastatin 40 mg daily for hyperlipidemia, and tiotropium 18 mcg once daily via inhaler for COPD management.
+
+Family History (FH):
+No immediate family members have known respiratory infections or illnesses within the past two weeks. There is no family history of chronic lung disease.
+
+Social History (SH):
+The patient frequently travels for work, including international trips in recent months. He engages in light physical activity but has no significant exposures to potential environmental hazards.
+
+Physical Examination (PE):
+Vital signs show tachypnea and tachycardia with oxygen saturation at 88% on room air. Auscultation reveals bilateral diffuse rales consistent with pulmonary edema, diminished breath sounds in the left lower lobe, and bronchial wheezing suggestive of COPD exacerbation. The patient appears diaphoretic and is in mild respiratory distress.
+
+Initial Diagnosis:
+Based on clinical presentation and risk factors, the primary diagnosis is severe acute respiratory syndrome with systemic symptoms. Differential diagnoses include bacterial pneumonia secondary to viral infection and COPD exacerbation.
+
+Plan (Treatment & Management):
+- Initiate broad-spectrum antibiotics considering potential bacterial superinfection.
+- Start antiviral treatment pending COVID-19 testing results.
+- Provide supplemental oxygen via nasal cannula to maintain SpO2 >90%.
+- Monitor closely for signs of respiratory failure requiring escalation to mechanical ventilation if needed.
+- Consider consultation with infectious disease specialists and pulmonology for further management and support.
+- Educate patient on the importance of isolation precautions due to potential COVID-19 infection.

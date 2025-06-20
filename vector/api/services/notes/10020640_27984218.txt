@@ -1,0 +1,38 @@
+Patient Information:
+- Patient ID: 10020640
+- Admission ID: 27984218
+- Patient Name: Leila Khaled
+- Patient Age: 91 years old
+
+Initial Diagnosis:
+Based on clinical presentation and initial investigations, the patient is suspected to have a systemic granulomatous disease manifesting as widespread small nodules in both lungs.
+
+History of Present Illness (HPI):
+The patient presented with non-specific symptoms including low-grade fever, anorexia, weight loss, and fatigue persisting for two months. She also reports episodes of night sweats but denies cough, dyspnea, or chest pain.
+
+Past Medical History (PMH):
+- Hypertension controlled with angiotensin-converting enzyme inhibitors
+- Type 2 diabetes mellitus managed with metformin
+- Chronic kidney disease stage III
+- Previous pulmonary tuberculosis treated successfully 30 years ago
+
+Medications:
+- Current medications include ramipril 5 mg daily and metformin 500 mg twice daily
+- No new medications were initiated at admission
+
+Family History (FH):
+- Maternal grandmother died of tuberculosis in her seventies
+- Other family members are healthy with no known significant medical conditions
+
+Social History (SH):
+- Lives alone, receives regular home visits from a community health aide
+- Engaged in light physical activities but has been less active due to recent symptoms
+
+Physical Examination:
+- Vital signs: Temperature 37.2°C, Blood Pressure 130/70 mmHg, Respiratory Rate 20/min, Oxygen saturation 94% on room air
+- General appearance: Mildly cachectic
+- Lungs: Clear to auscultation bilaterally, no crackles or wheezes
+- Abdomen: Soft, non-tender, no hepatosplenomegaly
+
+Plan (Treatment & Management):
+The patient will be admitted for further evaluation including a high-resolution computed tomography scan of the chest and bronchoalveolar lavage. A multidisciplinary team consultation involving infectious diseases, pulmonology, and radiology is recommended to guide management. Empiric treatment with anti-tuberculous therapy may be initiated pending culture results. The patient will receive supportive care including hydration and nutritional support. Education regarding the signs of worsening symptoms and when to seek immediate medical attention will be provided. Regular follow-up appointments will be scheduled to monitor response to treatment and adjust as necessary.

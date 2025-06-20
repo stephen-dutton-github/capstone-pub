@@ -1,0 +1,51 @@
+Patient Information:
+- Patient ID: 10040025
+- Admission ID: 21791856
+- Patient Name: Anna Müller
+- Patient Age: 64
+
+Initial Diagnosis:
+The patient presents with acute onset of fever, chills, cough, and difficulty breathing. Vital signs reveal tachypnea (26 breaths per minute), elevated temperature (102°F), and oxygen saturation at 92% on room air.
+
+History of Present Illness (HPI):
+Anna Müller, a 64-year-old female, reports a week-long history of worsening respiratory symptoms following a recent upper respiratory tract infection. She has experienced progressive dyspnea, night sweats, and fatigue, leading to hospital admission today due to severe respiratory distress.
+
+Past Medical History (PMH):
+- Hypertension managed with lisinopril
+- Type 2 diabetes controlled with metformin
+- Hyperlipidemia treated with atorvastatin
+- Previous history of bronchitis, treated conservatively
+- No significant allergies reported
+
+Medications:
+- Lisinopril 20 mg daily for hypertension
+- Metformin 850 mg twice daily for type 2 diabetes
+- Atorvastatin 40 mg once daily for hyperlipidemia
+
+Family History (FH):
+- Father died from lung cancer at age 70; mother deceased due to heart disease
+- One sibling with chronic obstructive pulmonary disease (COPD)
+
+Social History (SH):
+- Smoker (pack-year history: 30)
+- Lives alone, retired school teacher
+- No recent travel or exposure to individuals with similar symptoms
+
+Physical Examination (PE):
+- General: Alert and oriented, appears acutely ill; use of accessory respiratory muscles noted.
+- Respiratory: Tachypneic, adventitious lung sounds consistent with consolidation in the right lower lobe. Crackles and rhonchi heard upon auscultation.
+- Cardiovascular: Regular rate and rhythm, no murmurs or gallops.
+- Other systems: Normal
+
+Initial Diagnosis:
+Based on clinical presentation and physical examination findings, the patient is suspected to have a severe bacterial lung infection, likely involving the right lower lobe. Differential diagnoses include community-acquired pneumonia (CAP), pneumonitis, and possible exacerbation of underlying chronic pulmonary disease.
+
+Plan (Treatment & Management):
+- Initiate broad-spectrum antibiotics targeting common CAP pathogens
+- Administer supplemental oxygen as needed to maintain adequate oxygen saturation levels
+- Monitor vital signs closely and adjust treatment based on clinical response
+- Consider chest X-ray or CT scan for further evaluation, if necessary
+- Educate patient on the importance of completing antibiotic course and adhering to follow-up appointments with her primary care physician
+- Arrange for social services consultation due to living alone and recent respiratory symptoms.
+
+Further diagnostic testing and follow-up will be arranged as needed based on the patient's response to initial management.

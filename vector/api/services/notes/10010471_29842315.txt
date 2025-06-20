@@ -1,0 +1,36 @@
+Patient Information:
+- Patient ID: 10010471
+- Admission ID: 29842315
+- Patient Name: Mei Zhang
+- Patient Age: 89 years old
+
+Initial Diagnosis:
+The patient presents with acute onset of respiratory symptoms including cough, dyspnea, and fevers. Laboratory tests reveal elevated inflammatory markers and a positive viral panel indicating recent infection.
+
+History of Present Illness (HPI):
+Mei Zhang, an 89-year-old female, was admitted to the hospital after presenting to her primary care physician's office with worsening shortness of breath over several days. She has been experiencing a non-productive cough for two weeks and developed fever the day before presentation. The patient also reports fatigue and general malaise.
+
+Past Medical History (PMH):
+The patient has a history of hypertension, coronary artery disease, and chronic obstructive pulmonary disease (COPD). She is currently on metoprolol 25 mg daily, aspirin 81 mg daily, and a short-acting rescue inhaler for COPD exacerbations.
+
+Medications:
+- Metoprolol 25 mg daily
+- Aspirin 81 mg daily
+- Short-acting bronchodilator as needed
+
+Family History (FH):
+The patient's family history includes hypertension and heart disease in her immediate family members.
+
+Social History (SH):
+Mei Zhang lives alone, has no children, and relies on home health aides for daily care. She reports infrequent social interactions due to COVID-19 lockdown restrictions.
+
+Physical Examination (PE):
+Vital signs show tachypnea with oxygen saturation at 88% on room air. General examination reveals lethargy and anorexia. Lungs are clear to auscultation bilaterally, although there is reduced breath sounds noted in the lower lobes. Heart exam shows regular rate and rhythm without murmurs or gallops. Abdomen is soft, non-tender with no organomegaly.
+
+Initial Diagnosis:
+Based on clinical presentation and laboratory findings, this patient likely has a severe respiratory infection causing acute respiratory distress syndrome (ARDS) secondary to an unidentified viral pathogen, possibly COVID-19.
+
+Plan (Treatment & Management):
+The patient will be placed on supplemental oxygen via nasal cannula initially at 2 liters per minute with plans for non-invasive ventilation if symptoms worsen. Antibiotics will be started empirically while awaiting further diagnostic results. Antiviral therapy will be initiated pending confirmation of viral etiology. Fluid management will be carefully monitored due to the risk of fluid overload in this patient population.
+
+The hospitalist team will coordinate care closely with the primary care physician and home health aides, ensuring that social distancing guidelines are followed during all interactions. The family will be kept updated on her condition via phone calls as per infection control protocols due to COVID-19.

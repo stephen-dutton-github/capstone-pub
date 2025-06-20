@@ -1,0 +1,45 @@
+Patient Information:
+- Patient ID: 10011398
+- Admission ID: 27505812
+- Patient Name: Isabella Moretti
+- Patient Age: 67 years old
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of a severe respiratory illness characterized by fever, cough, and dyspnea. 
+
+History of Present Illness (HPI):
+Ms. Isabella Moretti is an elderly female who has been experiencing fever for the past four days, worsening over time, accompanied by progressive shortness of breath, particularly on exertion. She reports that her cough started five days ago as a dry hack but has now become more productive with yellowish sputum. Additionally, she feels fatigued and notes difficulty sleeping due to dyspnea at night.
+
+Past Medical History (PMH):
+Ms. Moretti has a history of hypertension, hyperlipidemia, and type 2 diabetes mellitus, managed with metoprolol, atorvastatin, and glipizide respectively. She underwent a hysterectomy for benign indications about 10 years ago.
+
+Medications:
+- Metoprolol (25 mg daily) 
+- Atorvastatin (20 mg daily)
+- Glipizide (5 mg twice daily)
+
+Family History (FH):
+Her father died of lung cancer, and her mother passed away from complications related to Alzheimer's disease. There is no known family history of infectious diseases.
+
+Social History (SH):
+Ms. Moretti lives with her spouse in a suburban neighborhood. She enjoys outdoor activities but has been limiting them due to the current pandemic restrictions. Her occupation as an administrative assistant requires minimal contact with others and she mostly works from home. However, it's noted that her granddaughter visits her occasionally for short periods.
+
+Physical Examination (PE):
+Vital signs: Temperature 38°C, pulse 90 bpm, respiratory rate 24/min, blood pressure 130/80 mmHg
+General appearance: Alert but appears fatigued.
+Lungs: Decreased breath sounds in bilateral lower lobes with scattered crackles and wheezing on auscultation. No rhonchi or pleural friction rub detected.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+
+Initial Diagnosis:
+The clinical presentation is suggestive of a severe viral pneumonia complicated by possible secondary bacterial infection due to her age and underlying medical conditions. The differential diagnosis includes influenza A/B, respiratory syncytial virus (RSV), and COVID-19. Further diagnostic workup will be required for confirmation of the specific etiology.
+
+Plan (Treatment & Management):
+- Order comprehensive laboratory tests including CBC, CMP, chest X-ray, and sputum culture.
+- Initiate empiric antibiotic therapy covering common pathogens such as Streptococcus pneumoniae and Haemophilus influenzae.
+- Provide antiviral treatment if COVID-19 is confirmed based on further testing.
+- Administer supportive care measures such as oxygen supplementation to maintain adequate saturation levels, fluid management for hydration, and analgesics for fever control.
+- Consult pulmonology and infectious disease teams for multidisciplinary approach. 
+- Educate the patient and family about her condition, treatment plan, infection control measures, and provide support for any potential need for intensive care unit admission.
+- Monitor vital signs closely and reassess regularly to adjust therapy as needed based on clinical response and test results.
+
+The above plan aims to manage her symptoms while awaiting confirmation of COVID-19. It also takes into account her comorbidities and age-related vulnerability, ensuring supportive measures are prioritized along with the potential need for antiviral treatment if confirmed.

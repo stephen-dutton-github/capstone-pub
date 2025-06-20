@@ -1,0 +1,40 @@
+Patient Information:
+- Patient ID: 10007818
+- Admission ID: 22987108
+- Patient Name: Linh Tran
+- Patient Age: 69
+
+Initial Diagnosis:
+The patient presents with chronic liver disease characterized by ascites and splenomegaly. 
+
+History of Present Illness (HPI):
+Linh Tran, a 69-year-old female, was admitted for evaluation of abdominal distension and fatigue persisting over several months. She reports a history of progressive jaundice and loss of appetite but denies any recent travel or exposure to infectious diseases.
+
+Past Medical History (PMH):
+The patient has a significant medical history including hypertension treated with losartan, hyperlipidemia managed with atorvastatin, and type 2 diabetes controlled with metformin. She also reports previous upper gastrointestinal bleed from esophageal varices managed with endoscopic banding.
+
+Medications:
+- Losartan 50 mg daily
+- Atorvastatin 20 mg daily
+- Metformin 500 mg twice daily
+
+Family History (FH):
+The patient's family history includes a brother who died from liver disease, but specific details are unclear due to language barriers and lack of detailed medical records.
+
+Social History (SH):
+Linh Tran is a retired nurse. She lives alone and reports limited social interactions. Her diet consists mainly of processed foods with minimal fruits and vegetables intake.
+
+Physical Examination (PE):
+On examination, the patient appears pale and fatigued but in no acute distress. Vital signs are stable. There is significant abdominal distension and palpable hepatosplenomegaly. No signs of hepatic encephalopathy or ascites rupture were noted. Laboratory tests reveal elevated liver enzymes, bilirubin, and INR.
+
+Initial Diagnosis:
+The patient's presentation and laboratory findings suggest chronic liver disease due to other causes, including possible alcoholic cirrhosis, non-alcoholic fatty liver disease (NAFLD), or autoimmune hepatitis, given the family history and lack of clear etiology. 
+
+Plan (Treatment & Management):
+The management plan will include:
+1) Further evaluation with imaging studies such as abdominal ultrasound and CT scan to assess for portal hypertension and potential complications like esophageal varices.
+2) Endoscopy to evaluate for esophageal varices and perform any necessary banding.
+3) Consultation with gastroenterology for further assessment and management of liver disease.
+4) Adjustments in medications as needed based on specialist recommendations.
+5) Nutritional consultation for dietary modifications and vitamin supplementation.
+6) Follow-up in one week or sooner if symptoms worsen.

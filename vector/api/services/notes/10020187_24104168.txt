@@ -1,0 +1,35 @@
+Patient Information:
+- Patient ID: 10020187
+- Admission ID: 24104168
+- Patient Name: Abigail Thompson
+- Patient Age: 63 years old
+
+Initial Diagnosis:
+The patient presents with systemic symptoms suggestive of a disseminated infectious process.
+
+History of Present Illness (HPI):
+Abigail Thompson, a 63-year-old female, was brought to the emergency department by her family due to persistent high-grade fever and night sweats for two weeks. She also reports feeling weak and fatigued, along with weight loss over the past month. There is no history of cough or shortness of breath.
+
+Past Medical History (PMH):
+The patient has a significant medical history including rheumatoid arthritis treated with methotrexate, hypertension managed with losartan, hyperlipidemia on atorvastatin, and gastroesophageal reflux disease on omeprazole. She completed treatment for latent tuberculosis infection two years ago following a positive purified protein derivative (PPD) test.
+
+Medications:
+Current medications include: losartan 50 mg daily, atorvastatin 20 mg daily, omeprazole 20 mg daily, and methotrexate 7.5 mg weekly.
+
+Family History (FH):
+The patient's family history includes a first-degree relative with a known diagnosis of tuberculosis.
+
+Social History (SH):
+Abigail is a retired teacher living alone. She enjoys hiking on weekends but has been unable to do so due to her current symptoms. She does not smoke or consume alcohol excessively.
+
+Physical Examination (PE):
+Vital signs show tachycardia and fever, with other physical findings suggestive of a systemic inflammatory response syndrome including lymphadenopathy, splenomegaly, and diffuse rashes. Respiratory exam reveals clear lung fields on auscultation, with no signs of crackles or wheezing.
+
+Initial Diagnosis:
+Given the systemic symptoms and differential diagnoses including an infectious etiology, the primary consideration is a disseminated infection, possibly secondary to immunosuppression from her rheumatoid arthritis treatment.
+
+Plan (Treatment & Management):
+Immediate steps include hospital admission for further evaluation with blood cultures, complete blood count (CBC), chemistry panel, and imaging studies. Initiate empirical intravenous antibiotics pending culture results. Consult infectious disease for potential tuberculosis reactivation given the patient's history of latent infection and family history. Continue supportive care including fluid management and antipyretics.
+
+Follow-up:
+Monitor vital signs closely and reassess symptoms daily. Arrange follow-up appointments in one week or sooner if clinically indicated based on test results and treatment response.

@@ -1,0 +1,36 @@
+Patient Information:
+- Patient ID: 10014354
+- Admission ID: 20900955
+- Patient Name: Min-Jun Kim
+- Patient Age: 60 years old
+
+Initial Diagnosis:
+The patient presents with acute respiratory distress and elevated inflammatory markers suggestive of a severe infectious process affecting the lungs.
+
+History of Present Illness (HPI):
+Min-Jun Kim, a 60-year-old male, was admitted to our facility after experiencing worsening shortness of breath over four days. He denies any known exposure to SARS-CoV-2 or travel history outside his usual residence within the last three months. The patient also reports mild fatigue and low-grade fever but notes that these symptoms have been present for approximately two weeks prior to the onset of dyspnea.
+
+Past Medical History (PMH):
+The patient has a significant medical history of hypertension, hyperlipidemia, and chronic kidney disease stage III. He is currently on ramipril 10 mg daily, atorvastatin 40 mg daily, and amlodipine 5 mg daily for blood pressure control.
+
+Medications:
+- Ramipril 10 mg daily
+- Atorvastatin 40 mg daily
+- Amlodipine 5 mg daily
+
+Family History (FH):
+The patient's family history includes a maternal uncle with diabetes mellitus and a paternal aunt with breast cancer. There is no reported familial history of respiratory illnesses.
+
+Social History (SH):
+Min-Jun Kim resides alone in an urban apartment. He denies any smoking or alcohol use. His occupation involves minimal contact with the public, and he reports compliance with local health guidelines regarding mask-wearing and social distancing.
+
+Physical Examination (PE):
+Upon admission, the patient appeared lethargic but alert. Vital signs indicated a respiratory rate of 28/min, oxygen saturation at 88% on room air, and blood pressure slightly elevated at 150/90 mm Hg. Cardiovascular examination showed no murmurs or abnormal heart sounds. Lungs were auscultated with diffuse crackles bilaterally, particularly in the lower lobes. No other abnormalities were noted.
+
+Initial Diagnosis:
+Based on clinical presentation and laboratory findings, the primary concern is an acute respiratory infection complicated by systemic inflammation.
+
+Plan (Treatment & Management):
+The patient will be isolated in a negative pressure room to prevent nosocomial transmission. Broad-spectrum antimicrobial therapy has been initiated to cover potential bacterial and viral pathogens. Supportive care includes supplemental oxygen via nasal cannula and continuous pulse oximetry monitoring. The healthcare team will continue to evaluate and reassess his respiratory status closely, considering the need for escalation of respiratory support if his condition deteriorates.
+
+Further testing including COVID-19 PCR is pending, but clinical suspicion remains high given the current epidemiological context and the patient's presentation. Close communication with infectious disease specialists is recommended for multidisciplinary care coordination.

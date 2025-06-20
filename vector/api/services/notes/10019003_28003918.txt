@@ -1,0 +1,43 @@
+Patient Information:
+- Patient ID: 10019003
+- Admission ID: 28003918
+- Patient Name: Amir Ahmadi
+- Patient Age: 65 years old
+
+Initial Diagnosis:
+Based on the clinical findings, the primary assessment indicates a severe respiratory infection characterized by pulmonary infiltrates and hypoxia. The patient's recent travel history from an area with reported community spread of a novel coronavirus suggests a plausible infectious etiology.
+
+History of Present Illness (HPI):
+Amir Ahmadi presented to the emergency department with complaints of progressive cough, dyspnea, fever, and chills for five days. He reports no prior similar illnesses but admits to recent social gatherings, including travel from an area currently experiencing community transmission of a new viral respiratory illness.
+
+Past Medical History (PMH):
+The patient has a history of hypertension, which is well-controlled on lisinopril 10 mg daily. No other significant medical issues were noted in his chart review.
+
+Medications:
+Lisinopril 10 mg daily
+
+Family History (FH):
+No relevant family medical history reported.
+
+Social History (SH):
+As previously mentioned, Amir recently traveled from an area with documented community spread of a novel coronavirus. He denies smoking and alcohol use but admits to attending social gatherings over the past few weeks, including potential exposure risks.
+
+Physical Examination (PE):
+- General: Alert and oriented, but appears mildly distressed
+- Respiratory: Decreased breath sounds in bilateral lower lobes; no wheezing or rales noted.
+- Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops
+- Other systems: Notable for hypoxia with an oxygen saturation of 88% on room air
+
+Initial Diagnosis:
+Considering the clinical presentation, travel history, and current epidemiological context, a provisional diagnosis suggests an atypical pneumonia secondary to an acute viral respiratory infection. The differential diagnoses include influenza, bacterial pneumonia, or COVID-19.
+
+Plan (Treatment & Management):
+1. Initiate oxygen supplementation with nasal cannula at 2 liters per minute.
+2. Start empiric antibiotic therapy for potential bacterial superinfection while awaiting further diagnostic results.
+3. Administer antiviral medication if the etiologic agent is confirmed as influenza or another acute viral respiratory pathogen.
+4. Implement infection control precautions, including standard and contact precautions to minimize risk of transmission.
+5. Arrange for repeat laboratory testing, including COVID-19 nucleic acid amplification test (NAAT) given high clinical suspicion based on epidemiological information.
+6. Monitor vital signs closely, particularly oxygen saturation levels.
+7. Educate patient on the importance of compliance with isolation precautions and scheduled follow-up appointments to reassess condition.
+
+The healthcare team will continue to monitor Amir Ahmadi's response to treatment and adjust the plan as necessary, considering any new diagnostic findings or changes in his clinical status.

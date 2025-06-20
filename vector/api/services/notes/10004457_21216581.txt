@@ -1,0 +1,51 @@
+Patient Information:
+- Patient ID: 10004457
+- Admission ID: 21216581
+- Patient Name: Olivia Smith
+- Patient Age: 65 years old
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of an abnormal heart rhythm. Vital signs indicate tachycardia and palpitations, with a heart rate persistently above the upper limit of normal.
+
+History of Present Illness (HPI):
+Olivia Smith reports experiencing episodic palpitations over the past week, worsening in intensity and frequency. She describes associated symptoms including shortness of breath, lightheadedness, and fatigue. No history of chest pain or syncope reported.
+
+Past Medical History (PMH):
+- Hypertension
+- Hyperlipidemia
+- Type 2 Diabetes Mellitus
+- Mild Mitral Regurgitation
+
+Medications:
+- Amlodipine 10mg daily for hypertension
+- Atorvastatin 40mg daily for hyperlipidemia
+- Metformin 500mg twice daily for type 2 diabetes mellitus
+- Furosemide as needed for fluid overload due to mitral regurgitation
+
+Family History (FH):
+- Mother died of myocardial infarction at age 72
+- Father had atrial fibrillation and passed away from congestive heart failure at age 75
+
+Social History (SH):
+- Smokes one pack of cigarettes per day for the past 40 years
+- Drinks alcohol socially, but no history of binge drinking or excessive use
+- Retired schoolteacher, active in community service
+
+Physical Examination (PE):
+- General: appears well-nourished and in mild distress
+- Vital Signs: heart rate consistently above normal limit (130 bpm)
+- Cardiovascular: tachycardia noted with irregular rhythm, no murmurs
+- Respiratory: clear to auscultation bilaterally, no wheezing or rales
+
+Initial Diagnosis:
+Based on the patient's symptoms and physical examination findings, a suspected arrhythmogenic disorder is considered. Differential diagnoses include supraventricular tachycardia, atrial flutter, or atrial fibrillation.
+
+Plan (Treatment & Management):
+- Obtain 12-lead ECG for confirmation of arrhythmic disorder
+- Initiate rhythm control medications such as flecainide or amiodarone pending further evaluation
+- Start continuous cardiac monitoring in the hospital setting to ensure safety and prevent complications
+- Consult cardiology for potential electrical cardioversion or ablation procedures depending on final diagnosis
+- Educate patient on recognizing signs of worsening arrhythmia, including chest pain, syncope, or worsening dyspnea.
+- Schedule follow-up appointments with primary care physician and cardiologist post-discharge to manage underlying comorbidities and ensure adherence to treatment plan.
+
+(Note: The admission note does not directly state the condition as Atrial Flutter, but rather describes symptoms and physical findings consistent with it, while listing differential diagnoses including atrial flutter.)

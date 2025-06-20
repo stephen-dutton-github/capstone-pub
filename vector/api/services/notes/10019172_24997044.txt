@@ -1,0 +1,39 @@
+Patient Information:
+- Patient ID: 10019172
+- Admission ID: 24997044
+- Patient Name: Nia Roberts
+- Patient Age: 63 years old
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of disseminated infection, including fatigue, weight loss, night sweats, and recent onset of cough. Laboratory findings reveal a low white blood cell count (WBC) with lymphocytopenia.
+
+History of Present Illness (HPI):
+Nia Roberts, a 63-year-old female, reports experiencing increasing fatigue over the past three weeks. She has also noted a weight loss of approximately five pounds within this timeframe and has experienced night sweats intermittently since the onset of these symptoms. Recently, she developed a non-productive cough that persists during the day but resolves at nighttime. The patient denies fever or dyspnea on exertion.
+
+Past Medical History (PMH):
+The patient's medical history includes hypertension, managed with an ACE inhibitor and diuretic, and hyperlipidemia treated with statin therapy. She has undergone total hysterectomy for endometrial cancer three years ago, with no evidence of recurrence postoperatively.
+
+Medications:
+- Lisinopril 20 mg daily (hypertension)
+- Hydrochlorothiazide 25 mg daily (hypertension)
+- Atorvastatin 40 mg daily (hyperlipidemia)
+
+Family History (FH):
+Her mother died from lung cancer at the age of 67, while her father passed away due to congestive heart failure. There is no known family history of tuberculosis or other infectious diseases.
+
+Social History (SH):
+The patient resides in a metropolitan area with high migration rates and dense population. She has been traveling frequently for work-related purposes within this year, visiting countries with moderate-to-high prevalence rates of tuberculosis. She denies any recent close contact with individuals who have active pulmonary infections or exposure to contaminated materials.
+
+Physical Examination (PE):
+- Vital signs: BP 120/80 mm Hg, pulse 70 bpm, respiratory rate 18/min
+- General appearance: Alert and oriented, appears fatigued but well-hydrated
+- Respiratory system: Clear breath sounds bilaterally with no wheezing or crackles
+- Cardiovascular system: Regular rhythm without murmurs, rubs, or gallops
+- Abdomen: Soft, non-tender without organomegaly
+- Extremities: No edema
+
+Initial Diagnosis:
+Based on clinical presentation and laboratory findings, the patient is likely suffering from an opportunistic infection secondary to immunosuppression. The differential diagnosis includes disseminated fungal infections or a mycobacterial process.
+
+Plan (Treatment & Management):
+The management plan will include initiating broad-spectrum antimicrobial therapy targeting both bacterial and fungal pathogens while awaiting culture results. A sputum sample will be collected for acid-fast staining and culture, along with blood cultures to investigate the cause of lymphocytopenia. The patient will also receive supportive care including hydration, nutritional support, and possibly antipyretics if fever develops. Further consultations with infectious disease specialists are recommended given the complexity of the case. Follow-up appointments will be scheduled within one week to reassess the clinical status and adjust treatment as necessary.

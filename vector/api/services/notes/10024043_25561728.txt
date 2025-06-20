@@ -1,0 +1,34 @@
+Patient Information:
+- Patient ID: 10024043
+- Admission ID: 25561728
+- Patient Name: Lena Schneider
+- Patient Age: 67 years old
+
+Initial Diagnosis:
+The patient presents with nonspecific constitutional symptoms including persistent low-grade fever, fatigue, weight loss, and night sweats. The clinical presentation suggests an infectious etiology, possibly involving the respiratory or hematogenous spread of organisms.
+
+History of Present Illness (HPI):
+Lena Schneider, a 67-year-old female, reports experiencing chronic malaise for several months prior to admission. She also notes intermittent fevers peaking at 38°C, unintentional weight loss over three kilograms in the last month, and nocturnal diaphoresis. The patient denies any acute exacerbations or recent travel history.
+
+Past Medical History (PMH):
+Lena Schneider has a long-standing history of poorly controlled type 2 diabetes mellitus with diabetic nephropathy stage III. She is currently on insulin therapy. Additionally, she has hypertension, managed with an ACE inhibitor, and asthma treated with a salmeterol inhaler.
+
+Medications:
+- Insulin, sliding scale
+- Lisinopril (ACE inhibitor)
+- Salmeterol inhaler for asthma
+
+Family History (FH):
+The patient's mother had a history of chronic obstructive pulmonary disease (COPD) and her father was a long-term smoker. There is no reported family history of infectious diseases or tuberculosis.
+
+Social History (SH):
+Lena Schneider is a lifelong nonsmoker living alone in an urban setting. She occasionally volunteers at local community centers and has limited contact with international travel.
+
+Physical Examination (PE):
+Vital signs show persistent low-grade fever, tachycardia, and mild tachypnea. The patient appears fatigued but is alert and oriented. Respiratory examination reveals fine crackles in the lower lobes bilaterally without wheezing or rhonchi. No lymphadenopathy or hepatosplenomegaly is noted.
+
+Initial Diagnosis:
+Given the constellation of symptoms and clinical presentation, a differential diagnosis including infectious etiologies such as pulmonary infections and hematogenous dissemination cannot be ruled out at this time.
+
+Plan (Treatment & Management):
+The patient will undergo further diagnostic evaluation including chest X-ray, complete blood count, erythrocyte sedimentation rate, C-reactive protein, and sputum analysis. Based on the results of these investigations, appropriate treatment for potential pulmonary infection or hematogenous spread of organisms will be initiated. The medical team will also monitor her diabetes management closely to ensure glycemic control during her treatment course.

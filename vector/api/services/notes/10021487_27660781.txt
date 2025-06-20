@@ -1,0 +1,32 @@
+Patient Information:
+- Patient ID: 10021487
+- Admission ID: 27660781
+- Patient Name: Jason Edwards
+- Patient Age: 43
+
+Initial Diagnosis:
+The patient presents with systemic symptoms including persistent fever, night sweats, and general malaise. The primary concern is a disseminated infectious process.
+
+History of Present Illness (HPI):
+Jason Edwards, a 43-year-old male, reports experiencing high fevers up to 103°F for the past three weeks, accompanied by night sweats and significant fatigue. He has also noticed unexplained weight loss of approximately 15 pounds over the same period. The patient denies any recent travel or exposure to tuberculosis.
+
+Past Medical History (PMH):
+The patient has a history of asthma treated with inhaled corticosteroids and beta-agonists as needed. No prior infectious diseases, including tuberculosis, have been documented. He completed his childhood vaccination series including BCG vaccine.
+
+Medications:
+Current medications include fluticasone propionate/salmeterol 250/50 mcg via inhaler twice daily and albuterol 90 mcg via inhaler as needed for asthma management.
+
+Family History (FH):
+The patient's family history is non-contributory regarding infectious diseases or conditions related to the current presentation.
+
+Social History (SH):
+The patient is employed full-time in an office setting. He denies any substance abuse, tobacco use, or alcohol consumption exceeding moderate levels. Social interactions are typical for his age group and occupation.
+
+Physical Examination (PE):
+Vital signs include a temperature of 102°F, pulse 90 bpm, blood pressure 120/80 mmHg, respiratory rate 18 breaths per minute, and oxygen saturation at 98% on room air. General appearance shows signs of malnutrition and systemic illness. Lungs are clear to auscultation bilaterally with no wheezing or crackles detected. No lymphadenopathy is noted.
+
+Initial Diagnosis:
+Based on the clinical presentation and physical examination findings, the patient has a high likelihood of disseminated granulomatous disease caused by Mycobacterium species, considering his systemic symptoms and lack of specific pulmonary involvement.
+
+Plan (Treatment & Management):
+The patient will be admitted for inpatient management. Initial diagnostic tests including chest X-ray, abdominal imaging, and sputum cultures will be obtained to identify the causative organism. Initiate empiric antibiotic coverage targeting potential Mycobacterium species pending culture results. The Infectious Diseases team will consult for further evaluation and management based on culture results. Patient education regarding his diagnosis and treatment plan will be provided. Compliance with medication adherence and follow-up appointments will be emphasized.

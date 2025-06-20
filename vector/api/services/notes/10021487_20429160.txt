@@ -1,0 +1,34 @@
+Patient Information:
+- Patient ID: 10021487
+- Admission ID: 20429160
+- Patient Name: Jason Edwards
+- Patient Age: 43 years old
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of an acute, severe respiratory illness characterized by high-grade fever, night sweats, weight loss, and progressive dyspnea. The onset is insidious, with no obvious precipitating factors noted.
+
+History of Present Illness (HPI):
+Jason Edwards, a 43-year-old male, reports experiencing persistent fever for two weeks, accompanied by chills, diaphoresis, anorexia, significant weight loss over three months, and progressive shortness of breath. He denies any history of similar illness in the past.
+
+Past Medical History (PMH):
+The patient has no prior history of tuberculosis or other chronic respiratory infections. He is a non-smoker and does not consume alcohol excessively. His immunization status is up-to-date with all recommended vaccinations, including BCG, which was administered during childhood.
+
+Medications:
+None prescribed at this time due to the ongoing evaluation process.
+
+Family History (FH):
+His family history includes no known cases of tuberculosis or other chronic infectious diseases.
+
+Social History (SH):
+Jason works as an accountant and travels frequently for work. He denies any exposure to individuals with respiratory illnesses in recent memory.
+
+Physical Examination (PE):
+Vital signs indicate tachycardia, tachypnea, and fever. Physical examination reveals diffuse rhonchi bilaterally on lung auscultation, normal cardiovascular examination, and mild lymphadenopathy in the cervical region. No other significant abnormalities noted during the physical assessment.
+
+Initial Diagnosis:
+Based on clinical presentation and history, an infectious etiology is suspected with differential diagnoses including severe pneumonia or atypical pulmonary infection, possibly complicated by a systemic inflammatory response syndrome (SIRS).
+
+Plan (Treatment & Management):
+The patient will undergo further diagnostic evaluation including chest X-ray, complete blood count (CBC), procalcitonin levels, sputum and blood cultures. He will be started on broad-spectrum antibiotics pending culture results and provided supportive care with fluids, antipyretics, and supplemental oxygen as needed based on continuous monitoring of vital signs and respiratory status. Further consultations with a pulmonologist and infectious disease specialist are planned to manage his condition appropriately.
+
+The patient has been counseled about the importance of completing diagnostic tests and adhering to prescribed treatments when indicated. He has been advised on signs of worsening symptoms that should prompt immediate medical attention, such as increased difficulty breathing or severe chest pain.

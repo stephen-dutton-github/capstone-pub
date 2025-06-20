@@ -1,0 +1,36 @@
+Patient Information:
+- Patient ID: 10002930
+- Admission ID: 22380825
+- Patient Name: Amara Okafor
+- Patient Age: 48 years old
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of a mood disorder, characterized by persistent low mood, anhedonia, and difficulty concentrating.
+
+History of Present Illness (HPI):
+Amara Okafor, a 48-year-old female, was admitted to the hospital after experiencing worsening depressive symptoms over the past three months. She reports feeling persistently sad, devoid of pleasure in activities she once enjoyed, and having difficulty concentrating at work. Additionally, she has had thoughts about her own worthlessness and death.
+
+Past Medical History (PMH):
+The patient has a history of hypertension, managed with lisinopril 20 mg daily. There is no record of previous psychiatric treatment or hospitalization for depressive symptoms. She denies any substance use issues or significant medical comorbidities affecting mood.
+
+Medications:
+Lisinopril 20 mg once daily (for hypertension).
+
+Family History (FH):
+The patient's family history reveals a maternal aunt with a diagnosed major depressive disorder, but no other psychiatric conditions among first-degree relatives.
+
+Social History (SH):
+Amara Okafor is divorced and lives alone. She works as an accountant in a private firm. Recently, she experienced the loss of her mother due to natural causes.
+
+Physical Examination (PE):
+The patient appears sad and withdrawn during the interview but demonstrates appropriate social skills. Vital signs are within normal limits. There are no acute distress signals noted on physical examination.
+
+Initial Diagnosis:
+Given the patient's history and clinical presentation, a mood disorder is suspected.
+
+Plan (Treatment & Management):
+- Initiate antidepressant therapy with an SSRI, starting at a low dose and titrating up as needed.
+- Prescribe an antidepressant; consider sertraline or escitalopram, given her medical history of hypertension. Monitor blood pressure closely during treatment.
+- Implement psychotherapy, such as cognitive-behavioral therapy (CBT), to address depressive symptoms and help the patient develop coping strategies for life stressors.
+- Schedule a follow-up appointment in two weeks to assess response to initial treatment and adjust medications if necessary.
+- Encourage participation in support groups or group counseling sessions to enhance social support network and provide additional resources.

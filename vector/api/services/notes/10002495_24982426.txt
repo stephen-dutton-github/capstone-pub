@@ -1,0 +1,51 @@
+Patient Information:
+- Patient ID: 10002495
+- Admission ID: 24982426
+- Patient Name: Liam Connor
+- Patient Age: 81 years old
+
+Initial Diagnosis:
+Based on clinical presentation and diagnostic tests, the patient is suspected to have a significant cardiac event involving myocardial injury.
+
+History of Present Illness (HPI):
+Liam Connor, an 81-year-old male, was brought in by ambulance after experiencing severe chest pain for approximately one hour. He describes the pain as sharp, localized to the anterior chest wall, and worsening with movement. The patient also reports shortness of breath and lightheadedness.
+
+Past Medical History (PMH):
+- Hypertension
+- Hyperlipidemia
+- Type 2 Diabetes Mellitus
+- Previous myocardial infarction 10 years ago
+- Status post coronary artery bypass grafting (CABG) at age 71
+
+Medications:
+- Metoprolol succinate 25 mg daily
+- Simvastatin 40 mg daily
+- Insulin glargine for diabetes management
+- Aspirin 81 mg daily
+
+Family History (FH):
+- Father died of myocardial infarction at age 75
+- Mother died from stroke at age 82
+
+Social History (SH):
+- Lives alone, drives occasionally but has reduced mobility due to arthritis
+- Smokes one pack of cigarettes per day for the past 50 years
+- Occasional light alcohol use
+
+Physical Examination (PE):
+- Vital signs: Blood pressure 150/90 mmHg, heart rate 90 bpm, respiratory rate 20 breaths/min, oxygen saturation 94% on room air
+- Chest examination shows no new murmurs or gallops; lungs clear to auscultation bilaterally
+- Cardiac examination reveals a regular rhythm with slight tachycardia; no signs of congestive heart failure
+- Extremities show mild edema in the lower legs consistent with chronic venous insufficiency
+
+Initial Diagnosis:
+The patient's presentation and diagnostic tests suggest an ongoing myocardial injury, characterized by elevated cardiac biomarkers and electrocardiogram changes indicative of ischemia. The differential diagnosis includes acute coronary syndrome.
+
+Plan (Treatment & Management):
+- Admit for close monitoring in the telemetry unit
+- Initiate IV heparin with a continuous infusion
+- Administer sublingual nitroglycerin as needed for chest pain relief
+- Start aspirin 325 mg IV and continue oral aspirin 162 mg daily once stabilized
+- Consider early invasive strategy with cardiac catheterization to evaluate coronary anatomy and perform revascularization if necessary
+- Consult cardiology for further management
+- Educate patient on the importance of smoking cessation and controlling blood pressure and diabetes

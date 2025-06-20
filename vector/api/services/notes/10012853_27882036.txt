@@ -1,0 +1,40 @@
+Patient Information:
+- Patient ID: 10012853
+- Admission ID: 27882036
+- Patient Name: Noor El-Sayed
+- Patient Age: 91 years old
+
+Initial Diagnosis:
+The primary diagnosis for this patient is severe respiratory illness characterized by high fever, productive cough with yellow sputum, and shortness of breath.
+
+History of Present Illness (HPI):
+Noor El-Sayed presented to the emergency department with complaints of increasing difficulty breathing over the past three days. She also reported a persistent, nonproductive cough for two weeks prior to this incident. Recently, she has been experiencing high fever and was unable to keep food down due to nausea.
+
+Past Medical History (PMH):
+Noor El-Sayed has a significant medical history including hypertension, hyperlipidemia, chronic kidney disease stage 3, and osteoarthritis. She is currently on medications for these conditions: ramipril, atorvastatin, furosemide, calcitriol, allopurinol, and diclofenac.
+
+Medications:
+- Ramipril
+- Atorvastatin
+- Furosemide
+- Calcitriol
+- Allopurinol
+- Diclofenac
+
+Family History (FH):
+Her family history is significant for diabetes mellitus in her younger brother and cardiovascular disease in her sister. No known family history of respiratory illness.
+
+Social History (SH):
+Noor El-Sayed lives alone in an assisted living facility, where she has been socially isolated due to COVID-19 restrictions. She does not smoke or consume alcohol regularly. Her last influenza vaccination was one year ago.
+
+Physical Examination (PE):
+Vital signs show a fever of 38.5°C, heart rate of 110 bpm, respiratory rate of 24/min, blood pressure of 90/60 mmHg, and oxygen saturation at 89% on room air. Physical examination revealed diffuse rhonchi on lung auscultation with diminished breath sounds in bilateral lower lobes.
+
+Initial Diagnosis:
+Based on the clinical presentation and laboratory findings, including a positive reverse transcription polymerase chain reaction (RT-PCR) test for SARS-CoV-2, it is likely that Noor El-Sayed has pneumonia due to COVID-19. 
+
+Plan (Treatment & Management):
+The patient will be admitted to an isolation unit in order to prevent the spread of infection within our facility. She will receive supportive care including oxygen supplementation and fluid management. Antiviral treatment with remdesivir will begin promptly following consultation with infectious disease specialists. The team also plans to consult with palliative care due to Noor El-Sayed's advanced age and potential frailty, considering her prognosis given the current COVID-19 pandemic.
+
+Follow-up:
+The patient will be monitored closely for signs of worsening respiratory status or complications from pneumonia, and adjustments to treatment will be made as necessary. Regular updates on her condition will be provided to her primary care physician and family members via phone calls due to ongoing restrictions on in-person visits.

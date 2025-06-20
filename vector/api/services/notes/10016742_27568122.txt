@@ -1,0 +1,43 @@
+Patient Information:
+- Patient ID: 10016742
+- Admission ID: 27568122
+- Patient Name: Grace Mugabe
+- Patient Age: 58
+
+Initial Diagnosis:
+The patient presents with acute onset of febrile illness, dyspnea, and chest discomfort. Vital signs reveal tachypnea and hypoxia.
+
+History of Present Illness (HPI):
+Grace Mugabe, a 58-year-old female, reports a recent history of mild upper respiratory symptoms followed by rapid progression to severe shortness of breath and fever over the past three days. The patient denies any recent travel or close contact with COVID-19 positive individuals but has attended crowded indoor gatherings.
+
+Past Medical History (PMH):
+Notable for hypertension, hyperlipidemia, and a history of chronic obstructive pulmonary disease (COPD). The patient is an ex-smoker with a significant pack-year history. No previous hospitalizations or ICU admissions related to respiratory issues.
+
+Medications:
+Amlodipine 5 mg daily, Atorvastatin 40 mg daily, Salmeterol/Fluticasone inhaler as needed for COPD symptoms, and short-acting beta-agonist rescue inhaler as needed. No antibiotics or antivirals prescribed recently.
+
+Family History (FH):
+Mother died of tuberculosis at age 60; father had diabetes mellitus. Two siblings have hypertension and one has diabetes mellitus.
+
+Social History (SH):
+Lives alone with her cat, enjoys gardening but reports recent decline in physical activity due to COPD symptoms. Works as an office administrator. No known substance abuse or smoking history other than past smoking.
+
+Physical Examination (PE):
+- General: Alert and oriented, dyspneic at rest
+- Respiratory: Tachypnea, fine crackles heard bilaterally, minimal wheezing
+- Cardiovascular: S1 and S2 normal, no murmurs, jugular venous distension present
+- Other systems: Abdomen soft, non-tender; no focal neurological deficits
+
+Initial Diagnosis:
+Based on the clinical presentation, laboratory results, and radiographic findings, a diagnosis of community-acquired pneumonia is suspected. The patient's risk factors for COVID-19 include her attendance at crowded indoor gatherings and her chronic respiratory conditions.
+
+Plan (Treatment & Management):
+- Admit to isolation room with enhanced PPE
+- Initiate broad-spectrum antibiotics for suspected bacterial pneumonia pending culture results
+- Administer supplemental oxygen via nasal cannula, titrating based on oxygen saturation levels
+- Provide supportive care including fluids and antipyretics as needed
+- Arrange for COVID-19 PCR testing and serology panel
+- Consult pulmonology and infectious disease specialists for further management
+- Monitor vital signs and respiratory status closely, with adjustments to treatment plan as necessary
+
+The patient has been informed about the suspected diagnosis and initial management plan. She is advised of the importance of adhering to the treatment regimen and the potential need for a prolonged hospital stay if COVID-19 infection is confirmed.

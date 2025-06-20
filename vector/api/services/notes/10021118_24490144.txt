@@ -1,0 +1,33 @@
+Patient Information:
+- Patient ID: 10021118
+- Admission ID: 24490144
+- Patient Name: Daniel Teshome
+- Patient Age: 62 years old
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of disseminated infection, including systemic signs such as fever, night sweats, and weight loss. The differential diagnosis includes various causes of sepsis or a chronic infectious process.
+
+History of Present Illness (HPI):
+Daniel Teshome, a 62-year-old male, was admitted to the hospital with complaints of persistent cough for three weeks, accompanied by fatigue and anorexia. He reports night sweats for two weeks and a recent unintentional weight loss of approximately 5 kg over one month.
+
+Past Medical History (PMH):
+The patient has a significant history of diabetes mellitus type II, well-controlled hypertension, and hyperlipidemia. No history of any respiratory disease or immunocompromising conditions was reported.
+
+Medications:
+The patient is currently taking metformin for diabetes management, lisinopril for hypertension control, and atorvastatin for hyperlipidemia. 
+
+Family History (FH):
+There is no significant family medical history provided by the patient.
+
+Social History (SH):
+Daniel Teshome is a non-smoker with an occupation as a retired government employee. He denies any recent travel or contact with sick individuals.
+
+Physical Examination:
+On admission, the patient appeared tired and dehydrated. Vital signs included a fever of 38°C, tachycardia at 100 beats per minute, and mild hypoxemia. Respiratory examination revealed decreased breath sounds bilaterally without wheezing or crackles. Cardiac examination showed tachycardia but was otherwise unremarkable. No lymphadenopathy was noted.
+
+Plan (Treatment & Management):
+The patient's condition warrants further investigation to clarify the cause of his systemic symptoms and signs. An extensive diagnostic workup has been initiated, including blood cultures, sputum samples for acid-fast bacilli smear and culture, chest X-ray, CT scan of the thorax, and abdominal imaging to rule out other causes such as malignancy or abscesses.
+
+Given the patient's age and comorbid conditions, it is essential to manage his symptoms aggressively while maintaining vigilance for any complications. The infectious disease team has been consulted for further evaluation and potential empiric antimicrobial therapy pending culture results. Continuous monitoring of vital signs, fluid management, and oxygen saturation will be implemented in response to current clinical status.
+
+The patient will receive supportive care including hydration with IV fluids and antipyretics as needed. Nutritional support through a nasogastric tube has been initiated due to anorexia and unintentional weight loss. Regular follow-ups with the multidisciplinary team, including pulmonology and infectious disease specialists, have been scheduled.

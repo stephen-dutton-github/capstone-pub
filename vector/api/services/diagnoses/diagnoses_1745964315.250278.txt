@@ -1,0 +1,173 @@
+subject_id,llm_diagnosis,llm_confidence,icd_code,icd_version,icd_description,multimodal,diagnosis_correct
+10014729,Covid-19,0.87,J1282,10,Pneumonia due to COVID-19,False,False
+10003400,Infection of surgical wound post-bowel resection,0.8,T8131XA,10,"Disruption of external operation (surgical) wound, not elsewhere classified, initial encounter",False,False
+10002428,Unspecified head injury,0.85,S0990XA,10,"Unspecified injury of head, initial encounter",False,True
+10001725,Obstructive Uropathy,0.8,78829,9,Other specified retention of urine,False,False
+10040025,Pneumonia,0.95,J159,10,Unspecified bacterial pneumonia,False,True
+10008454,Traumatic injury to femur with comminuted fractures and extensive soft tissue damage,0.99,82111,9,Open fracture of shaft of femur,False,False
+10020640,Tuberculosis,0.7,A19,10,Miliary tuberculosis,False,True
+10014078,Covid-19,0.95,J1282,10,Pneumonia due to COVID-19,False,False
+10007795,Acute Dehydration,0.85,27651,9,Dehydration,False,True
+10001217,Other,0.65,3240,9,Intracranial abscess,False,False
+10019172,Other,0.85,A19,10,Miliary tuberculosis,False,False
+10007928,Gastrointestinal Bleeding,0.85,53140,9,"Chronic or unspecified gastric ulcer with hemorrhage, without mention of obstruction",False,True
+10019003,Pneumonia,0.85,J1282,10,Pneumonia due to COVID-19,False,True
+10002930,Unspecified Mood Disorder,0.6,F39,10,Unspecified mood [affective] disorder,False,True
+10010471,Covid-19,0.8,J1282,10,Pneumonia due to COVID-19,False,True
+10016742,Pneumonia,0.85,J1282,10,Pneumonia due to COVID-19,False,True
+10012853,Pneumonia,0.85,J1282,10,Pneumonia due to COVID-19,False,False
+10000032,Chronic hepatobiliary disease secondary to hepatitis C infection,0.95,07054,9,Chronic hepatitis C without mention of hepatic coma,False,True
+10005909,Deep Vein Thrombosis (DVT),0.95,I82422,10,Acute embolism and thrombosis of left iliac vein,False,True
+10019568,Other,0.75,A19,10,Miliary tuberculosis,False,False
+10020187,Tuberculosis,0.8,A19,10,Miliary tuberculosis,False,True
+10016810,Covid-19,0.95,J1282,10,Pneumonia due to COVID-19,False,True
+10021312,Other,0.7,A19,10,Miliary tuberculosis,False,False
+10006580,Unspecified neoplastic process affecting both nervous system (likely central) and endocrine glands (suggestive of hyperthyroidism),0.7,2397,9,Neoplasm of unspecified nature of endocrine glands and other parts of nervous system,False,True
+10010867,Covid-19,0.85,J1282,10,Pneumonia due to COVID-19,False,True
+10020786,Tuberculosis,0.8,A19,10,Miliary tuberculosis,False,True
+10020306,Other,0.75,A19,10,Miliary tuberculosis,False,False
+10023239,Tuberculosis,0.75,A19,10,Miliary tuberculosis,False,True
+10018328,Pneumonia,0.8,J1282,10,Pneumonia due to COVID-19,False,True
+10008287,Vascular Malformation Intracranial Multiple Nodular Lesions,0.8,D1802,10,Hemangioma of intracranial structures,False,False
+10015272,Pneumonia,0.8,J1282,10,Pneumonia due to COVID-19,False,False
+10022281,Other,0.8,A19,10,Miliary tuberculosis,False,False
+10024043,Other,0.8,A19,10,Miliary tuberculosis,False,False
+10005348,Aortic Valve Disorder,0.9,4241,9,Aortic valve disorders,False,True
+10025612,Pneumonia,0.85,J159,10,Unspecified bacterial pneumonia,False,True
+10003046,Gastrointestinal Malignancy,0.8,1505,9,Malignant neoplasm of lower third of esophagus,False,True
+10021666,Pneumonia,0.75,A19,10,Miliary tuberculosis,False,False
+10018423,Covid-19,0.95,J1282,10,Pneumonia due to COVID-19,False,False
+10025463,Other,0.65,A19,10,Miliary tuberculosis,False,False
+10025463,Other,0.85,A19,10,Miliary tuberculosis,False,False
+10017492,Pneumonia,0.85,J1282,10,Pneumonia due to COVID-19,False,True
+10004422,Ischemic Heart Disease,0.8,41401,9,Coronary atherosclerosis of native coronary artery,False,True
+10011398,Pneumonia,0.75,J1282,10,Pneumonia due to COVID-19,False,False
+10021938,Tuberculosis,0.8,A19,10,Miliary tuberculosis,False,True
+10009628,Covid-19,0.85,J1282,10,Pneumonia due to COVID-19,False,True
+10004457,Myocardial Ischemia,0.85,I25110,10,Atherosclerotic heart disease of native coronary artery with unstable angina pectoris,False,True
+10015860,Covid-19,0.85,J1282,10,Pneumonia due to COVID-19,False,True
+10021487,Tuberculosis,0.85,A19,10,Miliary tuberculosis,False,True
+10013049,Pneumonia,0.6,J1282,10,Pneumonia due to COVID-19,False,True
+10026255,Pneumonia,0.95,J159,10,Unspecified bacterial pneumonia,False,True
+10026255,Pneumonia,0.85,J159,10,Unspecified bacterial pneumonia,False,True
+10023771,Tuberculosis,0.85,A19,10,Miliary tuberculosis,False,True
+10023117,Tuberculosis,0.87,A19,10,Miliary tuberculosis,False,True
+10022041,Pneumonia,0.7,A19,10,Miliary tuberculosis,False,False
+10005348,Aortic Valve Disorder,0.9,4241,9,Aortic valve disorders,False,True
+10009035,Pneumonia,0.85,J1282,10,Pneumonia due to COVID-19,False,True
+10018081,Pneumonia,0.85,J1282,10,Pneumonia due to COVID-19,False,True
+10014354,Pneumonia,0.85,J1282,10,Pneumonia due to COVID-19,False,True
+10022880,Tuberculosis,0.85,A19,10,Miliary tuberculosis,False,True
+10004720,Pneumonia,0.85,J690,10,Pneumonitis due to inhalation of food and vomit,False,False
+10019385,Tuberculosis,0.83,A19,10,Miliary tuberculosis,False,True
+10026406,Pneumonia,0.85,J159,10,Unspecified bacterial pneumonia,False,True
+10026406,Pneumonia,0.75,J159,10,Unspecified bacterial pneumonia,False,True
+10026406,Pneumonia,0.75,J159,10,Unspecified bacterial pneumonia,False,True
+10007818,Chronic Liver Disease,0.95,K7469,10,Other cirrhosis of liver,False,True
+10020740,Tuberculosis,0.9,A19,10,Miliary tuberculosis,False,True
+10004235,Other,0.75,78062,9,Postprocedural fever,False,False
+10022017,Tuberculosis,0.98,A19,10,Miliary tuberculosis,False,True
+10002495,Myocardial Injury,0.85,I214,10,Non-ST elevation (NSTEMI) myocardial infarction,False,True
+10018845,Covid-19,0.8,J1282,10,Pneumonia due to COVID-19,False,True
+10020944,Tuberculosis,0.85,A19,10,Miliary tuberculosis,False,True
+10016150,Covid-19,0.8,J1282,10,Pneumonia due to COVID-19,False,True
+10005866,Perforated Peptic Ulcer,0.85,K265,10,Chronic or unspecified duodenal ulcer with perforation,False,True
+10026354,Pneumonia,0.85,J159,10,Unspecified bacterial pneumonia,False,True
+10026354,Pneumonia,0.8,J159,10,Unspecified bacterial pneumonia,False,True
+10019917,Tuberculosis,0.99,A19,10,Miliary tuberculosis,False,True
+10019777,Tuberculosis,0.9,A19,10,Miliary tuberculosis,False,True
+10005817,Pneumonia,0.85,J9621,10,Acute and chronic respiratory failure with hypoxia,False,False
+10009049,Covid-19,0.85,J1282,10,Pneumonia due to COVID-19,False,True
+10015931,Pneumonia,0.85,J1282,10,Pneumonia due to COVID-19,False,True
+10006053,Hepatic Encephalopathy,0.95,5722,9,Hepatic encephalopathy,False,True
+10012552,Pneumonia,0.85,J1282,10,Pneumonia due to COVID-19,False,True
+10004733,Altered mental status of unclear etiology,0.75,34839,9,Other encephalopathy,False,True
+10021118,Other,0.42,A19,10,Miliary tuberculosis,False,False
+10018501,Other,0.8,J1282,10,Pneumonia due to COVID-19,False,False
+10007058,Acute Coronary Syndrome,0.95,I214,10,Non-ST elevation (NSTEMI) myocardial infarction,False,True
+10014729,Covid-19,0.5059,J1282,10,Pneumonia due to COVID-19,True,True
+10003400,Other,0.0,T8131XA,10,"Disruption of external operation (surgical) wound, not elsewhere classified, initial encounter",True,False
+10002428,Unspecified head injury,1.0,S0990XA,10,"Unspecified injury of head, initial encounter",True,True
+10001725,Obstructive Uropathy,1.0,78829,9,Other specified retention of urine,True,False
+10040025,Pneumonia,0.0,J159,10,Unspecified bacterial pneumonia,True,True
+10008454,Severe traumatic injury to the femur with comminuted fractures and extensive soft tissue damage,1.0,82111,9,Open fracture of shaft of femur,True,False
+10020640,Systemic granulomatous disease,0.5273,A19,10,Miliary tuberculosis,True,False
+10014078,Covid-19,0.5195,J1282,10,Pneumonia due to COVID-19,True,True
+10007795,Acute Dehydration,1.0,27651,9,Dehydration,True,True
+10001217,Central nervous system infection with possible intracranial pathology,0.0,3240,9,Intracranial abscess,True,False
+10019172,Opportunistic infection secondary to immunosuppression,0.53,A19,10,Miliary tuberculosis,True,False
+-1,skipped,0.0,skipped,skipped,skipped,False,False
+10019003,Tuberculosis,0.53,J1282,10,Pneumonia due to COVID-19,True,False
+10002930,unspecified mood disorder,1.0,F39,10,Unspecified mood [affective] disorder,True,True
+10010471,Covid-19,0.5098,J1282,10,Pneumonia due to COVID-19,True,True
+10016742,Covid-19,0.5,J1282,10,Pneumonia due to COVID-19,True,True
+10012853,Covid-19,0.5,J1282,10,Pneumonia due to COVID-19,True,True
+10000032,Chronic hepatobiliary disease secondary to hepatitis C infection,1.0,07054,9,Chronic hepatitis C without mention of hepatic coma,True,True
+10005909,Acute Thromboembolic Event,1.0,I82422,10,Acute embolism and thrombosis of left iliac vein,True,True
+10019568,Other,0.5371,A19,10,Miliary tuberculosis,True,False
+10020187,Tuberculosis,0.5352,A19,10,Miliary tuberculosis,True,True
+-1,skipped,0.0,skipped,skipped,skipped,False,False
+10021312,Disseminated granulomatous disease,0.53,A19,10,Miliary tuberculosis,True,True
+10006580,Unspecified neoplastic process affecting both neurological and endocrine systems,0.0,2397,9,Neoplasm of unspecified nature of endocrine glands and other parts of nervous system,True,True
+10010867,Covid-19,0.5254,J1282,10,Pneumonia due to COVID-19,True,True
+10020786,Other,0.5488,A19,10,Miliary tuberculosis,True,False
+10020306,Other,0.5312,A19,10,Miliary tuberculosis,True,False
+10023239,Tuberculosis,0.5234,A19,10,Miliary tuberculosis,True,True
+10018328,Covid-19,0.5488,J1282,10,Pneumonia due to COVID-19,True,True
+10008287,Vascular malformation affecting multiple intracranial structures,1.0,D1802,10,Hemangioma of intracranial structures,True,False
+10015272,Pneumonia,0.79,J1282,10,Pneumonia due to COVID-19,True,True
+10022281,Other,0.5469,A19,10,Miliary tuberculosis,True,False
+10024043,Atypical pneumonia,0.5254,A19,10,Miliary tuberculosis,True,False
+10005348,Aortic Valve Disorder,0.99,4241,9,Aortic valve disorders,True,True
+10025612,Covid-19,0.543,J159,10,Unspecified bacterial pneumonia,True,False
+10003046,Gastrointestinal Malignancy,0.0,1505,9,Malignant neoplasm of lower third of esophagus,True,True
+10021666,Other,0.5332,A19,10,Miliary tuberculosis,True,False
+10018423,Covid-19,0.5059,J1282,10,Pneumonia due to COVID-19,True,True
+-1,skipped,0.0,skipped,skipped,skipped,False,False
+10025463,Other,0.8,A19,10,Miliary tuberculosis,True,False
+10017492,Tuberculosis,0.5078,J1282,10,Pneumonia due to COVID-19,True,False
+10004422,Ischemic heart disease,1.0,41401,9,Coronary atherosclerosis of native coronary artery,True,True
+10011398,Severe Viral Pneumonia complicated by possible secondary bacterial infection,0.5,J1282,10,Pneumonia due to COVID-19,True,False
+10021938,Disseminated Infectious Process,0.541,A19,10,Miliary tuberculosis,True,True
+10009628,Pneumonia,0.92,J1282,10,Pneumonia due to COVID-19,True,True
+10004457,myocardial ischemia,1.0,I25110,10,Atherosclerotic heart disease of native coronary artery with unstable angina pectoris,True,True
+10015860,Covid-19,0.5273,J1282,10,Pneumonia due to COVID-19,True,True
+10021487,Tuberculosis-like disease,0.5,A19,10,Miliary tuberculosis,True,False
+10013049,Covid-19,0.5,J1282,10,Pneumonia due to COVID-19,True,True
+10026255,Pneumonia,0.0,J159,10,Unspecified bacterial pneumonia,True,True
+10026255,Pneumonia,0.5352,J159,10,Unspecified bacterial pneumonia,True,True
+10023771,Tuberculosis,0.0,A19,10,Miliary tuberculosis,True,True
+10023117,Disseminated infection,0.5,A19,10,Miliary tuberculosis,True,True
+10022041,Pneumonia,0.84,A19,10,Miliary tuberculosis,True,False
+10005348,aortic valve disorder,0.95,4241,9,Aortic valve disorders,True,True
+10009035,Covid-19,0.5,J1282,10,Pneumonia due to COVID-19,True,True
+10018081,Tuberculosis,0.56,J1282,10,Pneumonia due to COVID-19,True,False
+10014354,Covid-19,0.541,J1282,10,Pneumonia due to COVID-19,True,True
+10022880,Tuberculosis,0.5352,A19,10,Miliary tuberculosis,True,True
+10004720,Aspiration Pneumonia,1.0,J690,10,Pneumonitis due to inhalation of food and vomit,True,True
+10019385,Other,0.541,A19,10,Miliary tuberculosis,True,False
+10026406,Pneumonia,0.8,J159,10,Unspecified bacterial pneumonia,True,True
+10026406,Pneumonia,0.5,J159,10,Unspecified bacterial pneumonia,True,True
+10026406,Pneumonia,0.0,J159,10,Unspecified bacterial pneumonia,True,True
+10007818,chronic liver disease,1.0,K7469,10,Other cirrhosis of liver,True,True
+10020740,Tuberculosis,0.0,A19,10,Miliary tuberculosis,True,True
+10004235,Transient inflammatory response,0.0,78062,9,Postprocedural fever,True,False
+10022017,Tuberculosis,0.5352,A19,10,Miliary tuberculosis,True,True
+10002495,Acute Coronary Syndrome,0.9,I214,10,Non-ST elevation (NSTEMI) myocardial infarction,True,True
+10018845,Covid-19,0.5098,J1282,10,Pneumonia due to COVID-19,True,True
+10020944,Tuberculosis,0.5391,A19,10,Miliary tuberculosis,True,True
+10016150,Covid-19,0.5234,J1282,10,Pneumonia due to COVID-19,True,True
+10005866,Perforated peptic ulcer,1.0,K265,10,Chronic or unspecified duodenal ulcer with perforation,True,True
+10026354,Pneumonia,0.85,J159,10,Unspecified bacterial pneumonia,True,True
+10026354,Pneumonia,0.0,J159,10,Unspecified bacterial pneumonia,True,True
+10019917,Tuberculosis,0.5293,A19,10,Miliary tuberculosis,True,True
+10019777,Other,0.5293,A19,10,Miliary tuberculosis,True,False
+10005817,COPD exacerbation with possible pneumonia,0.99,J9621,10,Acute and chronic respiratory failure with hypoxia,True,False
+10009049,Covid-19,0.51,J1282,10,Pneumonia due to COVID-19,True,True
+10015931,Covid-19,0.5352,J1282,10,Pneumonia due to COVID-19,True,True
+10006053,Altered mental status due to hepatic encephalopathy,1.0,5722,9,Hepatic encephalopathy,True,True
+10012552,Pneumonia,0.543,J1282,10,Pneumonia due to COVID-19,True,True
+10004733,Altered mental status of unclear etiology,0.0,34839,9,Other encephalopathy,True,True
+10021118,Covid-19,0.541,A19,10,Miliary tuberculosis,True,False
+10018501,Tuberculosis,0.5293,J1282,10,Pneumonia due to COVID-19,True,False
+10007058,Acute Coronary Syndrome,1.0,I214,10,Non-ST elevation (NSTEMI) myocardial infarction,True,True

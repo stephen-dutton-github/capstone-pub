@@ -1,0 +1,34 @@
+Patient Information:
+ID: 10014354
+Name: Min-Jun Kim
+Age: 60 years old
+
+Initial Diagnosis:
+The patient presents with symptoms consistent with severe lower respiratory tract infection, characterized by fever, cough, dyspnea on exertion, and bilateral infiltrates on chest radiograph.
+
+History of Present Illness (HPI):
+Min-Jun Kim is a 60-year-old male who has been experiencing worsening shortness of breath over the past five days. He also reports intermittent fevers with chills, productive cough, and fatigue. His symptoms have progressed despite taking over-the-counter medications for cold-like symptoms.
+
+Past Medical History (PMH):
+The patient has a history of hypertension, hyperlipidemia, and type 2 diabetes mellitus. He is currently on metformin 500 mg twice daily and atorvastatin 20 mg once daily. No recent travel or close contact with COVID-19-positive individuals reported.
+
+Medications:
+Current medications include metformin 500 mg twice daily and atorvastatin 20 mg once daily.
+
+Family History (FH):
+Non-contributory for respiratory diseases or other relevant conditions.
+
+Social History (SH):
+The patient is a retired engineer, lives alone, smokes one pack of cigarettes per day since the age of 40, and consumes moderate amounts of alcohol socially. No recent exposure to livestock or potential zoonotic infections reported.
+
+Physical Examination (PE):
+Vital signs show tachypnea with an oxygen saturation of 88% on room air, heart rate of 110 bpm, and blood pressure of 120/80 mmHg. Lungs are clear to auscultation bilaterally at rest but reveal fine crackles upon deep inspiration. The patient appears fatigued but alert and oriented.
+
+Initial Diagnosis:
+Severe respiratory tract infection complicated by hypoxemia. Differential diagnoses include bacterial pneumonia, viral pneumonia (specific etiologic agent pending further testing), and other infectious causes such as tuberculosis or fungal infections.
+
+Plan (Treatment & Management):
+Initiate supportive care with supplemental oxygen via nasal cannula to maintain saturation above 90%. Administer IV fluids for hydration and manage fever with acetaminophen. Initiate broad-spectrum antibiotics pending culture results, considering the high risk of secondary bacterial infection in severe respiratory illness. Arrange for chest CT scan to evaluate extent of disease and potential complications. Consult pulmonology for further assessment and possible ICU transfer if hypoxemia worsens or other complications develop.
+
+Additional Testing:
+Order a complete blood count (CBC), C-reactive protein (CRP), procalcitonin, D-dimer, and respiratory viral panel including COVID-19 to guide further management. Monitor vital signs closely and reassess oxygenation frequently.

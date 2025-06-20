@@ -1,0 +1,32 @@
+Patient Information:
+- Patient ID: 10020306
+- Admission ID: 23052851
+- Patient Name: Wei Fang
+- Patient Age: 74 years old
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of an infectious process, characterized by persistent low-grade fever, night sweats, and weight loss. The differential diagnosis includes various opportunistic infections due to the patient's immunocompromised state.
+
+History of Present Illness (HPI):
+Wei Fang, a 74-year-old female, reports experiencing intermittent fever over the past three weeks, worsening night sweats for two months, and unintentional weight loss of approximately 10 pounds over the same period. She has no localizing symptoms such as cough or chest pain.
+
+Past Medical History (PMH):
+The patient has a significant medical history including diabetes mellitus type II, treated with insulin; hypertension, managed with lisinopril; chronic kidney disease stage III, and recurrent urinary tract infections managed conservatively. She also reports a long-standing history of rheumatoid arthritis, controlled with methotrexate.
+
+Medications:
+The patient is currently on insulin for diabetes management, lisinopril for hypertension, and methotrexate for rheumatoid arthritis. No recent changes to her medication regimen have been reported.
+
+Family History (FH):
+No significant family medical history was noted during the interview.
+
+Social History (SH):
+Wei Fang resides in a senior living community with limited mobility. She has no known exposures to infectious diseases recently, and her dietary intake includes a standard care facility menu without unusual or exotic food items.
+
+Physical Examination (PE):
+Vital signs: Temperature 99°F, blood pressure 120/80 mm Hg, pulse 78 bpm, respiratory rate 16 breaths per minute. General examination shows pallor but no cyanosis, clubbing, or lymphadenopathy. Thoracic exam reveals diminished breath sounds bilaterally, with no crackles or wheezing noted on auscultation. Abdomen soft and non-tender; no organomegaly detected. Neurological exam normal.
+
+Initial Diagnosis:
+Given the patient's immunocompromised state due to chronic conditions like diabetes mellitus type II, hypertension, chronic kidney disease stage III, rheumatoid arthritis, and use of immunosuppressive medications in the form of methotrexate, this presentation is suggestive of an opportunistic infection, such as disseminated fungal or bacterial infections. The differential diagnosis includes tuberculosis, given its prevalence among elderly populations and potential for atypical presentations.
+
+Plan (Treatment & Management):
+Initiate broad-spectrum antibiotics and antifungals while awaiting culture results from sputum samples and blood cultures to identify the causative agent. Consult infectious disease for further evaluation and management based on culture results and ongoing symptoms. Continue current medications, monitor vital signs closely, and ensure hydration is adequate. Educate patient and facility staff regarding transmission precautions due to potential contagious nature of her illness.

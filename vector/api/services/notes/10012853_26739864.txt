@@ -1,0 +1,52 @@
+Patient Information:
+- Patient ID: 10012853
+- Admission ID: 26739864
+- Patient Name: Noor El-Sayed
+- Patient Age: 91
+
+Initial Diagnosis:
+- Severe respiratory infection with fever, cough, and shortness of breath.
+
+History of Present Illness (HPI):
+Noor El-Sayed, a 91-year-old female, presented to the emergency department with complaints of fever, nonproductive cough, and worsening dyspnea over the past three days. The patient reported no recent travel history but has been living in close quarters with a family member who recently tested positive for an upper respiratory infection.
+
+Past Medical History (PMH):
+- Hypertension
+- Atrial fibrillation
+- Chronic obstructive pulmonary disease (COPD)
+- Previous pneumonia two months ago
+
+Medications:
+- Lisinopril 10 mg daily
+- Furosemide 20 mg twice daily as needed for fluid overload
+- Warfarin 5 mg daily with INR monitoring
+- Albuterol inhaler as needed for COPD symptoms
+- Azithromycin completed two weeks ago following recent pneumonia
+
+Family History (FH):
+- Mother died of influenza at age 95
+- Father died of myocardial infarction at age 78
+
+Social History (SH):
+- Resides in a nursing home with limited mobility and requires assistance for daily activities
+- No smoking history
+- consumes one glass of red wine weekly
+
+Physical Examination:
+- General appearance: Alert, oriented, but appears fatigued.
+- Vital signs: Temperature 38.5°C, pulse 95 bpm, respiratory rate 24/min, blood pressure 120/80 mmHg, oxygen saturation on room air at 88%
+- Lungs: Bilateral crackles noted in both lower lobes
+- Cardiovascular: Regular rhythm, no murmurs, gallops, or rubs.
+- Abdomen: Soft, non-tender, no organomegaly.
+
+Initial Diagnosis:
+Based on the patient's symptoms and physical examination findings, an initial diagnosis of severe respiratory infection is made. Given her age and comorbidities, it is essential to consider potential viral etiologies given her close contact with a recently infected family member.
+
+Plan (Treatment & Management):
+- Administer oxygen therapy via nasal cannula at 2 L/min
+- Initiate intravenous antibiotics: Vancomycin 1 g every 12 hours and Ceftriaxone 2 grams daily
+- Order chest X-ray to evaluate for pneumonia
+- Monitor vital signs closely, particularly oxygen saturation levels
+- Consider testing for COVID-19 given close contact with an infected family member, if available
+- Consult infectious disease for further management based on test results and patient's clinical status
+- Continue supportive care including hydration, pain control, and rest.

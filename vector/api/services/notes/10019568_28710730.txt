@@ -1,0 +1,33 @@
+Patient Information:
+- Patient ID: 10019568
+- Admission ID: 28710730
+- Patient Name: Ada Nowak
+- Patient Age: 59 years old
+
+Initial Diagnosis:
+The patient presents with systemic symptoms and radiographic findings suggestive of a disseminated infectious process affecting multiple organ systems.
+
+History of Present Illness (HPI):
+Ada Nowak, a 59-year-old female, reports experiencing low-grade fever for two weeks. She also describes progressive fatigue and night sweats over the same duration. Recently, she has developed cough and shortness of breath, worsening with exertion. She denies any recent travel or contact with individuals known to have infectious diseases.
+
+Past Medical History (PMH):
+Ada Nowak has a history of diabetes mellitus type 2 managed with metformin and hypertension treated with lisinopril. There is no prior history of tuberculosis exposure or known drug-resistant strains.
+
+Medications:
+- Metformin 500 mg twice daily
+- Lisinopril 10 mg once daily
+
+Family History (FH):
+Ada Nowak's family history includes a parent who had pulmonary tuberculosis many years ago, treated with standard therapy. There is no recent reported case of infectious diseases among her immediate relatives.
+
+Social History (SH):
+Ada Nowak lives alone and works as an administrative assistant in a non-clinical setting. She denies smoking or alcohol use. She reports that she follows basic hygiene practices but may have less frequent health check-ups due to the current pandemic restrictions.
+
+Physical Examination (PE):
+Vital signs show a low-grade fever and tachypnea with oxygen saturation at 90% on room air. Auscultation reveals bilateral crackles in both lung fields, more pronounced in the lower lobes. No lymphadenopathy or other abnormalities noted in the neck, chest, or abdomen.
+
+Initial Diagnosis:
+Based on systemic symptoms, radiographic findings of miliary opacities across multiple thoracic and abdominal segments, and laboratory results indicating disseminated granulomatous disease, a diagnosis of widespread infectious granulomatoses is tentatively made. The differential includes disseminated fungal infections such as pneumocystosis or cryptococcosis, but other possibilities include atypical mycobacterial infection.
+
+Plan (Treatment & Management):
+Admission to an isolation room with contact precautions due to suspected contagious nature of the disease process. Initiate broad-spectrum antibiotics pending further diagnostic workup and culture results. Additional testing for fungal infections, including bronchoscopy and BAL if clinically indicated. Consult infectious diseases for further evaluation and management based on final diagnosis. Educate patient about potential diagnoses and treatment strategies, ensuring understanding and compliance with interventions. Monitor vital signs closely due to current respiratory compromise and fever.

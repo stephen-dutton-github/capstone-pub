@@ -1,0 +1,39 @@
+Patient Information:
+- Patient ID: 10019003
+- Admission ID: 26529390
+- Patient Name: Amir Ahmadi
+- Patient Age: 65
+
+Initial Diagnosis:
+- Acute respiratory distress syndrome with hypoxia and multiorgan dysfunction
+
+History of Present Illness (HPI):
+- The patient presented to the emergency department with symptoms of high-grade fever, productive cough, and worsening dyspnea over five days. He reported recent exposure to a known COVID-19-positive individual.
+
+Past Medical History (PMH):
+- No history of chronic lung disease or immunocompromising conditions
+- Well-controlled type 2 diabetes mellitus on metformin
+- Hypertension managed with lisinopril
+
+Medications:
+- Metformin 500 mg twice daily
+- Lisinopril 10 mg daily
+
+Family History (FH):
+- No significant family history of respiratory or infectious diseases reported
+
+Social History (SH):
+- Non-smoker, lives alone, retired, and socially isolated due to COVID-19 restrictions
+
+Physical Examination (PE):
+- Vital signs: Temperature 39.2°C, heart rate 110 bpm, blood pressure 105/60 mmHg, oxygen saturation on room air 88%, respiratory rate 24 breaths per minute
+- Respiratory exam: Bilateral diffuse crackles, use of accessory muscles for breathing, increased resonance to percussion over both lung fields
+- Cardiovascular exam: Tachycardic, no murmurs or gallop rhythms
+- Other systems: Normal abdominal and neurological exams
+
+Plan (Treatment & Management):
+- Initiate empiric antibiotic therapy targeting community-acquired pneumonia pathogens
+- Start high-flow nasal cannula oxygen for respiratory support
+- Consult infectious disease for potential COVID-19 testing and management
+- Monitor hemodynamic status closely, given the patient's age and comorbidities
+- Educate patient on infection control measures to prevent transmission to healthcare workers

@@ -1,0 +1,39 @@
+Patient Information:
+- Patient ID: 10015931
+- Admission ID: 24420677
+- Patient Name: Muhammad Iqbal
+- Patient Age: 87 years old
+
+Initial Diagnosis:
+The patient presents with acute respiratory symptoms and fever, which are suggestive of a lower respiratory tract infection.
+
+History of Present Illness (HPI):
+Muhammad Iqbal is an 87-year-old male who has been experiencing progressively worsening cough for the past three days. He also reports having a high-grade fever, chills, and shortness of breath. The patient denies any history of smoking or significant alcohol use.
+
+Past Medical History (PMH):
+The patient has a history of hypertension, hyperlipidemia, and type 2 diabetes mellitus, all well-managed on his current medications. He also had a mild stroke two years ago, for which he completed rehabilitation.
+
+Medications:
+- Lisinopril 20 mg daily
+- Amlodipine 10 mg daily
+- Atorvastatin 80 mg daily
+- Metformin 500 mg twice daily
+- Aspirin 81 mg daily
+
+Family History (FH):
+His wife, two sons, and a daughter are all currently healthy. There is no known family history of similar illnesses.
+
+Social History (SH):
+The patient lives independently with his wife in a senior community with regular housekeeping services. He spends most of his time indoors due to mobility issues secondary to his previous stroke.
+
+Physical Examination (PE):
+- Vital signs: Temperature 38.5°C, pulse 90 bpm, BP 130/80 mm Hg
+- Respiratory: Bilateral coarse crackles noted in the lung bases, particularly on the right side.
+- Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+- Abdominal: Soft, non-tender, with no organomegaly.
+
+Initial Diagnosis:
+Based on clinical findings, a severe respiratory infection is suspected. Laboratory tests are pending to confirm diagnosis.
+
+Plan (Treatment & Management):
+Initiate broad-spectrum antibiotics and antivirals after lab results are available. Provide oxygen supplementation as needed based on saturation levels. Ensure hydration with IV fluids. Monitor vital signs closely. Educate the patient and family about the importance of compliance with treatment plans. Arrange for a social work consult to assess need for additional home care services.

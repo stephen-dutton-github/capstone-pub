@@ -1,0 +1,32 @@
+Patient Information:
+- Patient ID: 10023117
+- Admission ID: 29858644
+- Patient Name: Hassan Bouazizi
+- Patient Age: 53 years old
+
+Initial Diagnosis:
+The patient presents with symptoms and findings suggestive of disseminated infection. The clinical presentation includes high-grade fever, night sweats, weight loss, and bilateral pulmonary infiltrates.
+
+History of Present Illness (HPI):
+Hassan Bouazizi, a 53-year-old male, reports experiencing fevers up to 102°F for the past month, accompanied by profuse night sweats and unintentional weight loss over three months. He also describes persistent coughing with yellowish sputum production for approximately two weeks. The patient denies any recent travel or exposure to tuberculosis.
+
+Past Medical History (PMH):
+The patient has a history of poorly controlled type 2 diabetes mellitus, hypertension, and chronic kidney disease stage III. He was previously admitted in January for community-acquired pneumonia complicated by aspiration pneumonitis. No history of tuberculosis or immunosuppressive therapy.
+
+Medications:
+Current medications include metformin, lisinopril, atorvastatin, and aspirin. He has been non-compliant with his diabetes medication regimen due to financial constraints.
+
+Family History (FH):
+There is no family history of tuberculosis or other relevant conditions.
+
+Social History (SH):
+The patient lives alone in a one-bedroom apartment. He works as an Uber driver and reports frequent exposure to different passengers but denies any recent travel or contact with known cases of tuberculosis.
+
+Physical Examination (PE):
+Vital signs show tachycardia, normotension, and hypoxemia. The patient appears lethargic but is alert and oriented. Respiratory examination reveals fine crackles bilaterally in the lungs. No lymphadenopathy or skin lesions are noted. Laboratory tests indicate mild anemia and elevated inflammatory markers.
+
+Initial Diagnosis:
+Based on clinical presentation, imaging studies, and laboratory results, a differential diagnosis includes severe pneumonia complicated by sepsis versus disseminated infection secondary to an opportunistic pathogen. Further diagnostic workup is required to clarify the etiology.
+
+Plan (Treatment & Management):
+Initiate empiric antibiotic therapy for suspected community-acquired pneumonia while awaiting further diagnostic results. Consult pulmonology and infectious disease for possible tuberculosis given the atypical presentation, risk factors, and imaging findings. Ensure hydration and nutritional support due to recent weight loss and ongoing fever. Provide diabetes education focusing on medication adherence and lifestyle modifications to improve glycemic control. Arrange for social work consultation to address housing concerns and financial barriers to care. Monitor vital signs closely and repeat blood cultures if no improvement is observed within 48 hours of antibiotic initiation.

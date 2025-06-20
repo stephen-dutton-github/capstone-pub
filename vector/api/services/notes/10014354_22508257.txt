@@ -1,0 +1,29 @@
+Patient Information:
+ID: 10014354, Name: Min-Jun Kim, Age: 60
+
+Initial Diagnosis:
+Likely viral respiratory infection with complications of acute respiratory distress and possible secondary bacterial infection.
+
+History of Present Illness (HPI):
+Mr. Kim presented to the emergency department with complaints of fever for three days, productive cough for two days, dyspnea at rest, and worsening fatigue over the past week. He reports no improvement despite antipyretics and symptomatic treatment at home. He also mentions recent contact with an individual diagnosed with a highly contagious respiratory illness.
+
+Past Medical History (PMH):
+Mr. Kim has a history of hypertension, hyperlipidemia, and chronic obstructive pulmonary disease (COPD), currently managed with losartan, simvastatin, and tiotropium, respectively. No recent illnesses or hospitalizations noted.
+
+Medications:
+Currently taking losartan 50 mg daily, simvastatin 20 mg daily, and tiotropium 18 mcg daily. No antibiotics prescribed pre-admission.
+
+Family History (FH):
+Father deceased from lung cancer; mother survived breast cancer. No other relevant family medical history reported.
+
+Social History (SH):
+Married with two adult children. Recently traveled internationally for work but returned over a month ago. Lives alone and denies smoking or alcohol use. Works as an accountant in a shared office space.
+
+Physical Examination (PE):
+Vital signs include temperature of 39°C, blood pressure 140/90 mmHg, heart rate 110 bpm, respiratory rate 28/min, and oxygen saturation at 88% on room air. Physical examination reveals diffuse rhonchi and bilateral crackles in lung fields. Abdomen soft, non-tender, no organomegaly. Cardiovascular examination unremarkable.
+
+Initial Diagnosis:
+The clinical presentation and risk factors suggest an acute viral respiratory infection complicated by acute respiratory distress, likely secondary to a bacterial superinfection given the patient's COPD history and presence of purulent sputum production.
+
+Plan (Treatment & Management):
+Admit for inpatient monitoring and supportive care. Initiate broad-spectrum antibiotics considering potential bacterial pneumonia. Continue current antihypertensives and statins. Provide supplemental oxygen as needed to maintain adequate oxygen saturation levels. Arrange for respiratory therapy consultation given COPD history. Educate patient on isolation precautions due to high transmission risk of his current illness. Discuss the importance of close monitoring given his comorbidities and consider infectious disease consult if no improvement is observed over the next 48 hours.

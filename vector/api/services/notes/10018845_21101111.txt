@@ -1,0 +1,29 @@
+Patient Information:
+Patient ID: 10018845
+Admission ID: 21101111
+Patient Name: Ivan Kuznetsov
+Patient Age: 91 years old
+
+Initial Diagnosis:
+Respiratory failure due to severe pulmonary infection.
+
+History of Present Illness (HPI):
+Mr. Kuznetsov, a 91-year-old male, was admitted with acute respiratory distress, fever, and productive cough. The symptoms began one week ago following an outing in crowded public areas, where he was exposed to multiple individuals not wearing masks. Initially treated as community-acquired pneumonia, his condition rapidly deteriorated leading to hypoxia and subsequent intubation. Laboratory tests revealed elevated inflammatory markers, indicating a severe systemic infection.
+
+Past Medical History (PMH):
+Mr. Kuznetsov has a history of hypertension, diabetes mellitus type 2, coronary artery disease, and chronic obstructive pulmonary disease. He underwent left-ventricular assist device implantation three years ago due to heart failure.
+
+Medications:
+Enoxaparin for prophylaxis against deep vein thrombosis; Norepinephrine for blood pressure support; Furosemide for volume management; Propofol for sedation; Vancomycin and Meropenem for empiric antibiotic therapy.
+ 
+Family History (FH):
+Father died from myocardial infarction at age 85. Mother lived to be 93 with dementia but no respiratory issues.
+
+Social History (SH):
+Resides in a long-term care facility where social distancing measures are inconsistently applied, leading to frequent interactions among residents and staff. He has been experiencing mild cognitive impairment for the past year, affecting his ability to understand and follow safety protocols.
+
+Physical Examination:
+On admission, Mr. Kuznetsov was confused and lethargic with tachypnea (28 breaths per minute), tachycardia (120 beats per minute), blood pressure 100/50 mmHg, and oxygen saturation at 88% on room air. Chest auscultation revealed bilateral lower lobe crackles. Laboratory tests confirmed elevated white cell count and C-reactive protein.
+
+Plan (Treatment & Management):
+Continue supportive care with mechanical ventilation as needed to manage hypoxemia. Continue broad-spectrum antibiotic therapy pending further culture results. Consult infectious disease for potential adjustment based on culture sensitivities. Plan for early consultation with palliative care given his advanced age, comorbidities, and deteriorating condition. Educate nursing staff and facility administration about the importance of adherence to COVID-19 prevention protocols in long-term care facilities.

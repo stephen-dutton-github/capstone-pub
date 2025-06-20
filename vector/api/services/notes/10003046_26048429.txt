@@ -1,0 +1,45 @@
+Patient Information:
+- Patient ID: 10003046
+- Admission ID: 26048429
+- Patient Name: Priya Patel
+- Patient Age: 64 years old
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of a gastrointestinal malignancy, including dysphagia to solids, odynophagia, and unintentional weight loss.
+
+History of Present Illness (HPI):
+Priya Patel, a 64-year-old female, reports experiencing progressive difficulty swallowing solid foods over the past three months. She describes this difficulty as painful and has noted an associated weight loss of approximately 8 pounds in the same timeframe. The patient denies any history of similar symptoms previously.
+
+Past Medical History (PMH):
+- Hypertension managed with lisinopril
+- Hyperlipidemia managed with atorvastatin
+- Non-smoker, no significant alcohol use
+- No family or personal history of gastrointestinal malignancies
+
+Medications:
+- Lisinopril 20 mg daily
+- Atorvastatin 80 mg daily
+
+Family History (FH):
+No reported family history of gastrointestinal malignancies.
+
+Social History (SH):
+The patient is married and has one child. She engages in regular physical activity but reports no significant occupational or recreational exposures that could contribute to her current symptoms.
+
+Physical Examination (PE):
+- General: Alert, oriented, no acute distress
+- HEENT: Normocephalic, atraumatic; oral mucosa normal, no lymphadenopathy
+- Respiratory: Clear to auscultation bilaterally
+- Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops
+- Abdomen: Soft, non-tender, no organomegaly
+- Gastrointestinal: Mild epigastric tenderness, no palpable masses
+
+Initial Diagnosis:
+Given the patient's age, symptoms, and physical examination findings, a gastrointestinal malignancy is strongly suspected. The specific location of this potential cancer appears to be within the lower third of the esophagus based on symptomatology.
+
+Plan (Treatment & Management):
+- Order endoscopy with biopsy of the esophagus
+- Obtain CT scan of the chest and abdomen with contrast to assess for local extension or distant metastases
+- Arrange consultation with gastroenterology for further evaluation and management
+- Continue current medications until further advised by the gastroenterologist
+- Provide supportive care as needed, including pain control and nutritional support

@@ -1,0 +1,35 @@
+Patient Information:
+- Patient ID: 10023117
+- Admission ID: 24244087
+- Patient Name: Hassan Bouazizi
+- Patient Age: 53
+
+Initial Diagnosis:
+The patient presents with systemic symptoms suggestive of a disseminated infectious process, characterized by fever, night sweats, and weight loss over several weeks.
+
+History of Present Illness (HPI):
+Mr. Bouazizi reports a recent history of travel to a country endemic for tuberculosis. He has experienced persistent fever for two months, accompanied by night sweats and unintentional weight loss of 10 kg over the past three months. The patient denies any localizing symptoms such as cough, hemoptysis, or chest pain.
+
+Past Medical History (PMH):
+The patient has no significant past medical history except for hypertension treated with amlodipine. He is not immunocompromised and reports full vaccination status including BCG vaccine received during childhood in his home country.
+
+Medications:
+Amlodipine 5 mg daily for hypertension.
+Additional medications to be considered pending further diagnostic workup.
+
+Family History (FH):
+Father had chronic tuberculosis managed effectively with treatment several years ago. No other relevant family history reported.
+
+Social History (SH):
+The patient is married and has two children. He works as a merchant in international trade. Reports adherence to dietary restrictions due to religious beliefs. Denies alcohol or tobacco use.
+
+Physical Examination (PE):
+Vital signs show tachycardia with heart rate of 110 bpm, blood pressure at 90/60 mmHg, and fever of 38.5°C. General examination reveals pallor, night sweats, and diffuse lymphadenopathy. Respiratory system shows clear to auscultation bilaterally without wheezes or rales. Cardiovascular examination indicates tachycardia but no murmurs detected. Abdominal and neurological examinations are unremarkable.
+
+Initial Diagnosis:
+Given the clinical presentation and travel history, a disseminated infectious process is suspected, potentially secondary to Mycobacterium tuberculosis infection, though not confirmed at this time.
+
+Plan (Treatment & Management):
+Initiate broad-spectrum antibiotics while awaiting culture results. Consider starting anti-tuberculosis therapy if cultures are positive or indicative of TB. Further diagnostic workup includes chest X-ray, CT scan of the chest and abdomen, sputum smear, bronchoscopy with lavage, and lymph node biopsy as indicated by evolving clinical findings. Nutritional support will be implemented to address weight loss. Regular monitoring of vital signs and hydration status is essential.
+
+This note serves as an initial assessment and management plan based on available information at the time of admission. Further updates will be provided as additional diagnostic results become available and treatment plans are adjusted accordingly.

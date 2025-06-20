@@ -1,0 +1,32 @@
+Patient Information:
+- Patient ID: 10023117
+- Admission ID: 28872262
+- Patient Name: Hassan Bouazizi
+- Patient Age: 53 years old
+
+Initial Diagnosis:
+The patient is presenting with severe systemic symptoms, including high-grade fever, night sweats, and generalized fatigue. There are no localizing signs or symptoms indicative of a specific anatomic site.
+
+History of Present Illness (HPI):
+Mr. Bouazizi reports a three-week history of persistent fevers peaking at 104°F and frequent night sweats causing multiple changes of clothing overnight. He describes the sweats as soaking through his shirts and underwear, necessitating immediate dressing changes. Additionally, he has experienced generalized fatigue, worsening over time, which interferes with both his work and personal activities.
+
+Past Medical History (PMH):
+There is no significant past medical history noted in available records. No recent illnesses or infections reported prior to the onset of these symptoms.
+
+Medications:
+No medications have been started or considered for this presentation at this time.
+
+Family History (FH):
+The patient's family history includes some members with chronic respiratory issues, including asthma and COPD. However, no known cases of tuberculosis are documented within the immediate family.
+
+Social History (SH):
+Mr. Bouazizi works as an accountant in a large office building with multiple colleagues. He denies any travel outside of his home country in the past six months or contact with anyone ill during that time. He reports adherence to standard precautions related to COVID-19, including masking and social distancing at work.
+
+Physical Examination (PE):
+Vital signs show tachycardia (heart rate > 100 bpm) and persistent high-grade fever despite antipyretic use. The patient appears lethargic but alert and oriented. There are no focal neurological deficits or abnormal reflexes noted. Lungs are clear to auscultation bilaterally, with no wheezing, rales, or rhonchi. Heart sounds are normal, without murmurs, rubs, or gallops. Abdomen is soft and non-tender; liver and spleen are not palpable. No lymphadenopathy noted.
+
+Initial Diagnosis:
+Given the systemic presentation of high-grade fever, night sweats, generalized fatigue, and no localizing signs, a differential diagnosis includes granulomatous diseases such as endocarditis, sarcoidosis, or an atypical infection like Q fever or histoplasmosis. Further diagnostic workup is necessary to narrow down potential causes.
+
+Plan (Treatment & Management):
+The patient will be started on empiric antimicrobial therapy with IV ceftriaxone and azithromycin while awaiting further diagnostic results. Blood cultures, complete blood count (CBC), basic metabolic panel (BMP), erythrocyte sedimentation rate (ESR), and C-reactive protein (CRP) have been ordered to guide ongoing management. The patient will be monitored closely for any signs of worsening or improvement in symptoms, with adjustments to therapy based on culture results. Further consultations with infectious disease specialists are planned if cultures remain negative or do not provide a definitive diagnosis.

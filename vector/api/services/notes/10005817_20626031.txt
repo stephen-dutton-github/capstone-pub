@@ -1,0 +1,33 @@
+Patient Information:
+- Patient ID: 10005817
+- Admission ID: 20626031
+- Patient Name: Yasmin Khan
+- Patient Age: 66 years old
+
+Initial Diagnosis:
+The primary concern for this patient is an acute coronary syndrome presentation, characterized by chest pain and electrocardiogram (ECG) changes suggestive of myocardial ischemia.
+
+History of Present Illness (HPI):
+Ms. Yasmin Khan, a 66-year-old female, presented to the emergency department with severe retrosternal chest discomfort radiating to her left arm, lasting approximately three hours prior to arrival. She reports no associated symptoms such as shortness of breath or palpitations but describes feeling lightheaded when changing positions.
+
+Past Medical History (PMH):
+The patient has a significant history of hypertension, hyperlipidemia, and diabetes mellitus type 2. She was last seen in the clinic six weeks ago for routine follow-up and blood pressure management with no complications reported at that time.
+
+Medications:
+Ms. Khan is currently on losartan 50 mg daily for hypertension, simvastatin 40 mg nightly for hyperlipidemia, and metformin 500 mg twice daily for diabetes mellitus type 2.
+
+Family History (FH):
+The patient's mother died from a myocardial infarction at age 70. There is no known family history of sudden cardiac death or inherited cardiomyopathies.
+
+Social History (SH):
+Ms. Khan is married and lives with her husband in a residential area. She has two children, both living separately but maintaining contact. She denies any significant social or occupational stressors that might contribute to her current presentation.
+
+Physical Examination:
+- Vital signs: Blood pressure 155/90 mmHg, heart rate 90 bpm, respiratory rate 18 breaths per minute, oxygen saturation 98% on room air.
+- General: Alert and oriented, no acute distress observed.
+- Cardiovascular: Tachycardic, irregular rhythm noted with diffuse S4 gallop. No murmurs or signs of decompensated heart failure detected.
+
+Plan (Treatment & Management):
+The patient will be admitted under the cardiology team for further evaluation. Initiate continuous ECG monitoring and initiate treatment as per acute coronary syndrome protocol including aspirin 325 mg, nitroglycerin infusion to control chest pain, heparin bolus followed by infusion for anticoagulation, beta-blocker therapy (metoprolol), and statin therapy enhancement (atorvastatin).
+Schedule immediate troponin levels and perform an echocardiogram to assess left ventricular function. Consult cardiology for possible revascularization options and initiate secondary prevention measures including lifestyle modifications and ongoing medication adherence support.
+Educate patient on recognizing symptoms of heart attack, importance of compliance with prescribed medications, and regular follow-up appointments.

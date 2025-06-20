@@ -1,0 +1,44 @@
+Patient Information:
+- Patient ID: 10002930
+- Admission ID: 20846853
+- Patient Name: Amara Okafor
+- Patient Age: 48 years old
+
+Initial Diagnosis:
+The patient presents with altered mental status, slurred speech, and ataxia. Vital signs indicate hypoglycemia (blood glucose level: 40 mg/dL), tachycardia (heart rate: 110 bpm), and hypertension (systolic blood pressure: 170 mmHg). 
+
+History of Present Illness (HPI):
+The patient, a known smoker with a history of chronic pancreatitis, was brought to the emergency department by friends who reported that she had consumed an excessive amount of alcohol. She is unable to provide clear details about her activities leading up to admission but acknowledges drinking heavily prior to this event.
+
+Past Medical History (PMH):
+- Chronic pancreatitis
+- Chronic pain management with opioids
+
+Medications:
+- Currently taking oxycodone 20 mg every four hours as needed for chronic pain due to pancreatitis. 
+- No documentation of antacid or enzyme replacement therapy.
+
+Family History (FH):
+No immediate family history of alcohol use disorders reported by the patient. However, the patient expressed concerns about her father's past struggles with substance abuse.
+
+Social History (SH):
+The patient is a social drinker who reported increased consumption over the past week due to stress related to personal and professional issues. She denies any previous episodes requiring medical attention for intoxication but acknowledges binge drinking behavior in college. She lives alone, works as an attorney, and has no current romantic partner.
+
+Physical Examination (PE):
+- General: Appears disheveled and confused.
+- Neurological: Slurred speech, ataxic gait, slow reaction time noted.
+- Cardiovascular: Tachycardia present with a heart rate of 110 bpm. 
+- Respiratory: Clear to auscultation bilaterally. No wheezes or crackles heard.
+- Abdominal: Mild tenderness in the epigastric region.
+
+Initial Diagnosis:
+The primary diagnosis is acute intoxication secondary to excessive alcohol consumption, complicated by hypoglycemia and tachycardia, likely due to chronic pancreatitis and opioid use. Differential diagnoses include Wernicke's encephalopathy and alcoholic ketoacidosis, given her history of chronic pancreatitis.
+
+Plan (Treatment & Management):
+- Admit for close monitoring and supportive care.
+- Administer IV fluids with dextrose to correct hypoglycemia.
+- Monitor vital signs closely and manage hypertension as needed with antihypertensives.
+- Provide thiamine supplementation given the risk of Wernicke's encephalopathy, even though no overt signs are present at this time.
+- Consider referral to addiction services for further evaluation and treatment planning.
+- Consult gastroenterology for management of chronic pancreatitis and opioid use.
+- Educate patient on the risks associated with excessive alcohol consumption and the importance of adhering to a pain management plan.

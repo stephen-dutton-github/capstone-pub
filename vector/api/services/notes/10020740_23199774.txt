@@ -1,0 +1,32 @@
+Patient Information:
+- Patient ID: 10020740
+- Admission ID: 23199774
+- Patient Name: Omar Farah
+- Patient Age: 56
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of a systemic granulomatous disease. The clinical presentation includes chronic cough, night sweats, and weight loss over the past three months.
+
+History of Present Illness (HPI):
+Omar Farah, a 56-year-old male, reports persistent productive cough for the last three months accompanied by recurrent bouts of fever and night sweats. He also notes significant unexplained weight loss over this period.
+ 
+Past Medical History (PMH):
+The patient has no history of chronic diseases but has recently returned from travel to an endemic region.
+
+Medications:
+No current medications are documented.
+
+Family History (FH):
+There is no reported family history of pulmonary or infectious conditions.
+
+Social History (SH):
+The patient's social history reveals recent international travel, which included prolonged stays in regions known for endemic diseases. He is employed as a healthcare worker.
+
+Physical Examination (PE):
+Vital signs include tachycardia and low-grade fever. Respiratory examination shows increased bilateral basal crackles. Chest X-ray displays diffuse miliary opacities. Lab results reveal anemia, lymphopenia, and elevated ESR with a normal CRP. Acid-fast stain of sputum is positive.
+
+Initial Diagnosis:
+The clinical presentation and diagnostic findings are suggestive of disseminated infection secondary to exposure during international travel.
+
+Plan (Treatment & Management):
+Further investigations including sputum culture and gene sequencing for Mycobacterium species are planned, along with initiation of empiric anti-tuberculosis therapy pending confirmation. Close monitoring of renal function due to the risk of drug-induced nephrotoxicity is advised. The patient will be isolated until infection control measures confirm no transmission risk to other patients. Referral to infectious diseases specialists for consultation and ongoing management is planned.

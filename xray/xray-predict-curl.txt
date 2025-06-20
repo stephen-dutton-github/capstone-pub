@@ -1,0 +1,6 @@
+curl -X POST http://localhost:8000/predict -H "Content-Type: multipart/form-data" -F "file=@/app/test_covid.jpg;type=image/jpeg"
+curl -X POST http://localhost:8000/predict -H "Content-Type: multipart/form-data" -F "file=@/app/test_normal.jpg;type=image/jpeg"
+curl -X POST http://localhost:8000/predict -H "Content-Type: multipart/form-data" -F "file=@/app/test_pneumonia.jpg;type=image/jpeg"
+curl -X POST http://localhost:8000/predict -H "Content-Type: multipart/form-data" -F "file=@/app/test_tuberculosis.jpg;type=image/jpeg"
+
+  

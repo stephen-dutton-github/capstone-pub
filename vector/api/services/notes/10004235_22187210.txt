@@ -1,0 +1,38 @@
+Patient Information:
+- Patient ID: 10004235
+- Admission ID: 22187210
+- Patient Name: Carlos García
+- Patient Age: 47 years old
+
+Initial Diagnosis:
+The patient presents with a temperature of 102.5°F, recorded during routine follow-up after an interventional procedure conducted three days ago.
+
+History of Present Illness (HPI):
+Carlos García is a known case of peripheral artery disease and presented for an angioplasty yesterday. Post-procedure, he reported feeling generally well but expressed concern about a slight fever that developed this morning. The patient denies any pain or discomfort at the site of the procedure.
+
+Past Medical History (PMH):
+The patient has a history of type 2 diabetes mellitus, hypertension, and hyperlipidemia. He smokes one pack of cigarettes daily for the past 30 years and consumes alcohol occasionally.
+
+Medications:
+- Metformin 1000 mg twice daily
+- Lisinopril 20 mg once daily
+- Simvastatin 40 mg once daily
+- Clopidogrel 75 mg once daily (initiated post-procedure)
+
+Family History (FH):
+The patient's father had myocardial infarction at age 55, and his brother has a history of chronic obstructive pulmonary disease.
+
+Social History (SH):
+Carlos García is divorced with two adult children. He works as an accountant and enjoys hiking in his leisure time.
+
+Physical Examination:
+- General: Alert and oriented, no acute distress
+- Vital Signs: Temperature elevated at 102.5°F, heart rate normal, respiratory rate slightly increased at 18 breaths per minute, blood pressure stable
+- Cardiovascular: Normal heart sounds with a new grade 2 ejection systolic murmur
+- Respiratory: Clear to auscultation bilaterally, no wheezes or rales
+- Abdomen: Soft, non-tender; bowel sounds normal
+
+Plan (Treatment & Management):
+Given the elevated temperature post-procedure and lack of other concerning symptoms, this presentation is likely secondary to a transient inflammatory response. Monitoring will continue, and the patient will be educated on signs of potential complications such as infection or bleeding at the procedure site. He should take his medications as prescribed and avoid smoking for the next two weeks to promote healing. A follow-up appointment will be scheduled in one week to reassess his condition.
+
+The attending physician has been notified about this case, and consultation with Infectious Disease is recommended if symptoms persist or worsen.

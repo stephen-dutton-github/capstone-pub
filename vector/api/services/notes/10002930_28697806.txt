@@ -1,0 +1,43 @@
+Patient Information:
+- Patient ID: 10002930
+- Admission ID: 28697806
+- Patient Name: Amara Okafor
+- Patient Age: 48
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of a metabolic imbalance, characterized by shakiness, confusion, and an inability to focus on tasks. These symptoms are not typical for the patient's known conditions.
+
+History of Present Illness (HPI):
+Amara Okafor, a 48-year-old female, was brought to the emergency department by her husband after experiencing tremors, dizziness, and difficulty concentrating for approximately two hours prior to presentation. The onset of these symptoms was sudden and without any preceding triggers or known causes in the patient's recent history.
+
+Past Medical History (PMH):
+- Hypertension
+- Type 2 Diabetes Mellitus
+
+Medications:
+- Metformin 500 mg twice daily
+- Lisinopril 10 mg daily
+- Amlodipine 5 mg daily
+- Insulin as needed for hyperglycemia
+
+Family History (FH):
+No significant family history provided at this time.
+
+Social History (SH):
+The patient reports adherence to her prescribed medications and dietary recommendations for diabetes. She denies any recent changes in diet or physical activity levels. The patient lives with her husband and has no children.
+
+Physical Examination (PE):
+- Vital signs: BP 130/80 mmHg, pulse 70 bpm, respiratory rate 18 breaths per minute, temperature 98.6°F, oxygen saturation 99% on room air.
+- General appearance: Alert but lethargic, unable to concentrate or respond promptly to questions or commands.
+- Neurological: Tremors noted in both hands and feet.
+- Cardiovascular: Regular heart rhythm with no murmurs, rubs, or gallops.
+
+Initial Diagnosis:
+The patient's presentation and clinical findings are suggestive of a metabolic imbalance, possibly related to an insulin overdose. This is inferred from her known diabetes and insulin use, alongside the acute onset and specific symptoms observed during this episode.
+
+Plan (Treatment & Management):
+- Administer intravenous dextrose to raise blood glucose levels.
+- Monitor vital signs closely for any changes or deterioration.
+- Repeat blood glucose measurements every hour until stable.
+- Consult endocrinology for guidance on diabetes management and potential adjustments to her insulin regimen.
+- Educate the patient and her husband about recognizing symptoms of hypoglycemia and appropriate response measures, including carbohydrate intake if symptomatic.

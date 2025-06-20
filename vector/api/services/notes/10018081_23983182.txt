@@ -1,0 +1,51 @@
+Patient Information:
+- Patient ID: 10018081
+- Admission ID: 23983182
+- Patient Name: Maya Kapoor
+- Patient Age: 79 years old
+
+Initial Diagnosis:
+- Suspected severe lower respiratory tract infection, complicated by significant hypoxia and multi-system involvement.
+
+History of Present Illness (HPI):
+- The patient presents with acute onset shortness of breath and cough for three days. Reports difficulty in lying down due to dyspnea at night. No fever or sore throat reported. The patient has been mostly confined indoors over the past two weeks, with minimal social interactions outside her immediate household.
+
+Past Medical History (PMH):
+- Hypertension, managed on ramipril and amlodipine.
+- Diabetes mellitus type 2, managed on metformin extended-release.
+- Chronic obstructive pulmonary disease (COPD), previously stable on tiotropium and salmeterol.
+- History of smoking, one pack per day for forty years, quit ten years ago.
+
+Medications:
+- Ramipril 5 mg daily
+- Amlodipine 10 mg daily
+- Metformin extended-release 2000 mg daily
+- Tiotropium 18 mcg daily via inhaler
+- Salmeterol 50 mcg twice daily via inhaler
+
+Family History (FH):
+- No immediate family members with similar symptoms or conditions reported.
+
+Social History (SH):
+- Lives alone, predominantly indoors due to social distancing measures. Limited contact outside the home, mostly for essential needs like groceries and medical appointments.
+- Reports feeling unwell for three days but has not sought medical attention until now due to concerns about exposure risk at healthcare facilities.
+
+Physical Examination:
+- General appearance: Acutely ill, appears anxious and diaphoretic. Respiratory rate: 26/min, oxygen saturation on room air: 88%. Auscultation reveals bilateral diffuse crackles, more pronounced in the lower zones.
+- Cardiovascular examination: Tachycardia (110 bpm), no murmurs or gallops noted. 
+- Abdomen: Soft, non-tender, with mild distension due to supine position.
+- Neurological examination: Alert and oriented, no focal deficits observed.
+
+Initial Diagnosis:
+Based on clinical presentation and history, a severe lower respiratory tract infection complicated by significant hypoxia and multi-system involvement is suspected. Differential diagnoses include viral pneumonia and community-acquired bacterial pneumonia.
+
+Plan (Treatment & Management):
+- Initiate empiric treatment for presumed viral pneumonia due to COVID-19 with oseltamivir 75 mg twice daily and dexamethasone 6 mg once daily for seven days.
+- Provide supplemental oxygen therapy via nasal cannula at 4 liters per minute.
+- Arrange for rapid antigen testing for SARS-CoV-2.
+- Monitor vital signs closely, particularly respiratory status and oxygen saturation. 
+- Encourage hydration and monitor renal function due to potential medication effects.
+- Educate patient on the importance of isolation precautions within the facility and maintain contact precautions for healthcare workers.
+- Arrange for follow-up care with infectious disease consultation and pulmonology as needed based on test results and clinical evolution.
+
+The admission note generated above relates to Patient ID 10018081, Admission ID 23983182, Patient Name Maya Kapoor, aged 79. It describes her presenting symptoms consistent with pneumonia due to COVID-19 without explicitly stating the condition, and outlines her medical history, medications, social history, family history, physical examination findings, initial diagnosis, and management plan.

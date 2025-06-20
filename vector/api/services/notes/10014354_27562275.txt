@@ -1,0 +1,32 @@
+Patient Information:
+Patient ID: 10014354
+Admission ID: 27562275
+Patient Name: Min-Jun Kim
+Patient Age: 60 years old
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of lower respiratory tract infection and systemic inflammatory response.
+
+History of Present Illness (HPI):
+Min-Jun Kim, a 60-year-old male, was brought to the emergency department by his family due to high fever and shortness of breath. The onset of symptoms was approximately four days ago, starting with mild cough followed by progressive worsening of dyspnea and development of bilateral chest pain. He denies any significant travel history or close contact with COVID-19 positive individuals.
+
+Past Medical History (PMH):
+The patient has a history of hypertension, diabetes mellitus type 2, and hyperlipidemia, all well-controlled on current medications. No recent infections or hospitalizations were noted. Vaccination status includes COVID-19 vaccine, administered three months ago.
+
+Medications:
+Current medications include Lisinopril (20 mg daily) for hypertension, Metformin (500 mg twice daily) for diabetes mellitus type 2, and Atorvastatin (40 mg daily) for hyperlipidemia.
+
+Family History (FH):
+No significant family history of respiratory or infectious diseases reported.
+
+Social History (SH):
+The patient works as an accountant in a large corporation and reports no smoking history. He drinks alcohol occasionally, not exceeding one drink per week. No recent use of illicit drugs or exposure to environmental toxins noted.
+
+Physical Examination (PE):
+Vital signs reveal tachypnea with respiratory rate 24 breaths/min, heart rate 100 bpm, and temperature 38.5°C. Physical examination shows diffuse crackles in bilateral lung fields on auscultation, no signs of peripheral edema. O2 saturation is 88% on room air.
+
+Initial Diagnosis:
+Based on clinical presentation and laboratory findings, an acute respiratory infection with possible viral etiology is suspected. The differential diagnosis includes bacterial pneumonia, viral community-acquired pneumonia, or atypical pneumonia.
+
+Plan (Treatment & Management):
+Initiate broad-spectrum antibiotic therapy to cover potential bacterial infections and antipyretics for fever control. Administer supplemental oxygen as needed. Monitor vital signs and O2 saturation closely. Consult infectious disease for further evaluation and management. Consider COVID-19 testing given the current pandemic situation and risk factors such as age, diabetes mellitus, and immunocompromised status.

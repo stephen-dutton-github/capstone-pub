@@ -1,0 +1,45 @@
+Patient Information:
+- Patient ID: 10015860
+- Admission ID: 24698912
+- Patient Name: Zara Malik
+- Patient Age: 53 years old
+
+Initial Diagnosis:
+The patient presents with acute respiratory distress, fever, and hypoxia requiring supplemental oxygen.
+
+History of Present Illness (HPI):
+Zara Malik, a 53-year-old female, was admitted to the hospital due to worsening symptoms including shortness of breath, high-grade fever, and fatigue over the past five days. She reported recent contact with someone who later tested positive for COVID-19. The patient has not been vaccinated against COVID-19.
+
+Past Medical History (PMH):
+The patient has a history of hypertension, diabetes mellitus type 2, and hyperlipidemia. She is currently on metformin, lisinopril, and atorvastatin. No recent surgeries or hospitalizations.
+
+Medications:
+Metformin 500 mg BID, Lisinopril 10 mg daily, Atorvastatin 20 mg daily.
+Supplemental oxygen administered via nasal cannula at 2 L/min.
+
+Family History (FH):
+No significant family history of respiratory or infectious diseases reported.
+
+Social History (SH):
+The patient is a retired teacher and lives alone. She has not recently traveled outside the country. The patient reports close contact with an individual who later tested positive for COVID-19.
+
+Physical Examination (PE):
+Vital signs: Temperature 39°C, heart rate 105 bpm, respiratory rate 24/min, oxygen saturation 88% on room air, blood pressure 130/70 mmHg.
+General: Appears acutely ill, appears fatigued but alert and oriented. 
+Respiratory: Rales present in bilateral lower lung fields. No wheezing or rhonchi detected.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Abdomen: Soft, non-tender, no distension.
+Extremities: Slightly edematous ankles.
+
+Initial Diagnosis:
+The patient's clinical presentation is suggestive of a severe respiratory illness characterized by bilateral lung infiltrates consistent with acute respiratory failure secondary to an infectious process. 
+
+Plan (Treatment & Management):
+- Initiate empiric antibiotic therapy targeting community-acquired pneumonia pathogens and coverage for potential atypical organisms.
+- Continue supplemental oxygen as needed to maintain adequate oxygen saturation.
+- Monitor blood glucose levels closely due to diabetes mellitus type 2.
+- Ensure hydration with IV fluids.
+- Arrange for a COVID-19 test immediately upon admission.
+- Consult pulmonology and infectious disease specialists.
+- Educate the patient on isolation precautions given her potential exposure to COVID-19. 
+- Continue current antihypertensive and lipid-lowering medications unless contraindicated by acute illness or treatment interventions.

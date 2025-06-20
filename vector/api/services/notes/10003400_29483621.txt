@@ -1,0 +1,36 @@
+Patient Information:
+- Patient ID: 10003400
+- Admission ID: 29483621
+- Patient Name: Ahmed Hassan
+- Patient Age: 72
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of a lower gastrointestinal malignancy.
+
+History of Present Illness (HPI):
+Ahmed Hassan, a 72-year-old male, reports experiencing increasing difficulty with bowel movements for the past three months. He describes the stools as narrow and ribbon-like, accompanied by rectal bleeding noted in two instances over the same period. The patient denies any pain during defecation or other associated symptoms such as diarrhea or constipation.
+
+Past Medical History (PMH):
+The patient has a history of hypertension, managed with ramipril 10 mg daily since 2010, and type 2 diabetes mellitus, treated with metformin 850 mg twice daily initiated in 2015. He is also a current smoker with a pack-year history of 30.
+
+Medications:
+Ramipril 10 mg daily; Metformin 850 mg twice daily
+
+Family History (FH):
+No relevant family history for gastrointestinal malignancies or other conditions mentioned above was reported by the patient.
+
+Social History (SH):
+The patient works as an accountant and lives alone. He reports occasional alcohol consumption, limited to weekends and a maximum of two drinks per session. No significant travel history recently.
+
+Physical Examination (PE):
+Abdominal examination shows no distension or tenderness; normal bowel sounds noted on auscultation. Digital rectal examination reveals firm nodularity in the posterior rectal wall, suggestive of possible mass formation. Anoscopy confirms a visible tumor lesion located at the rectosigmoid junction.
+
+Initial Diagnosis:
+Based on clinical presentation and physical findings, the primary concern is a lower gastrointestinal malignancy involving the rectum or anus, likely at the rectosigmoid junction given the anoscopic findings.
+
+Plan (Treatment & Management):
+- Arrange for urgent colonoscopy to further evaluate extent of the tumor.
+- Referral to oncology for potential biopsy and staging assessment.
+- Discuss smoking cessation strategies with patient to improve overall health outcomes.
+- Ensure continuity of care for existing comorbidities, hypertension, and diabetes mellitus.
+- Educate the patient on the importance of follow-up and adherence to the proposed management plan.

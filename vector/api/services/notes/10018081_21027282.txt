@@ -1,0 +1,49 @@
+Patient Information:
+- Patient ID: 10018081
+- Admission ID: 21027282
+- Patient Name: Maya Kapoor
+- Patient Age: 79 years old
+
+Initial Diagnosis:
+The patient presents with symptoms indicative of severe respiratory infection, likely caused by a viral pathogen.
+
+History of Present Illness (HPI):
+Mrs. Kapoor reports a recent onset of coughing, fever, shortness of breath, and fatigue for the past week. She denies any prior history of similar symptoms or known contact with individuals exhibiting these signs recently. The patient has been self-isolating at home due to concerns about potential exposure.
+
+Past Medical History (PMH):
+- Hypertension
+- Diabetes Mellitus Type 2
+- Ischemic Heart Disease
+- Chronic Obstructive Pulmonary Disease (COPD)
+
+Medications:
+- Metoprolol 25 mg daily for hypertension
+- Insulin glargine 10 units daily and metformin 500 mg twice daily for diabetes mellitus type 2
+- Aspirin 81 mg daily for ischemic heart disease prophylaxis
+- Salmeterol/fluticasone inhaler as needed for COPD
+
+Family History (FH):
+- Mother passed away from pneumonia at age 80
+- Father passed away due to cardiovascular complications
+
+Social History (SH):
+- Lives alone in an urban apartment, with a caregiver visiting regularly. Reports no smoking history and moderate alcohol consumption.
+
+Physical Examination (PE):
+- Vital signs: Temperature 38°C, pulse 100 bpm, respiratory rate 24 breaths per minute, oxygen saturation at 88% on room air
+- General appearance: appears mildly dehydrated and fatigued
+- Respiratory system: coarse crackles noted in bilateral lower lung fields; decreased breath sounds
+- Cardiovascular system: heart sounds normal with no murmurs or gallops
+
+Initial Diagnosis:
+Based on clinical presentation, likely viral pneumonia with superimposed bacterial infection.
+
+Plan (Treatment & Management):
+1. Administer oxygen therapy to maintain saturation > 92%
+2. Initiate broad-spectrum antibiotics targeting both typical and atypical pathogens
+3. Provide supportive care including hydration and nutritional support
+4. Consider corticosteroids for potential cytokine storm management, pending further evaluation
+5. Ensure close monitoring of respiratory status and cardiac function given the patient's comorbidities
+6. Arrange for COVID-19 testing to confirm viral etiology
+7. Coordinate with infectious disease consultation for further management
+8. Educate patient and caregiver about infection control measures and precautions

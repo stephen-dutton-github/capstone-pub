@@ -1,0 +1,32 @@
+Patient Information:
+- Patient ID: 10018328
+- Admission ID: 26706939
+- Patient Name: Santiago Lopez
+- Patient Age: 83
+
+Initial Diagnosis:
+The patient presents with acute respiratory distress and fever. Lab results indicate a severe inflammatory response in the lungs, characterized by elevated C-reactive protein levels and bilateral infiltrates on chest imaging.
+
+History of Present Illness (HPI):
+Santiago Lopez, an 83-year-old male, was brought to the emergency department by his son due to worsening shortness of breath over the past five days. The patient reports a dry cough but no prior history of similar symptoms or respiratory infections. He has been generally well and active until this episode.
+
+Past Medical History (PMH):
+The patient has no significant medical history, including no previous pneumonia or chronic lung disease. He is not immunocompromised and has no known allergies to medications.
+
+Medications:
+Upon admission, the patient was started on broad-spectrum antibiotics due to the suspicion of a bacterial infection complicating his current illness.
+
+Family History (FH):
+The patient's son reports that he recently attended a large social gathering where many individuals were experiencing similar symptoms. The patient denies any recent travel or contact with known COVID-19 cases.
+
+Social History (SH):
+The patient is a retired accountant who lives independently in a senior housing facility. He does not smoke and consumes alcohol occasionally. His diet consists mainly of home-cooked meals provided by his family due to mobility issues preventing grocery shopping.
+
+Physical Examination (PE):
+The patient appears lethargic but alert, with tachypnea and oxygen saturation at 88% on room air. Vital signs include a temperature of 38.4°C, heart rate of 110 bpm, and blood pressure of 120/80 mmHg. Auscultation reveals bilateral coarse crackles in all lung fields. There is no focal tenderness or lymphadenopathy noted upon abdominal examination.
+
+Initial Diagnosis:
+The clinical presentation suggests a severe respiratory viral infection complicated by secondary bacterial pneumonia. Given the epidemiological context of recent community transmission and the patient's exposure to a large gathering, COVID-19 should be strongly considered as the primary etiology.
+
+Plan (Treatment & Management):
+Continue monitoring vital signs closely and maintain oxygen saturation above 92% via supplemental oxygen. Complete a comprehensive diagnostic workup including viral PCR for COVID-19 and chest CT scan to assess the extent of lung involvement. Maintain antibiotic therapy while awaiting culture results to guide further treatment adjustments. Consult infectious disease for possible antiviral treatment if COVID-19 is confirmed. Educate patient and family on infection control measures and ensure compliance with social distancing guidelines upon discharge. Arrange follow-up in one week or sooner if symptoms worsen.

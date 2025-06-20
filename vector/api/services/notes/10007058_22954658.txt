@@ -1,0 +1,31 @@
+Patient Information:
+Patient ID: 10007058; Admission ID: 22954658; Patient Name: Zainab Abdullah; Age: 48 years old.
+
+Initial Diagnosis:
+The patient presents with chest pain, shortness of breath, and diaphoresis, suggestive of acute coronary syndrome (ACS).
+
+History of Present Illness (HPI):
+Ms. Abdullah reports an onset of symptoms approximately six hours ago, beginning with retrosternal chest pressure radiating to the left arm, accompanied by dyspnea and diaphoresis. She denies any prior similar episodes. The patient has not experienced any recent physical exertion or unusual stressors leading up to these events.
+
+Past Medical History (PMH):
+The patient has a significant history of hypertension treated with losartan 50 mg daily and atorvastatin 20 mg daily for dyslipidemia. She reports no prior cardiac events, diabetes mellitus, or peripheral arterial disease. There is a notable family history of myocardial infarction in her father at the age of 55.
+
+Medications:
+Losartan 50 mg once daily; Atorvastatin 20 mg once daily.
+
+Family History (FH):
+Father had a myocardial infarction at age 55 years old. No other cardiac issues reported among immediate family members.
+
+Social History (SH):
+Ms. Abdullah is married, employed full-time in an administrative role. She reports moderate physical activity and denies smoking or alcohol consumption.
+
+Physical Examination (PE):
+Vital signs: BP 145/90 mmHg, HR 105 bpm, RR 18/min, SpO2 93% on room air, Temp 37°C. General appearance: Alert and oriented, in mild distress due to pain. Cardiovascular examination shows tachycardia with regular rhythm and no murmurs or gallop sounds. Respiratory system reveals clear lung fields with no wheezes or rales. Abdomen soft and non-tender; extremities show no edema.
+
+Initial Diagnosis:
+Highly suspected acute coronary syndrome (ACS) given the patient's presentation and risk factors.
+
+Plan (Treatment & Management):
+Immediate ECG confirms ST-segment changes in leads II, III, and aVL with reciprocal ST depression in lead I. Initiate aspirin 325 mg chewable tablet, clopidogrel 600 mg loading dose, IV heparin, and sublingual nitroglycerine for chest pain relief. Arrange for cardiac biomarker panel (troponin) and serial ECGs as per hospital protocol. Consult cardiology team for potential angiography and possible revascularization strategy.
+
+Monitor vital signs closely and manage any complications related to ACS. Educate patient on the importance of adhering to prescribed therapies and lifestyle modifications to reduce cardiovascular risk factors, including diet, exercise, and smoking cessation if applicable.

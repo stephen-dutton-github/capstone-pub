@@ -1,0 +1,36 @@
+Patient Information:
+- Patient ID: 10020306
+- Admission ID: 28778757
+- Patient Name: Wei Fang
+- Patient Age: 74 years old
+
+Initial Diagnosis:
+The patient presents with diffuse pulmonary infiltrates, fever, night sweats, and weight loss. Initial laboratory results indicate elevated levels of inflammatory markers and lymphopenia.
+
+History of Present Illness (HPI):
+Wei Fang, a 74-year-old female, reports experiencing persistent fatigue, intermittent fevers, and significant unexplained weight loss over the past two months. She also describes recurrent episodes of night sweats and general malaise. The patient denies any history of smoking or alcohol consumption.
+
+Past Medical History (PMH):
+The patient has a past medical history notable for diabetes mellitus type 2, hypertension, and osteoporosis. She is currently managed with metformin, lisinopril, and alendronate sodium.
+
+Medications:
+- Metformin
+- Lisinopril
+- Alendronate Sodium
+
+Family History (FH):
+There is no significant family history reported by the patient or obtained from available records.
+
+Social History (SH):
+The patient lives alone and has limited mobility due to osteoporosis. She relies on home healthcare services for assistance with daily activities.
+
+Physical Examination (PE):
+Vital signs show tachycardia and fever. Respiratory exam reveals bilateral diffuse crackles. The patient appears lethargic but is alert and oriented. No significant lymphadenopathy or rash noted.
+
+Initial Diagnosis:
+The clinical presentation and laboratory findings suggest an infectious process, possibly related to a reactivation of latent infection, given the presence of diabetes mellitus type 2 and other chronic conditions.
+
+Plan (Treatment & Management):
+Further diagnostic workup will include chest CT scan, sputum culture, and tuberculin skin test. Empiric therapy with anti-tuberculosis medications may be initiated pending results. The patient will be closely monitored for signs of deterioration or complications. Home healthcare services will continue to support her basic needs, and coordination with a pulmonologist is recommended.
+
+This note does not explicitly state miliary tuberculosis but describes symptoms and diagnostic considerations that are consistent with the condition.

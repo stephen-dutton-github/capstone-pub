@@ -1,0 +1,32 @@
+Patient Information:
+Patient ID: 10002930
+Admission ID: 25282382
+Patient Name: Amara Okafor
+Age: 48 years old
+
+Initial Diagnosis:
+The patient presents with acute distress and emotional turmoil.
+
+History of Present Illness (HPI):
+Amara Okafor is a 48-year-old female who reports feeling overwhelmed and hopeless. She has experienced significant life stressors recently, including the recent loss of her long-term partner due to cancer. Amara also reports difficulty adjusting to this new reality and finding meaning in life without her partner.
+
+Past Medical History (PMH):
+There are no current or past medical conditions reported that would directly contribute to her presentation.
+
+Medications:
+No medications were noted as contributing factors to her current state.
+
+Family History (FH):
+Her family history reveals a background of mental health issues, including depression and anxiety. There is also a significant family history of substance abuse, which has affected relationships within the family for generations.
+
+Social History (SH):
+Amara works full-time and lives alone in an apartment she shared with her late partner. She reports feeling disconnected from friends and community support since her partner's death. She occasionally uses alcohol to cope with stress but denies any use of illicit drugs.
+
+Physical Examination (PE):
+No specific physical abnormalities or signs were noted during the initial evaluation.
+
+Initial Diagnosis:
+Based on the history provided, it appears that Amara is experiencing a significant emotional crisis. The recent loss, combined with her family and social history, suggests vulnerability to acute distress.
+
+Plan (Treatment & Management):
+Immediate steps include ensuring patient safety by keeping her in a safe environment until further assessment can be conducted. Consultation with psychiatry for evaluation of potential suicidal ideation is necessary. A thorough mental health evaluation will be conducted, including possible cognitive testing to assess cognitive function and emotional regulation skills. Social work consultation will also be arranged to help identify community resources and support groups that may assist Amara in coping with her loss. A referral to an alcohol treatment program may be considered given the history of occasional use for stress relief. Regular follow-ups and monitoring will be scheduled as needed.

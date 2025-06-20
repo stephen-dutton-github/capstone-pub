@@ -1,0 +1,46 @@
+Patient Information:
+- Patient ID: 10015860
+- Admission ID: 28236161
+- Patient Name: Zara Malik
+- Patient Age: 53 years old
+
+Initial Diagnosis:
+Based on clinical findings and laboratory results, the patient presents with severe respiratory symptoms characterized by cough, dyspnea, fever, and bilateral lung infiltrates. The differential diagnosis includes viral pneumonia.
+
+History of Present Illness (HPI):
+The patient reports a 5-day history of worsening cough, shortness of breath, and high-grade fever. She denies any recent travel or contact with sick individuals. Onset was gradual over three days prior to admission. The patient has been managing her symptoms at home with over-the-counter medications.
+
+Past Medical History (PMH):
+The patient has a history of hypertension, hyperlipidemia, and chronic obstructive pulmonary disease (COPD). She is currently on metformin for type 2 diabetes, lisinopril for hypertension, simvastatin for hyperlipidemia, and bronchodilators for COPD management.
+
+Medications:
+The patient's current medications include:
+- Metformin
+- Lisinopril
+- Simvastatin
+- Bronchodilators (short-acting beta2 agonist and ipratropium)
+
+Family History (FH):
+There is no reported family history of similar illnesses or conditions.
+
+Social History (SH):
+The patient lives alone, works as a nurse in a long-term care facility, and has not traveled recently. She denies smoking and alcohol use.
+
+Physical Examination (PE):
+- Vital signs: Temperature 102°F, heart rate 110 bpm, respiratory rate 28 breaths per minute, oxygen saturation at room air is 88%.
+- General appearance: Appears acutely ill with marked respiratory distress.
+- Head and Neck: Normocephalic, atraumatic. No lymphadenopathy or oropharyngeal erythema.
+- Respiratory: Bilateral coarse crackles noted throughout all lung fields on auscultation.
+- Cardiovascular: Regular rate and rhythm, no murmurs.
+- Abdominal: Soft, non-tender, no organomegaly.
+
+Initial Diagnosis:
+Severe respiratory symptoms characterized by cough, dyspnea, fever, and bilateral lung infiltrates are suggestive of viral pneumonia. Given the patient's occupation as a nurse in a long-term care facility and lack of travel history, transmission is likely via occupational exposure.
+
+Plan (Treatment & Management):
+- Admit to a medical floor with isolation precautions.
+- Initiate empiric antibiotic therapy for community-acquired pneumonia.
+- Administer oxygen supplementation to maintain saturation above 92%.
+- Consider antiviral treatment based on further diagnostic results and consultation with an infectious disease specialist.
+- Monitor vital signs closely, especially respiratory rate and oxygen saturation.
+- Provide supportive care including hydration and pain management as needed.

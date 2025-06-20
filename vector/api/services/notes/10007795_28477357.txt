@@ -1,0 +1,42 @@
+Patient Information:
+- Patient ID: 10007795
+- Admission ID: 28477357
+- Patient Name: Nikolai Petrov
+- Patient Age: 53 years old
+
+Initial Diagnosis:
+Based on current symptoms and diagnostic tests, the primary concern is an intra-abdominal mass causing obstructive jaundice. This presentation suggests a complex pancreatic lesion.
+
+History of Present Illness (HPI):
+Nikolai Petrov presents with a one-month history of abdominal pain radiating to his back, associated with significant weight loss. He also reports yellowing of the skin and eyes (jaundice) and dark urine. He denies fever or chills. The patient has not noted any changes in bowel habits.
+
+Past Medical History (PMH):
+The patient has a history of type 2 diabetes mellitus treated with insulin, hypertension controlled with lisinopril, and hyperlipidemia managed with simvastatin. There is no known family history of pancreatic diseases or cancers.
+
+Medications:
+- Insulin
+- Lisinopril
+- Simvastatin
+
+Family History (FH):
+No family history of pancreatic diseases or cancers reported by the patient.
+
+Social History (SH):
+The patient is a retired engineer, married with two adult children. He reports moderate alcohol use, defined as approximately one glass of wine per day. He denies smoking and illicit drug use.
+
+Physical Examination (PE):
+- General: Patient appears fatigued but well-nourished
+- Abdomen: Soft, non-tender, distended; palpation reveals a large, hard mass in the epigastric region without guarding or rebound tenderness
+- Skin: Mild jaundice noted on both palms and sclerae
+- Eyes: Scleral icterus confirmed by yellowish discoloration
+- Extremities: No edema or clubbing
+
+Initial Diagnosis:
+The primary diagnosis is a complex pancreatic lesion, likely an encapsulated cystic tumor with associated pseudocyst formation. Differential diagnoses include pancreatic adenoma and pancreatic cancer.
+
+Plan (Treatment & Management):
+- Order imaging studies, including CT scan of the abdomen with contrast enhancement to better visualize the pancreatic mass
+- Arrange for endoscopic retrograde cholangiopancreatography (ERCP) to assess biliary tree involvement
+- Consult a gastroenterologist and surgical oncology team for further evaluation and management planning
+- Continue current medications without adjustment at this time
+- Provide supportive care with hydration and nutrition as needed

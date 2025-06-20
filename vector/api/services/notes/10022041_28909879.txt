@@ -1,0 +1,35 @@
+Patient Information:
+- Patient ID: 10022041
+- Admission ID: 28909879
+- Patient Name: Elias Bergström
+- Patient Age: 64 years old
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of an atypical pneumonia, including persistent cough for three weeks, night sweats, and weight loss over the past two months. There is also evidence of hemoptysis.
+
+History of Present Illness (HPI):
+Elias Bergström reports a progressively worsening cough since mid-January, described as dry initially but later productive with blood-tinged sputum. Night sweats have been noted for approximately eight weeks and are associated with weight loss over the past two months totaling seven kilograms. The patient denies any recent travel or known exposures.
+
+Past Medical History (PMH):
+The patient has a history of hypertension, managed with an ACE inhibitor, and hyperlipidemia treated with simvastatin. He is also a current smoker with a 30-pack-year history but reports quitting six months ago. He completed his last influenza vaccination in October 2022.
+
+Medications:
+ACE inhibitor for hypertension; Simvastatin for hyperlipidemia.
+
+Family History (FH):
+Father deceased from lung cancer at age 55, maternal grandfather died of tuberculosis. There are no immediate family members with similar respiratory illnesses.
+
+Social History (SH):
+Works as a software engineer in an office setting. No recent travel reported.
+
+Physical Examination:
+- Vital signs: Temperature 37.8°C, Blood pressure 125/80 mmHg, Pulse 90 bpm.
+- Respiratory: Productive cough noted, coarse crackles heard over bilateral lower lung fields on auscultation.
+- Cardiovascular: Normal heart sounds with no murmurs.
+- Abdominal: Non-tender, soft, non-distended.
+
+Initial Diagnosis:
+The clinical presentation and findings are suggestive of an infectious process affecting the lungs, possibly atypical pneumonia given the absence of fever and recent travel history. Differential diagnoses include community-acquired pneumonia (CAP) and nontuberculous mycobacterial disease due to the chronic nature and hemoptysis. Further investigations are needed to determine the exact etiology.
+
+Plan (Treatment & Management):
+Admit for inpatient management with broad-spectrum antibiotics pending culture results from sputum samples. Chest X-ray and CT scan will be performed to assess extent of lung involvement. Consult pulmonology for potential video-assisted thoracoscopic surgery (VATS) if miliary nodules are identified on imaging. Initiate oxygen supplementation as needed based on blood gas analysis. Educate the patient regarding the importance of non-smoking status given his recent quit attempt and the nature of his current illness.

@@ -1,0 +1,45 @@
+Patient Information:
+- Patient ID: 10020187
+- Admission ID: 26842957
+- Patient Name: Abigail Thompson
+- Patient Age: 63 years old
+
+Initial Diagnosis:
+The patient presents with systemic symptoms suggestive of a disseminated infection, characterized by low-grade fever, fatigue, and weight loss over the past two months. The presence of bilateral diffuse pulmonary infiltrates noted on chest radiograph further supports this diagnosis.
+
+History of Present Illness (HPI):
+Abigail Thompson, a 63-year-old female, reports experiencing persistent symptoms for approximately eight weeks. She describes feeling fatigued most days, intermittent low-grade fever, and unexplained weight loss. Additionally, she has noticed increasing shortness of breath during routine activities.
+
+Past Medical History (PMH):
+The patient's past medical history is notable for hypertension, treated with amlodipine 10 mg daily, and mild asthma managed with an albuterol inhaler as needed. She completed treatment for community-acquired pneumonia approximately one year ago.
+
+Medications:
+- Amlodipine 10 mg daily
+- Albuterol inhaler as needed
+
+Family History (FH):
+The patient's family history includes a first-degree relative with tuberculosis, which was successfully treated several years prior.
+
+Social History (SH):
+Abigail Thompson is a retired teacher. She lives alone and reports no significant travel or recent exposure to individuals with infectious diseases in the past year.
+
+Physical Examination (PE):
+- Vital signs: Temperature 38°C, pulse 90 bpm, BP 120/80 mmHg, SpO2 92% on room air
+- General appearance: Thin, appears fatigued but alert and oriented
+- Respiratory: Bilateral diffuse pulmonary infiltrates noted on chest radiograph; no crackles or wheezing heard on auscultation.
+- Cardiovascular: Regular rate, normal heart sounds
+- Abdomen: Soft, non-tender
+- Extremities: No edema
+
+Initial Diagnosis:
+The clinical presentation and imaging findings suggest a highly infectious process with systemic involvement. Given the patient's age and risk factors, including a positive family history, miliary disease must be considered in the differential diagnosis.
+
+Plan (Treatment & Management):
+- Initiate empiric antimicrobial therapy covering tuberculosis until further diagnostic confirmation.
+- Obtain sputum samples for acid-fast bacilli staining and culture.
+- Order a chest CT scan to assess the extent of pulmonary involvement and rule out other causes of miliary appearance.
+- Consult pulmonology for further evaluation and management.
+- Monitor vital signs closely and provide supportive care as needed.
+- Educate patient on the importance of adherence to treatment protocol once diagnosis is confirmed.
+
+This admission note does not directly state "miliary tuberculosis" but presents clinical indicators and a differential diagnosis that would lead to this consideration, while maintaining a focus on the patient's systemic symptoms and pulmonary findings.

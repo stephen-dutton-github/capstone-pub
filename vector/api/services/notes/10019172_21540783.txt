@@ -1,0 +1,41 @@
+Patient Information:
+- Patient ID: 10019172
+- Admission ID: 21540783
+- Patient Name: Nia Roberts
+- Patient Age: 63 years old
+
+Initial Diagnosis:
+- Systemic symptoms with respiratory involvement and potential disseminated infection
+
+History of Present Illness (HPI):
+Nia Roberts, a 63-year-old female, presented to the emergency department with complaints of persistent fever, night sweats, weight loss over the past three months, and difficulty breathing. She also reports fatigue, weakness, and a general feeling of malaise.
+
+Past Medical History (PMH):
+- No significant past medical history reported at this time
+
+Medications:
+- Currently not on any medications as this is an acute admission
+
+Family History (FH):
+- No known family history of tuberculosis or other relevant conditions
+
+Social History (SH):
+- Lives alone; denies smoking, alcohol use, and illicit drug use. Works as a schoolteacher.
+
+Physical Examination (PE):
+- Vital signs: Temperature 38°C, pulse 90 bpm, respiratory rate 20 bpm, blood pressure 110/70 mmHg
+- General examination: Appears ill, thin, and pale.
+- Respiratory system: Crackles heard bilaterally on lung auscultation. Oxygen saturation is 92% on room air.
+- Other systems: No abnormalities noted.
+
+Laboratory Findings:
+Pending results for sputum cultures, complete blood count (CBC), chest X-ray, and other relevant tests
+
+Plan (Treatment & Management):
+- Initiate empiric treatment with broad-spectrum antibiotics due to high suspicion of infection.
+- Obtain additional diagnostic tests including sputum cultures, CBC, chest X-ray, and possibly CT imaging if indicated.
+- Monitor vital signs closely for any further deterioration.
+- Arrange for social work evaluation given the patient's living situation.
+- Educate the patient on the importance of treatment adherence and follow-up appointments.
+
+Note: The conditions mentioned in this note are consistent with Miliary tuberculosis but not explicitly stated. Further diagnostic results will confirm the diagnosis if present.

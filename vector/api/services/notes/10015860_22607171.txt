@@ -1,0 +1,46 @@
+Patient Information:
+- Patient ID: 10015860
+- Admission ID: 22607171
+- Patient Name: Zara Malik
+- Patient Age: 53
+
+Initial Diagnosis:
+- Acute respiratory infection with evidence of lung consolidation and hypoxia
+
+History of Present Illness (HPI):
+Zara Malik, a 53-year-old female, presented to the emergency department with complaints of coughing for five days, fever, and shortness of breath. She reported feeling progressively worse over time, experiencing difficulty breathing even when sitting still. The patient denied any prior history of respiratory illnesses or recent travel.
+
+Past Medical History (PMH):
+- Hypertension
+- Type 2 diabetes mellitus
+- Hyperlipidemia
+
+Medications:
+- Metoprolol for hypertension
+- Insulin as needed for type 2 diabetes mellitus
+- Atorvastatin for hyperlipidemia
+
+Family History (FH):
+- Mother died from pneumonia at age 75
+- Father had a history of chronic obstructive pulmonary disease (COPD)
+
+Social History (SH):
+- Smokes one pack of cigarettes daily
+- Lives with her husband and two children
+- Works as an office administrator
+
+Physical Examination (PE):
+- Vital signs: Temperature 38.2°C, pulse 110 bpm, blood pressure 130/80 mmHg, respiratory rate 24/min, oxygen saturation 88% on room air.
+- General appearance: Appears ill with tachypnea and use of accessory muscles for breathing.
+- Respiratory system: Bilateral crackles heard over lower lung fields. Lung exam shows decreased breath sounds in the left lower lobe.
+- Cardiovascular system: Regular rate and rhythm, no murmurs or rubs.
+
+Initial Diagnosis:
+The patient's clinical presentation and laboratory findings suggest an acute respiratory infection with signs of lung consolidation and hypoxia.
+
+Plan (Treatment & Management):
+- Start empiric antibiotic therapy pending culture results
+- Provide supplemental oxygen to maintain saturation above 90%
+- Monitor vital signs closely, particularly oxygenation and respiratory status
+- Educate the patient on smoking cessation benefits, given her history and the current diagnosis
+- Arrange follow-up with a pulmonologist for ongoing management

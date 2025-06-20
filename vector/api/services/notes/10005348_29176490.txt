@@ -1,0 +1,39 @@
+Patient Information:
+- Patient ID: 10005348
+- Admission ID: 29176490
+- Patient Name: Ethan Williams
+- Patient Age: 76
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of significant cardiac disease.
+
+History of Present Illness (HPI):
+Ethan Williams, a 76-year-old male, reports experiencing increasing chest pain over the past week, described as squeezing and radiating to both arms. He also mentions shortness of breath during exertion and dizziness upon standing. The patient denies any history of similar symptoms in the past.
+
+Past Medical History (PMH):
+The patient has a history of hypertension treated with lisinopril 10 mg daily, hyperlipidemia treated with atorvastatin 40 mg daily, and type 2 diabetes mellitus managed with metformin extended-release 1000 mg twice daily. He also reports a 30 pack-year smoking history but quit smoking 15 years ago.
+
+Medications:
+Lisinopril 10 mg daily, Atorvastatin 40 mg daily, Metformin extended-release 1000 mg twice daily.
+
+Family History (FH):
+Father died of myocardial infarction at age 65; mother had a stroke at age 70. Both parents were heavy smokers.
+
+Social History (SH):
+The patient is married and lives with his wife in a suburban area. He has two adult children, both residing elsewhere. He enjoys gardening as a hobby and reports no recent changes in daily activities.
+
+Physical Examination (PE):
+Vital signs: BP 145/90 mmHg, pulse 78 bpm, respiratory rate 16 breaths per minute, oxygen saturation 93% on room air.
+The patient appears anxious but is well-oriented to person, place, and time. Cardiovascular examination shows regular rhythm with grade II systolic ejection murmur at the left sternal border. Lung sounds are clear bilaterally. Extremities show no edema. Neurological examination is unremarkable.
+
+Initial Diagnosis:
+Based on the patient's symptoms and risk factors, including advanced age, significant smoking history, family history of premature cardiovascular disease, and hypertension, diabetes mellitus, and hyperlipidemia as comorbidities, a diagnosis consistent with coronary atherosclerosis in native coronary arteries is likely. However, this specific diagnosis is not included directly.
+
+Plan (Treatment & Management):
+- Order ECG and cardiac enzymes to assess for acute myocardial infarction.
+- Initiate sublingual nitroglycerin 0.4 mg as needed for chest pain relief.
+- Administer aspirin 325 mg orally to all patients with suspected coronary artery disease until further evaluation.
+- Continue current medications: lisinopril, atorvastatin, and metformin extended-release.
+- Schedule a cardiology consultation for further assessment and possible invasive or non-invasive cardiac testing such as stress echocardiography or coronary angiogram if indicated based on initial test results.
+
+Monitor vital signs closely and reassess symptoms frequently. Educate the patient on recognizing signs of worsening heart disease and when to seek immediate care. Discuss lifestyle modifications including diet, exercise, and smoking cessation reinforcement with the patient during admission.

@@ -1,0 +1,41 @@
+Patient Information:
+- Patient ID: 10002930
+- Admission ID: 25696644
+- Patient Name: Amara Okafor
+- Patient Age: 48 years old
+
+Initial Diagnosis:
+The patient presents with symptoms consistent with recurrent episodes of low blood glucose, without any identified metabolic or endocrine cause.
+
+History of Present Illness (HPI):
+Amara Okafor is a 48-year-old female who has been experiencing multiple episodes of dizziness, sweating, and shakiness over the past month. These events are typically occurring after periods of fasting or when she skips meals. She denies any history of diabetes mellitus or pancreatic disease. No known exposure to medications that could precipitate hypoglycemia.
+
+Past Medical History (PMH):
+- Hypertension managed with amlodipine
+- Hyperlipidemia managed with atorvastatin
+- Chronic back pain treated with NSAIDs
+
+Medications:
+Amlodipine 10 mg daily, Atorvastatin 80 mg daily, Ibuprofen PRN for back pain.
+
+Family History (FH):
+Maternal grandmother had type II diabetes. No other significant family history of metabolic disorders.
+
+Social History (SH):
+Lives alone, works as a marketing consultant, and reports consuming a moderate amount of alcohol weekly. No current tobacco use.
+
+Physical Examination (PE):
+- General: Alert and oriented, no acute distress
+- Vital Signs: BP 120/80 mmHg, HR 70 bpm, RR 18 breaths/min, SpO2 98% on room air, Temp 36.5°C
+- Neurological: No focal deficits noted
+- Abdomen: Soft, non-tender, no hepatosplenomegaly
+
+Initial Diagnosis:
+The clinical presentation and absence of endogenous or exogenous causes point towards an idiopathic etiology of recurrent hypoglycemia.
+
+Plan (Treatment & Management):
+1. Admit for observation and continuous glucose monitoring to assess frequency and patterns.
+2. Initiate treatment with a short-acting glucagon analog in case of severe hypoglycemic episodes.
+3. Consult endocrinology for further evaluation, including possible insulin autoantibody testing.
+4. Educate patient on recognizing early symptoms of hypoglycemia and carrying emergency glucose-containing snacks.
+5. Follow up with outpatient diabetes education program to discuss dietary modifications and strategies for preventing hypoglycemic episodes in the community setting.

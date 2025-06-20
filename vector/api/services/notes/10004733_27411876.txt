@@ -1,0 +1,34 @@
+Patient Information:
+Anya Ivanova, 51 years old, female.
+
+Initial Diagnosis:
+Altered mental status of unclear etiology.
+
+History of Present Illness (HPI):
+The patient was brought to the emergency department by her husband due to sudden onset of confusion and disorientation. She reported no prior symptoms similar to these recent events. Over the past week, she has experienced intermittent episodes of altered cognition that have significantly affected her daily activities. The patient denies any recent infections or medication changes.
+
+Past Medical History (PMH):
+Diabetes mellitus type 2, hypertension, hyperlipidemia. Last routine check-ups were normal without significant findings. No history of neurological disorders.
+
+Medications:
+Metformin 1000 mg once daily; lisinopril 20 mg once daily; simvastatin 40 mg once daily. No recent changes in medications.
+
+Family History (FH):
+Father had dementia. Mother passed away due to stroke at age 70.
+
+Social History (SH):
+Retired schoolteacher, living with her husband for 30 years. Engages in regular physical activity and participates in social events with friends.
+
+Physical Examination:
+Vital signs: Blood pressure 130/80 mmHg, heart rate 75 bpm, respiratory rate 16 breaths per minute, temperature 37°C. Glasgow Coma Scale: E4V5M6. Neurological examination revealed slight nystagmus and ataxic gait. No focal deficits or cranial nerve abnormalities detected.
+
+Initial Diagnosis:
+Based on the clinical presentation and absence of focal neurological signs, an initial differential diagnosis includes metabolic encephalopathy or toxic encephalopathy due to drug interactions.
+
+Plan (Treatment & Management):
+1. Admit for close monitoring and further evaluation.
+2. Perform laboratory tests including serum electrolytes, glucose levels, renal function, liver function, and toxicology screen.
+3. Consider imaging studies such as brain CT scan if symptoms persist or worsen.
+4. Consult neurology for evaluation and potential EEG to assess for any seizure activity.
+5. Manage diabetes mellitus type 2 and hypertension according to current guidelines.
+6. Educate the patient and family about her condition, treatment plan, and expected outcomes.

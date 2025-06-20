@@ -1,0 +1,32 @@
+Patient Information:
+- Patient ID: 10014354
+- Admission ID: 29780751
+- Patient Name: Min-Jun Kim
+- Patient Age: 60
+
+Initial Diagnosis:
+Based on clinical evaluation and investigations, the patient presents with acute respiratory failure necessitating intensive care admission. The primary concern is severe lower respiratory tract infection causing hypoxia.
+
+History of Present Illness (HPI):
+Min-Jun Kim, a 60-year-old male, was admitted to the hospital after experiencing shortness of breath for five days prior to presentation. He reports worsening dyspnea with minimal exertion and associated fever. The patient denies any travel history in the past three weeks but admits to attending social gatherings.
+
+Past Medical History (PMH):
+The patient has a significant history of chronic obstructive pulmonary disease, hypertension, and hyperlipidemia. He is currently on amlodipine for hypertension, atorvastatin for hyperlipidemia, and salmeterol/fluticasone inhaler for COPD.
+
+Medications:
+Current medications include amlodipine 5mg daily, atorvastatin 20mg daily, salmeterol/fluticasone 50/500mcg twice daily. No new medications were started prior to admission.
+
+Family History (FH):
+The patient's family history includes his father and brother both deceased due to cancer.
+
+Social History (SH):
+He is married with two children and a smoker with a pack-year history of 30, though he quit smoking ten years ago. He works as an engineer and regularly attends social gatherings.
+
+Physical Examination (PE):
+On examination, Min-Jun Kim appears anxious but cooperative. Vital signs show a respiratory rate of 32 breaths per minute, blood pressure at 110/70mmHg, heart rate at 100 beats per minute, temperature at 38°C, and oxygen saturation at 88% on room air. Auscultation reveals bilateral crackles in the lower lung fields. The patient is intubated for severe hypoxia.
+
+Initial Diagnosis:
+Based on symptoms, medical history, physical examination, and laboratory findings, the patient's primary condition involves a severe respiratory infection leading to acute respiratory failure, requiring intensive care management.
+
+Plan (Treatment & Management):
+The patient will continue receiving supplemental oxygen via mechanical ventilation. Antibiotics have been initiated following culture results identifying an atypical organism. Anti-viral treatment has also been started due to current epidemiological considerations and symptoms consistent with possible viral involvement. Continuous monitoring of vital signs and lab values is essential, along with supportive care for respiratory function and hydration status. A multidisciplinary team approach will be employed to manage his multiple comorbidities and adjust treatments as necessary based on clinical response and further diagnostic results. Regular updates will be provided to the patient's family regarding his condition and management plan.

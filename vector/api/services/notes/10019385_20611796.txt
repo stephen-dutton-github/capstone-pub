@@ -1,0 +1,34 @@
+Patient Information:
+- Patient ID: 10019385
+- Admission ID: 20611796
+- Patient Name: Haruto Suzuki
+- Patient Age: 44 years old
+
+Initial Diagnosis:
+The primary clinical impression is that of a systemic inflammatory condition with multi-organ involvement, characterized by bilateral pulmonary infiltrates and disseminated granulomatous lesions.
+
+History of Present Illness (HPI):
+Haruto Suzuki, a 44-year-old male, presented to the emergency department with complaints of progressive fatigue over three weeks, night sweats for two weeks, and recent onset of cough. The patient also reported weight loss of approximately six pounds over this period. He denies any travel history outside his local community during the past year.
+
+Past Medical History (PMH):
+The patient has no significant past medical history other than a tonsillectomy performed in childhood. He works as an office clerk and reports no occupational exposure to infectious agents.
+
+Medications:
+At admission, he was not on any chronic medications except for occasional use of over-the-counter acetaminophen for mild headaches.
+
+Family History (FH):
+There is no known family history of tuberculosis or autoimmune disorders.
+
+Social History (SH):
+The patient denies smoking, alcohol consumption, and illicit drug use. He lives with his spouse in a non-crowded apartment with frequent ventilation and proper heating/cooling systems.
+
+Physical Examination:
+On examination, Haruto Suzuki appeared fatigued but was alert and oriented to person, place, and time. Vital signs showed fever (38°C), tachypnea (24 respirations per minute), and hypoxia with oxygen saturation at 88% on room air. Chest auscultation revealed bilateral diffuse rales and rhonchi. Laboratory tests indicated elevated erythrocyte sedimentation rate (ESR) at 110 mm/hour and C-reactive protein (CRP) level of 9 mg/dL. A chest X-ray showed bilateral, diffuse, nodular opacities with prominent hilar lymphadenopathy. Autoimmune serologies were negative.
+
+Initial Diagnosis:
+The primary clinical impression is that of a systemic inflammatory condition with multi-organ involvement, characterized by bilateral pulmonary infiltrates and disseminated granulomatous lesions. Differential diagnoses include autoimmune disorders, atypical pneumonia, or other forms of infectious etiologies.
+
+Plan (Treatment & Management):
+Admission to the hospital for inpatient monitoring and further diagnostic workup including bronchoscopy, biopsy, and sputum cultures is recommended. Initiate supportive care with intravenous fluids, antipyretics, and supplemental oxygen as needed. Consultations with pulmonology, infectious disease, and rheumatology are advised. Educate the patient on the importance of completing all diagnostic procedures and adhering to the treatment regimen once it is established.
+
+The note does not explicitly mention Miliary tuberculosis, but the clinical presentation, imaging findings, and systemic involvement suggest an infectious etiology with granulomatous disease, which aligns with this condition.

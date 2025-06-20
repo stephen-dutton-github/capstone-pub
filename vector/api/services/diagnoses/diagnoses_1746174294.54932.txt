@@ -1,0 +1,173 @@
+subject_id,llm_diagnosis,cnn_diagnosis,llm_confidence,icd_code,icd_version,icd_description,multimodal,diagnosis_correct
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+10014729,Covid-19,"[{'predicted_class': 'Covid', 'confidence': 0.5059}]",0.5059,J1282,10,Pneumonia due to COVID-19,True,True
+10003400,Other,"[{'predicted_class': 'Covid', 'confidence': 0.5039}]",0.5039,T8131XA,10,"Disruption of external operation (surgical) wound, not elsewhere classified, initial encounter",True,False
+10002428,Unspecified head injury,"[{'predicted_class': 'Tuberculosis', 'confidence': 0.5156}]",1.0,S0990XA,10,"Unspecified injury of head, initial encounter",True,True
+10001725,Obstructive Uropathy,"[{'predicted_class': 'Covid', 'confidence': 0.5195}]",1.0,78829,9,Other specified retention of urine,True,False
+10040025,Pneumonia,"[{'predicted_class': 'Covid', 'confidence': 0.5059}]",0.0,J159,10,Unspecified bacterial pneumonia,True,True
+10008454,Tuberculosis,"[{'predicted_class': 'Tuberculosis', 'confidence': 0.5508}]",0.5508,82111,9,Open fracture of shaft of femur,True,False
+10020640,Other,"[{'predicted_class': 'Covid', 'confidence': 0.5293}]",0.5293,A19,10,Miliary tuberculosis,True,False
+10014078,Covid-19,"[{'predicted_class': 'Covid', 'confidence': 0.5176}]",0.5176,J1282,10,Pneumonia due to COVID-19,True,False
+10007795,Other,"[{'predicted_class': 'Covid', 'confidence': 0.5156}]",0.5156,27651,9,Dehydration,True,False
+10001217,Other,"[{'predicted_class': 'Covid', 'confidence': 0.5059}]",0.5059,3240,9,Intracranial abscess,True,False
+10019172,Other,"[{'predicted_class': 'Covid', 'confidence': 0.5312}]",0.5312,A19,10,Miliary tuberculosis,True,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+10019003,Pneumonia,"[{'predicted_class': 'Tuberculosis', 'confidence': 0.5332}]",0.9,J1282,10,Pneumonia due to COVID-19,True,True
+10002930,unspecified mood disorder,"[{'predicted_class': 'Tuberculosis', 'confidence': 0.5332}]",0.5,F39,10,Unspecified mood [affective] disorder,True,True
+10010471,COVID-19,"[{'predicted_class': 'Covid', 'confidence': 0.5098}]",0.5098,J1282,10,Pneumonia due to COVID-19,True,False
+10016742,Covid-19,"[{'predicted_class': 'Covid', 'confidence': 0.502}]",0.502,J1282,10,Pneumonia due to COVID-19,True,True
+10012853,Pneumonia,"[{'predicted_class': 'Covid', 'confidence': 0.502}]",0.502,J1282,10,Pneumonia due to COVID-19,True,True
+10000032,Chronic hepatobiliary disease secondary to hepatitis C infection,"[{'predicted_class': 'Covid', 'confidence': 0.5293}]",1.0,07054,9,Chronic hepatitis C without mention of hepatic coma,True,True
+10005909,Thromboembolic event in right iliac vein,"[{'predicted_class': 'Tuberculosis', 'confidence': 0.5312}]",1.0,I82422,10,Acute embolism and thrombosis of left iliac vein,True,False
+10019568,Widespread infectious granulomatoses,"[{'predicted_class': 'Covid', 'confidence': 0.5371}]",0.5371,A19,10,Miliary tuberculosis,True,False
+10020187,Tuberculosis,"[{'predicted_class': 'Covid', 'confidence': 0.5352}]",0.5352,A19,10,Miliary tuberculosis,True,True
+10016810,Covid-19,"[{'predicted_class': 'Covid', 'confidence': 0.5137}]",0.5137,J1282,10,Pneumonia due to COVID-19,True,True
+10021312,"Disseminated granulomatous disease affecting multiple organs, particularly the lungs, liver, spleen, and lymph nodes","[{'predicted_class': 'Covid', 'confidence': 0.5391}]",0.5391,A19,10,Miliary tuberculosis,True,True
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+10010867,Covid-19,"[{'predicted_class': 'Covid', 'confidence': 0.5254}]",0.5254,J1282,10,Pneumonia due to COVID-19,True,True
+10020786,Tuberculosis,"[{'predicted_class': 'Covid', 'confidence': 0.5469}]",0.5469,A19,10,Miliary tuberculosis,True,True
+10020306,Other,"[{'predicted_class': 'Covid', 'confidence': 0.5332}]",0.5332,A19,10,Miliary tuberculosis,True,False
+10023239,Granulomatous lung disease,"[{'predicted_class': 'Covid', 'confidence': 0.5234}]",0.5234,A19,10,Miliary tuberculosis,True,False
+10018328,Covid-19,"[{'predicted_class': 'Covid', 'confidence': 0.5508}]",0.5508,J1282,10,Pneumonia due to COVID-19,True,True
+10008287,vascular malformation affecting multiple intracranial structures,"[{'predicted_class': 'Tuberculosis', 'confidence': 0.5254}]",1.0,D1802,10,Hemangioma of intracranial structures,True,False
+10015272,Tuberculosis,"[{'predicted_class': 'Tuberculosis', 'confidence': 0.5659}]",0.5659,J1282,10,Pneumonia due to COVID-19,True,False
+10022281,Other,"[{'predicted_class': 'Covid', 'confidence': 0.5469}]",0.5469,A19,10,Miliary tuberculosis,True,False
+10024043,Other,"[{'predicted_class': 'Covid', 'confidence': 0.5234}]",0.5234,A19,10,Miliary tuberculosis,True,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+10025612,Covid-19,"[{'predicted_class': 'Covid', 'confidence': 0.543}]",0.543,J159,10,Unspecified bacterial pneumonia,True,False
+10003046,Gastrointestinal Malignancy,"[{'predicted_class': 'Tuberculosis', 'confidence': 0.541}]",1.0,1505,9,Malignant neoplasm of lower third of esophagus,True,True
+10021666,Other,"[{'predicted_class': 'Covid', 'confidence': 0.5332}]",0.5332,A19,10,Miliary tuberculosis,True,False
+10018423,Covid-19,"[{'predicted_class': 'Covid', 'confidence': 0.5059}]",0.5059,J1282,10,Pneumonia due to COVID-19,True,True
+10025463,Other,[],0.8,A19,10,Miliary tuberculosis,True,False
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+10017492,Tuberculosis,"[{'predicted_class': 'Tuberculosis', 'confidence': 0.5059}]",0.5059,J1282,10,Pneumonia due to COVID-19,True,False
+10004422,Ischemic heart disease,"[{'predicted_class': 'Covid', 'confidence': 0.5098}]",1.0,41401,9,Coronary atherosclerosis of native coronary artery,True,True
+10011398,Pneumonia,"[{'predicted_class': 'Tuberculosis', 'confidence': 0.5039}]",0.5,J1282,10,Pneumonia due to COVID-19,True,True
+10021938,Tuberculosis,"[{'predicted_class': 'Covid', 'confidence': 0.543}]",0.543,A19,10,Miliary tuberculosis,True,True
+10009628,Pneumonia,"[{'predicted_class': 'Tuberculosis', 'confidence': 0.5581}]",0.95,J1282,10,Pneumonia due to COVID-19,True,True
+10004457,Myocardial ischemia,"[{'predicted_class': 'Covid', 'confidence': 0.5312}]",1.0,I25110,10,Atherosclerotic heart disease of native coronary artery with unstable angina pectoris,True,True
+10015860,COVID-19,"[{'predicted_class': 'Covid', 'confidence': 0.5273}]",0.5273,J1282,10,Pneumonia due to COVID-19,True,False
+10021487,Other,"[{'predicted_class': 'Covid', 'confidence': 0.5059}]",0.5059,A19,10,Miliary tuberculosis,True,False
+10013049,Respiratory infection with bilateral infiltrates on chest X-ray suggestive of viral etiology,"[{'predicted_class': 'Covid', 'confidence': 0.5039}]",0.5039,J1282,10,Pneumonia due to COVID-19,True,False
+10026255,Pneumonia,"[{'predicted_class': 'Covid', 'confidence': 0.5352}]",0.5352,J159,10,Unspecified bacterial pneumonia,True,True
+10026255,Pneumonia,"[{'predicted_class': 'Covid', 'confidence': 0.5352}]",0.0,J159,10,Unspecified bacterial pneumonia,True,True
+10023771,Tuberculosis,"[{'predicted_class': 'Covid', 'confidence': 0.5352}]",0.5352,A19,10,Miliary tuberculosis,True,True
+10023117,Disseminated Infection,"[{'predicted_class': 'Covid', 'confidence': 0.5332}]",0.5332,A19,10,Miliary tuberculosis,True,True
+10022041,Pneumonia,"[{'predicted_class': 'Covid', 'confidence': 0.5234}]",0.5234,A19,10,Miliary tuberculosis,True,False
+10005348,aortic valve disorder,"[{'predicted_class': 'Tuberculosis', 'confidence': 0.5449}]",0.9,4241,9,Aortic valve disorders,True,True
+10009035,Covid-19,"[{'predicted_class': 'Covid', 'confidence': 0.5039}]",0.5039,J1282,10,Pneumonia due to COVID-19,True,True
+10018081,Tuberculosis,"[{'predicted_class': 'Tuberculosis', 'confidence': 0.5601}]",0.5601,J1282,10,Pneumonia due to COVID-19,True,False
+10014354,Covid-19,"[{'predicted_class': 'Covid', 'confidence': 0.541}]",0.541,J1282,10,Pneumonia due to COVID-19,True,True
+10022880,Tuberculosis,"[{'predicted_class': 'Covid', 'confidence': 0.5352}]",0.5352,A19,10,Miliary tuberculosis,True,True
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+10019385,Other,"[{'predicted_class': 'Covid', 'confidence': 0.541}]",0.541,A19,10,Miliary tuberculosis,True,False
+10026406,Pneumonia,"[{'predicted_class': 'Covid', 'confidence': 0.5391}]",0.5391,J159,10,Unspecified bacterial pneumonia,True,True
+10026406,Pneumonia,"[{'predicted_class': 'Covid', 'confidence': 0.5391}]",1.0,J159,10,Unspecified bacterial pneumonia,True,True
+10026406,Pneumonia,"[{'predicted_class': 'Covid', 'confidence': 0.5391}]",0.5391,J159,10,Unspecified bacterial pneumonia,True,True
+10007818,chronic liver disease due to other causes,"[{'predicted_class': 'Covid', 'confidence': 0.5039}]",0.5039,K7469,10,Other cirrhosis of liver,True,True
+10020740,Tuberculosis,"[{'predicted_class': 'Covid', 'confidence': 0.5137}]",0.5137,A19,10,Miliary tuberculosis,True,True
+10004235,Other,"[{'predicted_class': 'Covid', 'confidence': 0.5371}]",0.5371,78062,9,Postprocedural fever,True,False
+10022017,Tuberculosis,"[{'predicted_class': 'Covid', 'confidence': 0.5352}]",0.5352,A19,10,Miliary tuberculosis,True,True
+-1,skipped,None,0.0,skipped,skipped,skipped,False,False
+10018845,Covid-19,"[{'predicted_class': 'Covid', 'confidence': 0.5098}]",0.5098,J1282,10,Pneumonia due to COVID-19,True,True
+10020944,Tuberculosis,"[{'predicted_class': 'Covid', 'confidence': 0.5371}]",0.5371,A19,10,Miliary tuberculosis,True,True
+10016150,Covid-19,"[{'predicted_class': 'Covid', 'confidence': 0.5234}]",0.5234,J1282,10,Pneumonia due to COVID-19,True,True
+10005866,Perforated Peptic Ulcer,"[{'predicted_class': 'Tuberculosis', 'confidence': 0.5562}]",1.0,K265,10,Chronic or unspecified duodenal ulcer with perforation,True,True
+10026354,Pneumonia,"[{'predicted_class': 'Covid', 'confidence': 0.5078}]",0.9,J159,10,Unspecified bacterial pneumonia,True,True
+10026354,Pneumonia,"[{'predicted_class': 'Covid', 'confidence': 0.5078}]",1.0,J159,10,Unspecified bacterial pneumonia,True,True
+10019917,Tuberculosis,"[{'predicted_class': 'Tuberculosis', 'confidence': 0.5312}]",0.5312,A19,10,Miliary tuberculosis,True,True
+10019777,Other,"[{'predicted_class': 'Covid', 'confidence': 0.5293}]",0.5293,A19,10,Miliary tuberculosis,True,False
+10005817,COPD exacerbation with possible pneumonia superimposed,"[{'predicted_class': 'Tuberculosis', 'confidence': 0.5332}]",1.0,J9621,10,Acute and chronic respiratory failure with hypoxia,True,False
+10009049,Covid-19,"[{'predicted_class': 'Covid', 'confidence': 0.5176}]",0.5176,J1282,10,Pneumonia due to COVID-19,True,True
+10015931,COVID-19,"[{'predicted_class': 'Covid', 'confidence': 0.5352}]",0.5352,J1282,10,Pneumonia due to COVID-19,True,False
+10006053,Metabolic Encephalopathy secondary to Chronic Liver Disease,"[{'predicted_class': 'Covid', 'confidence': 0.5117}]",1.0,5722,9,Hepatic encephalopathy,True,True
+10012552,Pneumonia,"[{'predicted_class': 'Covid', 'confidence': 0.541}]",0.541,J1282,10,Pneumonia due to COVID-19,True,True
+10004733,Altered mental status of unclear etiology,"[{'predicted_class': 'Covid', 'confidence': 0.5234}]",0.5234,34839,9,Other encephalopathy,True,True
+10021118,Covid-19,"[{'predicted_class': 'Covid', 'confidence': 0.5391}]",0.5391,A19,10,Miliary tuberculosis,True,False
+10018501,Tuberculosis,"[{'predicted_class': 'Tuberculosis', 'confidence': 0.5312}]",0.5312,J1282,10,Pneumonia due to COVID-19,True,False
+10007058,Acute Coronary Syndrome (ACS),"[{'predicted_class': 'Tuberculosis', 'confidence': 0.5332}]",1.0,I214,10,Non-ST elevation (NSTEMI) myocardial infarction,True,True

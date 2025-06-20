@@ -1,0 +1,42 @@
+Patient Information:
+- Patient ID: 10003400
+- Admission ID: 26090619
+- Patient Name: Ahmed Hassan
+- Patient Age: 72 years old
+
+Initial Diagnosis:
+The primary concern for this patient revolves around abnormal urinary findings as indicated by microscopic analysis.
+
+History of Present Illness (HPI):
+Ahmed Hassan, a 72-year-old male, presented to the emergency department with complaints of recurrent blood in his urine over the past three weeks. He denies any associated pain or burning during urination and reports normal bowel movements without rectal bleeding.
+
+Past Medical History (PMH):
+- Hypertension managed with lisinopril
+- Hyperlipidemia managed with simvastatin
+- Benign prostatic hyperplasia, not currently symptomatic
+
+Medications:
+- Lisinopril 20 mg daily
+- Simvastatin 40 mg daily
+
+Family History (FH):
+No first-degree relatives with similar urinary issues or malignancies.
+
+Social History (SH):
+The patient is a retired accountant who lives alone. He reports an active lifestyle, including regular walking and occasional golfing. Denies tobacco use, moderate alcohol consumption.
+
+Physical Examination (PE):
+Vital signs within normal limits. General appearance: well-nourished, in no acute distress. Genitourinary examination: No signs of acute inflammation or masses. Digital rectal exam unremarkable.
+
+Initial Diagnosis:
+Given the history and physical findings, the primary consideration is a benign cause for microscopic hematuria, possibly related to prostatic hyperplasia or age-related changes. Differential diagnoses include urinary tract infections and kidney stones, although less likely given the absence of symptoms such as dysuria or abdominal pain.
+
+Plan (Treatment & Management):
+1. Complete urinalysis to confirm presence of blood and evaluate for infection.
+2. Obtain a renal ultrasound to assess for any anatomical abnormalities or potential obstruction.
+3. Order cystoscopy to further investigate the origin of hematuria.
+4. Continue current medications: lisinopril and simvastatin.
+5. Educate patient on signs of urinary tract infections, including dysuria and fever, and advise seeking immediate care if these occur.
+6. Schedule follow-up appointment within two weeks or sooner if symptoms change.
+
+The patient was advised to monitor his urine output and report any changes in color, consistency, or volume, particularly if accompanied by pain or discomfort.

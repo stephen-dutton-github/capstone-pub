@@ -1,0 +1,41 @@
+Patient Information:
+- Patient ID: 10005866
+- Admission ID: 27167814
+- Patient Name: Bao Nguyen
+- Patient Age: 57 years old
+
+Initial Diagnosis:
+The patient presents with acute, severe abdominal pain and vomiting. The vital signs reveal tachycardia, hypotension, and altered mental status.
+
+History of Present Illness (HPI):
+Bao Nguyen, a 57-year-old male, reports worsening mid-abdominal pain for two days, which has become constant and radiates to the back. He also describes episodes of severe vomiting that have resulted in dehydration. The patient denies any recent changes in bowel habits or food intake.
+
+Past Medical History (PMH):
+The patient has a history of abdominal surgeries including cholecystectomy and inguinal hernia repair performed five years ago. He reports no significant family history of gastrointestinal issues.
+
+Medications:
+The patient is currently taking lisinopril for hypertension and pantoprazole for gastroesophageal reflux disease (GERD).
+
+Family History (FH):
+No significant family history of gastrointestinal disorders.
+
+Social History (SH):
+The patient denies smoking or alcohol use. He works as an office manager and has been traveling extensively in the past two weeks, including a trip to Asia where he consumed local foods.
+
+Physical Examination (PE):
+- General: Alert and oriented but appears anxious.
+- Vital Signs: Tachycardia (heart rate 110 bpm), hypotension (blood pressure 90/60 mmHg), tachypnea (respiratory rate 22/min).
+- Abdomen: Distended, tender to palpation in the mid-abdominal area with rebound tenderness. Bowel sounds are diminished.
+
+Initial Diagnosis:
+The patient's symptoms and physical examination findings suggest bowel obstruction secondary to intra-abdominal adhesions. The etiology may be related to past abdominal surgeries or recent food intake during travel.
+
+Plan (Treatment & Management):
+1. Fluid resuscitation with IV fluids to correct dehydration.
+2. Administer antiemetics to manage nausea and vomiting.
+3. Obtain abdominal imaging studies, including a CT scan of the abdomen and pelvis, to confirm the diagnosis and identify the site of obstruction.
+4. Consult general surgery for potential surgical intervention if imaging confirms bowel obstruction due to adhesions.
+5. Continue monitoring vital signs closely and adjust fluid management as needed based on clinical status.
+6. Educate the patient about the importance of hydration and follow-up care post-discharge.
+
+The hospital admissions note does not explicitly state "intestinal adhesions with obstruction (postinfection)" but rather describes symptoms, history, and findings suggestive of this condition without direct naming.

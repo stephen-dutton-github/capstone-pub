@@ -1,0 +1,32 @@
+Patient Information:
+- Patient ID: 10007928
+- Admission ID: 20338077
+- Patient Name: Adama Diallo
+- Patient Age: 59 years old
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of gastrointestinal bleeding.
+
+History of Present Illness (HPI):
+Adama Diallo, a 59-year-old male, reports experiencing recurrent episodes of upper abdominal pain and melena for the past week. The patient describes the pain as dull, aching, and worsening after meals, particularly when lying down. He denies any history of vomiting or hematemesis.
+
+Past Medical History (PMH):
+The patient has a significant medical history including long-standing hypertension and dyslipidemia, managed with amlodipine and atorvastatin. He also reports a previous episode of gastrointestinal bleeding three years ago treated conservatively without any surgical intervention. There is no history of NSAID use or alcohol consumption.
+
+Medications:
+Amlodipine 5 mg daily and Atorvastatin 20 mg daily
+
+Family History (FH):
+The patient's family history includes diabetes mellitus in his father and hypertension in both parents.
+
+Social History (SH):
+Adama Diallo is a retired school teacher who lives with his wife. He denies any smoking or excessive alcohol consumption habits. He reports compliance with his prescribed medications and regular follow-ups with his primary care physician.
+
+Physical Examination (PE):
+On examination, the patient appears tired but otherwise well-nourished and in no acute distress. Vital signs include blood pressure 130/80 mmHg, pulse rate 70 bpm, temperature 98°F. Abdominal examination reveals mild tenderness in the epigastric region without rebound or guarding.
+
+Initial Diagnosis:
+Given the clinical presentation of upper abdominal pain with melena and past medical history, a gastrointestinal ulcer with possible hemorrhage is suspected but not confirmed.
+
+Plan (Treatment & Management):
+The patient will be admitted for close monitoring and further evaluation. Upper endoscopy is scheduled to investigate the cause of bleeding and rule out any malignancy or other complications. The patient will continue his current medications and receive intravenous fluids to maintain hydration and correct electrolyte imbalances if necessary. Blood transfusion may be required depending on hemoglobin levels post-endoscopy. Pain management with proton pump inhibitors (PPI) and antacids is planned as a bridge until the endoscopic findings are available. The patient will also receive counseling regarding lifestyle modifications, including dietary changes to reduce irritants that could exacerbate gastrointestinal symptoms.

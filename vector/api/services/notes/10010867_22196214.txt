@@ -1,0 +1,36 @@
+Patient Information:
+- Patient ID: 10010867
+- Admission ID: 22196214
+- Patient Name: Mateusz Kowalski
+- Patient Age: 28
+
+Initial Diagnosis:
+The patient presents with severe respiratory distress and high fever. The clinical suspicion is a viral pneumonia, given the current epidemiological context of widespread community transmission.
+
+History of Present Illness (HPI):
+Mateusz Kowalski, a 28-year-old male, reports experiencing symptoms for five days, including fever, cough, and shortness of breath. His symptoms have progressively worsened, leading to significant distress while ambulating or performing any physical activity. He denies any history of recent travel or exposure to known COVID-19 cases but admits to participating in social gatherings with friends.
+
+Past Medical History (PMH):
+The patient has no significant past medical history and is not on any chronic medications.
+
+Medications:
+Initiated on empirical antibiotic therapy due to the suspicion of bacterial superinfection, pending further diagnostic results. Additionally, given the severity of symptoms and risk factors for COVID-19, antiviral medication has been added as prophylaxis until confirmatory testing can be completed.
+
+Family History (FH):
+No relevant family medical history reported by the patient.
+
+Social History (SH):
+Patient reports recent social gatherings with friends in the local community. He denies any recent travel or contact with known COVID-19 cases but acknowledges frequent exposure to high-risk settings such as restaurants and bars.
+
+Physical Examination (PE):
+- Vital signs: Temperature 39°C, Respiratory rate 28/min, Heart rate 110 bpm.
+- General appearance: Fatigued, appears ill.
+- Lungs: Bilateral coarse crackles, wheezing noted on expiration. Decreased breath sounds in the lower lobes of both lungs.
+- Cardiovascular: Tachycardic, no murmurs or gallops noted.
+- Other systems: Abdomen soft, non-tender; neurological examination unremarkable.
+
+Initial Diagnosis:
+Severe respiratory distress with viral pneumonia as the primary clinical suspicion. Empirical antibiotic therapy initiated for suspected bacterial superinfection and antiviral prophylaxis based on COVID-19 risk factors.
+
+Plan (Treatment & Management):
+Continue monitoring vital signs and oxygen saturation closely, maintaining strict infection control measures due to the high suspicion of a contagious respiratory illness. Further diagnostic tests including chest X-ray and viral PCR are pending. The patient will be educated about his condition and the importance of isolation precautions until further notice. Follow-up with infectious disease consulting for further management based on results from confirmatory testing.

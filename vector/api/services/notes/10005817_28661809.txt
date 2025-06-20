@@ -1,0 +1,52 @@
+Patient Information:
+- Patient ID: 10005817
+- Admission ID: 28661809
+- Patient Name: Yasmin Khan
+- Patient Age: 66 years old
+
+Initial Diagnosis:
+The patient presents with severe shortness of breath and desaturation on room air.
+
+History of Present Illness (HPI):
+Yasmin Khan, a 66-year-old female, reports progressive dyspnea over the past two weeks. She has been experiencing increased difficulty breathing, especially during exertion, accompanied by blue discoloration of her lips when she tries to walk short distances. Recently, she has also noticed a persistent cough with yellowish sputum production.
+
+Past Medical History (PMH):
+- Chronic obstructive pulmonary disease (COPD) for 10 years
+- Hypertension managed with medication
+- History of smoking (40 pack-years)
+- Previous pneumonia two months ago
+
+Medications:
+- Albuterol inhaler as needed
+- Ipratropium bromide inhaler twice daily
+- Budesonide/formoterol inhaler once daily
+- Amlodipine for hypertension
+
+Family History (FH):
+- Mother had COPD and passed away from respiratory complications
+- No other significant family medical history reported
+
+Social History (SH):
+- Lives alone; no support system at home
+- Denies alcohol or illicit drug use
+
+Physical Examination (PE):
+- Respiratory rate: 28 breaths per minute, increased effort noted
+- Oxygen saturation: 88% on room air, improving with supplemental oxygen
+- Use of accessory muscles for breathing observed
+- Lungs: Bilateral coarse crackles and wheezing heard, more pronounced on the left side
+- Cardiovascular: Tachycardia present (104 bpm)
+- No other abnormalities noted during the exam
+
+Initial Diagnosis:
+Based on clinical presentation and history, the primary diagnosis is likely severe exacerbation of chronic obstructive pulmonary disease (COPD) with possible pneumonia superimposed.
+
+Plan (Treatment & Management):
+- Continue supplemental oxygen to maintain saturation above 90%
+- Initiate intravenous antibiotics covering for typical respiratory pathogens
+- Administer bronchodilators and corticosteroids as per protocol for COPD exacerbation
+- Monitor vital signs closely, including oxygen saturation and heart rate
+- Arrange for chest X-ray and arterial blood gas analysis to confirm diagnosis and assess severity
+- Educate the patient on proper inhaler use and importance of smoking cessation
+- Consider pulmonary rehabilitation consultation for long-term management
+- Social work involvement for support system assessment and possible home safety evaluation due to lack of caregiver

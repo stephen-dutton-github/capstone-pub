@@ -1,0 +1,38 @@
+Patient Information:
+Patient ID: 10005348, Admission ID: 25239799, Patient Name: Ethan Williams, Age: 76.
+
+Initial Diagnosis:
+The patient presents with symptoms indicative of a complex cardiac condition characterized by the presence of a murmur and dyspnea on exertion. Given the age of the patient, it is essential to consider age-related degenerative changes in the heart valves as one of the potential causes.
+
+History of Present Illness (HPI):
+Ethan Williams, a 76-year-old male, reports experiencing shortness of breath and fatigue with minimal exertion over the past few weeks. He denies any history of chest pain or palpitations but has noticed an audible "whooshing" sound from his heart that worsens with physical activity.
+
+Past Medical History (PMH):
+The patient has a significant medical history including hypertension, hyperlipidemia, and type 2 diabetes mellitus. He is currently on losartan for blood pressure control and atorvastatin for lipid management. He also takes metformin for diabetes control and aspirin as an antiplatelet agent.
+
+Medications:
+- Losartan
+- Atorvastatin
+- Metformin
+- Aspirin
+
+Family History (FH):
+There is a significant family history of cardiovascular disease, with his father having had a myocardial infarction at age 65 and his brother diagnosed with congestive heart failure.
+
+Social History (SH):
+The patient lives alone and drives himself to appointments. He denies smoking or excessive alcohol use but reports an occasional glass of wine at dinner. He enjoys regular physical activity within limits, as advised by his primary care physician due to his medical history.
+
+Physical Examination (PE):
+Vital signs show an elevated heart rate with a blood pressure slightly above normal levels for his age group. Auscultation of the heart reveals a systolic ejection murmur best heard at the right upper sternal border. Lung sounds are clear bilaterally, and there is no edema noted in the lower extremities.
+
+Initial Diagnosis:
+Based on the clinical presentation and physical examination findings, an aortic valve disorder is highly suspected. This conclusion is further supported by the patient's family history of cardiovascular diseases.
+
+Plan (Treatment & Management):
+1. Further diagnostic workup including echocardiography to confirm the diagnosis.
+2. Consultation with cardiology for management options.
+3. Continue current medications and monitor blood pressure closely.
+4. Advise the patient on lifestyle modifications such as reducing physical exertion, maintaining a low-sodium diet, and adhering to prescribed medications.
+5. Arrange follow-up appointments in one week or sooner if symptoms worsen.
+
+The treatment plan will be discussed with the patient after all diagnostic tests are completed. The goal of management is to prevent further deterioration of his cardiac condition while ensuring optimal quality of life for the patient.

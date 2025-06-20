@@ -1,0 +1,36 @@
+Patient Information:
+- Patient ID: 10018423
+- Admission ID: 29366372
+- Patient Name: Faiza Rahman
+- Patient Age: 37
+
+Initial Diagnosis:
+- Acute respiratory failure secondary to severe lower respiratory tract infection with concurrent systemic inflammatory response syndrome.
+
+History of Present Illness (HPI):
+Faiza Rahman, a 37-year-old female, presented to the emergency department with complaints of high fever and progressive shortness of breath for three days. She also reported recent loss of smell and taste, persistent cough, and generalized malaise. Faiza has been following COVID-19 safety protocols including social distancing, wearing masks in public, and regular hand sanitizing.
+
+Past Medical History (PMH):
+No significant past medical history noted on record.
+
+Medications:
+Upon admission, medications included acetaminophen 975 mg QID for fever control and oseltamivir 75 mg BD prophylactically against influenza. 
+
+Family History (FH):
+No relevant family medical history provided at this time.
+
+Social History (SH):
+Faiza is a non-smoker and has no history of substance abuse or recreational drug use. She works as an essential healthcare worker in the ICU, wearing PPE daily for extended periods. Faiza resides with her spouse and two children, all of whom have been asymptomatic since her illness onset.
+
+Physical Examination (PE):
+On physical examination, vital signs revealed tachypnea (24 breaths per minute) and hypoxia (oxygen saturation at 88% on room air). Chest auscultation showed diffuse crackles bilaterally. The patient appeared febrile with a temperature of 38°C. Respiratory rate was elevated at 24 breaths per minute, indicative of respiratory distress.
+
+Initial Diagnosis:
+The primary assessment indicates severe lower respiratory tract infection complicated by systemic inflammatory response syndrome (SIRS). Given her occupational exposure in an ICU setting and recent onset symptoms consistent with COVID-19, this presentation strongly suggests COVID-19 pneumonia as the underlying etiology.
+
+Plan (Treatment & Management):
+- Initiate broad-spectrum antibiotics pending microbiological results.
+- Administer empiric antiviral therapy given high suspicion for COVID-19 based on clinical presentation and occupational exposure.
+- Provide supplemental oxygen support as needed to maintain adequate saturation levels.
+- Monitor vital signs closely, particularly respiratory rate and oxygenation status.
+- Engage multidisciplinary team including pulmonology, infectious disease specialists, and critical care experts for further management and adjustments in therapy as necessary.

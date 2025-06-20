@@ -1,0 +1,32 @@
+Patient Information:
+- Patient ID: 10040025
+- Admission ID: 27996267
+- Patient Name: Anna Müller
+- Patient Age: 64 years old
+
+Initial Diagnosis:
+The patient presented with symptoms suggestive of a severe respiratory infection characterized by high fever, productive cough with yellow sputum, and shortness of breath. Vital signs upon arrival showed tachypnea and hypoxia.
+
+History of Present Illness (HPI):
+Anna Müller is a 64-year-old female who reports a five-day history of worsening cough and shortness of breath. She denies any recent travel or exposure to sick contacts. The onset of symptoms was abrupt, starting with low-grade fever followed by the appearance of yellow sputum production and increasing respiratory distress.
+
+Past Medical History (PMH):
+Anna has a significant medical history of hypertension, type 2 diabetes mellitus, and hyperlipidemia. She is also a current smoker with a pack-year history of 20.
+
+Medications:
+The patient is currently taking lisinopril 10 mg daily for hypertension, metformin 500 mg twice daily for diabetes, and simvastatin 40 mg daily for hyperlipidemia.
+
+Family History (FH):
+Anna's father died from complications related to chronic obstructive pulmonary disease (COPD) at the age of 75. Her mother had a history of asthma but passed away due to cardiovascular disease at the age of 68.
+
+Social History (SH):
+The patient works as an accountant and lives with her husband, who does not smoke. She enjoys walking outdoors regularly but has recently been less active due to her respiratory symptoms.
+
+Physical Examination:
+Vital signs include tachypnea with a respiratory rate of 24 breaths per minute and oxygen saturation at 88% on room air. Auscultation reveals diffuse bilateral coarse crackles. Chest X-ray shows patchy infiltrates in both lungs, more pronounced in the right lower lobe. Arterial blood gas analysis indicates hypoxemia and hypercapnia.
+
+Initial Diagnosis:
+Based on clinical presentation, imaging findings, and laboratory results, the primary diagnosis is an unspecified bacterial pneumonia complicated by acute respiratory failure. Differential diagnoses include viral pneumonia or atypical pathogens such as Legionella pneumophila.
+
+Plan (Treatment & Management):
+The patient will be started on broad-spectrum antibiotics including ceftriaxone and azithromycin to cover both typical and atypical bacteria, along with supplemental oxygen via nasal cannula to manage hypoxemia. The respiratory therapy team will assess her need for non-invasive ventilation if her condition does not improve within the next 24 hours. Blood cultures and sputum Gram stain will be obtained to identify a specific pathogen. Regular monitoring of vital signs, oxygen saturation, and chest X-ray will be conducted to ensure appropriate response to treatment. Anna will also receive counseling on smoking cessation as part of her management plan due to her significant medical history and current respiratory condition.

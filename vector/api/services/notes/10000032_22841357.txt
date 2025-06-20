@@ -1,0 +1,43 @@
+Patient Information:
+- Patient ID: 10000032
+- Admission ID: 22841357
+- Patient Name: Aarav Sharma
+- Patient Age: 52 years old
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of advanced liver disease characterized by altered mental status, jaundice, and coagulopathy.
+
+History of Present Illness (HPI):
+Mr. Sharma was referred from his primary care physician due to a recent history of increasing fatigue, abdominal distension, and episodes of syncope. He reports that he has been experiencing intermittent nausea without vomiting for the past two months. There is no reported fever or chills. The patient denies any significant alcohol use but admits to having an unprotected sex partner in the past.
+
+Past Medical History (PMH):
+The patient has a history of hypertension and hyperlipidemia, treated with atorvastatin and lisinopril, respectively. He also reports a previous diagnosis of chronic hepatitis B infection for which he completed a course of antiviral therapy ten years ago.
+
+Medications:
+Atorvastatin 40 mg daily, Lisinopril 10 mg daily
+
+Family History (FH):
+The patient's mother passed away due to liver cirrhosis at age 55. There is no other significant family medical history reported.
+
+Social History (SH):
+The patient lives alone, is a nonsmoker, and consumes alcohol socially. He works as an accountant and reports no occupational exposure to hepatotoxic agents. The patient has had unprotected sexual encounters in the past, which he acknowledges may have increased his risk for hepatitis infection.
+
+Physical Examination (PE):
+- General: Alert but disoriented, dry mucous membranes, jaundiced, and warm to touch.
+- Vital Signs: BP 120/80 mmHg, pulse 90 bpm, RR 18 breaths/min, SpO2 98% on room air
+- HEENT: icteric sclerae. No other abnormalities noted
+- Abdomen: Soft, non-tender with mild distension, no organomegaly detected.
+- Neurological: Altered mental status, incoherent speech.
+
+Initial Diagnosis:
+The patient's presentation is consistent with advanced liver disease characterized by hepatic encephalopathy and evidence of decompensated cirrhosis. The possibility of a superimposed acute viral hepatitis infection should be considered given the history and physical examination findings.
+
+Plan (Treatment & Management):
+- Admit to the medical floor for close monitoring and supportive care.
+- Initiate lactulose 30 mL three times daily to manage encephalopathy symptoms.
+- Order complete blood count, liver function tests, coagulation profile, hepatitis serologies, and viral load testing to confirm the presence of acute or chronic infection.
+- Consult gastroenterology for potential endoscopic evaluation and liver biopsy if indicated.
+- Monitor vital signs and neurological status closely, with immediate intervention if there are any signs of deterioration.
+- Educate patient on lifestyle modifications including avoidance of alcohol consumption, safer sex practices, and compliance with prescribed medications.
+
+This plan aims to manage the acute presentation while investigating underlying chronic disease. The presence of altered mental status and jaundice in a known hypertensive patient who has had hepatitis B infection raises concerns for a potential superimposed viral hepatitis C infection or other hepatotoxic agents causing decompensated cirrhosis.

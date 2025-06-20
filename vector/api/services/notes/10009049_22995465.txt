@@ -1,0 +1,39 @@
+Patient Information:
+- Patient ID: 10009049
+- Admission ID: 22995465
+- Patient Name: Rania Haddad
+- Patient Age: 56 years old
+
+Initial Diagnosis:
+The patient presents with respiratory symptoms, including cough and dyspnea, along with fever. There is a strong suspicion of viral etiology due to the current community outbreak.
+
+History of Present Illness (HPI):
+Rania Haddad, a 56-year-old female, presented to the emergency department complaining of worsening cough over five days, associated with intermittent fever for three days and mild dyspnea on exertion. She reports no improvement despite using over-the-counter cough suppressants and hydration.
+
+Past Medical History (PMH):
+The patient has no significant past medical history. No allergies reported.
+
+Medications:
+No current medications were reported by the patient.
+
+Family History (FH):
+There is no family history of similar respiratory symptoms or chronic lung disease.
+
+Social History (SH):
+Rania Haddad lives alone, works as a part-time librarian in a local library, and reports limited social interactions due to COVID-19 restrictions. She has not traveled recently but was exposed to someone with similar symptoms three weeks ago.
+
+Physical Examination (PE):
+Vital signs: Temperature 102°F, respiratory rate 24/min, blood pressure 110/70 mm Hg, oxygen saturation 88% on room air.
+General: Appears moderately ill, in no acute distress.
+Respiratory: Mild crackles noted in the lower lung fields bilaterally. No wheezing or rhonchi.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+
+Initial Diagnosis:
+Severe acute respiratory illness with suspected viral etiology, given the current community outbreak and presentation of symptoms.
+
+Plan (Treatment & Management):
+The patient will be admitted to a medical floor for isolation due to suspected infectious nature of her illness. Initial management will include antipyretics, hydration, and supplemental oxygen as needed.
+A complete blood count, C-reactive protein level, and chest X-ray will be obtained upon admission to evaluate the severity of lung involvement. 
+Antiviral therapy may be considered pending further diagnostic results.
+
+Note: This note does not state COVID-19 directly but aligns with pneumonia due to COVID-19 based on patient's symptoms, presentation during community outbreak, and suspected viral etiology.

@@ -1,0 +1,109 @@
+
+services:
+  ollama:
+    build: ./ollama
+    ports:
+      - ${OLLAMA_BASE_PORT}:11434
+    restart: always
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+    volumes:
+      - ollama:/root/.ollama
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:11434"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+
+  open-webui:
+    image: ghcr.io/open-webui/open-webui:main
+    restart: always
+    env_file: .env
+    environment:
+      - OLLAMA_BASE_URL=http://host.docker.internal:${OLLAMA_BASE_PORT} # Use service name, not host.docker.internal
+    volumes:
+      - open-webui:/app/backend/data
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    ports:
+      - "${OPEN_WEB_UI_BASE_PORT}:8080"
+    depends_on:
+      ollama:
+        condition: service_healthy
+
+  vector:
+    build: ./vector
+    env_file: .env
+    restart: always
+    ports:
+      - ${VECTOR_BASE_PORT}:8000
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+    volumes:
+      - vector:/app/src
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    depends_on:
+      ollama:
+        condition: service_healthy
+    
+
+  xray:
+    build: ./xray
+    env_file: .env
+    restart: always
+    ports:
+      - "${XRAY_BASE_PORT}:8000"
+      - 5688:5688
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+    volumes:
+      - xray:/app
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+
+volumes:
+  ollama:
+    driver: local
+    driver_opts:
+      type: none
+      o: bind
+      device: ./ollama
+
+  open-webui:
+    driver: local
+    driver_opts:
+      type: none
+      o: bind
+      device: ./openWebUi/data
+
+  vector:
+    driver: local
+    driver_opts:
+      type: none
+      o: bind
+      device: ./vector
+
+  xray:
+    driver: local
+    driver_opts:
+      type: none
+      o: bind
+      device: ./xray

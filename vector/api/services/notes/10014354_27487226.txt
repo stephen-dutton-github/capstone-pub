@@ -1,0 +1,47 @@
+Patient Information:
+- Patient ID: 10014354
+- Admission ID: 27487226
+- Patient Name: Min-Jun Kim
+- Patient Age: 60
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of severe respiratory infection characterized by fever, cough, and dyspnea. The onset is acute, with a rapid decline in clinical status.
+
+History of Present Illness (HPI):
+The patient, a 60-year-old male, was referred to the emergency department after experiencing worsening respiratory symptoms over five days. He reports high-grade fever, productive cough, and progressive shortness of breath, particularly on exertion. He denies any known exposure to sick contacts or recent travel.
+
+Past Medical History (PMH):
+- Hypertension
+- Type 2 diabetes mellitus with complications (retinopathy)
+- Chronic obstructive pulmonary disease (COPD), currently well-controlled
+
+Medications:
+- Metformin for type 2 diabetes
+- Amlodipine for hypertension
+- Ipratropium and tiotropium for COPD
+
+Family History (FH):
+- Father deceased due to heart attack; mother alive with no significant medical issues. One sibling has history of chronic bronchitis.
+
+Social History (SH):
+- Currently lives alone, retired accountant with limited mobility due to advanced arthritis.
+- Non-smoker
+- Last physical examination 6 months ago, reported by primary care physician as 'normal'
+
+Physical Examination (PE):
+- Vital signs: Temperature 38.8°C, blood pressure 130/80 mmHg, pulse rate 110 bpm, respiratory rate 28 breaths per minute, oxygen saturation 88% on room air
+- General appearance: Appears acutely ill, using accessory muscles for breathing
+- Respiratory: Bilateral coarse crackles noted in both lung fields. Decreased tactile fremitus.
+- Cardiovascular: No murmurs, rubs or gallops. Heart sounds slightly distant.
+- Extremities: No edema, decreased range of motion due to arthritis
+
+Initial Diagnosis:
+The patient's clinical presentation and physical examination findings are suggestive of severe pneumonia complicated by acute respiratory distress syndrome (ARDS). The differential diagnosis includes COVID-19 pneumonia, given the current pandemic context.
+
+Plan (Treatment & Management):
+- Initiate empiric broad-spectrum antibiotics targeting atypical organisms.
+- Provide supplemental oxygen via nasal cannula to maintain oxygen saturation > 90%.
+- Administer antiviral therapy considering COVID-19 as a potential etiology.
+- Monitor for signs of worsening respiratory status or hemodynamic instability, escalating care if needed.
+- Coordinate with infectious disease specialists and pulmonology to assist in managing the patient's care.
+- Ensure isolation precautions are maintained due to suspected infectious etiology.

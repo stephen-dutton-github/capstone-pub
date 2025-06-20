@@ -1,0 +1,47 @@
+Patient Information:
+- Patient ID: 10001217
+- Admission ID: 27703517
+- Patient Name: Fatima Al-Zahra
+- Patient Age: 55 years old
+
+Initial Diagnosis:
+- Focal neurological deficits and altered mental status
+
+History of Present Illness (HPI):
+Fatima Al-Zahra, a 55-year-old female, presented to the emergency department with complaints of sudden onset severe headache, nausea, vomiting, and difficulty speaking. She reported that these symptoms began approximately three days ago without any preceding events or known exposures.
+
+Past Medical History (PMH):
+- Hypertension
+- Diabetes mellitus type II
+- Hyperlipidemia
+
+Medications:
+- Amlodipine 10 mg daily for hypertension
+- Metformin 1000 mg twice a day for diabetes mellitus type II
+- Atorvastatin 20 mg daily for hyperlipidemia
+
+Family History (FH):
+- Mother deceased due to stroke at age 70
+- Father deceased due to congestive heart failure at age 75
+- Brother with poorly controlled hypertension and diabetes mellitus type II
+
+Social History (SH):
+- Divorced, lives alone
+- Smokes one pack of cigarettes daily for the past 30 years
+- Drinks alcohol occasionally
+- Works as a teacher in an elementary school
+
+Physical Examination (PE):
+- General: Alert but lethargic; appears pale and anxious
+- Neurological: Focal left-sided weakness, impaired coordination, and decreased cognitive function. No papilledema noted.
+- Vital Signs: BP 165/95 mmHg, pulse 90 bpm, temperature 38°C, respiratory rate 18 breaths/min
+
+Initial Diagnosis:
+Based on clinical presentation and physical examination findings, the patient's symptoms suggest a central nervous system infection with possible intracranial pathology.
+
+Plan (Treatment & Management):
+- Obtain non-contrast CT scan of the head to assess for any intracranial lesion or hemorrhage
+- Initiate broad-spectrum antibiotics considering potential bacterial meningitis
+- Manage blood pressure and glucose levels closely
+- Consult neurology for further evaluation and management
+- Monitor vital signs and neurological status closely

@@ -1,0 +1,34 @@
+Patient Information:
+- Patient ID: 10022880
+- Admission ID: 27708593
+- Patient Name: Vinh Phạm
+- Patient Age: 66
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of a systemic granulomatous disease, characterized by widespread dissemination of lesions in multiple organs.
+
+History of Present Illness (HPI):
+Vinh Phạm, a 66-year-old male, was admitted with complaints of persistent fever, night sweats, and unintentional weight loss over the past two months. He also reports fatigue, joint pain, and generalized body aches. The patient denies any recent travel or exposure to tuberculosis but acknowledges a history of untreated latent tuberculosis infection.
+
+Past Medical History (PMH):
+The patient has a significant PMH of chronic obstructive pulmonary disease (COPD), treated with bronchodilators and inhaled steroids, as well as hypertension managed with an ACE inhibitor. He reports non-adherence to his COPD medications due to financial constraints and has missed several follow-up appointments.
+
+Medications:
+Currently taking albuterol, fluticasone, losartan, and lisinopril. No antituberculosis medications noted in recent history.
+
+Family History (FH):
+The patient's mother had a history of tuberculosis, but he denies any other significant family history related to infectious diseases.
+
+Social History (SH):
+The patient is a retired mechanic who lives alone. He has limited social interaction due to mobility issues and COPD exacerbations. Denies substance abuse or tobacco use.
+
+Physical Examination (PE):
+Generalized appearance of malnutrition with signs of chronic illness, including pallor and dry mucous membranes. Respiratory examination reveals wheezing and diminished breath sounds bilaterally, consistent with COPD. Cardiovascular examination shows normal heart sounds without murmurs. Abdominal examination is non-tender but reveals mild hepatosplenomegaly.
+
+Initial Diagnosis:
+The clinical presentation and physical findings suggest a systemic granulomatous disease, possibly secondary to reactivation of latent tuberculosis infection, given the patient's history and exposure risk.
+
+Plan (Treatment & Management):
+Initiate anti-tuberculosis therapy as per local guidelines. Monitor for drug-related side effects and adjust dosages accordingly. Ensure adherence to COPD medications and consider financial assistance programs to address non-adherence issues. Schedule regular follow-up appointments to monitor treatment response and compliance. Educate the patient on the importance of medication adherence and potential complications of untreated tuberculosis.
+
+Note: The diagnosis of miliary tuberculosis is suspected but not explicitly stated in this note, as per the given instructions.

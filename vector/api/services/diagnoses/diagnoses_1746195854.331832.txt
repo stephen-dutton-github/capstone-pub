@@ -1,0 +1,3 @@
+multi_modal,cnn_confidence,cnn_diagnosis,llm_diagnosis,icd_diagnosis,llm_correct,cnn_correct,subject_id,icd_version,icd_code
+,0.0,Other,Covid-19,Pneumonia due to COVID-19,False,False,10014729,10,J1282
+,0.5059,Covid,Covid-19,Pneumonia due to COVID-19,False,False,10014729,10,J1282

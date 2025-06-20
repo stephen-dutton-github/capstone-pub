@@ -1,0 +1,49 @@
+Patient Information:
+- Patient ID: 10015931
+- Admission ID: 22130791
+- Patient Name: Muhammad Iqbal
+- Patient Age: 87 years old
+
+Initial Diagnosis:
+Based on clinical presentation and initial investigations, the primary concern is a severe respiratory infection characterized by dyspnea, cough, fever, and hypoxia.
+
+History of Present Illness (HPI):
+Muhammad Iqbal, an 87-year-old male, presented with worsening shortness of breath over five days, productive cough for two days, high-grade fever for one day, and recent loss of appetite. He reports a history of multiple comorbidities including hypertension, coronary artery disease, chronic kidney disease stage III, type 2 diabetes mellitus, and previous myocardial infarction.
+
+Past Medical History (PMH):
+- Hypertension
+- Coronary artery disease with previous myocardial infarction
+- Chronic kidney disease stage III
+- Type 2 diabetes mellitus
+- History of smoking (40 pack-years, quit 10 years ago)
+
+Medications:
+- Amlodipine for hypertension
+- Metoprolol succinate for coronary artery disease
+- Insulin for type 2 diabetes mellitus
+- Acetylcysteine for chronic kidney disease
+
+Family History (FH):
+Paternal grandmother died from pneumonia at the age of 85. No other immediate family members have significant medical history.
+
+Social History (SH):
+Lives alone in an apartment, with limited mobility due to previous hip replacement surgery. He is a retired machinist and has been socially isolated since his wife's death two years ago.
+
+Physical Examination (PE):
+- General: Elderly male appears tired but alert, afebrile currently.
+- Respiratory: Bilateral crackles noted in lower lung fields, decreased breath sounds on the right side. Oxygen saturation is 88% on room air.
+- Cardiovascular: Grade II ejection systolic murmur at the apex.
+- Abdomen: Soft, non-tender without organomegaly.
+
+Initial Diagnosis:
+Given the clinical presentation and risk factors, this elderly male patient likely has a severe respiratory infection secondary to an unidentified pathogen. The differential diagnosis includes COVID-19 given the current pandemic context, as well as other common causes of pneumonia in older adults such as influenza or bacterial pathogens.
+
+Plan (Treatment & Management):
+- Immediate initiation of oxygen therapy with non-rebreather mask.
+- Order chest X-ray and blood tests including complete blood count, C-reactive protein, procalcitonin, and arterial blood gas analysis.
+- Start empiric antibiotic therapy pending further culture results.
+- Monitor vital signs closely and re-assess respiratory status frequently. 
+- Consider consultation with infectious disease specialist based on preliminary test results.
+- Provide supportive care and consider early involvement of palliative care team given the patient's advanced age and comorbidities.
+
+Further testing will guide a more definitive diagnosis and treatment plan, but this initial management strategy aims to address potential severe respiratory compromise while also respecting cultural and personal preferences for end-of-life care.

@@ -1,0 +1,36 @@
+Patient Information:
+- Patient ID: 10040025
+- Admission ID: 25172300
+- Patient Name: Anna Müller
+- Patient Age: 64
+
+Initial Diagnosis:
+Aerobic gram-positive cocci with hemolysis were isolated from a sputum culture, indicative of bacterial infection.
+
+History of Present Illness (HPI):
+Anna Müller is a 64-year-old female who presented to the emergency department with a week-long history of fever, cough, and dyspnea. The patient reported an initial improvement following the use of over-the-counter medications but experienced worsening symptoms necessitating hospital admission.
+ 
+Past Medical History (PMH):
+The patient has hypertension, which is currently well-controlled on lisinopril 10 mg daily. There is no history of smoking or chronic obstructive pulmonary disease.
+
+Medications:
+- Lisinopril 10 mg daily
+
+Family History (FH):
+No significant family medical history reported.
+
+Social History (SH):
+Anna Müller lives alone and works as an administrative assistant. She reports minimal social interactions due to her job's nature and does not use tobacco products or alcohol.
+
+Physical Examination (PE):
+Vital signs: Temperature elevated at 38°C, respiratory rate increased at 24/min, oxygen saturation at 92% on room air. Physical examination revealed diffuse rhonchi throughout bilateral lung fields. No other abnormalities noted during the assessment.
+
+Initial Diagnosis:
+The patient's clinical presentation and sputum culture results suggest a lower respiratory tract infection likely due to aerobic gram-positive cocci with hemolysis.
+
+Plan (Treatment & Management):
+- Initiate broad-spectrum antibiotic therapy based on susceptibility patterns.
+- Provide supplemental oxygen as needed to maintain adequate oxygen saturation.
+- Monitor vital signs closely and reassess lung sounds daily.
+- Educate the patient on the importance of completing the full course of antibiotics.
+- Schedule follow-up appointment with primary care physician post-discharge.

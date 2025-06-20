@@ -1,0 +1,32 @@
+Patient Information:
+Patient ID: 10007795
+Admission ID: 22051341
+Patient Name: Nikolai Petrov
+Patient Age: 53
+
+Initial Diagnosis:
+The patient presents with symptoms indicative of significant fluid loss and electrolyte imbalance.
+
+History of Present Illness (HPI):
+Nikolai Petrov, a 53-year-old male, reports experiencing increased thirst, fatigue, dark urine, and difficulty urinating over the past three days. He denies any recent vomiting or diarrhea but has been unable to drink enough fluids due to an unexplained aversion.
+
+Past Medical History (PMH):
+The patient has no significant medical history and is not on any ongoing medications. No allergies reported.
+
+Medications:
+No current medications prescribed.
+
+Family History (FH):
+There is no relevant family medical history noted in the records provided.
+
+Social History (SH):
+Nikolai lives alone, is a nonsmoker, consumes moderate alcohol, and engages in regular physical activities including hiking on weekends. He works as an accountant in a large firm.
+
+Physical Examination (PE):
+Vital signs show dehydration indicated by low blood pressure (90/60 mmHg), tachycardia (100 bpm), dry mucous membranes, decreased skin turgor, and dark yellow urine. Generalized weakness noted. No other abnormalities detected on examination.
+
+Initial Diagnosis:
+Based on the patient's symptoms, physical findings, and lack of gastrointestinal losses, the primary assessment is a significant fluid volume deficit secondary to inadequate hydration intake over several days. This likely represents acute dehydration, but without direct confirmation due to unavailable lab data at this time.
+
+Plan (Treatment & Management):
+Immediate interventions include IV fluids with isotonic saline for rehydration, close monitoring of vital signs and hydration status, and correction of any electrolyte imbalances as identified by further laboratory testing. Patient education regarding the importance of adequate fluid intake will be provided to prevent recurrence. Follow-up appointment scheduled in one week or sooner if symptoms persist or worsen.

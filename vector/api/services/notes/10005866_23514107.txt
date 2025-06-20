@@ -1,0 +1,39 @@
+Patient Information:
+- Patient ID: 10005866
+- Admission ID: 23514107
+- Patient Name: Bao Nguyen
+- Patient Age: 57 years old
+
+Initial Diagnosis:
+- Acute abdomen with suspected intestinal obstruction
+
+History of Present Illness (HPI):
+- The patient presents with severe abdominal pain, nausea, vomiting, and constipation for three days. He reports that the symptoms started suddenly, without any preceding diarrhea or fever. The patient also mentions a history of appendectomy 20 years ago.
+
+Past Medical History (PMH):
+- Appendectomy 20 years ago
+- Hypertension controlled with medication
+
+Medications:
+- Lisinopril 10 mg daily for hypertension
+
+Family History (FH):
+- Non-contributory
+
+Social History (SH):
+- The patient is a retired factory worker, married with two children. He denies any recent travel or changes in his diet.
+
+Physical Examination (PE):
+- Vital signs: BP 140/90 mmHg, pulse 90 bpm, temperature 37°C, respiratory rate 18 breaths per minute
+- Abdominal examination shows diffuse tenderness, particularly in the lower quadrants. There is no guarding or rebound tenderness noted.
+- Laboratory tests reveal elevated white blood cell count (14,000/mm3), mild metabolic acidosis (pH 7.37), and mild hypokalemia (K+ 3.2 mmol/L)
+
+Initial Diagnosis:
+Based on the clinical presentation and laboratory findings, a primary diagnosis of intestinal obstruction is suspected.
+
+Plan (Treatment & Management):
+- Immediate initiation of intravenous fluid resuscitation to correct dehydration
+- Administer antiemetics for nausea and vomiting control
+- Order abdominal X-ray to confirm the presence of bowel obstruction
+- Consult general surgery for potential surgical intervention if imaging confirms adhesive small bowel obstruction
+- Monitor vital signs and electrolyte levels closely, and adjust treatment as necessary.

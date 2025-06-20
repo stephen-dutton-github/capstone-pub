@@ -1,0 +1,32 @@
+Patient Information:
+- Patient ID: 10019003
+- Admission ID: 26703331
+- Patient Name: Amir Ahmadi
+- Patient Age: 65
+
+Initial Diagnosis:
+The primary concern for this patient is an acute respiratory infection, characterized by fever, cough, and dyspnea on exertion. The clinical picture suggests a severe lower respiratory tract infection.
+
+History of Present Illness (HPI):
+Mr. Ahmadi presented to the emergency department with a two-day history of worsening cough, progressive shortness of breath, and low-grade fever. He denies any known exposure to COVID-19 or other respiratory viruses. His vaccination status includes a pneumococcal conjugate vaccine administered three years ago.
+
+Past Medical History (PMH):
+The patient has hypertension, managed with lisinopril 20 mg daily. He also has a history of type II diabetes mellitus treated with metformin 500 mg twice daily and insulin glargine 30 units at bedtime. Additionally, he reports chronic obstructive pulmonary disease (COPD), currently controlled on salmeterol/fluticasone inhaler as needed.
+
+Medications:
+- Lisinopril 20 mg daily
+- Metformin 500 mg twice daily
+- Insulin glargine 30 units at bedtime
+- Salmeterol/fluticasone inhaler as needed
+
+Family History (FH):
+His spouse is a healthcare worker and has recently tested positive for COVID-19. There are no other known family members with respiratory infections.
+
+Social History (SH):
+The patient lives alone in an apartment with air conditioning but no air filtration system. He reports social distancing compliance, including frequent handwashing and wearing a mask outdoors.
+
+Physical Examination (PE):
+Vital signs show tachypnea with an oxygen saturation of 88% on room air. Auscultation reveals diffuse bilateral crackles suggestive of interstitial lung disease or pneumonia-like consolidation. Chest X-ray shows patchy infiltrates in both lungs, indicative of severe pneumonia. Complete blood count shows leukocytosis with a left shift, and C-reactive protein is elevated at 12 mg/dL.
+
+Plan (Treatment & Management):
+Initiate empiric antibiotic therapy targeting atypical pathogens and monitor response closely. Continue supportive care with oxygen supplementation via nasal cannula to maintain SpO2 above 90%. Consider antiviral therapy if COVID-19 test returns positive, given the spouse's recent diagnosis. Schedule follow-up within one week or sooner if symptoms worsen. Educate patient on signs of respiratory distress and advise close monitoring at home.

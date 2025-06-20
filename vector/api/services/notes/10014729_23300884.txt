@@ -1,0 +1,34 @@
+Patient Information:
+- Patient ID: 10014729
+- Admission ID: 23300884
+- Patient Name: Leah Goldberg
+- Patient Age: 21
+
+Initial Diagnosis:
+The patient presented with acute onset of fever, cough, and shortness of breath. The respiratory status has deteriorated rapidly over the past 48 hours.
+
+History of Present Illness (HPI):
+Leah Goldberg, a college student, reported recent travel to a highly impacted area for a spring break trip approximately two weeks ago. She began experiencing mild symptoms upon her return but denied any close contact with known COVID-19 cases. Symptoms progressed to include high-grade fever, persistent cough, and increasing shortness of breath over the past week.
+
+Past Medical History (PMH):
+No significant medical history reported; patient is otherwise healthy.
+
+Medications:
+None reported.
+
+Family History (FH):
+Mother has a history of chronic obstructive pulmonary disease (COPD), but there is no family history of COVID-19 or other respiratory infections.
+
+Social History (SH):
+Student, recently returned from an area with known community transmission of SARS-CoV-2. Reports non-adherence to social distancing and masking guidelines during her trip due to the perceived low risk based on travel group size.
+
+Physical Examination (PE):
+- Vital signs: Temperature 102°F, pulse 110 bpm, respiratory rate 28/min, blood pressure 90/60 mm Hg
+- Respiratory: Bilateral coarse crackles noted in lower lung fields. Oxygen saturation on room air is 88%.
+- General: Patient appears fatigued and diaphoretic.
+
+Initial Diagnosis:
+The patient's clinical presentation and history are suggestive of severe respiratory infection with acute hypoxia.
+
+Plan (Treatment & Management):
+Initiate empiric antibiotic therapy for community-acquired pneumonia, considering the recent travel history. Administer antipyretics for fever control and supplemental oxygen to maintain saturation above 90%. Arrange for COVID-19 nasopharyngeal PCR testing and serology. Monitor vital signs closely and consider intubation if respiratory status continues to decline or if oxygen requirements increase. Educate patient on the importance of social distancing and masking to prevent further transmission.

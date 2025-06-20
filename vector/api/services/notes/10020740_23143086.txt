@@ -1,0 +1,37 @@
+Patient Information:
+- Patient ID: 10020740
+- Admission ID: 23143086
+- Patient Name: Omar Farah
+- Patient Age: 56 years old
+
+Initial Diagnosis:
+The patient presents with multiple, small, nodular lesions in both lungs and multiple lytic bone lesions identified on recent imaging studies. There is also evidence of bilateral hilar adenopathy. The clinical presentation suggests an infectious etiology given the radiographic findings.
+
+History of Present Illness (HPI):
+Omar Farah, a 56-year-old male, reports a recent history of fatigue and unintentional weight loss over the past two months. He denies any recent travel or contact with individuals known to have tuberculosis. There is no reported history of cough, fever, night sweats, or hemoptysis.
+
+Past Medical History (PMH):
+The patient has a history of hypertension managed with losartan 50 mg daily and atorvastatin 20 mg daily for hyperlipidemia. He denies any previous pulmonary conditions or known immunocompromising conditions.
+
+Medications:
+Losartan 50 mg daily, atorvastatin 20 mg daily
+
+Family History (FH):
+No immediate family members reported with tuberculosis or other significant medical conditions.
+
+Social History (SH):
+The patient is a non-smoker and has no history of substance abuse. He works as an accountant in a busy office setting but denies any recent exposures to individuals known to have infectious diseases.
+
+Physical Examination:
+- General: Well-nourished, well-developed male in no acute distress.
+- Respiratory: Lungs clear to auscultation bilaterally without wheezes, rales or rhonchi. No lymphadenopathy noted.
+- Cardiovascular: Regular rate and rhythm, no murmurs.
+- Musculoskeletal: Multiple lytic lesions identified on bilateral femur and pelvis.
+
+Initial Diagnosis:
+The clinical presentation with multiple small nodular lesions in the lungs, bilateral hilar adenopathy, and lytic bone lesions suggests a systemic infectious etiology, likely disseminated disease with primary involvement of the pulmonary system.
+
+Plan (Treatment & Management):
+Further diagnostic workup including sputum samples for acid-fast bacilli culture, PCR, and IFN-gamma release assays. Initiate broad-spectrum antibiotics until definitive diagnosis is established. Consultation with an infectious disease specialist recommended for management. Patient education regarding potential diagnosis and need for compliance with the treatment regimen once identified.
+
+Note: The admission note does not directly state Miliary tuberculosis but suggests systemic disseminated infection based on radiographic findings and clinical presentation, indicating suspicion of this diagnosis without confirming it explicitly.

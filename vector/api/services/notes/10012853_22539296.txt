@@ -1,0 +1,33 @@
+Patient Information:
+- Patient ID: 10012853
+- Admission ID: 22539296
+- Patient Name: Noor El-Sayed
+- Patient Age: 91 years old
+
+Initial Diagnosis:
+- Respiratory infection secondary to viral pathogen, likely exacerbated by underlying comorbidities.
+
+History of Present Illness (HPI):
+- The patient is a 91-year-old female presenting with symptoms that began approximately one week ago. She reports experiencing progressive shortness of breath, non-productive cough, and low-grade fever. Recently, she has noted increased difficulty ambulating due to fatigue and dyspnea on exertion.
+
+Past Medical History (PMH):
+- The patient has a significant medical history including hypertension, hyperlipidemia, chronic obstructive pulmonary disease (COPD), osteoporosis, and dementia with moderate impairment. She is currently not taking any antiviral medications or immunosuppressive agents but does take aspirin daily for cardiovascular prophylaxis.
+
+Medications:
+- Aspirin 81 mg daily
+
+Family History (FH):
+- No immediate family members have reported recent respiratory illnesses or similar symptoms.
+
+Social History (SH):
+- The patient resides in a long-term care facility, where she receives routine monitoring and care from staff. She has limited mobility due to her age and dementia but is otherwise independent with activities of daily living (ADLs).
+
+Physical Examination (PE):
+- Vital signs show tachypnea at 24 breaths per minute, oxygen saturation at 88% on room air, blood pressure 105/70 mmHg, heart rate 90 bpm, and temperature 98.2°F. The patient appears pale and has dry mucous membranes. Lungs are diminished bilaterally with crackles noted in both lower lobes. Chest X-ray shows bilateral interstitial infiltrates consistent with acute respiratory distress.
+
+Plan (Treatment & Management):
+- Initiate empiric antibiotic therapy targeting typical community-acquired pneumonia pathogens, considering possible Pseudomonas aeruginosa due to COPD. Order complete blood count, electrolytes, renal function tests, and arterial blood gas analysis.
+- Provide oxygen supplementation as needed to maintain adequate saturation levels.
+- Monitor patient's clinical status closely, with plans for escalation of care should symptoms worsen or not improve within 72 hours.
+- Consult infectious disease for guidance on antiviral therapy given suspected viral etiology based on presentation.
+- Educate family and long-term care facility staff about the patient's condition, treatment plan, and expected course. Ensure all caregivers are aware of infection control protocols to prevent further spread.

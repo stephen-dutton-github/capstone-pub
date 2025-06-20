@@ -1,0 +1,32 @@
+Patient Information:
+- Patient ID: 10021487
+- Admission ID: 26321862
+- Patient Name: Jason Edwards
+- Patient Age: 43
+
+Initial Diagnosis:
+The patient presents with respiratory symptoms, fever, and night sweats. Imaging studies reveal mottled bilateral lung infiltrates.
+
+History of Present Illness (HPI):
+Jason Edwards is a 43-year-old male who reports experiencing persistent cough for six weeks, accompanied by intermittent fever and profuse night sweats. The cough is non-productive but has been worsening recently, leading to fatigue and decreased appetite.
+
+Past Medical History (PMH):
+No significant medical history reported; no previous hospitalizations or surgeries mentioned. Patient is not immunocompromised nor does he use tobacco products.
+
+Medications:
+None noted at the time of admission.
+
+Family History (FH):
+Father had tuberculosis in his youth, treated successfully.
+
+Social History (SH):
+Works as a middle school teacher. Lives with wife and two children. Denies recent travel or exposure to known cases of infectious diseases.
+
+Physical Examination (PE):
+Vital signs: Temperature 38°C, Pulse 90 bpm, Respiratory rate 22 breaths per minute, Oxygen saturation at 94% on room air. General examination shows patient appears tired but in no acute distress. Lungs: Bilateral rales throughout; mild clubbing noted. No lymphadenopathy or hepatosplenomegaly.
+
+Initial Diagnosis:
+Pulmonary infiltrates likely due to an infectious process, with differential diagnoses including pneumonia and atypical infections. The presence of miliary lung opacities raises concern for disseminated infection. 
+
+Plan (Treatment & Management):
+Initiate empiric antibiotic therapy while awaiting culture results. Consider antitubercular medications if clinical suspicion grows stronger based on ongoing evaluation. Order additional diagnostic tests, including sputum cultures and acid-fast bacillus staining. Consult infectious disease for management recommendations. Educate patient about the importance of adhering to treatment once determined and provide support for potential isolation at home. Arrange follow-up appointments for ongoing monitoring and management.

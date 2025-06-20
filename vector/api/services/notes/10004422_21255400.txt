@@ -1,0 +1,42 @@
+Patient Information:
+- Patient ID: 10004422
+- Admission ID: 21255400
+- Patient Name: Kimiko Tanaka
+- Patient Age: 78
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of ischemic heart disease, including chest pain and shortness of breath.
+
+History of Present Illness (HPI):
+Kimiko Tanaka, a 78-year-old female, reports experiencing intermittent episodes of chest discomfort over the past month. The pain is described as severe pressure that radiates to her left arm and neck. She also notes associated dyspnea, particularly with exertion. Her symptoms are exacerbated by emotional stress.
+
+Past Medical History (PMH):
+The patient has a significant medical history of hypertension, diabetes mellitus type 2, and hyperlipidemia. She is currently under treatment for these conditions and is compliant with her prescribed medications.
+
+Medications:
+- Amlodipine 10 mg daily for hypertension
+- Metformin 500 mg twice daily for diabetes mellitus type 2
+- Simvastatin 40 mg nightly for hyperlipidemia
+
+Family History (FH):
+Her father died of a myocardial infarction at the age of 72, and her mother passed away from congestive heart failure.
+
+Social History (SH):
+Kimiko is retired, married, and lives with her spouse. She denies any history of smoking or excessive alcohol consumption. She reports adherence to her prescribed medication regimen and follows a balanced diet with moderate physical activity.
+
+Physical Examination (PE):
+Vital signs: BP 145/90 mm Hg, HR 80 bpm, RR 20/min, SpO2 93% on room air
+General: Alert and oriented, no acute distress
+Cardiovascular: Mildly increased cardiac silhouette. S1/S2 heart sounds normal; no murmurs, rubs, or gallops.
+Respiratory: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+
+Initial Diagnosis:
+Given the patient's symptoms and risk factors, ischemic heart disease secondary to coronary atherosclerosis is suspected. Further diagnostic workup, including ECG, echocardiogram, and cardiac enzymes, will be conducted to confirm the diagnosis.
+
+Plan (Treatment & Management):
+- Continue current medications for hypertension, diabetes mellitus type 2, and hyperlipidemia
+- Administer sublingual nitroglycerin as needed for chest pain relief
+- Initiate IV heparin and aspirin therapy pending further diagnostic results
+- Schedule a cardiac stress test and coronary angiography to assess the extent of coronary artery disease
+- Educate the patient on recognizing symptoms of myocardial infarction and when to seek immediate medical attention
+- Arrange for follow-up with cardiology for ongoing management

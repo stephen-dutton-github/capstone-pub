@@ -1,0 +1,39 @@
+Patient Information:
+- Patient ID: 10002930
+- Admission ID: 22733922
+- Patient Name: Amara Okafor
+- Patient Age: 48 years old
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of a mood disorder influenced by substance use, without specifying the exact psychoactive substance. This condition is characterized by fluctuations in affective states and behavioral patterns which are believed to be induced by the usage of an unidentified psychoactive substance.
+
+History of Present Illness (HPI):
+Amara Okafor, a 48-year-old female, reports experiencing episodes of euphoria alternating with depressive-like symptoms over the past three months. She describes these mood swings as intense and unpredictable, often occurring within hours or days. The patient denies any history of similar mood disorders before this period. She also admits to using an unidentified substance for recreational purposes but does not specify its type.
+
+Past Medical History (PMH):
+The patient has no significant medical history except for a recent upper respiratory tract infection treated with antibiotics. There are no reported allergies or ongoing medications.
+
+Medications:
+None prescribed as of now due to the preliminary stage of assessment and evaluation.
+
+Family History (FH):
+No significant family history of psychiatric conditions or substance use disorders is noted.
+
+Social History (SH):
+The patient is a married, employed professional living in an urban setting. She reports no history of mental health treatment or previous substance abuse counseling. Her social life appears generally stable.
+
+Physical Examination (PE):
+General examination shows the patient to be well-nourished and in no acute distress. Vital signs are within normal limits. Neurological examination reveals no focal deficits, and her mental status is alert and oriented.
+
+Initial Diagnosis:
+Based on the clinical presentation and history provided by the patient, it appears that Amara Okafor might be suffering from a psychoactive substance-induced mood disorder. Further diagnostic testing and investigations to identify the specific substance being used will be necessary for accurate diagnosis and management.
+
+Plan (Treatment & Management):
+1. Comprehensive substance abuse evaluation to determine the exact psychoactive substance involved.
+2. Start monitoring vital signs and mental status closely, especially given the fluctuating nature of her symptoms.
+3. Initiate supportive care and symptomatic treatment, including mood stabilizers if deemed necessary after thorough psychiatric assessment.
+4. Arrange for counseling services or group therapy sessions focused on substance use disorder and mood stabilization.
+5. Schedule follow-up appointments with psychiatry to reassess symptomatology and progress in treatment.
+6. Educate the patient and her family about the risks of psychoactive substances and their impact on mental health.
+
+It is crucial to maintain an open dialogue with the patient, encouraging honesty regarding her substance use patterns while maintaining confidentiality and trust.

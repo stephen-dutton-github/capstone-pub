@@ -1,0 +1,37 @@
+Patient Information:
+- Patient ID: 10022017
+- Admission ID: 22342963
+- Patient Name: Valentina Ivanenko
+- Patient Age: 59 years old
+
+Initial Diagnosis:
+The patient presents with systemic symptoms, including fever, night sweats, and weight loss over the past three months. Initial laboratory tests reveal elevated inflammatory markers (ESR 75 mm/h, CRP 12 mg/dl) and an abnormal chest X-ray showing widespread nodular opacities.
+
+History of Present Illness (HPI):
+Valentina Ivanenko, a 59-year-old female, reports experiencing persistent fatigue, night sweats, and unexplained weight loss over the past three months. She denies any recent travel or exposure to tuberculosis (TB) but mentions having been treated for latent TB infection with isoniazid one year ago.
+
+Past Medical History (PMH):
+The patient has a history of hypertension, well-controlled with hydrochlorothiazide 12.5 mg daily. No other significant medical history was reported.
+
+Medications:
+Hydrochlorothiazide 12.5 mg daily.
+No new medications were prescribed at the time of admission.
+
+Family History (FH):
+There is no known family history of tuberculosis or related conditions.
+
+Social History (SH):
+The patient is married, retired, and lives with her husband in a suburban area. She denies any substance abuse or smoking history. Her diet consists mainly of local produce and traditional Ukrainian dishes. There is no reported recent travel.
+
+Physical Examination:
+- Vital signs: Temperature 38.2°C, pulse 100 bpm, blood pressure 125/75 mmHg
+- General appearance: Well-nourished, alert, oriented female with evident fatigue.
+- Respiratory system: Breath sounds are diminished bilaterally, coarse rales heard in the lower lobes of both lungs.
+- Cardiovascular system: Regular rhythm, no murmurs, rubs, or gallops detected.
+- Abdominal examination: Soft, non-tender, no organomegaly.
+
+Initial Diagnosis:
+The patient's clinical presentation and radiographic findings are suggestive of disseminated infection with a granulomatous disease, likely secondary to reactivation of latent TB infection. Differential diagnoses include other causes of miliary pattern on chest X-ray such as histoplasmosis or cryptococcosis but these seem less probable given the overall clinical picture.
+
+Plan (Treatment & Management):
+Initiate anti-tuberculosis treatment with rifampin 600 mg daily, isoniazid 300 mg daily, ethambutol 1200 mg daily, and pyrazinamide 1500-1800 mg daily for an initial two-month period. Consider sputum smear examination and culture to confirm diagnosis. Arrange follow-up appointments for monitoring treatment response and manage any adverse effects of therapy. Educate the patient on TB transmission prevention and ensure adherence to medication regimen.

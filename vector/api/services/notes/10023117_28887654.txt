@@ -1,0 +1,41 @@
+Patient Information:
+- Patient ID: 10023117
+- Admission ID: 28887654
+- Patient Name: Hassan Bouazizi
+- Patient Age: 53 years old
+
+Initial Diagnosis:
+Based on clinical findings and diagnostic tests, the patient presents with symptoms suggestive of an extensive, disseminated infection.
+
+History of Present Illness (HPI):
+The patient is a 53-year-old male who was admitted with complaints of persistent fever for two weeks, night sweats, weight loss over several months, and fatigue. He also reports coughing up blood intermittently. The onset of symptoms has been gradual, without any specific precipitating events.
+
+Past Medical History (PMH):
+The patient has a history of diabetes mellitus type 2, managed with metformin for the past 5 years. Additionally, he has hypertension controlled by lisinopril and atenolol.
+
+Medications:
+- Metformin
+- Lisinopril
+- Atenolol
+
+Family History (FH):
+No significant family history of tuberculosis or other infectious diseases was reported by the patient.
+
+Social History (SH):
+The patient is a recent immigrant from North Africa, where he lived with his extended family. He works as a mechanic and denies any history of illicit drug use or excessive alcohol consumption.
+
+Physical Examination (PE):
+- Vital signs: Temperature elevated at 39°C, blood pressure normal for age, pulse rapid
+- General appearance: Looks pale, appears fatigued, has visible night sweats
+- Respiratory system: Lungs are clear to auscultation bilaterally; no crackles or wheezing
+- Cardiovascular system: Heart sounds normal, no murmurs
+- Abdomen: Soft, non-tender, no organomegaly
+
+Initial Diagnosis:
+Based on clinical symptoms and physical examination findings, the primary concern is a severe infectious disease with systemic involvement.
+
+Plan (Treatment & Management):
+- Initiate broad-spectrum antibiotics pending further diagnostic results
+- Order chest X-ray, sputum cultures for AFB, blood cultures, and CT scan of thorax
+- Consult Infectious Disease for guidance on empiric treatment regimen
+- Monitor vital signs closely and provide supportive care as needed

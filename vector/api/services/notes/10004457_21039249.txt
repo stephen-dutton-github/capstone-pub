@@ -1,0 +1,40 @@
+Patient Information:
+- Patient ID: 10004457
+- Admission ID: 21039249
+- Patient Name: Olivia Smith
+- Patient Age: 65 years old
+
+Initial Diagnosis:
+The patient presents with chest pain described as persistent and exertional, accompanied by shortness of breath. These symptoms have been ongoing for the past two weeks.
+
+History of Present Illness (HPI):
+Ms. Olivia Smith reports experiencing persistent and worsening chest pain radiating to her left arm over the past fortnight. The discomfort is exacerbated by physical activity but subsides with rest. Additionally, she has noted increased shortness of breath during exertion. She denies any associated diaphoresis or palpitations.
+
+Past Medical History (PMH):
+Ms. Smith has a history of hypertension, type 2 diabetes mellitus, and hyperlipidemia. She has been treated with aspirin, metoprolol, hydrochlorothiazide, glipizide, and simvastatin for her chronic conditions. There is no prior surgical or cardiac intervention noted.
+
+Medications:
+- Aspirin
+- Metoprolol
+- Hydrochlorothiazide
+- Glipizide
+- Simvastatin
+
+Family History (FH):
+Her mother died of a myocardial infarction at the age of 68, and her father passed away due to congestive heart failure.
+
+Social History (SH):
+Ms. Smith is married with two grown children. She reports no tobacco or alcohol use but does engage in light exercise occasionally due to mobility limitations caused by an old injury.
+
+Physical Examination (PE):
+Vital signs: BP 135/85 mm Hg, pulse 70 bpm, RR 16 breaths per minute, SpO2 95% on room air. General appearance: Alert and oriented, appears her stated age. Cardiac examination reveals a regular rate and rhythm without murmurs or gallops. Lungs are clear to auscultation bilaterally. The abdomen is soft with no organomegaly. Extremities show no edema.
+
+Initial Diagnosis:
+The patient's clinical presentation and risk factor profile suggest significant coronary artery disease, likely advanced given her age and symptomatology. Further evaluation by cardiac imaging and stress testing may be required to confirm the diagnosis.
+
+Plan (Treatment & Management):
+1) Obtain ECG and troponin levels to assess for acute coronary syndrome.
+2) Initiate sublingual nitroglycerin and provide oxygen therapy if hypoxia is detected.
+3) Consult cardiology for further evaluation including cardiac catheterization or stress testing, considering the high suspicion of native coronary artery disease.
+4) Continue current medications while closely monitoring blood pressure and renal function due to potential effects from recent antihypertensive adjustments.
+5) Educate patient on recognizing symptoms of heart failure or acute coronary syndrome and advise immediate return if symptoms escalate.

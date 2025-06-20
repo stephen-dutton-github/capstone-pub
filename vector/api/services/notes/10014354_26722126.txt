@@ -1,0 +1,34 @@
+Patient Information:
+- Patient ID: 10014354
+- Admission ID: 26722126
+- Patient Name: Min-Jun Kim
+- Patient Age: 60
+
+Initial Diagnosis:
+- Acute Respiratory Distress Syndrome (ARDS) with bilateral infiltrates suggestive of viral pneumonia, severe hypoxemia, and elevated inflammatory markers.
+
+History of Present Illness (HPI):
+The patient presented to the emergency department with complaints of worsening dyspnea over three days, cough for five days, and fever for seven days. He reported no relevant travel history or contact with known COVID-19 cases.
+
+Past Medical History (PMH):
+Notable for hypertension, diabetes mellitus type 2, hyperlipidemia, and chronic obstructive pulmonary disease (COPD).
+
+Medications:
+Current medications include lisinopril for hypertension, metformin and insulin glargine for diabetes, atorvastatin for hyperlipidemia, and tiotropium with salmeterol inhaler for COPD.
+
+Family History (FH):
+No immediate family members reported to have similar respiratory illnesses or COVID-19-like symptoms.
+
+Social History (SH):
+The patient is a retired engineer who lives alone. He reports non-smoking status and occasional alcohol use. He has no known exposure to crowded places recently but did attend a funeral eight days prior to symptom onset, where social distancing was not strictly observed.
+
+Physical Examination (PE):
+Vital signs show tachypnea with an oxygen saturation of 88% on room air and 95% on 5L/min supplemental oxygen via nasal cannula. Auscultation reveals bilateral diffuse crackles in all lung fields. Chest radiograph shows extensive bilateral infiltrates consistent with ARDS. Laboratory tests indicate elevated C-reactive protein (15.2 mg/dL), procalcitonin (0.75 ng/mL), and D-dimer (1,245 ng/mL).
+
+Plan (Treatment & Management):
+- Initiate broad-spectrum antibiotics and antivirals.
+- Continue supplemental oxygen and consider non-invasive ventilation if respiratory status deteriorates.
+- Monitor for signs of worsening ARDS or secondary bacterial infections.
+- Ensure close contact precautions given the severity of symptoms and potential viral etiology.
+- Consult pulmonology and infectious disease specialists for further management.
+- Arrange for social support due to living situation and potential prolonged hospital stay.

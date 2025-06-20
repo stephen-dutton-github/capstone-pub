@@ -1,0 +1,32 @@
+Patient Information:
+- Patient ID: 10015272
+- Admission ID: 27993466
+- Patient Name: Jorge Silva
+- Patient Age: 78 years old
+
+Initial Diagnosis:
+Based on clinical evaluation and laboratory findings, the patient is diagnosed with a severe respiratory infection likely due to an atypical pathogen.
+
+History of Present Illness (HPI):
+Jorge Silva presented to the emergency department with symptoms of high-grade fever, persistent cough with purulent sputum production, difficulty breathing, and general malaise. The onset of symptoms was 5 days ago following a recent travel history from an area with community spread of a novel respiratory virus.
+
+Past Medical History (PMH):
+The patient has a significant past medical history of chronic obstructive pulmonary disease (COPD), hypertension, and hyperlipidemia. He is a former smoker with a history of smoking 1 pack per day for 40 years, which was quit 10 years ago. He also underwent an elective right knee replacement surgery 2 months prior to admission.
+
+Medications:
+The patient's medications include aspirin 81 mg daily, lisinopril 20 mg daily, simvastatin 40 mg daily, and albuterol as needed for COPD exacerbations. He has no known allergies.
+
+Family History (FH):
+There is no immediate family history of similar illnesses or deaths due to respiratory infections.
+
+Social History (SH):
+Jorge Silva lives alone in an assisted living facility. He enjoys occasional socializing with friends but has been largely isolated since the onset of his symptoms out of concern for transmission to others.
+
+Physical Examination (PE):
+Vital signs at admission included a temperature of 39°C, pulse 110 bpm, blood pressure 130/80 mmHg, respiratory rate 24 breaths per minute, and oxygen saturation 88% on room air. Physical examination revealed decreased lung sounds bilaterally with crackles indicating alveolar infiltrates. Chest radiography showed bilateral consolidations. Laboratory tests indicated leukocytosis with a left shift, elevated C-reactive protein, and procalcitonin.
+
+Initial Diagnosis:
+Severe respiratory infection due to atypical pathogen.
+
+Plan (Treatment & Management):
+The patient is admitted under isolation precautions for suspected viral pneumonia given the epidemiological context and clinical presentation. Initiate broad-spectrum antimicrobial therapy covering both bacterial and viral pathogens until final culture results are available. Provide supplemental oxygen via nasal cannula as needed, monitor vital signs closely, and initiate hydration with IV fluids. Schedule daily chest X-rays to monitor disease progression and response to treatment. Educate the patient on isolation precautions to prevent transmission to others in his facility. Arrange for a consultation with pulmonology due to concerns about potential complications related to COPD exacerbation and recent surgery.

@@ -1,0 +1,40 @@
+Patient Information:
+- Patient ID: 10003400
+- Admission ID: 22390287
+- Patient Name: Ahmed Hassan
+- Patient Age: 72
+
+Initial Diagnosis:
+- Suspected colorectal cancer based on clinical presentation and diagnostic workup findings.
+
+History of Present Illness (HPI):
+Ahmed Hassan, a 72-year-old male, presents with chief complaints of rectal bleeding, constipation, and abdominal pain for the past three weeks. He reports noticing bright red blood in his stool during defecation and has experienced tenesmus (a feeling of incomplete evacuation) and mucus in his stools. Additionally, he has noticed a decrease in appetite due to early satiety.
+
+Past Medical History (PMH):
+Ahmed has a history of hypertension, hyperlipidemia, and type 2 diabetes mellitus, all managed with oral medications. He also has a significant smoking history of two packs per day for over 40 years, which was ceased five years ago following the death of his brother from lung cancer.
+
+Medications:
+- Metoprolol 25 mg daily for hypertension
+- Atorvastatin 20 mg daily for hyperlipidemia
+- Insulin glargine 30 units at bedtime and metformin 500 mg twice daily for type 2 diabetes mellitus
+
+Family History (FH):
+Ahmed's brother died of lung cancer five years ago, prompting his own cessation of smoking.
+
+Social History (SH):
+Ahmed is married with three children. He works as a retired engineer and denies any substance abuse or history of alcoholism.
+
+Physical Examination (PE):
+- Vital signs: BP 120/70 mm Hg, heart rate 75 bpm, temperature 36.5°C
+- Abdominal examination reveals mild tenderness in the lower left quadrant without rebound or guarding.
+- Digital rectal examination shows a palpable mass in the anal canal with no visible external lesions.
+
+Initial Diagnosis:
+Based on clinical suspicion and diagnostic workup findings, including endoscopy showing a mass in the rectum with biopsies indicating malignancy, Ahmed Hassan is diagnosed with colorectal cancer. Further staging investigations are planned to delineate the extent of disease.
+
+Plan (Treatment & Management):
+- Surgical consultation for potential resection of the affected segment
+- Oncology referral for chemotherapy and possible radiation therapy based on final staging results
+- Continue management of comorbid conditions including hypertension, hyperlipidemia, and diabetes mellitus with current medications
+- Nutritional support and counseling to address appetite changes
+- Discuss smoking cessation as a potential preventive measure given his family history

@@ -1,0 +1,43 @@
+Patient Information:
+ 
+ID: 10005909, Name: Amina Mohammed, Age: 40 years.
+
+Initial Diagnosis:
+
+The patient was admitted with complaints of severe right leg swelling and pain that escalated within two days. There is a significant history of recent surgery for deep vein thrombosis (DVT) in the left leg.
+
+History of Present Illness (HPI):
+
+Amina presented to the emergency department complaining of sudden onset, severe pain and swelling in her right lower extremity. She noted no previous trauma or injury. The patient reported that the symptoms started two days ago and have worsened considerably since then. Amina has a recent history of left leg DVT for which she underwent surgery approximately one month prior.
+
+Past Medical History (PMH):
+
+Significant for left leg deep vein thrombosis treated surgically, recurrent DVT in the past, hypertension, and hyperlipidemia. The patient is currently on warfarin with an INR goal of 2-3.
+
+Medications:
+
+Warfarin 5 mg daily.
+ 
+Family History (FH):
+
+No relevant family history provided.
+
+Social History (SH):
+
+The patient is married, non-smoker, and works as a nurse in a nearby hospital. She denies any alcohol or recreational drug use.
+
+Physical Examination (PE):
+
+Examination revealed significant swelling, erythema, tenderness, and warmth of the right lower extremity below the knee. There were no signs of cellulitis or ulceration. The left leg showed surgical incision sites with no current infection. Neurovascular examination was intact bilaterally.
+
+Initial Diagnosis:
+
+The clinical presentation suggests a possible acute thromboembolic event in the right iliac vein, complicated by postoperative changes from recent surgery for DVT in the contralateral limb.
+
+Plan (Treatment & Management):
+
+Initiate anticoagulation therapy with enoxaparin 1 mg/kg twice daily. Monitor INR closely to ensure therapeutic levels within the target range and adjust warfarin dose as necessary. Obtain Doppler ultrasound of the right lower extremity to confirm the diagnosis. Consult vascular surgery for further evaluation if acute thrombosis is confirmed. Provide pain management with NSAIDs or opioids as needed, and elevate the affected leg whenever possible. Educate the patient on signs of worsening symptoms like increased pain, fever, or shortness of breath, and advise immediate reporting.
+
+Follow-up:
+
+Monitor vital signs closely in the hospital setting until stabilization of symptoms occurs. Arrange for outpatient follow-up within one week post-discharge to reassess symptoms and anticoagulation therapy effectiveness.

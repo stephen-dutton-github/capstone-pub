@@ -1,0 +1,37 @@
+Patient Information:
+- Patient ID: 10005348
+- Admission ID: 29496232
+- Patient Name: Ethan Williams
+- Patient Age: 76 years old
+
+Initial Diagnosis:
+Ethan Williams, a 76-year-old male, presents with symptoms suggestive of an advanced respiratory malignancy. The primary indicator is a persistent cough accompanied by significant hemoptysis and dyspnea on exertion.
+
+History of Present Illness (HPI):
+The patient reports that these symptoms have been progressively worsening over the past six months, leading to substantial limitation in his daily activities. He denies any history of smoking or exposure to carcinogens. The patient lives alone, with no reported close contacts who could be at risk of infection. He is currently not compliant with scheduled screening appointments.
+
+Past Medical History (PMH):
+The patient has a history of hypertension managed with Lisinopril 10mg daily and hyperlipidemia treated with Atorvastatin 20mg nightly. There are no records of chronic respiratory diseases or previous cancers. The last pulmonary function tests were conducted eight years ago, showing normal lung capacity.
+
+Medications:
+- Lisinopril 10 mg daily
+- Atorvastatin 20 mg nightly
+
+Family History (FH):
+The patient's family history is significant for breast cancer in a maternal aunt and lung cancer in his father, who was a long-term smoker. There are no other relevant familial conditions.
+
+Social History (SH):
+Ethan Williams has lived alone since the death of his wife three years ago. He engages in occasional light physical activities but avoids strenuous exertion due to progressive breathlessness.
+
+Physical Examination (PE):
+The patient appears cachectic, with a weight loss noted over the past six months. Vital signs show tachypnea and tachycardia. Lung auscultation reveals diffuse wheezing and reduced air entry in both lung fields, particularly pronounced on the left side. There is no cervical lymphadenopathy or hepatosplenomegaly.
+
+Initial Diagnosis:
+The clinical presentation strongly suggests an advanced primary lung malignancy, with differential diagnoses including metastatic disease from another source if imaging studies reveal extrapulmonary lesions.
+
+Plan (Treatment & Management):
+- Order chest CT scan and PET scan to assess the extent of the tumor and identify possible metastases.
+- Initiate supplemental oxygen therapy to manage respiratory distress.
+- Refer to oncology for potential biopsy and discussion regarding treatment options, including surgery, radiation, or chemotherapy depending on staging results.
+- Coordinate with palliative care services to address symptom management, including pain control and respiratory support as needed.
+- Ensure patient receives psychological support and social work consultation due to his isolation and recent widowhood.

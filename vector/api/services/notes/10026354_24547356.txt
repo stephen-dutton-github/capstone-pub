@@ -1,0 +1,41 @@
+Patient Information:
+- Patient ID: 10026354
+- Admission ID: 24547356
+- Patient Name: Nayeli Gutiérrez
+- Patient Age: 34 years old
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of a lower respiratory tract infection characterized by fever, cough productive of thick yellow sputum, pleuritic chest pain, and shortness of breath.
+
+History of Present Illness (HPI):
+Nayeli Gutiérrez, a 34-year-old female, reports onset of symptoms three days ago with progressively worsening dyspnea. She has not been compliant with her annual influenza vaccination. The patient denies any history of smoking or alcohol use but mentions being around children with colds recently.
+
+Past Medical History (PMH):
+The patient has a history of mild asthma treated with inhaled corticosteroids and occasional bronchodilators. No significant surgical, cardiac, or neurological conditions reported.
+
+Medications:
+- Inhaled corticosteroid for asthma management
+- Bronchodilator as needed for asthma exacerbations
+
+Family History (FH):
+Mother had chronic obstructive pulmonary disease (COPD) and died from respiratory failure; no other relevant family history noted.
+
+Social History (SH):
+The patient lives with her two children and works in a daycare center. She denies any substance abuse or risky behaviors.
+
+Physical Examination (PE):
+Vital signs: temperature 39°C, heart rate 110 bpm, blood pressure 105/70 mmHg, respiratory rate 24/min, oxygen saturation 92% on room air.
+- Respiratory system: coarse crackles heard in bilateral lower lung fields. Lungs are hyperresonant to percussion bilaterally.
+- Cardiovascular system: no murmurs, rubs, or gallops
+- Other systems: unremarkable
+
+Initial Diagnosis:
+Based on clinical presentation and physical examination findings, the patient likely has an acute bacterial infection of the lungs.
+
+Plan (Treatment & Management):
+- Obtain a complete blood count, basic metabolic panel, arterial blood gas analysis, and chest X-ray.
+- Initiate empiric antibiotic therapy targeting typical community-acquired pathogens such as Streptococcus pneumoniae or Haemophilus influenzae.
+- Administer antipyretics for fever control.
+- Monitor oxygen saturation and consider supplemental oxygen if <94%.
+- Educate patient on the importance of completing antibiotic course, avoiding close contact with children until symptoms resolve, and ensuring annual influenza vaccination.
+- Schedule follow-up appointment in one week or sooner if condition worsens.

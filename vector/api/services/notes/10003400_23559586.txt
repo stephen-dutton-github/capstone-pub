@@ -1,0 +1,40 @@
+Patient Information:
+- Patient ID: 10003400
+- Admission ID: 23559586
+- Patient Name: Ahmed Hassan
+- Patient Age: 72 years old
+
+Initial Diagnosis:
+The patient presents with an open surgical wound on the abdomen, displaying signs of infection and delayed healing.
+
+History of Present Illness (HPI):
+Ahmed Hassan, a 72-year-old male, reports that he had undergone abdominal surgery two weeks ago for bowel obstruction. Since then, he has noticed increased swelling, redness, and drainage around the incision site. He describes tenderness at the wound edges and feverish feelings post-surgery.
+
+Past Medical History (PMH):
+The patient's medical history includes hypertension, diabetes mellitus type 2, and previous episodes of bowel obstruction managed surgically. He is currently on metformin for diabetes management and lisinopril for blood pressure control.
+
+Medications:
+- Metformin 500 mg twice daily
+- Lisinopril 10 mg once daily
+
+Family History (FH):
+The patient's family history is significant for cardiovascular diseases in his immediate family, including father and siblings.
+
+Social History (SH):
+Ahmed lives alone but has a strong support system of adult children who visit regularly. He denies any history of smoking or excessive alcohol consumption. He engages in moderate physical activity daily.
+
+Physical Examination (PE):
+- Vital signs: Temperature 38°C, Blood pressure 130/80 mmHg
+- General appearance: Alert and oriented, no acute distress
+- Abdomen: Tenderness at the surgical site with localized swelling, erythema, and serous discharge. No signs of bowel obstruction currently.
+
+Initial Diagnosis:
+The primary concern is a disruption of an external surgical wound due to infection and delayed healing post-bowel resection surgery.
+
+Plan (Treatment & Management):
+1. Administer broad-spectrum intravenous antibiotics to manage the infected wound.
+2. Begin dressing changes with sterile gauze soaked in saline solution, twice daily, to promote wound cleaning.
+3. Continue monitoring vital signs closely for fever and hypotension as signs of sepsis.
+4. Encourage hydration through oral fluids and monitor urinary output.
+5. Arrange for a consultation with the surgical team to assess the need for possible surgical intervention if infection worsens or there's no improvement within three days.
+6. Educate patient on wound care, including dressing changes and signs of worsening infection (increased pain, increased drainage, fever, etc.).

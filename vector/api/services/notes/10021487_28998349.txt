@@ -1,0 +1,36 @@
+Patient Information:
+- Patient ID: 10021487
+- Admission ID: 28998349
+- Patient Name: Jason Edwards
+- Patient Age: 43 years old
+
+Initial Diagnosis:
+The patient presents with symptoms suggestive of a disseminated intrathoracic and extrapulmonary infection characterized by multiple small lesions in various organs including the lungs, liver, spleen, and lymph nodes.
+
+History of Present Illness (HPI):
+Jason Edwards is a 43-year-old male who reports experiencing fatigue for approximately six weeks. Additionally, he has noticed night sweats and unintentional weight loss of about five kilograms over this period. The patient denies any respiratory symptoms such as cough or dyspnea but reports intermittent fevers peaking at around 38°C.
+
+Past Medical History (PMH):
+The patient has a history of poorly controlled diabetes mellitus type II, mild hypertension, and anemia. He is currently not on any regular medication for these conditions. No known allergies or previous hospitalizations for infectious diseases were reported.
+
+Medications:
+The patient was started on intravenous antibiotics following the admission to cover potential bacterial infections. The specific antibiotic regimen has yet to be finalized pending further investigations.
+
+Family History (FH):
+There is no significant family history of tuberculosis or any other infectious diseases that have been reported by the patient.
+
+Social History (SH):
+Jason Edwards works as an IT consultant and does not report any recent travel outside the country. He smokes one pack of cigarettes daily for over 20 years but denies alcohol use or illicit drug consumption.
+
+Physical Examination (PE):
+On examination, vital signs show a temperature of 37°C, pulse rate of 70 bpm, blood pressure at 120/80 mmHg, and respiratory rate of 18 breaths per minute. The patient appears weak but is well-oriented to time, place, and person. No acute distress or cyanosis was noted. Auscultation revealed minimal adventitious sounds in the lungs bilaterally. Hepatosplenomegaly was detected on palpation, along with mildly enlarged lymph nodes in the cervical region.
+
+Initial Diagnosis:
+The clinical presentation of systemic symptoms coupled with hepatosplenomegaly and multiple organ involvement strongly suggests an extrapulmonary tuberculosis-like infection. Differential diagnoses could include other disseminated infections such as histoplasmosis or coccidioidomycosis, particularly given his geographic location and risk factors.
+
+Plan (Treatment & Management):
+The patient will undergo further diagnostic tests including imaging studies such as CT scan of the chest and abdomen to assess organ involvement. Blood cultures and serologic tests for common causes of disseminated infections will be conducted. A bronchoalveolar lavage with microscopic examination and culture will also be performed. Given his diabetes mellitus, it is crucial to closely monitor his glucose levels during hospitalization. The patient's diabetes management plan should be reassessed by the endocrinology team while he is inpatient.
+
+Treatment will be guided once the specific etiology of infection is identified from ongoing investigations. In the meantime, broad-spectrum antibiotics are being administered intravenously to cover possible bacterial infections until culture results become available. The patient has been counseled about the importance of adherence to treatment and the potential need for long-term therapy given his clinical presentation.
+
+A multidisciplinary team including infectious disease specialists, endocrinologists, pulmonologists, and radiologists will collaborate on managing this complex case. Education regarding tuberculosis prevention and control measures will be provided by public health officials as needed based on final diagnosis results.

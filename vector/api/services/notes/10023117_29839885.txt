@@ -1,0 +1,43 @@
+Patient Information:
+- Patient ID: 10023117
+- Admission ID: 29839885
+- Patient Name: Hassan Bouazizi
+- Patient Age: 53
+
+Initial Diagnosis:
+The patient presents with generalized lymphadenopathy, fever, night sweats, and weight loss.
+
+History of Present Illness (HPI):
+Mr. Bouazizi reports a history of fatigue for the past three months, which has progressively worsened. Recently, he has experienced intermittent fevers up to 102°F, night sweats, and significant unexplained weight loss over the last month. Additionally, he notes swollen lymph nodes in his neck and groin areas.
+
+Past Medical History (PMH):
+Mr. Bouazizi has no significant past medical history except for chronic smoking for the past thirty years.
+
+Medications:
+Currently taking no medications.
+
+Family History (FH):
+Patient's family history is not contributing to the current presentation, but there is a known genetic predisposition to autoimmune diseases on his mother's side of the family.
+
+Social History (SH):
+Mr. Bouazizi works as an accountant and has limited travel recently due to COVID-19 restrictions. He reports adherence to social distancing guidelines and regular handwashing. 
+
+Physical Examination (PE):
+Vital signs show a temperature of 101.5°F, blood pressure 120/80 mmHg, heart rate 90 bpm, respiratory rate 20 breaths per minute, and oxygen saturation at 98% on room air.
+General: Patient appears ill-appearing but in no acute distress
+HEENT: Normocephalic, atraumatic. No lymphadenopathy noted on examination. Pharynx is erythematous with exudate.
+Respiratory: Lungs are clear to auscultation bilaterally
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs or gallops
+Gastrointestinal: Abdomen soft, non-tender, no hepatosplenomegaly
+Musculoskeletal: No joint swelling or tenderness
+Skin: No rashes noted
+
+Initial Diagnosis:
+The patient's presentation suggests a systemic infection with lymphadenopathy that is not explained by local causes.
+
+Plan (Treatment & Management):
+Initiate broad-spectrum antibiotics considering community-acquired pneumonia and other bacterial infections.
+Order chest X-ray, sputum culture, CBC with differential, CMP, HIV testing, and blood cultures.
+Start hydration protocol and consider nutritional support given the recent weight loss.
+Consult infectious disease for further evaluation and possible initiation of antitubercular therapy if indicated.
+Follow-up in one week to reassess symptoms and results of initial investigations.

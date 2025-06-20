@@ -1,0 +1,40 @@
+Patient Information:
+Patient ID: 10014354
+Admission ID: 29757856
+Patient Name: Min-Jun Kim
+Patient Age: 60 years old
+
+Initial Diagnosis:
+The patient presents with symptoms consistent with a severe respiratory infection characterized by fever, dyspnea, and cough productive of yellowish sputum. The onset was sudden, with systemic features including fatigue and myalgia.
+
+History of Present Illness (HPI):
+The patient reports an initial feeling unwell on February 10th, which progressively worsened over the following days despite self-care at home. He started taking paracetamol for fever relief and used a humidifier to manage cough and congestion. However, his condition did not improve, prompting him to seek medical attention.
+
+Past Medical History (PMH):
+The patient has a history of hypertension, hyperlipidemia, and chronic obstructive pulmonary disease (COPD). He is a smoker with a 30-pack-year history but has attempted quitting multiple times without success. He completed his last pneumonia vaccination two years ago.
+
+Medications:
+Currently taking Ramipril 5 mg daily for hypertension and Atorvastatin 20 mg daily for hyperlipidemia. No antibiotics or respiratory medications prescribed recently.
+
+Family History (FH):
+No immediate family members with a history of severe pulmonary disease. His father died from complications related to diabetes mellitus, aged 75.
+
+Social History (SH):
+Works as an accountant in an office setting. Has not traveled outside the country for work or leisure in recent months. Reports social distancing and mask-wearing since learning about his initial symptoms due to concerns over community spread of a respiratory virus.
+
+Physical Examination (PE):
+Vital signs: Temperature 38.4°C, pulse 100 bpm, blood pressure 135/90 mmHg, oxygen saturation 88% on room air.
+General appearance: Alert but appears uncomfortable and fatigued.
+Respiratory: Crackles heard in bilateral lower lobes; decreased breath sounds over these areas.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops detected.
+Abdomen: Soft, non-tender, no organomegaly.
+Neurological: Alert and oriented, no focal deficits.
+
+Initial Diagnosis:
+The clinical presentation and physical examination findings suggest a severe infection of the lower respiratory tract, likely due to a viral pathogen. Differential diagnoses include bacterial pneumonia versus viral-induced pneumonitis such as influenza or other respiratory viruses with pandemic potential.
+
+Plan (Treatment & Management):
+Immediate management will focus on supportive care including oxygen supplementation via nasal cannula to maintain saturation above 92%, hydration through IV fluids, and antipyretics for fever control. Monitoring of cardiac and respiratory status is critical given the patient's history of COPD.
+Given the high index of suspicion for a viral etiology, empirical antibiotic therapy will be delayed until further testing results become available. Infection control measures will be strictly adhered to due to potential contagious nature of his illness.
+
+Further diagnostic tests ordered include complete blood count (CBC), basic metabolic panel (BMP), chest X-ray, and polymerase chain reaction (PCR) for respiratory viruses.

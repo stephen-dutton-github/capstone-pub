@@ -1,0 +1,42 @@
+Patient Information:
+- Patient ID: 10020740
+- Admission ID: 23831430
+- Patient Name: Omar Farah
+- Patient Age: 56
+
+Initial Diagnosis:
+The patient presents with systemic symptoms indicative of a chronic, disseminated infectious process affecting multiple organ systems.
+
+History of Present Illness (HPI):
+Mr. Farah reports experiencing fatigue for the past six weeks, accompanied by night sweats and low-grade fever. He also notes weight loss over this period, approximately 5 kg. The patient denies any localizing symptoms such as cough or chest pain but admits to shortness of breath on exertion.
+
+Past Medical History (PMH):
+The patient has a history of poorly controlled diabetes mellitus type II and hypertension for which he takes metformin and lisinopril respectively. He also reports previous treatment with isoniazid prophylaxis due to a positive tuberculin skin test, completed four years ago.
+
+Medications:
+Metformin 850 mg twice daily
+Lisinopril 10 mg daily
+
+Family History (FH):
+No immediate family members are known to have tuberculosis or other infectious diseases. The patient's father died from lung cancer at age 65.
+
+Social History (SH):
+The patient is a retired teacher, married with two adult children. He denies smoking and alcohol consumption but acknowledges occasional use of marijuana in his younger years.
+
+Physical Examination (PE):
+Vital signs: Temperature 37.2°C, pulse 85 bpm, blood pressure 115/70 mm Hg, respiratory rate 16 breaths per minute, oxygen saturation 95% on room air.
+General appearance: Thin and pale with visible muscle wasting but no acute distress.
+Lungs: No rales, rhonchi or wheezing noted. Chest X-ray shows diffuse bilateral infiltrates suggestive of miliary pattern.
+Abdomen: Soft, non-tender with normal bowel sounds; mild hepatomegaly noted.
+Neck: Supple, no lymphadenopathy.
+
+Initial Diagnosis:
+The clinical presentation and radiographic findings suggest a chronic, disseminated infectious process affecting multiple organ systems. The differential diagnosis includes reactivation of latent tuberculosis, given the past history of prophylaxis and current systemic symptoms.
+
+Plan (Treatment & Management):
+Admit for inpatient care with isolation precautions due to potential contagiousness.
+Initiate empirical antituberculous therapy, including isoniazid, rifampin, pyrazinamide, and ethambutol. Monitor liver function tests closely due to the risk of hepatotoxicity with these medications.
+Consult infectious disease and pulmonology for further evaluation and management.
+Consider bronchoscopy if no improvement in symptoms or radiographic findings are noted after two weeks of treatment.
+
+Further diagnostic workup including sputum acid-fast bacilli smear, culture, and interferon-gamma release assays will be necessary to confirm the diagnosis.

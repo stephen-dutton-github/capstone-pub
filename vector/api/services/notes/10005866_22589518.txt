@@ -1,0 +1,38 @@
+Patient Information:
+- Patient ID: 10005866
+- Admission ID: 22589518
+- Patient Name: Bao Nguyen
+- Patient Age: 57 years old
+
+Initial Diagnosis:
+Acute onset of gastrointestinal symptoms, including diarrhea, abdominal cramps, and fever.
+
+History of Present Illness (HPI):
+The patient presented to the emergency department complaining of a 3-day history of watery diarrhea, severe abdominal pain, particularly in the lower quadrant, and intermittent fevers. He reports no recent travel or antibiotic use prior to symptom onset. The patient's symptoms have progressively worsened over this time frame.
+
+Past Medical History (PMH):
+The patient has a history of hypertension, well-controlled with medication. No history of gastrointestinal diseases or immunocompromised state noted.
+
+Medications:
+Metoprolol 25 mg daily for hypertension.
+
+Family History (FH):
+No significant family history reported by the patient.
+
+Social History (SH):
+Non-smoker, social drinker. Works in an office environment.
+
+Physical Examination (PE):
+- Vital Signs: Temperature 38°C, heart rate 90 bpm, blood pressure 130/80 mmHg
+- General: Appears fatigued but alert and oriented.
+- Abdomen: Tenderness noted in the lower quadrants, no distension or organomegaly. Bowel sounds are active and high-pitched.
+
+Initial Diagnosis:
+The differential diagnosis includes viral gastroenteritis due to symptoms and lack of other risk factors for bacterial infections. The patient's clinical presentation is consistent with this condition; however, further diagnostic tests will be required to confirm the etiology.
+
+Plan (Treatment & Management):
+- Administer intravenous hydration to correct dehydration.
+- Start antidiarrheal medication to manage diarrhea.
+- Initiate broad-spectrum antibiotics as a precautionary measure due to fever and abdominal pain. Pending culture results, narrow antibiotic coverage if no evidence of bacterial infection.
+- Order stool PCR for common viral pathogens (norovirus, rotavirus, adenovirus) and stool culture to rule out bacterial infections.
+- Provide patient education regarding the importance of hydration and rest during recovery.

@@ -1,0 +1,36 @@
+Patient Information:
+- Patient ID: 10015860
+- Admission ID: 20854119
+- Patient Name: Zara Malik
+- Patient Age: 53 years old
+
+Initial Diagnosis:
+Based on clinical presentation and investigations, the primary diagnosis for this patient is a severe respiratory infection characterized by high fever, cough, dyspnea, and hypoxia.
+
+History of Present Illness (HPI):
+Ms. Zara Malik presents to the emergency department with acute onset of high fever (>39°C), non-productive cough, progressive shortness of breath over 3 days, and recent contact history suggestive of COVID-19 exposure within the community. She also reports a loss of appetite, general malaise, and has been experiencing fatigue for approximately one week prior to presentation.
+
+Past Medical History (PMH):
+Ms. Malik has no significant past medical or surgical history except for mild hypertension managed with an ACE inhibitor, and occasional asthma treated with inhaled corticosteroids as needed.
+
+Medications:
+Current medications include Ramipril 5 mg daily for hypertension and Albuterol inhaler as required for asthma symptoms.
+
+Family History (FH):
+The patient has a family history of diabetes mellitus type II and coronary artery disease in her immediate relatives.
+
+Social History (SH):
+Ms. Malik is a non-smoker, married, and has two adult children who live with her. She works as an administrative assistant at a healthcare facility. She reports no recent travel but has had extensive exposure to the community due to her work commitments.
+
+Physical Examination (PE):
+- Vital Signs: Temperature >39°C, pulse 110 bpm, respiratory rate 24/min, oxygen saturation 88% on room air.
+- General: Alert and oriented but appears fatigued and dehydrated.
+- Respiratory: Crackles in bilateral lower lobes, decreased breath sounds.
+- Cardiovascular: Tachycardic with no murmurs or gallops.
+- Abdominal: Soft, non-tender, no organomegaly.
+
+Initial Diagnosis:
+Based on clinical presentation and investigations, the primary diagnosis for this patient is a severe respiratory infection characterized by high fever, cough, dyspnea, and hypoxia. The differential diagnosis includes viral pneumonias such as COVID-19 considering the exposure history and community contact.
+
+Plan (Treatment & Management):
+The patient will be admitted to an isolation ward for close monitoring given the strong likelihood of infectious etiology and the potential for COVID-19 transmission. An arterial blood gas analysis has been ordered, along with chest X-ray and a complete blood count. Empirical antibiotic therapy targeting bacterial pneumonias will be initiated pending further results from investigations. Oxygen supplementation will be administered as required to maintain adequate oxygen saturation levels (>90%). Contact tracing will also begin immediately given the patient's work setting in a healthcare facility.
