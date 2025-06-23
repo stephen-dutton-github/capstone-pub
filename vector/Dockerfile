@@ -41,8 +41,6 @@ RUN rm -f /app/mimiciv/mimiciv.db && sync && python3 /app/mimiciv/import.py
 
 RUN sqlite3 /app/mimiciv/mimiciv.db < /app/mimiciv/mimiciv_add_patient_info.sql
 
-RUN sqlite3 /app/mimiciv/mimiciv.db < /app/mimiciv/mimiciv_update_icd_codes.sql
-
 # Validate DB exists!
 RUN test -f mimiciv.db || (echo "mimiciv.db was not created!" && exit 1)
 
