@@ -177,7 +177,7 @@ class DiagnosisGraph(DispatcherClient):
         """
         Build the state graph for the diagnosis workflow.
 
-        Returns:
+        Returns: 
             StateGraph: Compiled state graph.
         """
         builder = StateGraph(DiagnosisState)
