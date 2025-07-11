@@ -54,7 +54,7 @@ class EmbeddingManager:
     def get_embeddings(self, content: str):
         """
         Generates embeddings for the given content.
-
+ 
         Args:
             content (str): Text content to generate embeddings for.
 
